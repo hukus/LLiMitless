@@ -1,0 +1,25 @@
+---
+title: Elamipretide
+created: 2026-04-29
+updated: 2026-04-30
+type: entity
+tags: [domain-medicine, peptides, metabolism, neuroscience, mechanism, clinical-trial, preclinical, safety]
+sources: [raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md, raw/articles/fda-forzinity-elamipretide-approval.md, raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md, raw/articles/clinicaltrials-nct06373731-elamipretide-dry-amd.md, raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md, raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
+confidence: medium
+---
+
+# Elamipretide
+
+Elamipretide, also known as SS-31, is a mitochondria-targeting peptide that binds cardiolipin and is now an approved drug under the Forzinity name for Barth syndrome. Its approved use is disease-specific and muscle-strength-focused, not cognition-focused.^[raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md]^[raw/articles/fda-forzinity-elamipretide-approval.md]
+
+The mechanism literature centers on inner-mitochondrial-membrane effects, cardiolipin binding, and improved mitochondrial bioenergetics rather than any direct nootropic claim. The 2025 review also makes clear that the clinical trial history is concentrated in Barth syndrome, primary mitochondrial myopathy, and dry AMD.^[raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md]
+
+The branch gained a new human aging readout in late 2025: SHAPE, a recruiting phase 2a open-label pilot in healthy older adults, is testing daily subcutaneous elamipretide for 4 weeks with cognitive function as a secondary endpoint alongside biomarkers, 6-minute walk performance, and muscle strength. That makes it the first clearly cognition-relevant human study in the current elamipretide set, but it is still single-arm and result-free.^[raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md]
+
+For cognition, the signal is still preclinical. The clearest brain-facing paper in the current sweep is a mouse LPS model in which SS-31 improved learning, memory, mitochondrial function, BDNF signaling, and synaptic integrity. That is a useful mechanistic foothold, but it is not human cognition evidence.^[raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md]
+
+The approval program still deserves a caution flag: a 2026 review summarizing the Barth syndrome package says the randomized crossover phase did not significantly improve 6-minute walk or fatigue, with longer-term benefit only in the open-label extension. That keeps the approved-use story real, but it also keeps the cognition extrapolation weak.^[raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
+
+Safety remains relevant because elamipretide is a real drug, not a research-only peptide. FDA notes once-daily subcutaneous dosing, common injection-site reactions, and some serious reactions in the approval package.^[raw/articles/fda-forzinity-elamipretide-approval.md]
+
+Elamipretide links naturally to [[mitochondria-derived-peptides]], [[shlp2]], [[peptide-neuroprotection]], [[neuroinflammation-and-cognition]], [[medicine-cognition-summary]], and [[mots-c]].

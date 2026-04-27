@@ -1,0 +1,1154 @@
+## [2026-04-28] maintenance | Epithalon mechanistic lane widened
+- Marked `P1-23` in `TODO.md` as the current run first, then captured a raw note for PMID 35413689 on Epitalon and post-ovulatory mouse oocyte aging.
+- Updated `queries/epithalon-pinealon-2026-scan.md`, `entities/epithalon.md`, and `comparisons/pineal-peptide-bioregulator-comparison.md` to add the 2022 antioxidant / mitochondrial-aging lane while keeping the branch out of the cognition tier.
+- Current take: the branch is still longevity-first with no direct human cognition signal; the new source only strengthens the mechanistic story.
+
+## [2026-04-28] maintenance | aronia extract split and pomegranate gate note added
+- Marked `P2-19` in `TODO.md` as the current run first, then captured raw notes for the two Aronia cognition RCTs and the two pomegranate cognition trials.
+- Added `entities/aronia-melanocarpa-extract.md`, updated `queries/botanical-standardization-gate.md`, `comparisons/standardized-herbal-extracts-for-cognition.md`, `queries/traditional-medicine-cognition-2026-scan.md`, and `index.md`.
+- Current take: Aronia is the clearest next standalone botanical page; pomegranate is interesting but still split across juice and extract identities.
+
+## [2026-04-28] maintenance | cerebrovascular reserve scan filed
+- Marked `P2-14` in `TODO.md` as the current run first, then captured raw notes for the 2024 acute beetroot chewable cognition RCT, the 2023 CR+beetroot pilot, the 2025 acute-exercise cognition meta-review, the 2024 aquatic treadmill cognition/CBF trial, the 2021 CRF/exercise cerebrovascular meta-analysis, the 2025 beetroot healthy-aging review, the 2025 PD alternate-nostril breathing RCT, the 2020 healthy-volunteer unilateral-nostril-breathing pilot, the 2023 acute-exercise CBF systematic review, and the 2017 breath-hold CVR review.
+- Added `queries/cerebrovascular-reserve-interventions-2026-scan.md` and linked it into `index.md` so the branch is now navigable from the catalog.
+- Current take: exercise is the only part of this reserve cluster with a broad, meta-reviewed cognition signal; beetroot/nitrate looks promising but inconsistent; breath protocols are still mostly physiology-first or disease-context evidence.
+
+## [2026-04-28] maintenance | Epithalon sourcing signal added
+- Marked `RC-12` in `TODO.md` as the current run first, then captured a Jan 2026 FDA warning letter for GenoGenix that uses Epithalon in compounded-product label violations.
+- Updated `comparisons/peptide-safety-and-sourcing-risk-map.md`, `entities/epithalon.md`, `queries/epithalon-pinealon-2026-scan.md`, and `comparisons/pineal-peptide-bioregulator-comparison.md` to reflect the new regulatory sourcing signal.
+- Current take: Epithalon now has a current enforcement example in addition to the bulk-risk page, which strengthens the sourcing-quality warning without changing the absence of a direct cognition endpoint.
+
+## [2026-04-28] maintenance | TMR null result folded into sleep branch
+- Marked `RC-04` in `TODO.md` as in progress first, then captured a new raw note for PMID 40885484 on TMR and word-meaning priming.
+- Updated `queries/closed-loop-acoustic-stimulation-and-targeted-memory-reactivation.md` to add the null linguistic-behavior result, refresh the source list, and make the physiology-vs-behavior split explicit.
+- Current take: closed-loop sleep cueing still has real phase-sensitive behavioral wins, but the newest null result makes it harder to overgeneralize from spindle or beta-band reprocessing to broad enhancement.
+
+## [2026-04-28] maintenance | focused ultrasound BBB-opening branch split out
+- Marked `RC-03` active in `TODO.md` first, then treated focused-ultrasound BBB opening as a separate delivery-platform branch from tFUS stimulation.
+- Updated `comparisons/neurocognitive-interventions-under-study.md` to add an explicit BBB-opening row and `comparisons/translational-gap-table.md` to widen the BBB-opening source base to the 2024-2026 human reviews, meta-analysis, and pressure-window safety paper.
+- Current take: BBB opening is still a platform story with small AD feasibility data and no clear cognition-enhancement claim, so it should stay separate from neuromodulation in the wiki graph.
+
+## [2026-04-28] maintenance | temporal interference DoC pilot captured
+- Marked `RC-02` active in `TODO.md` first, then added a raw capture for PMID 41654211 on temporal interference stimulation in prolonged disorders of consciousness.
+- Updated `queries/temporal-interference-stimulation-and-cognition.md` to add the 2026 rehabilitation / consciousness-recovery pilot while keeping target-validation separate from cognition efficacy.
+- Current take: TI now has a new clinical-rehab branch, but the public PubMed record still exposes no abstract-level results, so the branch remains in the exploratory lane.
+
+## [2026-04-28] maintenance | Epitalon safety sourcing capture strengthened
+- Marked `RC-12` active in `TODO.md` first, then added a focused raw capture for the current FDA epitalon bulk-risk language and wired it into `comparisons/peptide-safety-and-sourcing-risk-map.md`, `queries/epithalon-pinealon-2026-scan.md`, and `entities/epithalon.md`.
+- Updated `entities/pinealon.md` and the Epithalon/Pinealon scan to record the current FDA safety warning, the supplier-quality sourcing caution, and the explicit search-inference note that no U.S. regulatory listing surfaced for Pinealon in this pass.
+- Current take: Epitalon now has an explicit FDA compounding-risk warning and a clearer sourcing frame, while Pinealon still has no surfaced U.S. regulatory listing and remains a low-confidence legacy peptide branch.
+
+## [2026-04-28] maintenance | Pinealon human-exposure and mechanistic notes added
+- Marked `RC-11` in `TODO.md` first, then captured new raw notes for Pinealon antihypoxic review, the 110-person geroprotective comparison, the rat learning/caspase-3 paper, the old-rat hypoxia/cytokine paper, the EDR/Alzheimer's review, and the 2024 human induced-neuron paper.
+- Updated `entities/pinealon.md`, `queries/epithalon-pinealon-2026-scan.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `concepts/peptide-neuroprotection.md` to reflect the older human exposure layer, the review-level memory/TBI claims, and the newer human-cell bridge without upgrading the branch to a modern cognition trial.
+- Current take: Pinealon is no longer a pure stub, but the strongest evidence still sits in preclinical and regional human geroprotective material rather than in a reproducible controlled cognition study.
+
+## [2026-04-28] maintenance | Epithalon regulatory and review notes added
+- Marked `RC-10` active in `TODO.md` first, then captured missing raw notes for the Epithalamin free-radical review, the Epitalon senescent-monkey circadian study, the Epithalamin thymus/melatonin elderly study, and two FDA regulatory identity/history records for Epitalon.
+- Updated `queries/epithalon-pinealon-2026-scan.md` and `entities/epithalon.md` to reflect the tighter identity normalization, the withdrawn orphan-designation breadcrumb, and the still-absent direct cognition signal.
+- Current take: Epithalon/Epithalamin remains a longevity-first branch with human geroprotection and circadian evidence, but I still did not surface a modern human cognition trial or registry signal in this pass.
+
+## [2026-04-28] maintenance | tFUS safety-consensus and calibration sources added
+- Marked `RC-06` active in `TODO.md` first, then captured raw notes for the 2019 TFUS safety review, the 2023 biomedical hydrophone review, the skull-modeling paper for human neuromodulation, and the 2026 Neuron review of transcranial focused ultrasound in the human brain.
+- Updated `concepts/focused-ultrasound-neuromodulation.md`, `queries/focused-ultrasound-at-home-feasibility-and-safety.md`, and `comparisons/delivery-validation-checklist-for-cognition-interventions.md` to make calibration, skull modeling, hydrophone measurement discipline, and explicit no-home-use implications visible in the guidance layer.
+- Current take: tFUS is now better described as a professionally calibrated research workflow than a consumer-safe modality; threshold numbers alone do not substitute for acoustic measurement, skull modeling, or neuronavigation.
+
+## [2026-04-28] maintenance | self-study blinding-integrity module added
+- Marked `PR-06` active in `TODO.md` first, then wired block-level expectancy/blinding logging into `queries/30-day-self-study-template-for-nonprescription-interventions.md`.
+- Added a dedicated `Blinding_Review` sheet with condition guess, confidence, reason, sensory leakage, activation, withdrawal-confound, and optional operator-check fields, plus analysis formulas for guess rate and leakage flags.
+- Extended the template summary and source list so the module is grounded in the blinding-index, sham-tDCS, expectancy, nocebo, and sham-matching captures.
+- Current take: blinding has to stay a logged measurement layer rather than a binary label; otherwise expectancy and withdrawal can still masquerade as enhancement.
+## [2026-04-28] maintenance | blinding-failure detector added
+- Marked the next open `TODO.md` item active first, then added raw captures for the blinding-index, tDCS guess/timing, expectancy, nocebo, and sham-matching sources that support a blinding-failure detector.
+- Created `concepts/blinding-failure-detector-for-self-study-and-sham-capable-protocols.md`, linked it into `index.md`, `queries/30-day-self-study-template-for-nonprescription-interventions.md`, and `comparisons/sham-control-feasibility-for-cognition-interventions.md`, and bumped the catalog total.
+- Current take: the detector should treat guess rate, confidence, sensory leakage, withdrawal reversal, and activation side-channels as separate failure modes; a protocol can still be sham-capable without being meaningfully blind.
+
+## [2026-04-28] maintenance | delivery-validation checklist tightened
+- Marked the next open `TODO.md` delivery-validation item as active first, then refined the checklist page with the explicit tFUS safety thresholds and the wearable-system steering-range note.
+- Kept the branch centered on exposure validation rather than sham control, since the current literature makes operator burden, calibration, and reporting completeness part of the intervention itself.
+- Current take: delivery validation is still the better pre-efficacy gate than sham control alone because device exposure, parameter completeness, and operator burden differ sharply across intranasal insulin, tPBM, taVNS, tDCS/tACS, TI, and tFUS.
+
+## [2026-04-28] maintenance | ecological robustness table added
+- Kept the next open `TODO.md` item in progress first, then filed `comparisons/ecological-robustness-table.md` as the new lab-vs-home/ecology ladder.
+- Added `[[ecological-robustness-table]]` to `index.md` and linked it back from the delivery-validation, sham-control, and translational-gap comparison pages.
+- Current take: tPBM is the closest home-capable behavior-positive branch, closed-loop sleep stimulation is the clearest physiology-without-behavior split, and most other device families still need either better home replication or better behavior endpoints before they can be called ecologically robust.
+
+## [2026-04-28] maintenance | intranasal insulin scan updated
+- Marked `P0-03` in `TODO.md` as in progress first, then saved the backlog update before research.
+- Added raw captures for PMID 41057918 on the intranasal insulin plus empagliflozin MCI/early AD trial and PMID 39558506 on high-dose healthy-volunteer insulin safety.
+- Updated `queries/intranasal-insulin-2024-2025-scan.md` and `concepts/intranasal-insulin-and-cognition.md` to reflect the 2025 combination-trial signal and the high-dose hypoglycemia ceiling.
+- Current take: chronic MCI/AD remains null at the pooled level, perioperative protection is still the clearest branch, and the new enriched trial suggests state-specific metabolic strategies may be more informative than generic enhancement claims.
+
+## [2026-04-28] maintenance | cholinergic state-restoration concept added
+- Marked `P2-17` active in `TODO.md` first, then closed it after creating the standalone concept layer.
+- Created `concepts/cholinergic-state-restoration-and-cognition.md` to separate withdrawal-adjacent restoration, responder enrichment, and recovery phenotypes from broad healthy-adult enhancement claims.
+- Updated `queries/cholinergic-and-nicotinic-agents-2026-scan.md`, `comparisons/pharmacology-comparator-map.md`, `queries/medicine-cognition-summary.md`, and `index.md` so the branch now has an explicit concept home and comparator-layer backlink.
+- Current take: the cholinergic branch is best read as state restoration plus phenotype gating, with nicotine, galantamine, choline donors, and M1 PAMs remaining context-sensitive rather than generic nootropics.
+
+## [2026-04-28] maintenance | delivery-validation checklist filed
+- Marked `P2-16` active in `TODO.md` first, then saved the backlog update before research.
+- Created `comparisons/delivery-validation-checklist-for-cognition-interventions.md` to separate target exposure, parameter reporting, sham leakage, operator dependence, and monitoring burden from mere sham control.
+- Linked the new checklist from `index.md`, `comparisons/sham-control-feasibility-for-cognition-interventions.md`, and `queries/focused-ultrasound-at-home-feasibility-and-safety.md`.
+- Current take: delivery validation is the better pre-efficacy gate than sham control alone because device exposure, parameter completeness, and operator burden differ sharply across intranasal insulin, tPBM, taVNS, tDCS/tACS, TI, and tFUS.
+
+## [2026-04-28] maintenance | energy-substrate comparator map added
+- Marked `P2-15` active in `TODO.md` first, then saved that backlog state before the research edits.
+- Created `comparisons/energy-substrate-comparator-map.md` and added the new ketone meta-analysis raw capture at `raw/articles/pubmed-41001501-exogenous-ketone-bodies-cognition-systematic-review-meta-analysis.md`.
+- Updated `queries/ketone-esters-under-sleep-loss-and-high-load.md`, `queries/creatine-cognition-2026-scan.md`, `queries/lactate-shuttle-and-cognition-2026-scan.md`, and `queries/medicine-cognition-summary.md` to point back to the new comparator layer.
+- Current take: creatine remains the cleanest low-cost strain buffer, ketones now have a modest pooled signal but still need the sleep-loss result, lactate stays clinic-grade, glucose stability is mostly a state layer, and caffeine is still the benchmark comparator.
+
+## [2026-04-28] maintenance | closed-loop sleep measurement layer tightened
+- Marked `S-10` active in `TODO.md` first so the new research pass started from a saved backlog state.
+- Folded the 2025 smartphone cognitive-testing and EMA feasibility paper for older adults with insomnia into `queries/closed-loop-acoustic-stimulation-and-targeted-memory-reactivation.md`.
+- Kept the branch framed as a distinction between ecological measurement feasibility and actual TMR/CLAS efficacy, and pointed the page back to `practical-cognitive-measurement-stack`.
+- Current take: sparse remote EMA and smartphone cognition sampling are feasible enough to support home-style workflows, but completion and strategic responding still limit how confidently the resulting data can be read.
+
+## [2026-04-28] maintenance | traditional medicine branch refreshed
+- Marked `P2-08` active in `TODO.md` first, then expanded the standardized botanical branch with `entities/curcumin.md` and catalog updates for `[[ginkgo]]` and `[[curcumin]]`.
+- Updated `queries/traditional-medicine-cognition-2026-scan.md`, `comparisons/standardized-herbal-extracts-for-cognition.md`, and `comparisons/cognition-intervention-master-table.md` to reflect the 2025-2026 ginkgo, ginseng, and curcumin evidence mix.
+- Current take: ginkgo is the strongest impairment-phenotype botanical, ginseng is modest but real in older impaired adults, and curcumin is now a mixed/formulation-sensitive branch rather than a flat null.
+
+## [2026-04-28] maintenance | cholinergic/nicotinic branch refreshed
+- Marked `P2-12` active in `TODO.md` first and saved the backlog update before research.
+- Added raw captures for the 2025 muscarinic M1 PAM healthy-volunteer study, the 2025 SAH galantamine pilot, and the 2025 mTBI choline alfoscerate study.
+- Updated `queries/cholinergic-and-nicotinic-agents-2026-scan.md` and `comparisons/pharmacology-comparator-map.md` to incorporate the new muscarinic, recovery-phenotype, and safety boundary evidence.
+- Current take: the branch is now even more clearly phenotype-gated and recovery-bound, with muscarinic target engagement in healthy volunteers but no broad efficacy proof yet.
+
+## [2026-04-28] maintenance | digital phenotype responder atlas expanded
+- Marked `P2-06` active in `TODO.md` first and saved the backlog update before any research edits.
+- Added raw captures for the rTMS connectomics responder paper in cocaine use disorder, older-adult digital biomarkers, longitudinal MS passive phenotyping, AD passive-sensor operational guidance, and game-based cognitive aging.
+- Updated `queries/digital-phenotype-and-biomarker-responder-atlas.md` to separate state estimation from actual response prediction and to keep passive sensing in the enrichment lane.
+- Current take: classical biomarkers still dominate response prediction; digital phenotype is increasingly useful for stratification and monitoring, but healthy-adult responder prediction remains unproven.
+
+## [2026-04-28] maintenance | ginseng entity and comparison rebuilt
+- Marked `P2-08` active in `TODO.md` first, then saved the backlog update before the research edits.
+- Added `entities/ginseng.md`, rewrote `comparisons/standardized-herbal-extracts-for-cognition.md` to include the new ginseng column and ranking, and threaded `[[ginseng]]` into `queries/traditional-medicine-cognition-2026-scan.md`, `queries/medicine-cognition-summary.md`, and `index.md`.
+- Current take: ginseng is now represented as a modest but real older-adult cognition branch, not just a stray citation or sprout-extract mention.
+
+## [2026-04-28] maintenance | sham-control feasibility matrix added
+- Marked `PR-02` active in `TODO.md` first and saved the backlog update before research.
+- Created `comparisons/sham-control-feasibility-for-cognition-interventions.md` to separate true single-person blinding from clinic-grade sham control across oral compounds, home devices, and operator-dependent interventions.
+- Updated `index.md` and `queries/30-day-self-study-template-for-nonprescription-interventions.md` so future self-study plans can decide upfront whether a candidate is actually blindable.
+- Current take: oral compounds, tDCS/tACS, and tPBM are the cleanest solo-blinding candidates; rTMS, HBOT, and transcranial ultrasound stay clinic-grade; taVNS and CLAS/TMR sit in the middle with leakage risk.
+
+## [2026-04-28] maintenance | ginseng folded into traditional-medicine branch
+- Kept the live `P2-08` traditional-medicine item active in `TODO.md` and then integrated the already-ingested ginseng evidence into the scan instead of leaving it stranded in the entity layer.
+- Added ginseng to `queries/traditional-medicine-cognition-2026-scan.md`, `comparisons/standardized-herbal-extracts-for-cognition.md`, and the catalog summary in `index.md`, then normalized `entities/ginseng.md` frontmatter so the new node is lint-visible.
+- Current take: ginseng now belongs with the modest older-adult / memory-complaint standardized-extract branch, alongside grape, ginkgo, ashwagandha, and bacopa, rather than being treated as an unindexed side note.
+
+## [2026-04-28] maintenance | glymphatic mechanism page added
+- Marked `P2-02` active in `TODO.md` first, then saved the backlog update before research.
+- Added raw captures for the 2025 TBS/APOE older-adult paper, the 2026 ACX-02 glymphatic-enhancement preprint, the 2026 human A beta/tau clearance paper, and the 2025 glymphatic-function/WMH/cognition MRI study.
+- Rewrote `queries/glymphatic-targeting-interventions-2026-scan.md`, created `concepts/glymphatic-system-and-cognition.md`, and updated `index.md` so the branch now has both query-level synthesis and a concept home.
+- Current take: glymphatic modulation is now human-demonstrable, but cognition still looks phenotype-bound rather than a universal enhancement effect.
+
+## [2026-04-28] maintenance | temporal interference scan refreshed
+- Marked `S-06` active in `TODO.md` and saved the backlog update first.
+- Folded the 2025 human systematic review and the companion experimental review into `queries/temporal-interference-stimulation-and-cognition.md`, then tightened the deep-target comparison note in `comparisons/noninvasive-brain-stimulation-for-cognition.md`.
+- Current take: TI now has a real human evidence base for target engagement and small disorder-specific symptom effects, but cognition efficacy is still parameter-sensitive, early, and not yet broadly established.
+## [2026-04-28] maintenance | self-experimentation stop rules filed
+- Marked `PR-04` in `TODO.md` as in progress first, then added a dedicated stop-rules page for self-study and n-of-1 safety screening.
+- Created `queries/self-experimentation-stop-rules.md` from the current safety, sleep, nicotine, pitolisant, tDCS/tACS, creatine, and caffeine source set.
+- Added the new query to `index.md` and linked it back to the measurement and safety layers so future self-study pages can reuse the same safety screen.
+
+## [2026-04-28] maintenance | orexin branch verified against latest sources
+- Marked `P2-04` in `TODO.md` as in progress first and saved the backlog update before continuing the research pass.
+- Re-checked the orexin/hypocretin scan against the latest primary sources; the wiki already reflects the 2026 DORA pairwise meta-analysis plus the healthy-volunteer vornorexant and daridorexant task studies.
+- No new source additions were needed in this pass, but the branch still reads correctly as state-restoration and non-impairment evidence rather than a healthy-adult nootropic class.
+
+## [2026-04-28] maintenance | orexin axis scan expanded
+- Marked `P2-04` as in progress in `TODO.md` first, then saved the backlog update before research.
+- Added raw captures for PMID 40367374, PMID 40087982, and PMID 39641404 to anchor the parent oveporexton efficacy trial plus the new healthy-volunteer DORA null/safety readouts.
+- Updated `queries/orexin-hypocretin-axis-interventions-2026-scan.md`, `comparisons/pharmacology-comparator-map.md`, and `comparisons/cognition-intervention-master-table.md` so the branch now distinguishes NT1 proof-of-mechanism from healthy-volunteer non-impairment and null cognition findings.
+- Current take: the orexin branch is stronger as a state-restoration comparator than as a healthy-adult enhancer; REM or bedtime non-impairment has not yet translated into a generic cognition win.
+
+## [2026-04-28] maintenance | orexin sleep-pressure mechanism sharpened
+- Marked `P2-04` as remaining active in `TODO.md` first, then saved the backlog update before research edits.
+- Added `raw/articles/pubmed-39788123-norepinephrine-mediated-slow-vasomotion-glymphatic-clearance-during-sleep.md` to capture the 2025 Cell mechanistic paper linking NREM norepinephrine oscillations to glymphatic clearance and showing zolpidem suppression of the signal.
+- Updated `queries/orexin-hypocretin-axis-interventions-2026-scan.md` to connect the orexin/DORA branch to current glymphatic clearance physiology, not just sleep latency and next-day impairment.
+- Current take: orexin agonism still reads as state restoration in narcolepsy, while DORAs remain sleep drugs; the newer mechanistic layer says bedtime sleep architecture can change clearance biology, so residual-impairment and restorative-sleep framing matter more than a flat sedative/no-sedative split.
+
+## [2026-04-28] maintenance | microbiome-cognition branch refreshed
+- Marked `P2-05` active in `TODO.md` first, then saved the backlog update before any research edits.
+- Added raw captures for the 2025 GOS gut-brain-axis RCT in young females and the 2025/2026 obesity-stratified diet/microbiome sub-analysis in older adults.
+- Updated `queries/microbiome-cognition-2026-scan.md` and `concepts/gut-microbiome-and-cognition.md` so the branch now reads as phenotype-gated rather than broadly enhancer-like.
+- Current take: the latest additions reinforce a narrow-signal pattern, with response gating by anxiety, obesity, and body-composition change rather than a universal probiotic effect.
+
+## [2026-04-28] maintenance | solriamfetol comparator source captured
+- Marked `S-05` active in `TODO.md` first, then saved the backlog update before the research edits.
+- Added a raw note for PMID 39528111 covering the SHARP crossover trial in OSA with excessive daytime sleepiness and objective cognition improvement.
+- Updated `comparisons/pharmacology-comparator-map.md` and `comparisons/cognition-intervention-master-table.md` so solriamfetol now reads as a disorder-context wake-promoting benchmark with direct cognition evidence rather than a label-only comparator.
+- Current take: SHARP makes solriamfetol a better fatigue-rescue benchmark, but it still belongs in the disorder-context wake-promoter bucket rather than the healthy enhancement bucket.
+
+## [2026-04-28] maintenance | foundation-model neuroscience scan expanded
+- Marked `P2-07` active in `TODO.md` first, then updated the active branch from the prior responder-map run to foundation-model neuroscience.
+- Added raw captures for `PMID 41644653` (BrainIAC), `PMID 41495409` (SleepFM), and `PMID 40912188` (EpilepsyFM) so the scan now includes the newer clinical-backbone papers.
+- Expanded `queries/foundation-model-neuroscience-2026-scan.md` with the new MRI, sleep, and EEG utility papers alongside the earlier EEG-to-fMRI and biomarker-robustness sources.
+- Current take: foundation models are now most useful here as disease-risk, low-label phenotype, and neural-signal backbone tools, not as cognition enhancers.
+
+## [2026-04-28] maintenance | translational-gap table filed
+- Marked the translational-gap-table TODO item active in `TODO.md` first, then saved the backlog update before the research edits.
+- Added `comparisons/translational-gap-table.md` as the first cross-cutting map of where preclinical promise still outruns human proof across the wiki's main intervention families.
+- Updated `index.md` and `queries/medicine-cognition-summary.md` so the new comparison page is discoverable from both the main catalog and the top-level summary.
+- Current take: AMPAkines, Dihexa, legacy peptide bioregulators, thymosin beta-4, MOTS-c, and deep-target ultrasound still look mostly animal-heavy, while intranasal insulin, tPBM, taVNS, HBOT, and incretins are already human-anchored but remain phenotype- and protocol-sensitive.
+
+## [2026-04-28] maintenance | orexin/hypocretin axis comparator branch refreshed
+- Marked `P2-04` active in `TODO.md` first, then saved the backlog update before the research edits.
+- Refreshed `queries/orexin-hypocretin-axis-interventions-2026-scan.md` with the 2026 DORA pairwise meta-analysis, the healthy-volunteer vornorexant driving study, and the registered Oxford daridorexant cognition trial.
+- Tightened `comparisons/pharmacology-comparator-map.md` so DORAs stay in the sleep-restoration comparator bucket instead of drifting into a healthy-adult enhancer claim.
+- Current take: orexin agonists now have the strongest direct cognition signal in NT1, while DORAs look like state-restoration/sleep drugs with some next-day non-impairment data, not a broad nootropic class.
+
+## [2026-04-28] maintenance | self-study spreadsheet schema filed
+- Marked `PR-05` active in `TODO.md` first, then saved the backlog update before editing the protocol pages.
+- Expanded `queries/30-day-self-study-template-for-nonprescription-interventions.md` with a concrete workbook schema covering `Protocol`, `Daily_Log`, `Adverse_Events`, and `Analysis` sheets plus coding rules.
+- Added a logging-wrapper note to `queries/practical-cognitive-measurement-stack.md` so the endpoint battery and the spreadsheet stay aligned.
+- Current take: the schema now turns the n-of-1 template into something directly loggable, with raw state, cognitive scores, adverse events, and derived analysis separated instead of crammed into one free-text sheet.
+
+## [2026-04-28] maintenance | tDCS/tACS parameter scan refreshed
+- Marked `P0-06` active in `TODO.md` first and saved the backlog update before any further research edits.
+- Added raw captures for the healthy-adult theta-tACS meta-analysis, the HD-tDCS target-specific trial, and the 2026 tACS long-term-memory mapping paper.
+- Updated `queries/tdcs-tacs-parameter-response-2025-2026-scan.md`, `concepts/transcranial-direct-current-stimulation-and-cognition.md`, `concepts/transcranial-alternating-current-stimulation-and-cognition.md`, and `comparisons/noninvasive-brain-stimulation-for-cognition.md` so the branch now reads as target- and region-sensitive rather than a generic stimulation bucket.
+- Current take: tDCS target choice matters at least as much as montage class, and tACS now looks region-specific enough that theta/gamma should be read as site-frequency interactions, not as a single broad enhancer story.
+
+## [2026-04-28] maintenance | contradiction-log branch filed
+- Marked the contradiction-log TODO item active in `TODO.md` first, then saved that backlog update before any research edits.
+- Added `queries/contradiction-log-for-cognition-interventions.md` as the cross-cutting map for pooled-review disagreements, phenotype splits, and endpoint mismatches.
+- Updated `index.md`, `queries/medicine-cognition-summary.md`, and `queries/negative-evidence-watchlist-for-cognition-interventions.md` so the new log is discoverable from the main navigation and the negative-evidence companion page.
+- Current take: the contradictions are mostly explainable by phenotype, device, and endpoint mismatch rather than a simple all-or-nothing class verdict.
+
+## [2026-04-28] maintenance | endpoint dictionary branch resumed
+- Marked the endpoint-dictionary item active in `TODO.md` for this run and verified the existing taxonomy page instead of duplicating it.
+- Confirmed that `queries/practical-cognitive-measurement-stack.md` and `index.md` already point at `[[endpoint-dictionary-for-cognition-interventions]]`, so the semantic layer is discoverable from the main catalog.
+- Current take: the wiki now has the right split between endpoint labels and state markers; future scans should keep using the dictionary rather than inventing ad hoc outcome names.
+
+## [2026-04-28] maintenance | focused-ultrasound BBB-opening scan refreshed
+- Marked `P1-21` in `TODO.md` as in progress first, then confirmed the latest AD-specific synthesis is still the 2025 meta-analysis.
+- Updated `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` to state that no newer AD BBB-opening meta-analysis surfaced in PubMed/PMC, so the page now reads as the current literature anchor.
+- Current take: BBB opening still looks like a safe, targetable delivery platform in small AD cohorts, but the cognition signal remains stabilization rather than proven enhancement.
+
+## [2026-04-27] maintenance | 30-day self-study template filed
+- Marked `PR-01` active in `TODO.md` first, then saved the backlog update before any research edits.
+- Added raw captures for the n-of-1 clinical usefulness paper, the health-psychology n-of-1 methodology review, and the 2024 randomized n-of-1 methodological review.
+- Created `queries/30-day-self-study-template-for-nonprescription-interventions.md`, updated `index.md`, and linked the template into `queries/practical-cognitive-measurement-stack.md` and `queries/endpoint-dictionary-for-cognition-interventions.md`.
+- Current take: a useful self-study needs a run-in, balanced randomized blocks, fixed sleep/caffeine handling, one pre-registered endpoint, and daily adverse-event logging; otherwise the result is mostly practice effects plus drift.
+
+## [2026-04-27] maintenance | cognition master table filed
+- Marked the next TODO item active in `TODO.md` before research, then saved the backlog update first as requested.
+- Created `comparisons/cognition-intervention-master-table.md` as a single cross-family comparison table covering effect size, confidence, safety burden, cost, protocol complexity, and evidence freshness.
+- Updated `index.md`, `queries/medicine-cognition-summary.md`, `queries/most-promising-methods-for-cognition.md`, `comparisons/adjunctive-interventions-for-cognition.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, `comparisons/sleep-and-circadian-interventions-for-cognition.md`, `comparisons/pharmacology-comparator-map.md`, `comparisons/neurocognitive-interventions-under-study.md`, and `queries/healthy-adult-cognition-signals.md` to surface the new table.
+- Current take: the wiki now has one place to compare the major intervention families, with sleep/circadian and creatine at the practical top, and high-complexity branches like peptides, ultrasound, and temporal interference kept clearly in the exploratory lane.
+
+## [2026-04-27] maintenance | endpoint dictionary expanded with state markers
+- Marked the endpoint-dictionary branch active in `TODO.md` first, then expanded the existing endpoint taxonomy page instead of creating a duplicate.
+- Added newer source anchors for EMA completion, portable HRV, actigraphy, sleep banking, sleep extension, phase-specific TMR, REM TMR, and task-structure/generalization so the dictionary now separates endpoints from state markers more cleanly.
+- Kept `queries/practical-cognitive-measurement-stack.md` aligned as the operational battery reference for these labels.
+- Current take: EMA, actigraphy, HRV, and CGM are useful state markers, but the wiki should still reserve the cognition endpoint labels for objective performance changes.
+
+## [2026-04-27] maintenance | cognition trial-design recommendations filed
+- Marked the next trial-design item active in `TODO.md` before research and saved the backlog update first.
+- Created `queries/trial-design-recommendations-for-cognition-interventions.md`, added it to `index.md`, and linked it from `queries/medicine-cognition-summary.md` and `queries/most-promising-methods-for-cognition.md`.
+- Current take: the three immediate combination protocols are sleep-first sequencing, creatine + tPBM, and closed-loop sleep consolidation; intranasal insulin + stimulation stays in the reserve lane until delivery and enrichment are cleaner.
+
+## [2026-04-27] maintenance | endpoint dictionary and measurement language added
+- Kept the endpoint-dictionary item active in `TODO.md` first, then added a dedicated endpoint taxonomy page and linked it into the measurement stack and summary hub.
+- Added raw captures for practice effects, sleep-loss throughput/resilience, trait-like vulnerability to sleep deprivation, near-transfer limits in inhibition training, and wakeful-rest consolidation so the arousal/throughput/learning-slope/consolidation/transfer/resilience split has direct source anchors.
+- Added `queries/endpoint-dictionary-for-cognition-interventions.md`, updated `queries/practical-cognitive-measurement-stack.md`, `queries/medicine-cognition-summary.md`, and `index.md`, and kept the measurement stack tied to the new naming layer.
+- Current take: the wiki now has a reusable endpoint vocabulary, which should make future scans less likely to collapse task-specific gains into broad cognition claims.
+
+## [2026-04-27] maintenance | responder atlas clarified
+- Marked the responder-atlas item active in `TODO.md` first, then rewrote the atlas page around concrete baseline variables instead of a loose state note.
+- Added clearer trait/state splitters for N100, taVNS connectivity, APOE/polygenic risk, insulin resistance, stress state, and passive-sensing variables.
+- Added backlinks from `queries/healthy-adult-cognition-signals.md`, `comparisons/adjunctive-interventions-for-cognition.md`, and `comparisons/noninvasive-brain-stimulation-for-cognition.md` so the atlas is reachable from the main comparison pages.
+
+## [2026-04-27] maintenance | cholinergic branch refined with post-stroke null anchor
+- Kept `P2-12` active in `TODO.md` and saved the backlog update first, then captured a new galantamine post-stroke cognitive-rehab raw note.
+- Updated `queries/cholinergic-and-nicotinic-agents-2026-scan.md` with the post-stroke galantamine study as a null/phenotype-specific comparator and tightened the state-restoration framing.
+- Current take: nicotine remains the sharper acute-attention lead, while galantamine now looks more like a recovery adjunct / state-modifier than a standalone enhancer.
+
+## [2026-04-27] maintenance | cholinergic/nicotinic scan filed
+- Marked `P2-12` active in `TODO.md` before research and saved the backlog update first.
+- Added raw captures for the 2025 cholinergic-signaling systematic review, the nicotine + galantamine healthy-never-smoker crossover, the varenicline/bupropion nicotine-deprivation trial, the galantamine pre-quit smoker trial, the active nicotine-tablet attention protocol, and the nicotine/varenicline DailyMed labels.
+- Created `queries/cholinergic-and-nicotinic-agents-2026-scan.md`, updated `comparisons/pharmacology-comparator-map.md`, `queries/medicine-cognition-summary.md`, and `index.md`, and kept nicotine framed as an acute-attention / withdrawal-rescue comparator rather than a general enhancer.
+- Current take: nicotine can sharpen attention in some tasks, but the effect is narrow and context-sensitive; dependence, sleep disruption, and cardiovascular/neuropsychiatric risk keep the branch in the state-restoration bucket.
+
+## [2026-04-27] maintenance | traditional-medicine extract scan filed
+- Marked `P2-08` as in progress in `TODO.md` before research, then shifted the branch from foundation-model neuroscience to traditional-medicine cognition candidates.
+- Added raw captures for the 2025 healthy-adult natural-extract network meta-analysis, the 2025 Bacopa review, the 2025 ashwagandha MCI pilot, the 2024 ginseng sprout extract randomized trial, the 2025 EGb 761 overview, the 2025 EGb 761 mild-dementia meta-analysis, the 2024 Chinese herbal medicine MCI meta-analysis, the 2026 ginseng meta-analysis, and the 2025 curcumin meta-analysis.
+- Created `queries/traditional-medicine-cognition-2026-scan.md` and `comparisons/standardized-herbal-extracts-for-cognition.md`, linked them from `index.md`, and nudged `queries/medicine-cognition-summary.md` to surface the new branch.
+- Ran the bundled wiki linter from the skill path; it still reports broad pre-existing broken wikilinks and raw SHA drift, while the new herbal-extract pages only show the expected low-confidence classification.
+- Current take: the branch is best modeled as standardized extracts with phenotype-specific human signals, with EGb 761 the anchor candidate and bacopa/ashwagandha/ginseng/curcumin still in the promising-but-not-yet-fully-replicated tier.
+
+## [2026-04-27] maintenance | PDE/cAMP/CREB scan expanded
+- Marked `P2-11` active in `TODO.md` before research and moved on from the histamine H3 branch.
+- Added raw captures for the 2024 roflumilast translational review and the active Fragile X single-dose challenge study.
+- Updated `queries/pde-camp-creb-cognition-2026-scan.md` with the new review context, the Fragile X trial, and the disclosed roflumilast conflict note.
+- Current take: PDE4 remains the only reproducible human cognition signal in this pathway; the new material sharpens the translational map but does not upgrade PDE5 or CREB into broad enhancement proof.
+
+## [2026-04-27] maintenance | histamine H3 scan filed
+- Marked `P2-10` active in `TODO.md` before research and saved the backlog update first.
+- Added raw captures for the pitolisant label, the OSA randomized trial, the pitolisant meta-analysis, the MK-0249 adult ADHD trial, the GSK239512 schizophrenia trial, the samelisant phase-2 review, the samelisant ClinicalTrials.gov record, and a pitolisant mania case report.
+- Created `queries/histamine-h3-inverse-agonists-2026-scan.md`, updated `comparisons/pharmacology-comparator-map.md`, and added the new query to `index.md`.
+- Current take: H3 inverse agonists are a legitimate wakefulness class in hypersomnolence disorders, but the current human record does not support a broad healthy-adult cognition enhancer claim.
+
+## [2026-04-27] lint | 247 issues found
+- Ran the wiki linter after the H3 scan update; the repo still has broad pre-existing broken-link and raw-sha256-drift debt.
+- The new H3 scan files were added cleanly, but the overall lint result is dominated by older pages that need a separate cleanup pass.
+
+## [2026-04-27] maintenance | microbiome-cognition scan filed
+- Marked `P2-05` as in progress in `TODO.md` before research, then shifted the branch from orexin to microbiome-cognition interventions.
+- Added raw captures for PMID 41291638, 40976401, 40222448, 37502424, 36228569, 32623402, 40005019, and ClinicalTrials.gov NCT05392556.
+- Created `concepts/gut-microbiome-and-cognition.md` and `queries/microbiome-cognition-2026-scan.md`, linked them from `index.md`, and added a bridge from `concepts/neuroinflammation-and-cognition.md`.
+- Current take: the branch is phenotype-sensitive rather than universally enhancer-like; MCI and other impaired cohorts show the clearest signals, while healthy-adult studies are mostly null or narrowly positive on task speed.
+
+## [2026-04-27] maintenance | orexin/hypocretin axis scan filed
+- Marked `P2-04` in `TODO.md` as in progress before research, then kept the branch centered on orexin/hypocretin interventions.
+- Added raw captures for PMID 23552372, PMID 30597112, PMID 37494485, PMID 39804333, PMID 40233754, PMID 40847765, PMID 41359331, and ClinicalTrials.gov NCT07267559 to anchor the orexin evidence layer.
+- Created `queries/orexin-hypocretin-axis-interventions-2026-scan.md`, linked it from `index.md`, `comparisons/pharmacology-comparator-map.md`, and `queries/medicine-cognition-summary.md`, and refreshed the orexin summary note with the stronger 2026 NT1 cognition signal.
+- Current take: orexin agonists now have a real human cognition signal in NT1, but the broader healthy-adult story is still mostly wakefulness or residual-impairment control rather than proven enhancement.
+
+## [2026-04-27] maintenance | non-hallucinogenic psychoplastogens scan filed
+- Marked `P2-01` active in `TODO.md` before research and shifted the session pointer from the peptide safety/sourcing branch.
+- Added raw captures for PMID 40354769, PMID 40405723, PMID 36884348, PMID 40760185, PMID 34035476, PMID 39613915, and PMID 40545270 to anchor the psychoplastogen evidence layer.
+- Created `concepts/non-hallucinogenic-psychoplastogens.md` and `queries/non-hallucinogenic-psychoplastogens-2026-scan.md`, then surfaced both in `index.md`.
+- Current take: the class is still mostly preclinical for cognition. TBG and 2-Br-LSD show mechanistic and rodent behavioral signals, but no registered human cognition trial surfaced in the open search.
+
+## [2026-04-27] maintenance | peptide safety map expanded
+- Marked `P1-22` active in `TODO.md` and kept this run centered on peptide safety and sourcing risk.
+- Added raw captures for PMID 34324435, PMID 41229390, and the 2026 WADA prohibited-list peptide entries.
+- Updated `entities/bpc-157.md`, `entities/thymosin-beta-4.md`, `entities/mots-c.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `queries/thymosin-beta-4-2026-scan.md` to reflect the broader human-exposure and regulatory picture.
+- Current take: BPC-157 still has only tiny human exposure, thymosin beta-4 now has a human cardiac-translational paper in addition to the healthy-volunteer trial, and MOTS-c/TB-500 carry explicit FDA/WADA sourcing-regulatory friction.
+
+## [2026-04-27] maintenance | Dihexa scan filed
+- Marked `P1-13` active in `TODO.md` and centered the session on Dihexa after the Semax/Selank branch.
+- Added raw captures for PMID 23055539 and PMID 34703584, created `queries/dihexa-2026-scan.md`, and updated `entities/dihexa.md`, `concepts/peptide-neuroprotection.md`, and `index.md`.
+- Current take: Dihexa still reads as a rodent-only AngIV/HGF-cMet candidate with some recovery-adjacent biology, but no human cognition trial or registry signal surfaced in the searches I ran.
+
+## [2026-04-27] maintenance | tFUS home-use safety audit filed
+- Marked `P0-15` active in `TODO.md` before research and shifted the session pointer from TI to transcranial focused ultrasound home-use feasibility.
+- Added raw captures for PMID 41072763, PMID 38410648, PMID 40470501, and PMID 39449176 to cover safety thresholds, reporting standards, parameter ranges, and the wearable prototype caveat.
+- Created `queries/focused-ultrasound-at-home-feasibility-and-safety.md`, updated `concepts/focused-ultrasound-neuromodulation.md`, `comparisons/neurocognitive-interventions-under-study.md`, and `index.md`, and kept the branch visible from the main wiki surfaces.
+- Current take: no validated at-home tFUS protocol surfaced; the literature still assumes trained operators, formal targeting/calibration, and explicit safety screening, so consumer copying of research settings is not supported.
+
+## [2026-04-27] update | ultrasound home-use safety TODO
+- Added `P0-15` to audit at-home/DIY transcranial focused ultrasound feasibility, professional parameter-reporting requirements, and safety boundaries.
+- Added seed sources and raw-capture work for tFUS safety/standards because the current wiki has no validated at-home ultrasound neuromodulation protocol and research settings should not be treated as consumer-use instructions.
+
+## [2026-04-27] maintenance | Klotho cognition scan opened
+- Marked `P1-18` as in progress in `TODO.md` before research and switched the session pointer to Klotho.
+- Added raw captures for the 2014 KL-VS paper, the 2017 older-men cohort, the 2018 memory-clinic study, the 2023 NHANES biomarker paper, the 2023 NHANES + Mendelian randomization study, the 2025 meta-analysis, the 2023 aged nonhuman primate paper, and the 2026 Klotho + follistatin gene-therapy trial record.
+- Created `entities/klotho.md` and `queries/klotho-cognition-2026-scan.md`, then restored `index.md` and surfaced both pages there.
+- Cleared `RC-05` in `TODO.md` after adding the Klotho raw notes.
+- Current take: Klotho is a plausible resilience biomarker, but human causality remains unproven and the active intervention lead is still exploratory.
+
+## [2026-04-27] maintenance | anti-tolerance schedule scan added
+- Marked `P1-10` as in progress in `TODO.md` before research and kept the session pointer aligned.
+- Added raw captures for repeated caffeine under sleep deprivation, repeated caffeine during chronic sleep restriction, methylphenidate weekend holidays, long-term modafinil continuation, and caffeine challenge after withdrawal.
+- Created `queries/anti-tolerance-periodization-in-cognitive-enhancement.md` and updated `comparisons/pharmacology-comparator-map.md` and `index.md` so the schedule-logic branch is discoverable from the main comparator hub.
+- Current take: anti-tolerance schedules look defensible mainly as a way to reduce insomnia, appetite suppression, and withdrawal confounding; there is still no strong healthy-adult evidence that cycling beats stable dosing for cognition.
+
+## [2026-04-27] maintenance | closed-loop and adaptive neuromodulation scan added
+- Marked `P1-07` as in progress in `TODO.md` before research, per workflow.
+- Added raw captures for `pubmed-40307237-closed-loop-theta-hippocampal-connectivity.md`, `pubmed-41962614-successful-closed-loop-neurofeedback-alpha-attention.md`, `pubmed-41497605-closed-loop-acoustic-stimulation-cathodal-tdcs-retention.md`, `pubmed-41229102-closed-loop-auditory-stimulation-ecological-memory-null.md`, `pubmed-38766135-closed-loop-remote-hippocampal-representations-neurofeedback.md`, `pubmed-40412459-neuromodulating-rhythms-of-cognition.md`, `pubmed-36240988-closed-loop-local-slow-oscillations-human-nrem-sleep.md`, and `pubmed-40528736-responsive-neurostimulation-cognition-meta-analysis.md`.
+- Added `queries/closed-loop-and-adaptive-neuromodulation-for-cognitive-performance.md` and linked it from the stimulation comparison hub.
+- Current read: closed-loop/adaptive systems are mechanistically cleaner than fixed-parameter stimulation, but the behavioral win is still conditional on learner status, phase/state alignment, and delivery setting.
+
+## [2026-04-27] lint | 167 issues found
+- Ran `wiki_lint.py` after the closed-loop/adaptive neuromodulation update; the report remained dominated by pre-existing broken wikilinks and raw SHA drift across older pages.
+- The new raw captures and query page were corrected to match the wiki hash convention, so the remaining lint debt is inherited rather than introduced by this run.
+
+## [2026-04-27] maintenance | biomarker-enriched cognition effect sizes filed
+- Marked `P1-06` as in progress in `TODO.md` before research work and advanced the session pointer from `P1-05`.
+- Added raw captures for the SUPERBRAIN-MEET APOE/PRS reanalysis, PENSA APOE-ε4 carrier trial, APOE4 exercise meta-analysis, CYCLE-AD protocol, APOE ε4 lifestyle-cognitive-reserve paper, and the MIND carotenoid/APOE analysis.
+- Created `queries/biomarker-enriched-enrollment-and-cognition-effect-sizes.md` to capture the current state of biomarker-enriched cognition trial evidence.
+- Updated `index.md` to surface the new query page.
+- Current take: biomarker enrichment can sharpen a cognition signal when the biomarker tracks the mechanism, but the field still has mixed and low-certainty evidence, so it is a responder-mapping tool more than a guaranteed effect-size booster.
+
+## [2026-04-27] lint | 158 issues found
+- Ran the bundled `wiki_lint.py` against the full wiki; the report is still dominated by pre-existing broken wikilinks and raw SHA drift.
+- The new triad page and raw captures were added cleanly; the remaining output is the existing maintenance backlog rather than a new regression from this run.
+
+## [2026-04-27] maintenance | exercise-creatine-metabolic-peptide triad tracked
+- Marked `P1-05` as in progress in `TODO.md` and updated the active session pointer from `P1-04`.
+- Added raw captures for PMID 24098469, PMID 34351816, PMID 35713933, PMID 36841762, PMID 39569437, and PMID 41562376.
+- Created `queries/exercise-creatine-metabolic-peptide-triad.md` to record the current absence of a direct three-way cognition trial and the strongest proxy evidence.
+- Updated `index.md`, `concepts/creatine-cognitive-support.md`, `concepts/incretin-therapies-brain-health.md`, and `entities/mots-c.md` to surface the new triad hypothesis.
+- Current take: the stack is mechanistically coherent but still proxy-only; exercise and creatine show context-sensitive cognitive signals, while the peptide side is mainly cardiometabolic or biomarker-level so far.
+
+## [2026-04-27] maintenance | CBT-I sequencing question added
+- Marked `P1-03` as in progress in `TODO.md` and advanced the active session pointer from the prior rTMS/CBT-I watchlist item.
+- Added raw captures for the direct CBT-I cognition trials, the mPFC-rTMS insomnia trial and protocol, the sleep-deprivation rTMS/tDCS comparators, and the CBT-I plus PAP sequencing analog.
+- Added `queries/cbt-i-and-neuromodulation-sequence-effects-on-cognition.md` to capture the current evidence gap and the sleep-first inference.
+- Updated `index.md`, `concepts/cbt-i-and-cognition.md`, `concepts/repetitive-transcranial-magnetic-stimulation-and-cognition.md`, and `concepts/transcranial-direct-current-stimulation-and-cognition.md` to surface the new sequencing question.
+- Current take: direct CBT-I + neuromodulation cognition evidence still appears absent, so the best-supported interpretation is that sleep stabilization should come before any enhancement-oriented stimulation protocol.
+
+## [2026-04-27] maintenance | circadian-autonomic coupling tracked
+- Marked `P1-02` as the active item in `TODO.md` and advanced the session pointer from the prior watchlist run.
+- Added raw captures for `pubmed-35209793-bright-light-hrv.md` and `pubmed-36327249-taVNS-circadian-hrv.md`.
+- Updated `comparisons/circadian-and-sleep-interventions-for-performance-and-cognition.md`, `concepts/bright-light-therapy-and-cognition.md`, and `concepts/transcutaneous-auricular-vagus-nerve-stimulation.md` to record the indirect morning-light + morning-taVNS hypothesis.
+- Current take: the combo remains untested, but both interventions show timing-sensitive autonomic effects that make the stack biologically plausible.
+
+## [2026-04-27] lint | 158 issues found
+- Ran `wiki_lint.py` against the full wiki; the report was dominated by pre-existing broken wikilinks and raw SHA256 drift, plus a small set of frontmatter omissions in older pages.
+- No issues were introduced by the current negative-evidence watchlist update.
+
+## [2026-04-27] maintenance | negative-evidence watchlist promoted to contradiction log
+- Marked `P0-09` complete and advanced the session pointer to `P0-14` in `TODO.md`.
+- Expanded `queries/negative-evidence-watchlist-for-cognition-interventions.md` with a contradiction log and responder-hint section covering incretins, taVNS, tDCS, intranasal insulin, tPBM, tACS, and creatine.
+- No new raw captures were added in this pass; the update synthesized the current null and biomarker-only source set into a reusable navigation layer.
+
+## [2026-04-27] maintenance | negative-evidence sweep sharpened for tDCS and intranasal insulin
+- Kept `P0-09` active in `TODO.md` and narrowed the session focus to newer null or biomarker-only trials.
+- Added raw captures for `pubmed-40004217-tdcs-cognitive-stimulation-amci-null.md` and `pubmed-40253245-intranasal-insulin-ms-null.md`.
+- Updated `queries/negative-evidence-watchlist-for-cognition-interventions.md`, `concepts/transcranial-direct-current-stimulation-and-cognition.md`, and `concepts/intranasal-insulin-and-cognition.md` so the null branches are explicit rather than implied.
+
+## [2026-04-27] maintenance | HBOT review tightened around sham controls
+- Marked `P0-08` as in progress first in `TODO.md`, then started the HBOT evidence-quality pass.
+- Added raw capture for `pubmed-24052094-hbot-persistent-postconcussion-symptoms.md` to preserve the sham-controlled PCS trial that reported null symptom and secondary cognitive outcomes.
+- Updated `queries/hbot-evidence-quality-review.md` and `concepts/hyperbaric-oxygen-neurocognitive-recovery.md` to foreground the 2014/2015 sham-controlled nulls, the completed-but-unreported HOT-POCS registry, and the retraction-aware interpretation.
+
+## [2026-04-27] maintenance | intranasal-insulin scan refreshed with device and MS null data
+- Marked `P0-03` as in progress first in `TODO.md`, then updated the intranasal-insulin research layer with two new 2025 raw captures.
+- Added raw notes for `pubmed-40253245-intranasal-insulin-multiple-sclerosis-cognition.md` and `pubmed-40703476-intranasal-insulin-pet-aging-mci.md`.
+- Updated `concepts/intranasal-insulin-and-cognition.md` and `queries/intranasal-insulin-2024-2025-scan.md` to reflect the ViaNase null MS trial, the Aptar PET device-validation study, and the stronger device/responder-state framing.
+- Current take: intranasal insulin remains phenotype-sensitive rather than broadly positive, and delivery hardware now looks like a real part of the evidence story.
+
+## [2026-04-27] maintenance | taVNS scan refreshed with stress and inflammation layers
+- Marked `P0-02` as in progress first in `TODO.md`, then completed the taVNS research pass and advanced the next active item to `P0-03`.
+- Added raw captures for `pubmed-39936474-taVNS-cortisol-stress-inflammation.md`, `pubmed-40130364-taVNS-long-latency-sensory-processing.md`, `pubmed-40629377-taVNS-primary-insomnia-bf-fc.md`, `pubmed-40958978-taVNS-stress-regulation-eeg-questionnaire.md`, and `pubmed-41428140-taVNS-stroke-inflammatory-biomarkers.md`.
+- Updated `concepts/transcutaneous-auricular-vagus-nerve-stimulation.md`, `queries/transcutaneous-auricular-vagus-nerve-stimulation-2025-2026-scan.md`, and `queries/healthy-adult-cognition-signals.md` to separate healthy cognition from stress-resilience, insomnia-responder, and anti-inflammatory evidence.
+- The updated take is that taVNS has a narrow healthy-memory signal plus stronger state-regulation and inflammation support, but still no broad healthy-adult enhancement proof.
+
+## [2026-04-27] maintenance | tPBM scan refreshed with mTBI and dual-neuromodulation RCTs
+- Marked `P0-01` as the active item for this session in `TODO.md`.
+- Added raw captures for `pubmed-40485299-tpbm-mtbi-cognitive-postconcussion-ptsd.md` and `pubmed-40254536-combined-tms-tpbm-mci-working-memory.md`.
+- Updated `concepts/transcranial-photobiomodulation.md` and `queries/transcranial-photobiomodulation-2025-2026-scan.md` to include the newer 2025 cognition-positive mTBI RCT and the adjunctive TMS + tPBM MCI RCT.
+- The scan did not surface a pooled 2025-2026 meta-analysis, so the current evidence picture is still a small-RCT plus systematic-review cluster rather than a decisive meta-analytic one.
+
+## [2026-04-27] maintenance | tPBM and creatine combo hypothesis filed
+- Marked `P1-01` in `TODO.md` as in progress.
+- Added `queries/tpbm-creatine-combination-logic.md` to capture the current evidence gap and the mitochondrial-state hypothesis.
+- Updated `concepts/transcranial-photobiomodulation.md`, `concepts/creatine-cognitive-support.md`, `queries/safety-interaction-matrix-for-multi-modal-stacks.md`, and `index.md` to link the new page.
+- No direct human tPBM + creatine cognition trial surfaced in the current search, so the new page is explicitly hypothesis-level.
+
+## [2026-04-27] maintenance | negative-evidence watchlist sharpened
+- Marked `P0-14` in `TODO.md` as in progress before any research edits.
+- Updated `queries/negative-evidence-watchlist-for-cognition-interventions.md` to add a biomarker-vs-endpoint split, intranasal-insulin physiology caveats, and HBOT null/retraction context.
+- Added HBOT sham-RCT, HBOT retraction, HBOT adverse-effects, and intranasal-insulin CBF review sources to the watchlist anchor set.
+
+## [2026-04-27] maintenance | incretin confidence updated after EVOKE/EVOKE+ readout
+- Marked `P0-13` in `TODO.md` as completed after updating the incretin brain-health page.
+- Updated `concepts/incretin-therapies-brain-health.md` to state that EVOKE/EVOKE+ was negative on the primary AD progression endpoint, which lowers confidence in any broad cognitive-enhancement claim while leaving phenotype-specific benefit plausible.
+- Kept the incretin branch linked to `[[incretin-therapies-brain-health-2026-scan]]` and `[[negative-evidence-watchlist-for-cognition-interventions]]` for navigation.
+
+## [2026-04-27] maintenance | practical cognitive measurement stack started
+- Marked `P0-12` in `TODO.md` as in progress.
+- Added raw captures for short PVT validation, n-back validity, task-switching review, delayed recall screening, smart EMA completion, portable HRV accuracy, actigraphy review, and CGM review.
+- Added `queries/practical-cognitive-measurement-stack.md`.
+- Updated `index.md`, `TODO.md`, and `log.md`.
+
+## [2026-04-27] maintenance | negative-evidence cognition watchlist started
+- Marked `P0-09` in `TODO.md` as in progress.
+- Added `queries/negative-evidence-watchlist-for-cognition-interventions.md` to collect null, failed, and biomarker-only cognition branches.
+- Updated `index.md` to surface the new watchlist and refreshed the page count.
+
+## [2026-04-27] maintenance | creatine cognition scan started
+- Marked `P0-07` in `TODO.md` as in progress.
+- Added raw captures for PubMed 39070254, 38418482, 40854087, 35984306, and ClinicalTrials.gov NCT06948149, NCT07472426, and NCT06677359.
+- Added `queries/creatine-cognition-2026-scan.md`.
+- Updated `concepts/creatine-cognitive-support.md`, `queries/healthy-adult-cognition-signals.md`, `comparisons/adjunctive-interventions-for-cognition.md`, `index.md`, and `log.md`.
+
+## [2026-04-27] maintenance | tDCS/tACS parameter scan started
+- Marked `P0-06` in `TODO.md` as in progress.
+- Added `queries/tdcs-tacs-parameter-response-2025-2026-scan.md`.
+- Added raw captures for PubMed 39905569, 38452749, 40633904, 40292419, 36563998, 39438426, 41034500, 40283048, 40567421, and ClinicalTrials.gov NCT06202872, NCT06740864, and NCT05923606.
+- Updated `concepts/transcranial-direct-current-stimulation-and-cognition.md`, `concepts/transcranial-alternating-current-stimulation-and-cognition.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, `queries/healthy-adult-cognition-signals.md`, `index.md`, and `log.md`.
+- Tried to run `scripts/wiki_lint.py`, but this repo does not contain that script.
+
+## [2026-04-27] maintenance | rTMS protocol scan started
+- Marked `P0-05` in `TODO.md` as in progress.
+- Added raw captures for PubMed 37526325, 39866659, 40065917, and 40769285.
+- Added `queries/rtms-cognition-protocols-2025-2026-scan.md`.
+- Updated `concepts/repetitive-transcranial-magnetic-stimulation-and-cognition.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, `index.md`, and `TODO.md`.
+
+## [2026-04-27] maintenance | intranasal-insulin backlog item started
+- Marked `P0-03` in `TODO.md` as in progress.
+- Added `queries/intranasal-insulin-2024-2025-scan.md` and supporting raw source notes for the latest intranasal-insulin cognition and neurocognitive literature.
+- Updated `concepts/intranasal-insulin-and-cognition.md` and `index.md` to surface the new evidence layer.
+
+## [2026-04-27] maintenance | background cognition frontier loop started
+- Removed the cron job and launched a persistent background task: /Users/peterhucik/wiki/scripts/frontier_loop.py.
+- Marked plan row 181 active for continuous research and heartbeat updates.
+
+## [2026-04-27] maintenance | background frontier loop simplified
+- Removed the while loop from /Users/peterhucik/wiki/scripts/frontier_loop.py.
+- Stopped the running background process so the script is now one-shot instead of continuous.
+
+## [2026-04-27] maintenance | frontier loop script deleted
+- Deleted /Users/peterhucik/wiki/scripts/frontier_loop.py.
+- The continuous-loop experiment is retired; future work will use a different approach.
+
+## [2026-04-27] maintenance | plan file removed
+- Deleted /Users/peterhucik/wiki/plan.md.
+- The wiki is no longer using plan.md as the coordination file.
+
+## [2026-04-27] query | frontier cognition research batch
+- Completed the first research batch for psychedelic-adjacent compounds, psychoplastogens, traditional/eastern medicine, and herbal cognition bridges.
+- Findings will be used to seed bridge/comparison pages in the next wiki update.
+
+## [2026-04-27] maintenance | scope expansion for adjacent research branches
+- Broadened the schema to explicitly welcome psychedelic-adjacent compounds, non-hallucinogenic psychedelic variants, and eastern/traditional medicine branches.
+- Added new taxonomy tags for future ingestion and cross-linking work.
+
+## [2026-04-27] maintenance | raw-to-main PubMed link crawl
+- Completed plan row 180 with body wikilinks from the main wiki pages to all 57 raw PubMed notes.
+- Verified the raw layer is now visible from the main graph.
+
+## [2026-04-27] maintenance | navigation cleanup and graph tightening
+- Completed plan row 179 with a full navigation cleanup pass.
+- Delegated disjoint subagents across peptide, sleep/circadian, and summary/query slices.
+- Verified the requested slice now has 0 orphans, 0 low-inbound pages, 0 low-outbound pages, 0 broken links, 0 missing index entries, 0 extra index entries, and 0 raw SHA mismatches.
+
+## [2026-04-27] create | peptide entity expansion
+- Added nine peptide entity pages: semax, selank, cortexin, kortagen, pinealon, dihexa, bpc-157, thymosin-beta-4, and mots-c.
+- Added ten new raw source notes and refreshed /Users/peterhucik/wiki/index.md, /Users/peterhucik/wiki/concepts/peptide-neuroprotection.md, /Users/peterhucik/wiki/comparisons/neurocognitive-interventions-under-study.md, /Users/peterhucik/wiki/queries/most-promising-methods-for-cognition.md, /Users/peterhucik/wiki/queries/medicine-cognition-summary.md, and /Users/peterhucik/wiki/queries/healthy-adult-cognition-signals.md.
+
+## [2026-04-27] maintenance | non-active navigation and backlink tightening
+- Updated /Users/peterhucik/wiki/index.md, /Users/peterhucik/wiki/concepts/cbt-i-and-cognition.md, /Users/peterhucik/wiki/concepts/bright-light-therapy-and-cognition.md, /Users/peterhucik/wiki/concepts/circadian-disruption-and-cognition.md, /Users/peterhucik/wiki/concepts/sleep-banking-and-sleep-extension.md, /Users/peterhucik/wiki/comparisons/sleep-and-circadian-interventions-for-cognition.md, /Users/peterhucik/wiki/comparisons/circadian-and-sleep-interventions-for-performance-and-cognition.md, /Users/peterhucik/wiki/queries/medicine-cognition-summary.md, /Users/peterhucik/wiki/queries/most-promising-methods-for-cognition.md, and /Users/peterhucik/wiki/queries/healthy-adult-cognition-signals.md.
+- Added clearer hub links between the summary, ranking, and sleep/circadian comparison pages while leaving the active metabolic-brain, neuromodulation, and peptide slices untouched.
+
+
+## [2026-04-27] maintenance | row 172 non-active reciprocal backlink spot-check
+- Claimed and completed plan row 172.
+- Ran a maintenance-only integrity scan across non-raw pages and found no safe non-overlapping reciprocal backlink candidate outside rows 3–5.
+- No content page was edited.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] maintenance | row 171 non-active reciprocal backlink spot-check
+- Claimed and completed plan row 171.
+- Ran a maintenance-only integrity scan and found no safe non-active reciprocal backlink candidate.
+- Verified the wiki graph stayed clean: 23 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 extra index entries, and 0 pages over 200 lines.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] maintenance | row 170 reciprocal backlink and index/frontmatter spot-check
+- Claimed and completed plan row 170.
+- Added a reciprocal backlink between [[adjunctive-interventions-for-cognition]] and [[incretin-therapies-brain-health]].
+- Updated concepts/incretin-therapies-brain-health.md and refreshed plan.md, progress.md, and log.md.
+
+
+## [2026-04-27] maintenance | row 168 non-active integrity scan
+- Claimed and completed plan row 168.
+- Verified 23 content pages with 0 broken links, 0 orphans, 0 missing index entries, 0 extra index entries, 0 pages over 200 lines, and 0 one-way links among non-active pages.
+- No safe non-overlapping reciprocal backlink candidate existed outside rows 3–5.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] maintenance | row 166 no-op reciprocal backlink spot-check
+- Claimed and completed plan row 166.
+- Confirmed no safe non-overlapping reciprocal backlink candidate existed outside rows 3–5.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] maintenance | row 165 non-active integrity scan
+- Claimed and completed plan row 165.
+- Verified the non-raw graph remains clean: 23 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 extra index entries, and 0 one-way links among non-active pages.
+- No safe non-overlapping reciprocal backlink candidate existed outside rows 3–5.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] maintenance | row 169 non-active integrity scan
+- Claimed and completed plan row 169.
+- Verified 23 content pages with 0 broken links, 0 orphans, 0 missing index entries, 0 extra index entries, and 0 safe non-overlapping reciprocal backlink candidates outside rows 3–5.
+- Refreshed plan.md, progress.md, and log.md.
+
+## [2026-04-27] update | loop stopped and summary page created
+- Killed the background wiki loop process proc_8eb5d3a65c56.
+- Added /Users/peterhucik/wiki/queries/medicine-cognition-summary.md as a high-level synthesis page for the wiki's main intervention clusters.
+
+## [2026-04-27] maintenance | sleep/circadian source-note linking
+- Added inline raw source-note wikilinks to the sleep/circadian concept and comparison pages: cbt-i-and-cognition, bright-light-therapy-and-cognition, circadian-disruption-and-cognition, sleep-banking-and-sleep-extension, sleep-and-circadian-interventions-for-cognition, and circadian-and-sleep-interventions-for-performance-and-cognition.
+- Kept the edits minimal by placing the links as short source-note lines and left raw/ files untouched.
+
+## 2026-04-27 10:02 maintenance | background frontier loop started
+- Continuous background task launched from scripts/frontier_loop.py.
+- Monitoring psychedelic-adjacent and traditional-medicine cognition branches.
+## 2026-04-27 10:02 maintenance | background frontier heartbeat
+- Refreshed the continuous frontier research loop for psychedelic-adjacent and traditional-medicine topics.
+- Heartbeat wrote the latest PubMed candidate titles to progress.md.
+## 2026-04-27 10:22 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:22 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 5 new / 5 scanned; top hit: Benchmarking Vision Foundation Models for Domain-Generalizable Face Anti-Spoofing
+- traditional-medicine: 5 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- sleep-circadian: 5 new / 5 scanned; top hit: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
+- peptides: 2 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 3 new / 5 scanned; top hit: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
+- Created raw notes: /Users/peterhucik/wiki/raw/papers/arxiv-2604.19196v1-benchmarking-vision-foundation-models-for-domain-generalizab.md; /Users/peterhucik/wiki/raw/papers/arxiv-2604.06821v1-magnetic-geometry-of-m-dwarfs-in-the-southern-plato-field.md; /Users/peterhucik/wiki/raw/papers/arxiv-2603.27764v1-exact-phase-space-analytical-solution-for-the-power-law-damp.md; /Users/peterhucik/wiki/raw/papers/arxiv-2603.27342v1-shroom-a-python-framework-for-ambisonics-room-acoustics-simu.md; /Users/peterhucik/wiki/raw/papers/arxiv-2603.26775v1-learning-to-select-visual-in-context-demonstrations.md; /Users/peterhucik/wiki/raw/papers/arxiv-2604.22716v1-what-are-the-functions-of-primary-visual-cortex-v1.md; /Users/peterhucik/wiki/raw/papers/arxiv-2604.22695v1-time-localized-parametric-decomposition-of-respiratory-airfl.md; /Users/peterhucik/wiki/raw/papers/arxiv-2604.22649v1-structure-guided-diffusion-model-for-eeg-based-visual-cognit.md...
+
+## [2026-04-27] maintenance | arXiv frontier cleanup
+- Deleted 20 off-topic raw papers created by the first broad arXiv sweep.
+- Tightened the loop filters so future cycles stay inside the medicine/cognition graph.
+
+## 2026-04-27 10:26 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:26 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 5 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 2 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 5 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 1 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- Created raw notes: /Users/peterhucik/wiki/raw/papers/arxiv-2511.18325v1-brain-mgf-multimodal-graph-fusion-network-for-eeg-fmri-brain.md; /Users/peterhucik/wiki/raw/papers/arxiv-2506.18314v2-brainsymphony-a-parameter-efficient-multimodal-foundation-mo.md; /Users/peterhucik/wiki/raw/papers/arxiv-2503.23245v1-simulation-of-non-ordinary-consciousness.md; /Users/peterhucik/wiki/raw/papers/arxiv-2411.19840v1-neuroplasticity-and-psychedelics-a-comprehensive-examination.md; /Users/peterhucik/wiki/raw/papers/arxiv-1910.05176v1-psilocybin-based-therapy-for-cancer-related-distress-a-syste.md; /Users/peterhucik/wiki/raw/papers/arxiv-2507.02947v1-the-application-of-large-language-models-on-major-depressive.md; /Users/peterhucik/wiki/raw/papers/arxiv-2505.09643v1-a-computational-approach-to-epilepsy-treatment-an-ai-optimiz.md; /Users/peterhucik/wiki/raw/papers/arxiv-2604.22275v1-early-preconfiguration-failure-a-novel-predictor-of-the-repe.md...
+## 2026-04-27 10:27 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:27 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+## 2026-04-27 10:42 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:42 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+## 2026-04-27 10:44 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:44 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+
+## 2026-04-27 maintenance | autonomous arXiv loop hardening
+- Added crash recovery to /Users/peterhucik/wiki/scripts/continuous_arxiv_loop.py so transient exceptions do not stop the loop.
+- Replaced duplicate running instances with one detached background process (PID 9921).
+## 2026-04-27 10:52 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:52 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+## 2026-04-27 10:52 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:52 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+## 2026-04-27 10:57 maintenance | autonomous arXiv frontier loop started
+- Started the continuous arXiv frontier loop for the medicine/cognition wiki.
+- The loop will scan for new papers, ingest them into raw/papers, and update a living arXiv query page.
+## 2026-04-27 10:57 maintenance | autonomous arXiv frontier cycle
+- Ran the autonomous arXiv frontier cycle.
+- psychedelic-adjacent: 0 new / 5 scanned; top hit: Brain-MGF: Multimodal Graph Fusion Network for EEG-fMRI Brain Connectivity Analysis Under Psilocybin
+- traditional-medicine: 0 new / 2 scanned; top hit: The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products
+- sleep-circadian: 0 new / 5 scanned; top hit: Early Preconfiguration Failure: A Novel Predictor of the Repetitive Subconcussion
+- peptides: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+- bridges: 0 new / 5 scanned; top hit: What are the functions of primary visual cortex (V1)?
+
+## [2026-04-27] create | limitless cognition ideation and research backlog
+- Added /Users/peterhucik/wiki/IDEAS.md with new research directions, missed synergies, unheard hypotheses, and testable open questions focused on cognitive-performance ceilings.
+- Added /Users/peterhucik/wiki/TODO.md as a Hermes-ready prioritized online research queue with evidence requirements and definition-of-done criteria.
+
+## [2026-04-27] delete | continuous arXiv loop removed
+- Deleted /Users/peterhucik/wiki/scripts/continuous_arxiv_loop.py and /Users/peterhucik/wiki/scripts/watch_continuous_arxiv_loop.py.
+- Removed LaunchAgents /Users/peterhucik/Library/LaunchAgents/com.peterhucik.wiki.arxiv-loop.plist and /Users/peterhucik/Library/LaunchAgents/com.peterhucik.wiki.arxiv-loop-monitor.plist.
+- Deleted the loop runtime files from /Users/peterhucik/wiki/_meta/.
+
+## [2026-04-27] update | improved cognition ideas and Hermes research plan
+- Reviewed the first-pass IDEAS.md and TODO.md and expanded them with practical research tracks, measurement infrastructure, online source targets, seed sources, and missed candidate branches.
+- Added directions for wake-promoting comparators, alternative brain fuels, methylene blue, Klotho, closed-loop sleep reactivation, temporal interference stimulation, focused-ultrasound delivery, and n-of-1 research design.
+
+## 2026-04-27 maintenance | incretin cognition scan started
+- Marked `P0-04` in `TODO.md` as in progress.
+- Added raw captures for PubMed 41104525, 41218611, 41865758, 38565814, and ClinicalTrials.gov NCT07083154.
+- Added `queries/incretin-therapies-brain-health-2026-scan.md`.
+- Updated `concepts/incretin-therapies-brain-health.md`, `comparisons/adjunctive-interventions-for-cognition.md`, `index.md`, and `log.md`.
+
+## 2026-04-27 09:51 maintenance | taVNS scan started
+- Marked `P0-02` in `TODO.md` as in progress.
+- Added raw captures for PubMed 39815765, 40908377, 39124651, 38452937, and 39854697.
+- Added `queries/transcutaneous-auricular-vagus-nerve-stimulation-2025-2026-scan.md`.
+- Updated `concepts/transcutaneous-auricular-vagus-nerve-stimulation.md`, `queries/healthy-adult-cognition-signals.md`, `comparisons/adjunctive-interventions-for-cognition.md`, `index.md`, and `log.md`.
+- Ran the wiki linter; output was dominated by pre-existing broken links and raw hash drift warnings outside this change set.
+
+## 2026-04-27 11:41 maintenance | tPBM evidence scan started
+- Marked `P0-01` in `TODO.md` as in progress.
+- Added `queries/transcranial-photobiomodulation-2025-2026-scan.md` with the latest tPBM evidence summary, effect snapshot, contradictions, and active trials.
+- Added raw captures for PubMed 39423445, 40822571, 40939031, 40482941, 36371017 and ClinicalTrials.gov NCT07224607, NCT04784416, NCT07209683.
+- Updated `concepts/transcranial-photobiomodulation.md`, `queries/healthy-adult-cognition-signals.md`, and `index.md` to surface the new evidence layer.
+
+## 2026-04-27 maintenance | rTMS protocol scan updated with pulse-window details
+- Marked `P0-05` in `TODO.md` as in progress.
+- Added raw captures for the 2025 Frontiers rTMS dose-response review, PubMed 38113027, 37759936, 39044102, and 31901449.
+- Updated `queries/rtms-cognition-protocols-2025-2026-scan.md` and `concepts/repetitive-transcranial-magnetic-stimulation-and-cognition.md` with the new pulse-window and protocol-sensitivity read.
+
+## [2026-04-27] update | validated ideas and TODO coordination pages
+- Stored the new rule in `SCHEMA.md`: `IDEAS.md` and `TODO.md` may exceed the usual 200-line page threshold because they are working synthesis and coordination documents.
+- Added `IDEAS.md`, `TODO.md`, and `queries/creatine-cognition-2026-scan.md` to `index.md`; updated the page count to 45.
+- Tightened `IDEAS.md` validation notes and added raw-source anchors for tPBM, creatine, intranasal-insulin stress-state, task-structure, and biomarker-robustness ideas.
+- Updated `TODO.md` with related-page links and a raw-capture queue for seed sources that are still not normal wiki evidence.
+## [2026-04-27] maintenance | HBOT evidence quality review started
+- Marked `P0-08` in `TODO.md` as in progress.
+- Added raw captures for the 2015 sham-controlled TBI RCT, the 2013 chronic PCS crossover trial, the HOT-POCS protocol, the 2024 retraction notice for the severe-TBI RCT, the HBOT adverse-effects meta-analysis, and the HOT-POCS registry record.
+- Added `queries/hbot-evidence-quality-review.md`.
+- Updated `hyperbaric-oxygen-neurocognitive-recovery.md`, `adjunctive-interventions-for-cognition.md`, `index.md`, and `log.md` to reflect the retraction-aware HBOT read.
+## [2026-04-27] maintenance | multi-modal stack safety matrix added
+- Marked `P0-10` in `TODO.md` as in progress.
+- Added raw captures for taVNS systematic review safety, creatine side-effect review, BPC-157 human safety pilot, cerebrolysin anaphylaxis case report, and the tDCS/tACS adverse-events review.
+- Added `queries/safety-interaction-matrix-for-multi-modal-stacks.md`.
+- Updated `index.md` and `log.md` to surface the new safety layer.
+## [2026-04-27] maintenance | pharmacology comparator map started
+- Marked `P0-11` in `TODO.md` as in progress.
+- Added raw captures for caffeine, modafinil/methylphenidate/d-amphetamine, nicotine, modafinil and armodafinil labels, solriamfetol label, pitolisant label, and orexin agonist cognition analysis.
+- Added `comparisons/pharmacology-comparator-map.md` and linked it from `queries/most-promising-methods-for-cognition.md`.
+- Updated `index.md` and `log.md` to surface the new pharmacology baseline layer.
+## [2026-04-27] maintenance | taVNS scan broadened with direct memory signals
+- Marked `P0-02` in `TODO.md` as in progress after closing out the previous tPBM item.
+- Added raw captures for PMID 34043386, PMID 39039354, PMID 41046500, and PMID 42030358.
+- Updated `queries/transcutaneous-auricular-vagus-nerve-stimulation-2025-2026-scan.md`, `concepts/transcutaneous-auricular-vagus-nerve-stimulation.md`, and `queries/healthy-adult-cognition-signals.md` with the corrected memory-trial signal and the newer associative-memory pilot.
+## [2026-04-27] maintenance | incretin scan tightened around direct cognition outcomes
+- Marked `P0-04` as the active run in `TODO.md`.
+- Updated `concepts/incretin-therapies-brain-health.md` to separate the positive T2DM meta-analysis from the negative MCI and AD readouts.
+- Updated `queries/incretin-therapies-brain-health-2026-scan.md` to add the latest effect sizes, protocol details, and the current GLP-1RA-heavy vs GIP-light evidence split.
+## [2026-04-27] maintenance | creatine scan refreshed with sleep-loss mechanism papers
+- [2026-04-27] maintenance | washout durability branch opened
+- Marked `P1-08` as in progress in `TODO.md` and created `queries/washout-durability-for-cognition-interventions.md`.
+- Added durability framing to `concepts/transcranial-direct-current-stimulation-and-cognition.md`, `concepts/cbt-i-and-cognition.md`, and `concepts/sleep-banking-and-sleep-extension.md`.
+- Updated `index.md` so the new washout query is discoverable from the catalog.
+- Current take: true retained cognitive gains are still rare; tPBM and one biomarker-enriched lifestyle branch have the clearest delayed follow-up signals, while tDCS and most sleep-countermeasure literature still look acute rather than durable.
+- Advanced `P0-07` in `TODO.md` by updating the session pointer first, then captured two new raw notes for creatine under sleep deprivation.
+- Added raw captures for `pubmed-40520504-creatine-sleep-deprivation-hemispheric-asymmetry.md` and `pubmed-40988912-sleep-deprivation-circulating-creatine-pilot.md`.
+- Updated `queries/creatine-cognition-2026-scan.md`, `concepts/creatine-cognitive-support.md`, and `comparisons/adjunctive-interventions-for-cognition.md` to show that the strongest creatine claim is now state-dependent fatigue-resilience under strain, not broad baseline enhancement.
+- Current take: the 2024 rescue RCT remains the main cognition signal, but 2025 sleep-loss biomarker work strengthens the mechanistic framing for why creatine looks better under high-demand conditions.
+
+## [2026-04-27] maintenance | rTMS protocol synthesis tightened around target and dose windows
+- Marked `P0-05` in `TODO.md` as the completed active run and advanced the backlog to `P0-06`.
+- Added a protocol-family table and dose-window framing to `concepts/repetitive-transcranial-magnetic-stimulation-and-cognition.md`.
+- Expanded `queries/rtms-cognition-protocols-2025-2026-scan.md` with protocol families, the intermediate pulse-window read, and the current contradiction list.
+- Clarified the rTMS row in `comparisons/noninvasive-brain-stimulation-for-cognition.md` so the comparison bucket reflects DLPFC defaulting, precuneus targeting, iTBS, and pulse-window sensitivity.
+## [2026-04-27] maintenance | HBOT evidence quality tightened
+- Kept `P0-08` active in `TODO.md` and updated the session pointer before research.
+- Updated `queries/hbot-evidence-quality-review.md` to reflect the 2025 four-study meta-analysis, the weaker randomized subset, and the still-empty HOT-POCS registry.
+- Updated `concepts/hyperbaric-oxygen-neurocognitive-recovery.md` to keep the retraction-aware framing current.
+- Updated `comparisons/adjunctive-interventions-for-cognition.md` so HBOT is described as a positive pooled signal with weaker clean-comparator support.
+## [2026-04-27] maintenance | tPBM concussion null added
+- Marked `P0-09` as the active run in `TODO.md`.
+- Added a raw capture for the 2024 persistent-concussion tPBM RCT and hashed it as a raw note.
+- Updated `queries/negative-evidence-watchlist-for-cognition-interventions.md`, `concepts/transcranial-photobiomodulation.md`, and `queries/transcranial-photobiomodulation-2025-2026-scan.md` to keep the tPBM branch balanced with its recovery-phenotype null.
+## [2026-04-27] maintenance | intranasal insulin and stimulation interaction mapped as proxy-only
+- Advanced `P1-04` in `TODO.md` and kept the session pointer aligned before research.
+- Added raw captures for PMID 28392373, PMID 28487570, and PMID 39332547.
+- Added `queries/intranasal-insulin-brain-stimulation-interaction.md` to record the current absence of a direct human combo trial and the strongest metabolic proxy evidence.
+- Updated `concepts/intranasal-insulin-and-cognition.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, and `index.md` so the new interaction note is discoverable from both the metabolic and stimulation clusters.
+## [2026-04-27] maintenance | closed-loop branch sharpened around phase windows
+- Marked `P1-07` as the active run in `TODO.md` and kept the session pointer aligned before research.
+- Added raw captures for PMID 40928755, PMID 41110657, and PMID 40626105 so the adaptive-neuromodulation branch now includes the latest alpha-phase and spindle-phase findings.
+- Updated `queries/closed-loop-and-adaptive-neuromodulation-for-cognitive-performance.md` with the new phase-window, learner-dependent, and lab-vs-ecological contrasts.
+- Added a sleep-comparison pointer in `comparisons/sleep-and-circadian-interventions-for-cognition.md` so the closed-loop sleep branch is reachable from the broader sleep/cognition map.
+- Current take: closed-loop cognition looks real but conditional; phase timing and learner phenotype are now first-order moderators, not implementation details.
+# [2026-04-27] maintenance | chronotype response scan opened
+- Marked `P1-09` as in progress in `TODO.md` and moved the session pointer from washout durability to chronotype-specific response.
+- Added raw captures for the new chronotype-response cluster: `pubmed-40458955-chronotype-sleep-extension-manipulation-adolescents.md`, `pubmed-37539684-chronotype-affective-response-sleep-restriction-deprivation.md`, `pubmed-32924897-bright-light-evening-chronotype-mdd.md`, `pubmed-37975923-chronotype-tailored-bright-light-breast-cancer.md`, `pubmed-31495294-morningness-eveningness-day-treatment-streams.md`, `pubmed-29764214-chronotype-antidepressant-chronotherapeutics-bipolar.md`, `pubmed-27259079-chronotype-light-therapy-fixed-time-sad.md`, and `pubmed-31530241-nb-uvb-chronotype-mood.md`.
+- Added `queries/chronotype-specific-response-across-sleep-stimulation-interventions.md` and linked it into the bright-light, sleep-extension, and circadian-performance hub pages.
+- Current take: chronotype is a credible moderator for circadian and chronotherapeutic interventions, but the direct brain-stimulation responder literature still looks thin.
+## [2026-04-27] maintenance | ketone ester sleep-loss branch filed
+- Marked `P1-16` as in progress in `TODO.md` before research, per workflow.
+- Added raw captures for `NCT05519644`, `NCT06032156`, `pubmed-34605026-ketone-monoester-obesity-cognition-cbf.md`, `pubmed-36297060-ketone-ester-simulated-soccer-mental-fatigue.md`, `pubmed-29451991-ketone-salts-high-intensity-exercise-null.md`, `pubmed-31655093-ketone-monoester-28d-safety.md`, `pubmed-39137624-ketone-ester-older-adults-safety.md`, and `pubmed-40315254-ketone-ester-hypoxia-null.md`.
+- Added `queries/ketone-esters-under-sleep-loss-and-high-load.md` and surfaced it in `index.md`.
+- Current take: ketone esters look more like a state-dependent metabolic rescue tool than a broad enhancer; the best human positive signal is in obesity, while sleep-loss evidence is still registry-level and the high-load literature is mixed to null.
+## [2026-04-27] lint | 170 issues found
+## [2026-04-27] maintenance | methylene blue scan filed
+- Marked `P1-17` as in progress in `TODO.md` and moved the session pointer from anti-tolerance to methylene blue.
+- Added raw captures for the healthy-adult imaging trial, the human connectivity study, claustrophobia extinction, PTSD exposure augmentation, the MB2 registry, and the current DailyMed label.
+- Added `queries/methylene-blue-2026-scan.md`, linked it from `healthy-adult-cognition-signals.md` and `most-promising-methods-for-cognition.md`, and surfaced it in `index.md`.
+- Current take: methylene blue has a real but narrow human memory/consolidation signal, while label-level serotonin/G6PD constraints keep it far from a casual wellness nootropic.
+## [2026-04-27] maintenance | Klotho scan refreshed with 2026 review and trial endpoints
+- Kept `P1-18` active in `TODO.md` and extended the Klotho pass with the newest review-level framing.
+- Added a raw capture for PMID 41983942 and updated `entities/klotho.md` and `queries/klotho-cognition-2026-scan.md` to include the 2026 review and registry endpoint detail.
+- Current take: Klotho still reads like a biomarker/resilience candidate rather than a proven enhancer; the 2026 review broadens the disease map, but causality and human intervention benefit remain unresolved.
+## [2026-04-27] lint | 174 issues found
+- Ran the wiki linter after the Klotho update; the repo still has extensive pre-existing broken links, raw-hash drift, and frontmatter issues outside this pass.
+
+## [2026-04-27] maintenance | closed-loop acoustic TMR branch filed
+- Marked `P1-19` as in progress in `TODO.md` and updated the current run pointer before research.
+- Added raw captures for PMID 40102385, PMID 40575621, and PMID 40983248 so the sleep-reactivation branch now has the newest phase-specific, REM, and cue-count evidence.
+- Created `queries/closed-loop-acoustic-stimulation-and-targeted-memory-reactivation.md`, updated `queries/closed-loop-and-adaptive-neuromodulation-for-cognitive-performance.md`, `comparisons/sleep-and-circadian-interventions-for-cognition.md`, and `index.md`, and kept the broader closed-loop hub linked to the sleep-specific branch.
+- Current take: closed-loop auditory cueing can move sleep physiology and sometimes retention, but the effect remains phase- and setting-dependent, with the home setting and null behavioral replications as the main contradiction.
+
+## [2026-04-27] maintenance | temporal interference cognition branch filed
+- Marked `P1-20` as in progress in `TODO.md` and updated the current run pointer from closed-loop sleep work to temporal interference stimulation.
+- Added raw captures for PMID 41167554, PMID 40470330, PMID 40925398, PMID 41040248, PMID 39059712, NCT06607432, NCT07215299, and NCT07339072 so the TI branch now has review, mechanistic, and registry coverage.
+- Created `queries/temporal-interference-stimulation-and-cognition.md`, updated `index.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, and `comparisons/neurocognitive-interventions-under-study.md`, and recorded the run in automation memory.
+- Current take: TI is now a real human deep-target research program with mild tolerability signals and parameter-sensitive memory effects, but it remains a target-engagement-heavy branch rather than a proven cognition enhancer.
+## [2026-04-27] maintenance | focused ultrasound BBB-opening scan filed
+- Marked `P1-21` as in progress in `TODO.md` before research, per workflow.
+- Added raw captures for PMID 40406679, PMID 39044508, NCT04118764, PMID 40404732, PMID 30046032, PMID 33399511, PMID 39113808, and PMID 39793012.
+- Created `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` and updated `concepts/focused-ultrasound-neuromodulation.md`, `comparisons/neurocognitive-interventions-under-study.md`, and `index.md`.
+- Current take: FUS-BBBO looks like the stronger translational branch of focused ultrasound for cognition-adjacent work, but the human evidence still supports platform feasibility and biomarker movement more than durable cognitive benefit.
+
+## [2026-04-27] maintenance | glymphatic-targeting interventions scan filed
+- Marked `P2-02` as in progress in `TODO.md` and moved the session from non-hallucinogenic psychoplastogens to glymphatic-targeting interventions.
+- Added raw captures for the LF-rTMS insomnia paper, the bright-light RCT, the UW trigeminal-stimulation registry, the carvedilol sleep-deprivation crossover registry, the insomnia DTI-ALPS paper, the subjective-cognitive-decline biomarker paper, and the adolescent glymphatic mediation preprint.
+- Created `queries/glymphatic-targeting-interventions-2026-scan.md` and updated `index.md`.
+- Current take: LF-rTMS is the only captured intervention with a direct cognition outcome plus glymphatic change; the rest of the branch is mostly biomarker- or protocol-level evidence, with sleep/insomnia phenotypes looking like the most plausible responders.
+
+## [2026-04-27] maintenance | Semax and Selank audit filed
+- Marked `P1-12` as in progress in `TODO.md` and moved the current run from Cerebrolysin to Semax/Selank.
+- Added raw captures for the older Semax human studies in optic nerve disease, cerebrovascular insufficiency, and posthypoxic encephalopathy, plus the older Selank randomized anxiety study and recent Semax/Selank preclinical notes.
+- Created `queries/semax-selank-2026-scan.md`, updated `entities/semax.md`, `entities/selank.md`, and `index.md`.
+- Current take: Semax still reads as recovery-oriented regional human evidence plus active preclinical work; Selank has one older human anxiolytic signal, but modern cognition evidence remains thin and mostly mechanistic.
+## [2026-04-27] maintenance | cerebrolysin scan filed
+- Marked `P1-11` as in progress in `TODO.md` and moved the session pointer from focused ultrasound to Cerebrolysin.
+- Added raw captures for the 2024 aMCI comparative study, the older AD RCTs, the acute stroke RCTs and HTA, and the active stroke rehab / aphasia / delirium trial records.
+- Created `queries/cerebrolysin-2026-scan.md` and updated `entities/cerebrolysin.md`, `concepts/peptide-neuroprotection.md`, `queries/medicine-cognition-summary.md`, and `index.md`.
+- Ran the wiki linter; it still reports broad pre-existing repo drift, but the new Cerebrolysin scan and raw captures were added cleanly.
+- Current take: Cerebrolysin has real blinded human cognition data in AD plus a recent aMCI signal, but the more modern branch is still recovery-oriented and safety-bounded by rare hypersensitivity.
+## [2026-04-27] maintenance | MOTS-c scan opened
+- Marked `P1-14` active in `TODO.md` and shifted the session pointer from Dihexa to MOTS-c.
+- Added raw captures for PMID 36761202, PMID 32052315, PMID 39160573, PMID 39559755, PMID 39827923, and ClinicalTrials.gov NCT07505745.
+- Created `queries/mots-c-2026-scan.md`, updated `entities/mots-c.md`, `concepts/peptide-neuroprotection.md`, `queries/medicine-cognition-summary.md`, `index.md`, and `TODO.md`, and refreshed the MOTS-c evidence thread around metabolic translation rather than cognition.
+- Current take: MOTS-c now has a clearer human translational foothold, but it remains a metabolism-first peptide with no direct cognition endpoint or validated enhancement protocol.
+
+## [2026-04-27] maintenance | thymosin beta-4 scan filed
+- Marked `P1-15` active in `TODO.md` before research and shifted the session pointer from the MOTS-c peptide branch to thymosin beta-4.
+- Added raw captures for the healthy-volunteer phase 1b registry record, the 2023 hippocampal neuronal-cell paper, and the 2012 TBI rat recovery paper, all of which support the CNS-adjacent but still indirect evidence layer.
+- Created `queries/thymosin-beta-4-2026-scan.md` and updated `entities/thymosin-beta-4.md`, `concepts/peptide-neuroprotection.md`, and `index.md` so the new branch is visible from the main wiki surfaces.
+- Current take: thymosin beta-4 is still a recovery / neurodegeneration candidate with one human safety/PK record and no human cognition endpoint; the best current evidence is preclinical or organoid-level.
+
+## [2026-04-27] maintenance | peptide safety and sourcing risk map filed
+- Marked `P1-22` active in `TODO.md` and retargeted the session from the thymosin beta-4 efficacy branch to peptide safety and sourcing risk.
+- Added raw captures for the current FDA bulk-compounding risk page and the FDA supplier-quality warning page so the sourcing layer has a live regulatory anchor.
+- Created `comparisons/peptide-safety-and-sourcing-risk-map.md` and updated `concepts/peptide-neuroprotection.md`, `entities/bpc-157.md`, `entities/semax.md`, `entities/selank.md`, `entities/mots-c.md`, `entities/dihexa.md`, `entities/thymosin-beta-4.md`, and `index.md`.
+- Current take: BPC-157 and full thymosin beta-4 have the clearest human exposure footholds, Semax and Selank remain thin and regionally scattered, and MOTS-c plus Dihexa are still the lowest-confidence research-compound bucket under current FDA language.
+## [2026-04-27] maintenance | lactate shuttle scan opened
+- Marked `P2-03` active in `TODO.md` before research and moved the session pointer from the glymphatic branch to lactate shuttle / astrocyte-neuron metabolism.
+- Added raw captures for the LEAN lactate clamp study, its methods paper, the older null AD lactate infusion trial, the CSF lactate AD-continuum study, and the core human brain-lactate metabolism papers from FDG-PET, exercise, microdialysis, and TBI uptake work.
+- Created `queries/lactate-shuttle-and-cognition-2026-scan.md` and updated `index.md` so the new branch is visible from the wiki catalog.
+- Current take: human metabolism work strongly supports lactate as a usable brain fuel, but cognition evidence is still mixed and phenotype-specific rather than a general nootropic win.
+## [2026-04-27] maintenance | lactate shuttle concept page filed
+- Kept `P2-03` active in `TODO.md` and tightened the active-run wording before expanding the branch.
+- Added raw captures for PMID 39566837, 40003952, and 39897526 so the lactate branch now has 2025 preclinical support in addition to the LEAN human clamp study.
+- Created `concepts/lactate-shuttle-and-cognition.md`, updated `queries/lactate-shuttle-and-cognition-2026-scan.md`, and added the new concept to `index.md`.
+- Current take: lactate now looks like a real brain-fuel / signaling axis with acute human clamp signal and stronger preclinical support, but the branch is still phenotype-sensitive and not a general healthy-adult nootropic.
+
+## [2026-04-27] maintenance | orexin axis scan extended
+- Switched `TODO.md` session focus from `P2-03` to `P2-04` and saved the backlog update first.
+- Added raw captures for PMID 40374039, 41401488, 40552089, 41610582, and ClinicalTrials.gov NCT07267559 so the orexin branch now includes the latest DORA delirium, insomnia, and healthy-volunteer task data.
+- Updated `queries/orexin-hypocretin-axis-interventions-2026-scan.md` and `comparisons/pharmacology-comparator-map.md` to separate orexin agonism from DORA sleep-restoration and delirium-prevention evidence.
+- Current take: orexin agonists now have a real NT1 cognition signal, while DORAs look useful for insomnia and possibly delirium-prone contexts, but neither side supports a broad healthy-adult enhancement claim yet.
+## [2026-04-27] maintenance | digital phenotype responder atlas filed
+- Marked `P2-06` active in `TODO.md` before research and saved the backlog update first, per automation rules.
+- Added raw captures for TMS-EEG biomarker prediction, passive-sensing treatment response in depression, passive-sensing cognition correlates in schizophrenia, an N100 rTMS responder paper, and a passive-sensing phenotype paper in MDD.
+- Created `queries/digital-phenotype-and-biomarker-responder-atlas.md`, updated `index.md`, and linked the new responder atlas from `queries/biomarker-enriched-enrollment-and-cognition-effect-sizes.md`.
+- Current take: the best responder signals are still EEG, fMRI connectivity, and genotype, while digital phenotype is most useful as an enrichment and state-stratification layer rather than a validated nootropic-responder predictor.
+## [2026-04-27] maintenance | foundation-model neuroscience scan filed
+- Marked `P2-07` active in `TODO.md` before research and shifted the session from the digital phenotype branch to foundation-model neuroscience utility.
+- Added raw captures for PMIDs 40205215, 40030291, 40460008, and 41289093 so the wiki now has a source layer for mechanistic generalization, phenotype prediction, AD diagnosis/prognosis, and disease-segmentation transfer.
+- Created `queries/foundation-model-neuroscience-2026-scan.md` and updated `index.md` so the branch is visible from the main catalog.
+- Current take: foundation models are most useful here as biomarker and phenotype-transfer tools, not as a direct cognition-enhancement story.
+# [2026-04-28] maintenance | focused-ultrasound BBBO scan sharpened
+- Marked `RC-03` active in `TODO.md` before research and saved the backlog update first.
+- Tightened `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` with the 2025 meta-analysis details: 8 studies, 57 AD participants, no cognitive deterioration, minor temporary AEs, and a delivery-first interpretation.
+- Added a separation note in `comparisons/neurocognitive-interventions-under-study.md` so BBB opening stays distinct from focused-ultrasound stimulation.
+- Current take: FUS-BBBO is still a safety-and-delivery platform with early biomarker control, not a proven cognitive enhancer.
+## [2026-04-27] maintenance | fampridine scan opened
+- Marked `P2-09` active in `TODO.md` before research and saved the backlog first.
+- Added raw captures for the healthy-volunteer genome-guided fampridine RCT, the Basel registry record, the RRMS preliminary cognition trial, and the current FDA label.
+- Created `entities/fampridine.md` and `queries/fampridine-working-memory-genome-guided-repurposing-2026-scan.md`, updated `comparisons/pharmacology-comparator-map.md` and `index.md`, and kept the branch framed as a responder-enrichment lead rather than a broad enhancer.
+- Current take: fampridine has a real but narrow WM signal, and the seizure/renal safety ceiling keeps it far from the low-risk comparator stack.
+## [2026-04-28] maintenance | lactate shuttle scan refreshed
+- Marked `P2-03` active in `TODO.md` before research and saved the backlog update first.
+- Added raw captures for the 2025 ANLS review and the 2025 exercising-brain lactate review to capture the mechanism-versus-fatigue split.
+- Updated `queries/lactate-shuttle-and-cognition-2026-scan.md` and `concepts/lactate-shuttle-and-cognition.md` to reflect the LEAN signal, the directionality debate, and the fatigue-signaling caution.
+- Current take: lactate still looks like a phenotype-dependent energy-support story, not a general-purpose nootropic.
+## [2026-04-28] lint | 590 issues found
+- Ran `wiki_lint.py` against the workspace; the repository has substantial pre-existing broken-link and raw-hash drift debt outside this lactate branch.
+- The lactate files touched in this pass did not surface new structural errors.
+## [2026-04-28] maintenance | practical battery tightened
+- Marked `PR-03` active in `TODO.md` before research and saved the backlog update first.
+- Tightened `queries/practical-cognitive-measurement-stack.md` into a 9-12 minute morning core with explicit timing guidance for PVT, n-back, task switching, and a split delayed-recall probe.
+- Added the key rule that delayed recall only stays comparable if the delay is fixed; if the study needs true consolidation, the recall probe should remain a separate session.
+- Current take: the battery can fit under 12 minutes only if delayed recall is handled as a short, fixed-delay probe rather than a fully collapsed one-sitting memory endpoint.
+## [2026-04-28] maintenance | focused-ultrasound bbbo safety window sharpened
+- Kept `P1-21` active in `TODO.md` before research and saved the backlog update first.
+- Captured the 2026 BBB-opening mechanism paper as `raw/articles/pubmed-41723237-safe-focused-ultrasound-bbb-opening-tight-junctions.md`.
+- Updated `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` to separate transient low-pressure BBB opening from high-pressure injury, and refreshed the master comparison row in `comparisons/cognition-intervention-master-table.md`.
+- Added the same pressure-window warning to `queries/focused-ultrasound-at-home-feasibility-and-safety.md` so the safety boundary page inherits the newest mechanistic detail.
+- Current take: focused ultrasound BBB opening is still best framed as a pressure-sensitive delivery platform, not a cognition enhancer, and the safe operating window is now more explicitly defined by the low-pressure transient-junction model.
+## [2026-04-27] maintenance | PDE/cAMP/CREB scan filed
+- Marked `P2-11` active in `TODO.md` before research and saved the backlog update first.
+- Added raw captures for the two roflumilast healthy-volunteer trials, the two roflumilast schizophrenia trials, the two roflumilast registry records, the sildenafil schizophrenia study, the vardenafil healthy-adult study, Zembrin, pentoxifylline, and the two tadalafil CSVD papers.
+- Created `queries/pde-camp-creb-cognition-2026-scan.md`, updated `index.md`, and kept the branch framed as a narrow PDE4 signal rather than a broad PDE5 nootropic claim.
+- Current take: PDE4 has the only reproducible human cognition signal in this pathway; PDE5 is mostly null or phenotype-specific, and the latest tadalafil data do not support general enhancement.
+# [2026-04-27] maintenance | traditional medicine standardized-extract scan filed
+- Marked `P2-08` in `TODO.md` as in progress before research, then captured the standardized-botanical branch.
+- Added raw notes for ashwagandha MCI and chemotherapy-cognition registry work, bacopa AAMI and GWI registry work, ginkgo EGb 761 efficacy and FAERS safety, grape extract cognition, saffron CABG cognition, Acacia/Scutellaria healthy-adult cognition, and curcumin AD.
+- Created `queries/traditional-medicine-cognition-2026-scan.md`, refreshed `comparisons/standardized-herbal-extracts-for-cognition.md`, and updated `index.md`, `queries/healthy-adult-cognition-signals.md`, and `TODO.md` navigation text to point at the new scan.
+- Current take: the strongest recent standardized-botanical healthy-adult signal is grape extract, ashwagandha now has a small positive MCI pilot, ginkgo remains phenotype-sensitive with a visible safety layer, and curcumin plus Acacia/Scutellaria are better treated as cautionary or null comparators than as enhancement wins.
+## [2026-04-27] maintenance | AMPAkine translation scan filed
+- Marked `P2-13` as in progress in `TODO.md` before research, then built a dedicated AMPAkine/glutamatergic-plasticity scan.
+- Added raw captures for PMID 40650226, 39892449, 21940760, 17955941, 17487227, 17069542, 12212780, and 16104830.
+- Created `queries/ampakines-and-glutamatergic-plasticity-2026-scan.md`, updated `index.md`, and added a summary backlink from `queries/medicine-cognition-summary.md`.
+- Current take: the class has strong primate-era promise and modern low-impact safety work, but human cognition efficacy still looks mostly null or state-dependent rather than broadly enhancer-like.
+## [2026-04-27] maintenance | orexin scan protocol detail tightened
+- Kept `P2-04` active in `TODO.md` and used the orexin/hypocretin axis branch as the current research target.
+- Tightened `queries/orexin-hypocretin-axis-interventions-2026-scan.md` with the Oxford DOREA protocol details: single-dose 50 mg daridorexant vs placebo, 18-30-year-old healthy volunteers, chronotype/gender-balanced randomization, and the full aversive-learning / executive-function task battery.
+- The branch is still best read as state restoration and sleep-pressure biology rather than a general healthy-adult nootropic claim.
+## [2026-04-27] maintenance | endpoint dictionary hardened
+- Marked the endpoint-dictionary branch as in progress in `TODO.md` before any further research.
+- Refined `queries/endpoint-dictionary-for-cognition-interventions.md` with a claim-language table that maps objective outcomes to arousal, throughput, learning slope, consolidation, transfer, and resilience.
+- Added a guardrail to keep subjective energy or mood changes in the state/symptom layer unless an objective performance endpoint also moves.
+- Current take: the wiki now has a more operational endpoint vocabulary for future intervention scans and trial-design notes.
+## [2026-04-27] maintenance | cholinergic/nicotinic scan filed
+- Marked `P2-12` active in `TODO.md` before research and saved the backlog update first.
+- Added raw captures for the 2024 nicotine abstinence crossover, the 2013 varenicline healthy-nonsmoker study, the basal-forebrain galantamine predictor, the galantamine post-stroke proof-of-concept, the 2026 galantamine HIV RCT, the choline alphoscerate amnestic-MCI trial, the active nicotine-tablet registry, the nicotine gum label, and the FDA cessation guidance.
+- Created `queries/cholinergic-and-nicotinic-agents-2026-scan.md`, updated `comparisons/pharmacology-comparator-map.md`, and linked the branch from `index.md`.
+- Current take: nicotine remains strongest as abstinence-state restoration, while varenicline, galantamine, and choline donors are all phenotype-bound signals that do not justify a broad enhancement claim.
+## [2026-04-28] maintenance | tPBM MCI pilot ingested
+- Marked `S-03` active in `TODO.md` before research and saved the backlog update first.
+- Added `raw/articles/medrxiv-25333989-tpbm-mci-cognitive-metabolic-neuroimaging-pilot.md` as the new source capture for the home-based MCI pilot.
+- Updated `queries/transcranial-photobiomodulation-2025-2026-scan.md` and `concepts/transcranial-photobiomodulation.md` to incorporate the metabolic, inflammatory, and DMN readout.
+- Current take: tPBM now has a stronger mechanistic MCI signal than before, but the evidence is still pilot-scale and not practice-setting.
+## [2026-04-28] maintenance | focused ultrasound BBB scan tightened
+- Marked `RC-03` active in `TODO.md` as the next focused-ultrasound BBB-opening raw-capture task.
+- Tightened `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` with the 2025 pooled estimate details: 57 participants across 8 studies, safety OR `0.88` and efficacy OR `0.91`, with no post-procedure cognitive deterioration.
+- Kept the branch framed as target-access / drug-delivery evidence, not as a demonstrated cognition win, and preserved the 2026 pressure-dependent safety boundary in the same scan page.
+## [2026-04-28] maintenance | solriamfetol comparator benchmark aligned
+- Marked `RC-01` active in `TODO.md` before research and saved the backlog update first.
+- Reused the existing SHARP raw note for solriamfetol and updated `comparisons/pharmacology-comparator-map.md` so the comparator entry now points at direct OSA-with-EDS cognition evidence instead of label-only context.
+- Threaded the same evidence into `queries/trial-design-recommendations-for-cognition-interventions.md`, where solriamfetol now appears as a wake-promoting benchmark for alertness and fatigue-rescue claims.
+- Current take: SHARP makes solriamfetol a better comparator benchmark, but it still belongs in the disorder-context wake-promoter bucket rather than the healthy enhancement bucket.
+## [2026-04-28] maintenance | endpoint dictionary and responder atlas refined
+- Marked the responder-atlas branch in `TODO.md` before research, then hardened `queries/digital-phenotype-and-biomarker-responder-atlas.md` into a broader biomarker/genotype/state map.
+- Added current responder examples for N100-rTMS, taVNS connectivity, basal forebrain galantamine enrichment, APOE/polygenic MCI effects, tDCS heterogeneity under age and stress, and passive-sensing state stratification.
+- Refined `queries/endpoint-dictionary-for-cognition-interventions.md` with recent tDCS state-sensitive examples and an explicit hierarchy that keeps state markers separate from endpoints.
+- Current take: the wiki now has a cleaner split between endpoint language and responder prediction, which should reduce overclaiming in future intervention scans.
+## [2026-04-28] maintenance | glymphatic mechanism evidence added
+- Added a raw note for PMID 41593094 on sleep-active glymphatic clearance of amyloid-beta and tau in humans.
+- Updated `queries/glymphatic-targeting-interventions-2026-scan.md` to keep cognition claims limited to the LF-rTMS insomnia study while elevating the new human tracer paper as mechanism-level support.
+- Current take: the glymphatic branch now has both cognition-linked intervention evidence and direct human mechanistic support, but it still lacks a clean intervention-to-cognition causal chain.
+## [2026-04-28] maintenance | freshness dashboard added
+- Added `queries/online-evidence-freshness-dashboard.md` as the wiki's signal-monitoring layer for new RCTs, reviews, safety guidance, failed trials, and active registry entries.
+- Linked the dashboard into `index.md` and `queries/negative-evidence-watchlist-for-cognition-interventions.md` so freshness tracking is visible from the main catalog and the null-branch map.
+- Kept the work scoped to the freshness layer and left unrelated backlog edits in the worktree untouched.
+## [2026-04-28] maintenance | freshness dashboard refined
+- Folded the dashboard work into `queries/online-evidence-freshness-dashboard.md`, expanded the branch notes to cover solriamfetol, tPBM, taVNS, tDCS/tACS, intranasal insulin, tTIS, and FUS, and added the missing tPBM safety source.
+- Updated `comparisons/cognition-intervention-master-table.md` to point at the live delta tracker and kept `TODO.md`'s freshness item marked in progress.
+- Removed the duplicate `queries/evidence-freshness-dashboard.md` draft so the catalog stays single-sourced.
+## [2026-04-28] maintenance | foundation-model neuroscience branch extended
+- Kept `P2-07` active in `TODO.md` before research so the run was anchored in the backlog first.
+- Added a raw note for PMID 41479845 on EEG-to-fMRI prediction with classical models and foundation-model prompting.
+- Updated `queries/foundation-model-neuroscience-2026-scan.md` to include the new neurofeedback / EEG-to-fMRI paper alongside the existing biomarker and cross-modal transfer sources.
+- Current take: the branch now has a more concrete neurotechnology bridge case, but it still reads as proof-of-concept rather than a validated deployment path.
+## [2026-04-28] maintenance | focused ultrasound BBBO scan clarified
+- Marked `S-07` active in `TODO.md` before research and saved the backlog update first.
+- Re-read the existing FUS-BBBO raw capture and updated `queries/focused-ultrasound-bbb-opening-and-cognition-2026-scan.md` to clarify that the 2025 meta-analysis is a BBBO safety/feasibility signal, not a cognition efficacy result.
+- Kept the scan aligned with the newer mechanistic safety paper on pressure-dependent BBB injury and left the raw source file untouched.
+- Current take: FUS-BBBO remains a delivery-platform branch with a favorable small-sample safety profile, but the human cognition signal is still not established.
+
+## [2026-04-28] maintenance | traditional medicine branch sharpened
+- Marked `P2-08` in progress in `TODO.md` before research, then saved the backlog update first as requested.
+- Added a raw note for PMID 39134455 on Chinese herbal medicine plus donepezil in MCI, created a new `[[ginkgo]]` entity page, and updated `queries/traditional-medicine-cognition-2026-scan.md` plus `comparisons/standardized-herbal-extracts-for-cognition.md` with the newer ginkgo, curcumin, and Chinese-herbal-meta-analysis signals.
+- Current take: standardized single extracts still dominate the reproducibility story, but ginkgo now looks stronger in impairment phenotypes and formula-level CHM deserves a separate evidence lane instead of being flattened into the extract ranking.
+## [2026-04-28] maintenance | tDCS broad-review anchor added
+- Kept `P0-06` active in `TODO.md` and saved the backlog update before any research edits.
+- Added a raw capture for PMID 38060075, the broad 2025 tDCS cognitive-functions meta-analysis across 69 studies and 5,545 participants.
+- Updated `queries/tdcs-tacs-parameter-response-2025-2026-scan.md`, `concepts/transcranial-direct-current-stimulation-and-cognition.md`, `comparisons/noninvasive-brain-stimulation-for-cognition.md`, and `queries/healthy-adult-cognition-signals.md` so the branch reflects both the broad-review signal and the parameter-sensitive interpretation.
+- Current take: tDCS is not a flat null, but the durable healthy-adult enhancement case is still weak and the real signal remains context- and dose-dependent.
+# [2026-04-28] maintenance | intranasal insulin scan rebalanced
+- Marked `P0-03` active in `TODO.md` first, then rebuilt the intranasal-insulin evidence layer around the latest chronic MCI/AD null and the stronger perioperative protection branch.
+- Added raw captures for PMIDs 40359848, 41146035, and 41720686 so the perioperative signal is source-backed.
+- Rewrote `queries/intranasal-insulin-2024-2025-scan.md` and `concepts/intranasal-insulin-and-cognition.md`, then propagated the same framing into `comparisons/adjunctive-interventions-for-cognition.md`, `queries/negative-evidence-watchlist-for-cognition-interventions.md`, `queries/contradiction-log-for-cognition-interventions.md`, `comparisons/cognition-intervention-master-table.md`, and `queries/most-promising-methods-for-cognition.md`.
+- Current take: intranasal insulin is no longer a broad chronic enhancer claim; the best modern human evidence is perioperative neurocognitive protection, while the latest MCI/AD meta-analysis is null.
+## [2026-04-28] maintenance | endpoint dictionary refreshed
+- Added raw captures for PMID 40766906 on sleep deprivation and cognitive flexibility plus PMID 41999492 comparing PVT with visuomotor tracking under sleep loss.
+- Updated `queries/endpoint-dictionary-for-cognition-interventions.md` to fold in the new sleep-loss evidence, keep arousal separate from resilience, and sharpen the vocabulary around task-switching accuracy versus PVT sensitivity.
+- Kept the measurement stack linked to the endpoint dictionary so the operational battery and the claim language stay synchronized.
+- Current take: PVT remains the arousal anchor, task-switching accuracy is the cleaner flexibility/resilience readout, and transfer/consolidation still need to be named explicitly instead of implied.
+## [2026-04-28] maintenance | traditional medicine branch updated
+- Marked `P2-08` active in `TODO.md` first, then updated the traditional-medicine branch with the newer bacopa review, ginseng meta-analysis, and curcumin meta-analysis so the scan no longer reads like an older snapshot.
+- Reworked `queries/traditional-medicine-cognition-2026-scan.md` and `comparisons/standardized-herbal-extracts-for-cognition.md` to treat bacopa as a standardization/bioavailability problem, ginseng as a modest but real older-adult branch, and curcumin as a modest pooled signal that still depends on formulation.
+- Current take: grape, ginseng, and ginkgo remain the most defensible standardized-extract candidates; curcumin is no longer flatly null, but it still belongs in the cautious-investigation tier.
+## [2026-04-28] maintenance | closed-loop TMR phase effect tightened
+- Marked `S-08` active in `TODO.md` first so the new research pass was anchored to a saved backlog state before any source edits.
+- Added a fresh raw capture for the Nature Communications 2025 CL-TMR motor-memory paper at `raw/articles/nature-2025-phase-specific-enhancement-motor-memory-consolidation-closed-loop-tmr.md`.
+- Updated `queries/closed-loop-acoustic-stimulation-and-targeted-memory-reactivation.md` to incorporate the Nature article's task-related fMRI/network result and to treat phase timing as part of the dose, not just a behavioral correlate.
+- The repo does not contain `scripts/wiki_lint.py`, so the structural lint step could not be executed in this workspace.
+## [2026-04-28] maintenance | foundation-model biomarker robustness audit filed
+- Marked `P2-20` in `TODO.md` as in progress first, then completed it after filing the audit.
+- Added raw notes at `raw/articles/pmc-11928716-ml-models-alzheimers-neuroimaging-survey-reproducibility-generalizability.md`, `raw/articles/pubmed-38523679-foundation-model-for-cancer-imaging-biomarkers.md`, `raw/articles/pmc-12154149-foundation-model-embeddings-quantitative-tumor-imaging-biomarkers.md`, `raw/articles/pubmed-40460008-adfound-diagnosis-prognosis-alzheimers-disease.md`, and `raw/articles/pubmed-41601916-physiological-foundation-modeling-subclinical-disease-assessment.md`.
+- Added `queries/foundation-model-biomarker-robustness-audit.md` and linked it from `index.md`, `queries/foundation-model-neuroscience-2026-scan.md`, and `queries/biomarker-enriched-enrollment-and-cognition-effect-sizes.md`.
+- Updated `TODO.md` to close `P2-20` and keep the backlog aligned with the new audit page.
+## [2026-04-28] maintenance | energy-substrate map refined
+- Marked the next open TODO item active first, then ingested the new T1D glucose-extremes review as `raw/articles/pubmed-41522270-glucose-extremes-cognitive-function-type1-diabetes.md`.
+- Updated `comparisons/energy-substrate-comparator-map.md` to add the new review, clarify that glucose extremes impair cognition in dysglycemic contexts, and keep CGM framed as a covariate/monitoring layer rather than a supplement class.
+- Decision: glucose stability still belongs in the battery and not the enhancer tier, but disease-context glucose extremes now deserve explicit handling when comparing cognition interventions.
+
+## [2026-04-28] maintenance | multi-feature responder scorecard filed
+- Marked the next open `TODO.md` item active first, then captured raw notes for the SuperAgers biomarker ML paper, sleep-EEG multivariate prediction, chronotype and cognitive decline, and nocturnal HRV-CV.
+- Added `queries/multi-feature-responder-scorecard.md`, then linked it from `index.md`, `queries/digital-phenotype-and-biomarker-responder-atlas.md`, and `queries/biomarker-enriched-enrollment-and-cognition-effect-sizes.md`.
+- Current take: the responder layer should be judged by mechanistic fit, state fit, reserve, and ecological context together; no single marker is strong enough to serve as the whole responder model.
+## [2026-04-28] maintenance | corpus idea and backlog ingest
+- Ingested the existing wiki at the synthesis layer by scanning schema, index, recent log, current idea/backlog files, and the open-question/actionable-update sections across non-raw pages.
+- Updated `IDEAS.md` with a new corpus-ingest section covering ecological robustness, energy-substrate comparison, delivery validation, responder manifolds, blinding failure, glymphatic mediation, cholinergic state restoration, and botanical standardization.
+- Updated `TODO.md` with new P2, cross-cutting, practical, and raw-capture backlog items derived from the current wiki rather than from new online capture.
+- Updated `index.md` summaries for `[[IDEAS]]` and `[[TODO]]`, added the missing `[[methylene-blue-2026-scan]]` entry surfaced by lint, and corrected the visible page count to 105 entries.
+- No raw sources were edited or created in this pass.
+## [2026-04-28] lint | 596 issues found
+- Ran `/Users/peterhucik/.codex/skills/llm-wiki/scripts/wiki_lint.py --path /Users/peterhucik/wiki`.
+- Result after the index correction: 326 errors, 234 warnings, and 36 info items across the wider wiki.
+- The touched files `IDEAS.md`, `TODO.md`, `index.md`, and `log.md` did not appear as lint targets; the reported issues are existing corpus-level problems such as broken raw-note wikilinks, missing frontmatter fields, and raw SHA drift.
+- [2026-04-28] maintenance | Epithalon/Pinealon evidence map filed
+- Marked `P1-23` active in `TODO.md` first, then captured raw notes for `14523363`, `15452611`, `22451889`, `32019204`, `40908429`, `21978084`, and `22567179`.
+- Added `entities/epithalon.md` and `queries/epithalon-pinealon-2026-scan.md`, then updated `entities/pinealon.md`, `concepts/peptide-neuroprotection.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `index.md`.
+- Current take: Epithalon/Epithalamin is longevity-first with human geroprotection and melatonin data but no direct cognition signal; Pinealon stays preclinical with one animal learning result and one cell-viability paper.
+## [2026-04-28] maintenance | BPN14770 fragile-X signal added
+- Marked `P2-11` active in `TODO.md` first, then captured the BPN14770 fragile-X trial results and biomarker follow-up as new raw notes.
+- Added `entities/bpn14770.md`, updated `queries/pde-camp-creb-cognition-2026-scan.md`, `queries/medicine-cognition-summary.md`, and `index.md` so the PDE4D signal is now separate from roflumilast and visible from the main catalog.
+- Current take: PDE4D now has a real phenotype-bound human cognition signal plus biomarker support, but the branch is still small-sample and needs independent replication outside the current translational ecosystem.
+## [2026-04-28] maintenance | closed-loop sleep/TMR branch advanced
+- Marked `S-09` active in `TODO.md` first, then captured raw notes for PMID 40691439 on personalized TMR and the 2025 smartphone cognition/EMA feasibility study in insomnia.
+- Updated `queries/closed-loop-acoustic-stimulation-and-targeted-memory-reactivation.md`, `queries/closed-loop-and-adaptive-neuromodulation-for-cognitive-performance.md`, `queries/trial-design-recommendations-for-cognition-interventions.md`, and `queries/practical-cognitive-measurement-stack.md` so the branch now reflects personalized cue-policy evidence and the measurement-layer feasibility paper.
+- Current take: closed-loop sleep consolidation now has a second 2025 proof-of-concept beyond phase timing, and smartphone cognitive EMA is feasible enough to sit in the measurement stack rather than the efficacy layer.
+## [2026-04-28] maintenance | energy-substrate comparator map filed
+- Marked `P2-15` active in `TODO.md` first, then added raw notes for PMID 39579950 on postprandial glucose regulation during interrupted sitting and PMID 36602848 on the GluCog CGM+EMA glucose/cognition design.
+- Added `comparisons/energy-substrate-comparator-map.md` and linked it from `index.md`, `comparisons/adjunctive-interventions-for-cognition.md`, and `comparisons/cognition-intervention-master-table.md`.
+- Current take: creatine is the cleanest low-cost strain-state amplifier, caffeine remains the acute benchmark, ketones and lactate are more state-dependent rescue tools, and glucose stability is best treated as a monitoring layer rather than a supplement class.
+## [2026-04-28] maintenance | roflumilast entity split completed
+- Marked `P2-18` active in `TODO.md` first, then captured the new 2026 ROSTMEMA roflumilast post-stroke paper and split the branch into a dedicated `entities/roflumilast.md` page.
+- Updated `queries/pde-camp-creb-cognition-2026-scan.md`, `queries/medicine-cognition-summary.md`, and `index.md` so the roflumilast-specific node is reachable from the main graph, and closed `P2-18` in `TODO.md`.
+- Current take: roflumilast now has the strongest PDE4 cognition signal, with the 2026 post-stroke trial adding a newer phenotype-bound positive result while PDE5 stays the weaker comparator lane.
+# [2026-04-28] maintenance | botanical standardization gate filed
+- Marked `P2-19` active in `TODO.md` first, then researched the standardized-botanical branch against the existing scan, comparison page, and source notes.
+- Added `queries/botanical-standardization-gate.md` to formalize the split decision, updated `comparisons/standardized-herbal-extracts-for-cognition.md` with an explicit standalone-page gate, and linked the new page from `queries/traditional-medicine-cognition-2026-scan.md` and `index.md`.
+- Current take: `ginkgo`, `ginseng`, and `curcumin` already justify their own pages; `grape extract` and `ashwagandha` are the closest next candidates, but replication is still too thin to split them yet.
+## [2026-04-28] query | Epithalon and Pinealon coverage check
+- Queried the existing wiki for `epithalon`, `epitalon`, `epithalamin`, `pinealon`, and `pineal`.
+- Answer was not filed as a new page because this was a coverage check, not a new synthesis.
+## [2026-04-28] maintenance | Epithalon and Pinealon TODO weight increased
+- Promoted Epithalon/Epitalon/Epithalamin and Pinealon into the P1 peptide-frontier backlog in `TODO.md`.
+- Added dedicated raw-capture tasks for Epithalon/Epitalon/Epithalamin, Pinealon, and their safety/sourcing/regulatory source layer.
+- Added an `Epithalon / Pinealon Research Detail` mini-protocol covering identity normalization, evidence tiering, cognition endpoints, longevity mechanisms, safety/sourcing, regional-literature handling, likely wiki outputs, and decision rules.
+## [2026-04-28] maintenance | pineal peptide bioregulator comparison filed
+- Marked `P1-25` active in `TODO.md` first, then built an identity-normalized comparison page for Epithalon/Epitalon/Epithalamin, Pinealon, Semax, Selank, Cortexin, Kortagen, and Cerebrolysin.
+- Added `comparisons/pineal-peptide-bioregulator-comparison.md`, linked it from `index.md`, `queries/epithalon-pinealon-2026-scan.md`, `comparisons/translational-gap-table.md`, and `comparisons/neurocognitive-interventions-under-study.md`.
+- Current take: Cerebrolysin is the only branch with durable human cognition evidence; Semax and Selank sit in the middle as recovery/stress-oriented candidates; Epithalon and Pinealon remain longevity/preclinical nodes, and Kortagen is still a low-confidence taxonomy label.
+## [2026-04-28] maintenance | Pinealon evidence map filed
+- Marked `P1-24` active in `TODO.md` first, then added a Pinealon-only scan plus a PubChem identity capture and refreshed the Pinealon entity page.
+- Added `queries/pinealon-2026-scan.md`, `raw/articles/pubchem-10273502-pinealon-identity.md`, and updated `entities/pinealon.md`, `index.md`, and `TODO.md` so the branch now separates EDR identity, animal work, the mixed human geroprotective study, and the lack of a Pinealon-only cognition trial.
+- Current take: Pinealon stays a low-confidence legacy neuroprotective peptide; the useful signal is mechanistic and animal-heavy, with only indirect human exposure and no modern Pinealon-specific cognition RCT found in this sweep.
+## [2026-04-28] maintenance | Epitalon regulatory breadcrumb refreshed
+- Marked `RC-10` active in `TODO.md` first, then updated the Epithalon entity, the Epithalon/Pinealon scan, and the peptide safety map to fold in FDA's 2026 PCAC agenda for Epitalon-related bulk substances.
+- Added the current insomnia-focused 503A discussion-track signal alongside the older compounding-risk and identity records so the wiki now separates regulatory review status from efficacy claims.
+- Current run time: 2026-04-28T09:43:21Z
+## [2026-04-28] maintenance | pineal peptide bioregulator comparison expanded
+- Marked `P1-25` active in `TODO.md` first, then expanded the identity-normalized cluster into `comparisons/pineal-peptide-bioregulator-comparison.md` with Cortexin and Kortagen normalized alongside Epithalon/Pinealon, Semax/Selank, and Cerebrolysin.
+- Added raw captures for the Cortexin brain-ischemia open trial, the chronic cerebral ischemia randomized study, the alcohol-encephalopathy study, the cortexin/cortagen chronic-ischemia review, the 2026 Cortexin mechanistic paper, the cortagen sciatic-nerve paper, and the 2026 FDA Epitalon/Semax advisory-committee agenda.
+- Updated `entities/cortexin.md`, `entities/kortagen.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, `comparisons/translational-gap-table.md`, `concepts/peptide-neuroprotection.md`, `queries/epithalon-pinealon-2026-scan.md`, and `index.md` so the cluster now separates identity, evidence tier, safety, and sourcing more cleanly.
+- Current take: Epithalon/Pinealon remain longevity/preclinical nodes, Cortexin now has real but regional ischemia/recovery exposure, Kortagen is still mostly a translational label, and Cerebrolysin remains the clinically grounded exception.
+## [2026-04-28] maintenance | epithalon mechanism lane expanded
+- Marked `P1-23` active in `TODO.md` first, then added two new raw captures for Epitalon intranasal rat CNS-activity papers: PMID 12500171 on stress-state pineal activation and PMID 17955380 on neocortical firing.
+- Refreshed `entities/epithalon.md`, `queries/epithalon-pinealon-2026-scan.md`, and `comparisons/pineal-peptide-bioregulator-comparison.md` to add the new mechanistic lane while keeping the human cognition gap explicit.
+- Corrected the new raw SHA-256 frontmatter values and verified both captures against the on-disk body.
+- Current run time: 2026-04-28T10:17:28Z
+## [2026-04-28] maintenance | ketone CBF result filed
+- Marked `RC-07` active in `TODO.md` first, then captured the 2025 `PMID 40349325` ketone monoester dose-response paper showing dose-dependent lowering of resting CBF in healthy young adults.
+- Added `raw/articles/pubmed-40349325-acute-ketone-monoester-ingestion-lowers-resting-cerebral-blood-flow.md`, then updated `queries/ketone-esters-under-sleep-loss-and-high-load.md` and `comparisons/energy-substrate-comparator-map.md` so the ketone branch now reflects the new physiologic contradiction instead of a simple vasodilation story.
+- Current take: ketones remain phenotype- and context-sensitive; the obesity crossover and pooled meta-analysis still support a small cognition signal, but acute healthy-young-adult CBF moves in the opposite direction and the sleep-restriction result remains unpublished.
+## [2026-04-28] maintenance | methylene blue results record filed
+- Marked `RC-08` active in `TODO.md` first, then captured the MB2 registry-results-posted status from ClinicalTrials.gov and updated the methylene blue scan to reflect the new evidence layer.
+- Added `raw/articles/clinicaltrials-nct02380573-methylene-blue-results-posted.md` and refreshed `queries/methylene-blue-2026-scan.md` so the branch now distinguishes protocol-era evidence from the posted registry results record.
+- Current take: MB2 is no longer protocol-only on the registry, but I still did not locate a peer-reviewed full results paper in this sweep, so the branch stays narrow and registry-bound for now.
+## [2026-04-28] maintenance | RC-09 protocol leads refreshed
+- Marked `RC-09` active in `TODO.md` first, then captured the latest protocol-layer evidence for mazdutide, Klotho gene therapy, and temporal-interference registry studies.
+- Added raw captures for the 2025 mazdutide diabetes-associated cognition paper and the 2025 temporal-interference superior-colliculus / eye-movement paper, then refreshed `queries/incretin-therapies-brain-health-2026-scan.md`, `queries/klotho-cognition-2026-scan.md`, `queries/temporal-interference-stimulation-and-cognition.md`, and `queries/online-evidence-freshness-dashboard.md`.
+- Current take: mazdutide now has a positive preclinical cognition layer, but LIGHT-COG still has no posted results; Klotho gene therapy remains open-label and no-results; and the named tTIS registry studies are still validation-first rather than efficacy-proven.
+## [2026-04-28] maintenance | Pinealon mechanistic layer expanded
+- Marked `RC-11` in `TODO.md` as in progress first, then added two new raw captures for Pinealon-adjacent mechanistic papers: PMID 24909721 on serotonin expression in aging brain-cortex cultures and PMID 22803085 on bioregulatory tripeptides in rat skin-cell cultures.
+- Updated `raw/articles/pubmed-24909721-pinealon-serotonin-expression-brain-cortex.md`, `raw/articles/pubmed-22803085-bioregulatory-tripeptides-skin-cells.md`, `queries/pinealon-2026-scan.md`, `queries/epithalon-pinealon-2026-scan.md`, `entities/pinealon.md`, and `concepts/peptide-neuroprotection.md`.
+- Current take: the Pinealon branch now has a broader short-peptide mechanism layer, but the evidence still stops short of a modern Pinealon-only cognition trial or registry signal.
+## [2026-04-28] maintenance | Epithalon evidence map expanded
+- Marked `P1-23` active in `TODO.md` first, then added two 2025 Epithalon raw captures: PMID 39788414 on bovine oocyte maturation / post-thaw embryo development and PMID 40493162 on delayed wound healing in an in vitro diabetic-retinopathy model.
+- Updated `raw/articles/pubmed-39788414-epitalon-activated-telomerase-bovine-oocyte-development.md`, `raw/articles/pubmed-40493162-epitalon-diabetic-retinopathy-wound-healing.md`, `entities/epithalon.md`, and `queries/epithalon-pinealon-2026-scan.md` so the branch now reflects those newer non-neural mechanistic papers alongside the existing telomere, melatonin, and sourcing/regulatory layers.
+- Current take: Epithalon still looks longevity- and mechanism-first, not cognition-first, but the 2025 literature keeps expanding its telomerase / oxidative-stress lane without closing the human cognition gap.
+## [2026-04-28] maintenance | Epitalon/Pinealon regulatory asymmetry tightened
+- Marked `RC-12` active in `TODO.md` first, then tightened the Epitalon vs Pinealon safety/sourcing synthesis without adding new raw captures.
+- Updated `comparisons/peptide-safety-and-sourcing-risk-map.md` and `queries/epithalon-pinealon-2026-scan.md` to make the current FDA compounding breadcrumbs for Epitalon explicit and to note that Pinealon did not surface with a current FDA, WADA, or registry hit in this sweep.
+- Current take: Epitalon is the regulator-visible branch; Pinealon remains a literature-led, low-regulatory-visibility branch.
+## [2026-04-28] maintenance | Epitalon/Pinealon safety map clarified
+- Kept `RC-12` active in `TODO.md`, then added a scan-friendly Epithalon row and a Pinealon row to `comparisons/peptide-safety-and-sourcing-risk-map.md` so the current FDA-visible vs literature-led split is visible in the 2026 snapshot table.
+- Added a new regulatory clarification line to `queries/epithalon-pinealon-2026-scan.md` tying the FDA bulk-drug-substances page current as of 2026-04-22 to the Epitalon branch, while preserving the Pinealon no-hit note as a search inference.
+- Current run time: 2026-04-28T10:25:37Z
+## [2026-04-28] maintenance | epitalon regulatory breadcrumb sharpened
+- Marked `RC-12` as the selected safety/sourcing/regulatory pass in `TODO.md`, then updated `entities/epithalon.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `queries/epithalon-pinealon-2026-scan.md` to call out the July 23-24, 2026 FDA PCAC agenda and its insomnia use case for Epitalon-related bulk substances.
+- The update keeps the same conclusion but makes the current FDA review signal more specific and easier to scan alongside the existing compounding-risk, warning-letter, and forensic sourcing records.
+- Current run time: 2026-04-28T10:34:47Z
+## [2026-04-28] maintenance | Epitalon WADA surveillance source added
+- Marked `RC-12` active in `TODO.md`, then ingested a new raw note for WADA's internet-surveillance PDF that explicitly lists EPITALON (EPITHALON) as not approved for human use and ties it to anti-aging / injury-healing black-market use.
+- Updated `queries/epithalon-pinealon-2026-scan.md`, `entities/epithalon.md`, and `comparisons/peptide-safety-and-sourcing-risk-map.md` so the Epitalon branch now carries both the FDA compounding breadcrumb and the WADA sports-regulatory breadcrumb.
+- Current run time: 2026-04-28T10:37:40Z
+## [2026-04-28] maintenance | sham-control audit sharpened
+- Marked `P2-21` as the current run in `TODO.md` first, then updated `comparisons/sham-control-feasibility-for-cognition-interventions.md` with an active-sham vs biologically inertness section covering tDCS/tACS, taVNS, tPBM, temporal interference, tFUS/FUS-BBBO, HBOT, CLAS/TMR, caffeine, nicotine, and sleep restriction.
+- Added the new control-side sources to the page source list and clarified that the matrix is a blinding-feasibility grid, not an inertness grid.
+- Current run time: 2026-04-28T11:40:38Z
+## [2026-04-28] maintenance | cholinergic branch updated with lysolecithin
+- Marked `P2-12` as the current run in `TODO.md` first, then added a raw capture for PMID 39896163 on lysolecithin / LPC as a healthy-adult choline-source trial.
+- Updated `queries/cholinergic-and-nicotinic-agents-2026-scan.md`, `concepts/cholinergic-state-restoration-and-cognition.md`, and `comparisons/pharmacology-comparator-map.md` so the branch now separates nicotine's acute attention signal from choline-source biomarker movement that did not produce a placebo-separated memory win.
+- Current run time: 2026-04-28T10:41:42Z
+## [2026-04-28] maintenance | AMPAkine low-impact lane expanded
+- Marked `P2-13` as the current run in `TODO.md` first, then added raw captures for PMID 36153330 on TAK-653 CNS pharmacodynamics and PMID 39302241 on CX1739 safety/PK in healthy volunteers.
+- Updated `queries/ampakines-and-glutamatergic-plasticity-2026-scan.md` and `comparisons/translational-gap-table.md` so the AMPAkine branch now reflects modern low-impact human target-engagement work alongside the older CX717/CX516 translation gap.
+- Current run time: 2026-04-28T10:46:28Z
+## [2026-04-28] maintenance | delivery-validation audit refreshed
+- Marked `P2-16` in `TODO.md` as the current run first, then updated `comparisons/delivery-validation-checklist-for-cognition-interventions.md` with the newer tPBM home-use MCI trial and multimodal pilot, taVNS sensory-confound studies, and the 2026 tFUS review plus BBB-opening safety paper.
+- Updated the checklist’s source list, top-source list, and family matrix so delivery validation now distinguishes tPBM home-capable vs home-replicated, taVNS sensory leakage, and tFUS lesioning/BBB-opening/circuit-stimulation branches.
+- Current run time: 2026-04-28T11:10:48Z
+## [2026-04-28] maintenance | second corpus idea and TODO ingest
+- Re-ingested the local wiki backlog, open-question sections, contradiction sections, and recent log entries to extract agent-ready research gaps without adding new online sources.
+- Updated `IDEAS.md` with a second corpus-ingest section covering active-sham inertness, endpoint fragility, no-results surveillance, chronotype/device response, recovery-to-enhancement translation, implementation friction, comparator scheduling, and recovery-context tagging.
+- Updated `TODO.md` with new P2 tasks, cross-cutting data tasks, practical protocol tasks, and raw-capture queue items for future agents to pick up.
+- Current take: the next useful agent work is less about opening more modalities and more about making existing claims harder to over-rank through sham, endpoint, registry-status, translation-context, and practical-deployability gates.
+## [2026-04-28] maintenance | no-results surveillance queue refreshed
+- Marked `RC-13` in `TODO.md` as the current run first, then verified live registry and publication status for LIGHT-COG mazdutide, Klotho/follistatin gene therapy, the named tTIS registries, STAK-Sleep, kCBF, MEKC, MB2, and samelisant.
+- Added the missing raw capture `raw/articles/clinicaltrials-nct06217159-mechanistic-effect-of-ketones-on-cerebral-blood-flow.md` and updated `queries/online-evidence-freshness-dashboard.md` with a no-results watch queue that separates active registries from completed-but-unpublished comparator studies.
+- Current run time: 2026-04-28T11:34:18Z
+## [2026-04-28] maintenance | glymphatic branch gained measurement and protocol detail
+- Marked `P2-02` as the current run in `TODO.md`, then added raw captures for PMID 40425804 on continuous parenchymal-resistance measurement and NCT07298876 on hippocampal low-intensity TUS with glymphatic secondary outcomes.
+- Updated `queries/glymphatic-targeting-interventions-2026-scan.md`, `concepts/glymphatic-system-and-cognition.md`, and `concepts/focused-ultrasound-neuromodulation.md` so the branch now includes a better target-engagement device readout and a live cognition-plus-glymphatic ultrasound protocol.
+- Current run time: 2026-04-28T11:27:56Z
+## [2026-04-28] maintenance | continued corpus TODO expansion
+- Re-read the updated local wiki after the glymphatic, reserve, safety, negative-evidence, PDE, orexin, tDCS/tACS, and tPBM updates landed.
+- Added a continued corpus-ingest section to `IDEAS.md` covering target-engagement-to-behavior chains, state-challenge matrices, device-dose ontology, credibility/retraction gating, regulatory visibility, parameterized nulls, stack attribution, and wiki trust repair.
+- Updated `TODO.md` with new unstarted `[ ]` handoff tasks: `P2-26` through `P2-30`, new cross-cutting data tasks, `PR-09` through `PR-11`, and `RC-17` through `RC-21`.
+- Corrected the earlier newly added handoff items `P2-21` through `P2-25`, `PR-07`/`PR-08`, and `RC-13` through `RC-16` from `[~]` to `[ ]` per the steering note that new TODOs should not be marked started.
+## [2026-04-28] maintenance | tDCS baseline-phenotype scan updated
+- Marked `P0-06` as the current run in `TODO.md` first, then added raw captures for PMID 40347355 and PMID 41870727 on focal language-network tDCS.
+- Updated `queries/tdcs-tacs-parameter-response-2025-2026-scan.md`, `concepts/transcranial-direct-current-stimulation-and-cognition.md`, and `comparisons/noninvasive-brain-stimulation-for-cognition.md` so the tDCS branch now treats baseline cognition and stimulation site as responder phenotypes, not just montage or age effects.
+- Current run time: 2026-04-28T11:37:55Z
+## [2026-04-28] maintenance | chronotype device-response scan expanded
+- Marked `P2-23` in `TODO.md` first, then added raw captures for PMID 34344864, PMID 30035659, PMID 35321778, and PMID 41125953.
+- Updated `queries/chronotype-specific-response-across-sleep-stimulation-interventions.md` to fold in direct tDCS and taVNS timing evidence plus the current tACS/tPBM/CLAS-TMR state-vs-chronotype split.
+- Updated `concepts/transcranial-direct-current-stimulation-and-cognition.md`, `concepts/transcranial-alternating-current-stimulation-and-cognition.md`, and `concepts/transcranial-photobiomodulation.md` so the new timing evidence is surfaced from the main modality pages.
+- Current run time: 2026-04-28T11:54:29Z
+## [2026-04-28] maintenance | samelisant results moved into freshness board
+- Marked `P2-22` in `TODO.md` first, then ingested `raw/articles/pubmed-39504585-samelisant-results-narcolepsy.md` and verified the raw-note hash.
+- Updated `queries/histamine-h3-inverse-agonists-2026-scan.md`, `queries/online-evidence-freshness-dashboard.md`, and `comparisons/pharmacology-comparator-map.md` so samelisant now sits in the posted-results comparator layer rather than the no-results queue.
+- Current run time: 2026-04-28T11:48:02Z

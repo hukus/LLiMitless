@@ -1,0 +1,23 @@
+---
+title: Incretin Therapies and Brain Health
+created: 2026-04-26
+updated: 2026-05-03
+type: concept
+tags: [metabolism, cognition, mechanism, clinical-trial, controversy]
+sources: [raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md, raw/articles/pubmed-41684077-glp1-autophagy-neurodegenerative-disorders.md, raw/articles/pubmed-41710720-gip-metabolic-neurodegenerative-disorders.md, raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md]
+confidence: medium
+---
+
+# Incretin Therapies and Brain Health
+
+GLP-1 receptor agonists and related incretin biology are now relevant to brain-health research for a more concrete reason than they were in 2024: the class has direct human cognition data, not only mechanistic speculation. The newest evidence is mixed rather than broadly positive. A 2026 meta-analysis in type 2 diabetes reported modest MMSE and MoCA improvements with GLP-1 receptor agonists; a 2026 randomized trial in major depressive disorder found oral [[semaglutide]] negative on its primary executive-function endpoint but positive on a secondary global-cognition composite; and a 2024 proof-of-concept MCI trial found long-acting [[exenatide]] did not prevent cognitive decline. The newest AD readout pushes in the same cautionary direction: EVOKE/EVOKE+ was negative on the primary progression endpoint despite biomarker movement, which makes a broad "cognitive enhancer" claim weaker than it looked on mechanistic grounds alone.^[raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md]^[raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md]^[raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md]^[raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md]
+
+The raw-note anchors for that discussion are `raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md`, `raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md`, `raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md`, `raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md`, `raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md`, and `raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md`.
+
+The strongest current signal is still phenotype-sensitive rather than a universal nootropic effect. In the primary human cognition set retrieved for this pass, the direct outcome evidence is GLP-1RA-driven; I did not find a human cognition-outcome trial for a GIP-based agent. The only cognition-primary registry lead I found was [[mazdutide]], but that is a GLP-1/glucagon dual agonist rather than a GIP agent. The result is a better-defined but more conflicted picture: plausible in selected phenotypes, not proven as a broad enhancer, and now clearly limited by negative late-stage AD and negative MCI readouts. That keeps this page at medium confidence for phenotype-sensitive brain-health relevance, but low confidence for any generic cognitive-boosting claim.
+
+Relevant raw PubMed notes for the adjacent metabolic-brain comparator bucket: `raw/articles/pubmed-36530613-hypoglycemic-drugs-ad-mci-network-meta-analysis.md` and `raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md`.
+
+The exercise-combination evidence is still cardiometabolic rather than cognitive: an exercise + liraglutide RCT improved metabolic syndrome severity, abdominal fat, and hsCRP, but cognition was not the endpoint. That matters because it keeps the "exercise + peptide" story honest when it gets folded into broader enhancement stacks.^[raw/articles/pubmed-36841762-exercise-glp1-ra-metabolic-syndrome.md] See [[exercise-creatine-metabolic-peptide-triad]] for the triad-level synthesis.
+
+An anecdote about improved cognition on a GLP-1 agent should be kept in the graph, but labeled as anecdote and cross-linked to [[anecdotal-evidence-in-cognitive-intervention-research]]. For navigation, it also belongs with [[medicine-cognition-summary]], [[most-promising-methods-for-cognition]], [[incretin-therapies-brain-health-2026-scan]], and [[negative-evidence-watchlist-for-cognition-interventions]].

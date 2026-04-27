@@ -1,0 +1,28 @@
+---
+title: Thymosin beta-4
+created: 2026-04-27
+updated: 2026-05-04
+type: entity
+tags: [domain-medicine, cognition, peptides, recovery, mechanism, preclinical, clinical-trial, safety, anecdote, controversy]
+sources: [raw/articles/pubmed-40816274-thymosin-beta4-ad-candidate.md, raw/articles/pubmed-34183019-thymosin-beta4-glial-polarization-cognitive-impairment.md, raw/articles/pubmed-36878045-thymosin-beta4-plaque-load-app-ps1-mice.md, raw/articles/pubmed-37175330-thymosin-beta4-hippocampal-neuronal-cells.md, raw/articles/pubmed-22324420-thymosin-beta4-tbi-rats.md, raw/articles/clinicaltrials-nct04555850-thymosin-beta4-healthy-volunteers.md, raw/articles/pubmed-41229390-thymosin-beta4-acute-mi-reperfusion.md, raw/articles/pmc-4445951-thymosin-beta4-dry-eye-phase2.md, raw/articles/pmc-9820614-rgn259-neurotrophic-keratopathy-phase3.md, raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md, raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md, raw/articles/reddit-2026-01-12-bpc157-tb500-three-months-mixed-thread.md]
+confidence: low
+---
+
+# Thymosin beta-4
+
+Thymosin beta-4 is a regenerative peptide with a strong wound-healing / tissue-repair identity and a small but real CNS-adjacent evidence trail. For cognition, the interest is still mostly indirect and early: the 2025 AD organoid paper is the main translational signal, while the human record is non-cognitive safety/repair evidence from a phase 1b healthy-volunteer IV study, topical ophthalmic RGN-259 trials, and a 2025 acute-STEMI reperfusion paper.^[raw/articles/pubmed-40816274-thymosin-beta4-ad-candidate.md]^[raw/articles/clinicaltrials-nct04555850-thymosin-beta4-healthy-volunteers.md]^[raw/articles/pmc-4445951-thymosin-beta4-dry-eye-phase2.md]^[raw/articles/pmc-9820614-rgn259-neurotrophic-keratopathy-phase3.md]^[raw/articles/pubmed-41229390-thymosin-beta4-acute-mi-reperfusion.md]
+
+The current pattern is:
+- AD / neurogenesis hypothesis from human brain organoids and 5xfAD mice.^[raw/articles/pubmed-40816274-thymosin-beta4-ad-candidate.md]
+- APP/PS1 mouse cognition / glial-state studies now add a clearer preclinical neuroinflammation lane.^[raw/articles/pubmed-34183019-thymosin-beta4-glial-polarization-cognitive-impairment.md]^[raw/articles/pubmed-36878045-thymosin-beta4-plaque-load-app-ps1-mice.md]
+- Mechanistic hippocampal-cell protection via neurotrophic factor signaling.^[raw/articles/pubmed-37175330-thymosin-beta4-hippocampal-neuronal-cells.md]
+- Injury-recovery and spatial-learning improvement in TBI rats.^[raw/articles/pubmed-22324420-thymosin-beta4-tbi-rats.md]
+- Human full-length thymosin beta-4 exposure in healthy-volunteer IV safety/PK, topical ophthalmic dry-eye / neurotrophic-keratopathy trials, and acute-STEMI reperfusion, but no cognition proof yet.^[raw/articles/clinicaltrials-nct04555850-thymosin-beta4-healthy-volunteers.md]^[raw/articles/pmc-4445951-thymosin-beta4-dry-eye-phase2.md]^[raw/articles/pmc-9820614-rgn259-neurotrophic-keratopathy-phase3.md]^[raw/articles/pubmed-41229390-thymosin-beta4-acute-mi-reperfusion.md]
+
+The safety/read-across point is important: FDA's peptide risk page flags the thymosin beta-4 fragment TB-500 / LKKTETQ as lacking identified human exposure data for drug products, which is not the same thing as full thymosin beta-4. The full peptide has actual human exposure, while WADA separately names thymosin-beta-4 derivatives such as TB-500 under growth factors / growth-factor modulators. FDA's July 23, 2026 PCAC agenda lists TB-500 free base/acetate for wound-healing review on the 503A compounding track, not cognition and not approval. The wiki should keep those buckets separate because vendor shorthand often collapses them.^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]^[raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md]^[raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md]^[raw/articles/clinicaltrials-nct04555850-thymosin-beta4-healthy-volunteers.md]
+
+The anecdote layer is much louder for TB-500/BPC-157 recovery stacks than for cognition. Recent Reddit reports include dramatic injury-recovery narratives with self-tracking and MRI screenshots, but also no-effect reports, placebo/natural-healing cautions, source-quality uncertainty, and confusion over whether "TB-500" products are the fragment or full thymosin beta-4. That is a `moderate-strong` recovery salience signal and an `absent-to-weak` cognition signal, so it belongs in safety and stack-topology routing rather than medicinal confidence.^[raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md]^[raw/articles/reddit-2026-01-12-bpc157-tb500-three-months-mixed-thread.md]^[raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md]
+
+It fits the wiki as a recovery-leaning peptide with a possible neurodegeneration angle, not as a proven general cognitive enhancer.
+
+Related nodes: [[peptide-neuroprotection]], [[bpc-157]], [[neurocognitive-interventions-under-study]], [[adjunctive-interventions-for-cognition]], and [[thymosin-beta-4-2026-scan]].

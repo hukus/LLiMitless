@@ -1,0 +1,62 @@
+---
+title: Risk-First Legacy Gray-Zone Nootropic Watchlist
+created: 2026-05-03
+updated: 2026-05-04
+type: comparison
+tags: [domain-medicine, cognition, comparison, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, controversy]
+sources: [raw/articles/pubmed-17117395-memantine-age-associated-memory-impairment.md, raw/articles/dailymed-2021-memantine-hydrochloride-label.md, raw/articles/pubmed-36625844-cbd-healthy-adults-cognition-rct.md, raw/articles/pubmed-37792394-cbd-cognition-systematic-review.md, raw/articles/epidiolex-2018-cannabidiol-prescribing-information.md, raw/articles/nccih-2025-kava-usefulness-safety.md, raw/articles/sage-2020-kava-gad-rct.md, raw/articles/fda-2024-opms-black-liquid-kratom-warning.md, raw/articles/fda-2025-7oh-kratom-warning-letters.md, raw/articles/pubmed-25262913-mitragynine-cognitive-impairment-abuse-potential.md, raw/articles/pmc-3990080-agmatine-stz-alzheimer-rat-model.md, raw/articles/pubmed-9327985-agmatine-novel-neurotransmitter-review.md, raw/articles/alzdiscovery-2017-centrophenoxine-cognitive-vitality.md, raw/articles/pubmed-9267856-idebenone-alzheimer-dose-rct.md, raw/articles/pubmed-14663031-idebenone-ad-fails-trial.md, raw/articles/reddit-2020-memantine-one-month-thread.md, raw/articles/reddit-2023-agmatine-experience-thread.md, raw/articles/reddit-2026-cbd-nootropics-experience-thread.md, raw/articles/reddit-2021-kava-natural-nootropics-thread.md, raw/articles/reddit-2024-kratom-memory-focus-thread.md, raw/articles/reddit-2019-centrophenoxine-experience-thread.md, raw/articles/reddit-2021-idebenone-experience-thread.md]
+confidence: low
+contested: true
+contradictions: []
+---
+
+# Risk-First Legacy Gray-Zone Nootropic Watchlist
+
+This watchlist closes a residual gap after [[common-nootropic-gray-zone-molecule-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], and [[racetam-long-tail-watchlist]]. These molecules show up in nootropic communities, old memory-drug literature, or calm-focus stacks, but most should be routed as prescription clinical-state, preclinical-only, legacy/inconclusive, or risk-first rather than as general cognitive enhancers.
+
+## Current Read
+
+| Molecule or branch | Medicinal signal | Anecdote signal | Route | Main caveat |
+|---|---|---|---|---|
+| [[memantine]] | `low-moderate` for clinical-state cognition; AAMI trial suggests attention/processing-speed more than memory, and label indication is moderate-to-severe AD dementia | `moderate`, split between early mood/focus/tolerance claims and later fog/dissociation/headache | Prescription NMDA-antagonist / clinical-state comparator | Long half-life, accumulation, confusion/dizziness, psychiatric-state confounding |
+| [[agmatine]] | `preclinical-only` for cognition; animal AD-model and neuromodulator literature, no clean human cognition trial surfaced | `moderate`, mostly mood, pain, tolerance, and anxiety/body-state reports | Mechanism / tolerance / pain-mood watch | Palpitations, sedation, fog, hypoglycemia-like and interaction reports in anecdotes |
+| [[cannabidiol-cbd]] | `low`; healthy-adult RCT and systematic review support cognitive-safety questions more than enhancement | `weak-moderate`, mostly downshift/sleep/anxiety support | Calm / sleep / epilepsy-drug safety split | Sedation, liver-enzyme monitoring at pharmaceutical doses, drug interactions |
+| [[kava-kavalactones]] | `risk-first/low`; anxiety evidence is mixed, and 2020 GAD RCT was null with poorer memory and LFT abnormalities more frequent | `weak-moderate`, calm-social-focus reports | Anxiolytic / sedative-adjacent botanical | Liver injury risk, sedative interactions, product/cultivar identity |
+| [[kratom-mitragynine]] | `risk-first`; FDA warning and animal cognitive-impairment data dominate, with 2025 FDA action against added/enhanced 7-OH products sharpening the product-identity gate | `moderate` salience for mood, pain, energy, focus, and withdrawal management | Deprioritize / opioid-like risk exemplar | Dependence, withdrawal, liver toxicity/seizures warnings, cognition claims mood-mediated |
+| [[dmae-centrophenoxine]] / meclofenoxate | `low`; ADDF calls clinical evidence weak/inconclusive with mixed old trials and DMAE safety concerns | `moderate`, inconsistent memory/focus reports with irritability/mood cost | Legacy cholinergic / lipofuscin nootropic | Old studies, product availability, cholinergic mood effects, pregnancy safety concerns |
+| [[idebenone]] / Noben | `low/contested`; older AD trials include positives, but later AD trial failed to slow decline | `weak-moderate`, mitochondrial energy / clarity lore | CoQ analog / legacy mitochondrial watch | Old dementia data, later null, weak healthy-adult bridge |
+
+## Medicinal Evidence
+
+[[memantine]] is the most clinically legitimate molecule in this batch, but that does not make it a broad enhancer. The AAMI trial in older adults suggests effects on attention and processing speed rather than memory, while the official label keeps the indication in moderate-to-severe Alzheimer-type dementia and lists dizziness, headache, confusion, constipation, urine-pH elimination issues, and caution with other NMDA antagonists.^[raw/articles/pubmed-17117395-memantine-age-associated-memory-impairment.md]^[raw/articles/dailymed-2021-memantine-hydrochloride-label.md]
+
+[[cannabidiol-cbd]] belongs in the graph because users often treat anxiety reduction and sleep as cognitive support. The formal packet is weaker: a healthy-adult randomized trial directly measured cognition/psychomotor function after 300 mg CBD, and the 2023 systematic review found a heterogeneous literature across 59 animal and human studies. Epidiolex prescribing information keeps the safety gate sharp: liver-enzyme monitoring, somnolence/sedation, and drug interactions matter when CBD is used pharmacologically rather than as a casual beverage ingredient.^[raw/articles/pubmed-36625844-cbd-healthy-adults-cognition-rct.md]^[raw/articles/pubmed-37792394-cbd-cognition-systematic-review.md]^[raw/articles/epidiolex-2018-cannabidiol-prescribing-information.md]
+
+[[kava-kavalactones]] and [[kratom-mitragynine]] are not interchangeable, but both need risk-first routing. NCCIH says kava has human anxiety research but little evidence for other conditions and rare serious liver-injury concerns; the 2020 16-week GAD RCT was not positive and reported poorer memory, tremor/shakiness, and more liver-function-test abnormalities in the kava group. Kratom is more severe: FDA warns against OPMS Black Liquid Kratom and has separately warned firms marketing added or enhanced 7-OH products, while mitragynine animal work reports abuse-potential and adverse learning/memory effects.^[raw/articles/nccih-2025-kava-usefulness-safety.md]^[raw/articles/sage-2020-kava-gad-rct.md]^[raw/articles/fda-2024-opms-black-liquid-kratom-warning.md]^[raw/articles/fda-2025-7oh-kratom-warning-letters.md]^[raw/articles/pubmed-25262913-mitragynine-cognitive-impairment-abuse-potential.md]
+
+[[agmatine]], [[dmae-centrophenoxine]], and [[idebenone]] are mostly mechanism/legacy candidates. Agmatine improves cognition in an STZ Alzheimer rat model and has a plausible neuromodulator story, but no human cognition packet comparable to [[roflumilast]] or [[sodium-benzoate]]. Centrophenoxine has old and mixed clinical data; ADDF summarizes the evidence as weak and inconclusive and flags DMAE safety concerns. Idebenone has old positive Alzheimer-type dementia trials, but the later one-year AD trial failed to slow cognitive decline, so the current route is contested legacy mitochondrial watch rather than promotion.^[raw/articles/pmc-3990080-agmatine-stz-alzheimer-rat-model.md]^[raw/articles/pubmed-9327985-agmatine-novel-neurotransmitter-review.md]^[raw/articles/alzdiscovery-2017-centrophenoxine-cognitive-vitality.md]^[raw/articles/pubmed-9267856-idebenone-alzheimer-dose-rct.md]^[raw/articles/pubmed-14663031-idebenone-ad-fails-trial.md]
+
+## Anecdote Ledger
+
+| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Memantine can transiently improve anhedonia, focus, and tolerance-like states | `anecdote` | raw/articles/reddit-2020-memantine-one-month-thread.md; Reddit /r/Nootropics | one high-visibility thread with mixed replies; `moderate` | low-dose daily memantine, mood/focus claims, dose escalation | low | Long half-life, accumulation, migraine, dissociation, psychiatric confounding |
+| Agmatine can reduce anxiety/pain or change stimulant/tolerance response | `anecdote` | raw/articles/reddit-2023-agmatine-experience-thread.md; Reddit /r/Nootropics | one detailed thread with multiple replies; `moderate` | 500 mg to 1 g/day, pre-workout, sciatica, mood/anxiety | low | Palpitations, sleepiness, fog, dose-response and interaction reports |
+| CBD can help evening downshift and sleep after nootropic use | `anecdote` | raw/articles/reddit-2026-cbd-nootropics-experience-thread.md; Reddit /r/Nootropics | one recent report; `weak` | CBD drink after multi-ingredient nootropic stack | low | Stack-confounded; next-morning slowness reported |
+| Kava can feel calm, social, and focusing | `anecdote` | raw/articles/reddit-2021-kava-natural-nootropics-thread.md; Reddit /r/Nootropics | one natural-nootropic thread; `weak-moderate` | same-day social/calm use | low | Mood/anxiety mediation; liver/product caveats absent in most anecdotes |
+| Kratom can feel like memory/focus/creativity support | `anecdote` | raw/articles/reddit-2024-kratom-memory-focus-thread.md; Reddit /r/kratom | one discussion thread; `moderate` salience | daily kratom, SNRI/thyroid-med context, mood/pain state | low | Opioid-like mood/analgesia confounding, dependence risk, mixed replies |
+| Centrophenoxine can improve clarity or memory but can worsen mood/irritability | `anecdote` | raw/articles/reddit-2019-centrophenoxine-experience-thread.md; Reddit /r/Nootropics | one multi-reply thread; `moderate` | 300-1000 mg-style supplement use, choline-like stacks | low | Inconsistent, old compound identity, cholinergic mood cost |
+| Idebenone can feel like mitochondrial clarity/energy | `anecdote` | raw/articles/reddit-2021-idebenone-experience-thread.md; Reddit /r/Nootropics | sparse thread; `weak-moderate` | idebenone vs ubiquinol/MitoQ, stack use | low | Non-response also present; CoQ analog and stack attribution unclear |
+
+## Safety And Interpretation
+
+- [[memantine]] should stay prescription-first. Nootropic anecdotes often underweight its long half-life, accumulation, and interaction with other NMDA antagonists.
+- [[cannabidiol-cbd]], [[kava-kavalactones]], and [[kratom-mitragynine]] should not be collapsed into one "calm focus" category. CBD is cannabinoid/antiepileptic-safety; kava is kavalactone/product/liver-safety; kratom is opioid-like dependence and serious-adverse-event safety.
+- [[agmatine]] looks more like a tolerance/pain/mood-state molecule than a cognition molecule until human cognitive endpoints exist.
+- [[dmae-centrophenoxine]] and [[idebenone]] are legacy candidates. Old positive dementia or memory findings are useful history, but they are not enough to outrank better-supported modern branches in [[cognitive-improvement-molecule-signal-atlas]].
+
+## Verdict
+
+These molecules are relevant enough to include as standalone entities, but they mostly lower the wiki's hype gradient. [[memantine]] is a clinical-state comparator; [[agmatine]] is preclinical/tolerance lore; [[cannabidiol-cbd]] and [[kava-kavalactones]] are calm/sleep/anxiety branches with safety gates; [[kratom-mitragynine]] is risk-first; [[dmae-centrophenoxine]] and [[idebenone]] are legacy gray-zone. None should be ranked above cleaner state-support or clinical-signal branches without new controlled cognition evidence.
+
+Related pages: [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[anecdote-led-chemical-heat-map]], [[common-nootropic-gray-zone-molecule-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[cholinergic-state-restoration-and-cognition]], and [[negative-evidence-watchlist-for-cognition-interventions]].
