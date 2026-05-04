@@ -358,6 +358,7 @@ Use this mini-protocol for `P1-23`, `P1-24`, `P1-25`, `P1-30`, `RC-63`, `RC-64`,
 
 - Every P0 task complete with evidence-tiered summary and links.
 - At least 70% of P1 tasks complete.
+
 - A first-pass contradiction log and responder atlas delivered.
 - Clear recommendations on which 3 combination protocols deserve immediate trial design.
 - A usable practical-research protocol exists for low-risk, nonprescription, and sham-capable interventions.
