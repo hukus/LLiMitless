@@ -6,6 +6,7 @@ import process from "node:process";
 
 const repoRoot = process.cwd();
 const publicDirs = ["entities", "concepts", "comparisons", "queries"];
+const wikiLinkPattern = /!?\[\[([^\]\n]+)\]\]/g;
 const rootPages = [
   { source: "index.md", destination: "index.md", transform: transformIndex },
   { source: "outcome.md", destination: "OUTCOME.md" },
@@ -56,6 +57,99 @@ function transformLog(content) {
     .replace(/\[\[IDEAS\]\]/g, "`IDEAS.md`");
 
   return `${frontmatter("Updates / Changelog")}# Updates / Changelog\n\n${normalized}`;
+}
+
+function normalizeTarget(value) {
+  return value
+    .trim()
+    .replace(/\\/g, "/")
+    .replace(/\.md$/i, "")
+    .split("/")
+    .map((segment) => segment.trim().replace(/\s+/g, "-").toLowerCase())
+    .join("/");
+}
+
+function splitTarget(rawTarget) {
+  const withoutAlias = rawTarget.split("|")[0].trim();
+  const withoutAnchor = withoutAlias.split("#")[0].trim();
+  const withoutBlock = withoutAnchor.split("^")[0].trim();
+  return withoutBlock;
+}
+
+async function listMarkdownFiles(directory, root = directory) {
+  const files = [];
+  for (const entry of await fs.readdir(directory, { withFileTypes: true })) {
+    const absolute = path.join(directory, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...(await listMarkdownFiles(absolute, root)));
+    } else if (entry.isFile() && entry.name.endsWith(".md")) {
+      files.push(path.relative(root, absolute).replace(/\\/g, "/"));
+    }
+  }
+  return files;
+}
+
+function buildPageMaps(files) {
+  const pagesByPath = new Map();
+  const pagesByStem = new Map();
+
+  for (const file of files) {
+    const pagePath = normalizeTarget(file);
+    const stem = pagePath.split("/").at(-1)?.replace(/\.md$/i, "");
+    const withoutExtension = pagePath.replace(/\.md$/i, "");
+    pagesByPath.set(withoutExtension, file);
+    pagesByStem.set(stem, [...(pagesByStem.get(stem) ?? []), file]);
+  }
+
+  return { pagesByPath, pagesByStem };
+}
+
+function resolveTarget(target, pagesByPath, pagesByStem) {
+  const normalized = normalizeTarget(target);
+  if (pagesByPath.has(normalized)) return pagesByPath.get(normalized);
+
+  const basename = normalized.split("/").at(-1);
+  const stemMatches = pagesByStem.get(basename) ?? [];
+  if (stemMatches.length === 1) return stemMatches[0];
+
+  return null;
+}
+
+function renderHistoricalWikilinkAsText(rawTarget) {
+  const [targetPart, alias] = rawTarget.split("|");
+  const label = alias?.trim() || splitTarget(targetPart ?? rawTarget) || rawTarget.trim();
+  return `\`${label}\``;
+}
+
+async function sanitizeChangelogLinks(outputDirectory) {
+  const outputPath = path.join(repoRoot, outputDirectory);
+  const changelogRelativePath = "updates/changelog.md";
+  const changelogPath = path.join(outputPath, changelogRelativePath);
+  const changelogStat = await fs.stat(changelogPath).catch(() => null);
+  if (!changelogStat?.isFile()) return;
+
+  const files = await listMarkdownFiles(outputPath);
+  const { pagesByPath, pagesByStem } = buildPageMaps(files);
+  const content = await fs.readFile(changelogPath, "utf8");
+  const sanitized = content.replace(wikiLinkPattern, (fullMatch, rawTarget) => {
+    const target = splitTarget(rawTarget);
+    if (
+      !target ||
+      target.startsWith("#") ||
+      target.startsWith("http://") ||
+      target.startsWith("https://")
+    ) {
+      return fullMatch;
+    }
+
+    return resolveTarget(target, pagesByPath, pagesByStem)
+      ? fullMatch
+      : renderHistoricalWikilinkAsText(rawTarget);
+  });
+
+  if (sanitized !== content) {
+    await fs.writeFile(changelogPath, sanitized);
+  }
 }
 
 function isSafeOutputDirectory(outputDirectory) {
@@ -172,6 +266,8 @@ async function main() {
   for (const directory of publicDirs) {
     await copyDirectory(directory, path.join(outputDirectory, directory));
   }
+
+  await sanitizeChangelogLinks(outputDirectory);
 
   console.log(`Prepared Quartz content in ${outputDirectory}`);
 }

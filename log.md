@@ -3593,3 +3593,9 @@ The wiki expanded from a cognition/medicine seed into a broad intervention graph
 - Archived the superseded sibling page to `_archive/comparisons/circadian-and-sleep-interventions-for-performance-and-cognition.md`.
 - Updated `index.md`, `concepts/cbt-i-and-cognition.md`, `concepts/bright-light-therapy-and-cognition.md`, `concepts/circadian-disruption-and-cognition.md`, `concepts/sleep-banking-and-sleep-extension.md`, `entities/melatonin.md`, `comparisons/cognition-intervention-master-table.md`, `comparisons/pharmacology-comparator-map.md`, `queries/most-promising-methods-for-cognition.md`, `queries/medicine-cognition-summary.md`, `queries/healthy-adult-cognition-signals.md`, and `queries/chronotype-specific-response-across-sleep-stimulation-interventions.md` so the active graph now points to the single consolidated comparison.
 - Full wiki lint now reports 508 informational notices and no structural regressions: 0 errors, 0 warnings, and 508 info notices.
+
+## [2026-05-04] infra | Quartz changelog export strips non-public historical wikilinks
+
+- Updated `scripts/prepare-quartz-content.mjs` so `updates/changelog.md` is sanitized after public export: historical wikilinks that still resolve to live public pages stay as wikilinks, while links to archived/private/removed pages are rewritten to plain code text.
+- Kept `scripts/validate-public-wiki.mjs` strict; the fix is in content preparation rather than by exempting the changelog from broken-link checks.
+- Re-ran `npm run site:validate`; public validation now passes with 414 pages, 0 broken links, 0 duplicates, and 0 orphans.
