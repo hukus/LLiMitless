@@ -6,9 +6,9 @@ title: LLiMitless
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-04 | Total pages: 412
+> Last updated: 2026-05-04 | Total pages: 411
 
-Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[sleep-and-circadian-interventions-for-cognition]], [[circadian-and-sleep-interventions-for-performance-and-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
+Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
 
 ## Summaries
 - [[OUTCOME]] — current top-level synthesis of the wiki's strongest treatment, medicine, molecule, device, nutrient, peptide, risk-first, and anecdotal-evidence signals.
@@ -290,7 +290,6 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[legacy-vasoactive-racetam-nootropic-watchlist]] — old smart-drug watchlist for [[hydergine-ergoloid-mesylates]], [[nicergoline]], [[propentofylline]], [[naftidrofuryl]], [[pramiracetam]], and [[nefiracetam]].
 - [[risk-first-legacy-gray-zone-nootropic-watchlist]] — risk-first and legacy gray-zone watchlist for memantine, agmatine, CBD, kava, kratom, DMAE/centrophenoxine, and idebenone.
 - [[small-molecule-biomarker-behavior-failure-library]] — pattern library for biomarker-positive but cognition-negative or geography-limited small-molecule programs.
-- [[circadian-and-sleep-interventions-for-performance-and-cognition]] — practical comparison of CBT-I, circadian disruption, sleep banking, and sleep extension.
 - [[molecule-intake-triage-table]] — pre-ranking intake gate that routes candidates into comparator, state-restoration, disease-modifying clinical, nutraceutical proxy, preclinical-only, or negative-class buckets.
 - [[muscarinic-agent-cognition-watchlist]] — molecule-level routing for xanomeline, Cobenfy/KarXT, VU0467319, emraclidine, and related muscarinic cognition claims.
 - [[nutrient-supplement-cognition-signal-map]] — comparison page for [[dha-epa]], [[melatonin]], [[vitamin-d3]], [[folate-b-vitamins]], and multi-nutrient cognition signals from the 2026 nutrient NMA.
@@ -313,7 +312,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[anecdote-to-trial-mismatch-bucketed-map]] — bucketed comparison of high-heat chemicals into replication-worthy, state-bound, risk-first, sourcing-confounded, and deprioritize groups.
 - [[classic-psychedelic-microdosing-vs-psychoplastogens]] — comparison of psilocybin/LSD microdosing evidence against the non-hallucinogenic psychoplastogen lane.
 - [[noninvasive-brain-stimulation-for-cognition]] — comparison of rTMS, tDCS, tACS, and nearby stimulation modalities.
-- [[sleep-and-circadian-interventions-for-cognition]] — comparison of CBT-I, bright light therapy, and circadian regularization strategies.
+- [[sleep-and-circadian-interventions-for-cognition]] — consolidated sleep/rhythm comparison covering CBT-I, bright light therapy, sleep extension, and circadian alignment.
 - [[neurocognitive-interventions-under-study]] — side-by-side comparison of peptides, photobiomodulation, and focused ultrasound.
 - [[histamine-h3-inverse-agonists-2026-scan]] — wakefulness-first scan for pitolisant, MK-0249, GSK239512, and samelisant.
 

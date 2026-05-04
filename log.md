@@ -3586,3 +3586,10 @@ The wiki expanded from a cognition/medicine seed into a broad intervention graph
 - Added Quartz config/layout enabling search, explorer navigation, backlinks, table of contents, graph view, popovers, RSS, and sitemap generation.
 - Added a GitHub Actions workflow that checks out Quartz v4, installs its locked dependencies, prepares and validates the public wiki, builds the static site, and deploys `.quartz/public` to GitHub Pages.
 - Verified locally: public validation passed for 415 pages with 0 broken links, 0 duplicates, and 0 orphans; Quartz v4.5.2 emitted 464 static files; full wiki lint remained 0 errors and 0 warnings with 508 informational low-confidence/contested notices.
+
+## [2026-05-04] structure | Consolidated sleep and circadian comparison
+
+- Merged the active sleep/circadian hub into `comparisons/sleep-and-circadian-interventions-for-cognition.md`, expanding it to cover sleep restoration, circadian alignment, performance buffering, chronotype moderation, and downstream CLAS/TMR timing links under one comparison.
+- Archived the superseded sibling page to `_archive/comparisons/circadian-and-sleep-interventions-for-performance-and-cognition.md`.
+- Updated `index.md`, `concepts/cbt-i-and-cognition.md`, `concepts/bright-light-therapy-and-cognition.md`, `concepts/circadian-disruption-and-cognition.md`, `concepts/sleep-banking-and-sleep-extension.md`, `entities/melatonin.md`, `comparisons/cognition-intervention-master-table.md`, `comparisons/pharmacology-comparator-map.md`, `queries/most-promising-methods-for-cognition.md`, `queries/medicine-cognition-summary.md`, `queries/healthy-adult-cognition-signals.md`, and `queries/chronotype-specific-response-across-sleep-stimulation-interventions.md` so the active graph now points to the single consolidated comparison.
+- Full wiki lint now reports 508 informational notices and no structural regressions: 0 errors, 0 warnings, and 508 info notices.

@@ -1,7 +1,7 @@
 ---
 title: Most Promising Methods for Improving Cognition
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-04
 type: query
 tags: [comparison, cognition, controversy]
 sources: [raw/articles/pubmed-41460391-cerebrolysin-age-induced-memory-decline.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]
@@ -24,7 +24,7 @@ The rankings below are state-sensitive. A rescue effect under sleep loss, hypoxi
 
 Relevant raw PubMed notes behind the peptide cluster: raw/articles/pubmed-41460391-cerebrolysin-age-induced-memory-decline.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, and raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md.
 
-For the evidence-grounded overview, see [[medicine-cognition-summary]] and [[sleep-and-circadian-interventions-for-cognition]]. For the more speculative cluster, see [[neurocognitive-interventions-under-study]], [[peptide-neuroprotection]], and [[adjunctive-interventions-for-cognition]]. For healthy, well-slept adults, see [[healthy-adult-cognition-signals]]. The sleep/rhythm corner of the ranking is easiest to compare against [[circadian-and-sleep-interventions-for-performance-and-cognition]]. For broader graph navigation, start at the root `index.md` and use the comparison hubs [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], [[neurocognitive-interventions-under-study]], and [[state-challenge-matrix-for-cognition-interventions]] to move between the ranked list and the clustered views.
+For the evidence-grounded overview, see [[medicine-cognition-summary]] and [[sleep-and-circadian-interventions-for-cognition]]. For the more speculative cluster, see [[neurocognitive-interventions-under-study]], [[peptide-neuroprotection]], and [[adjunctive-interventions-for-cognition]]. For healthy, well-slept adults, see [[healthy-adult-cognition-signals]]. The sleep/rhythm corner of the ranking is easiest to compare against the consolidated [[sleep-and-circadian-interventions-for-cognition]] comparison. For broader graph navigation, start at the root `index.md` and use the comparison hubs [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], [[neurocognitive-interventions-under-study]], and [[state-challenge-matrix-for-cognition-interventions]] to move between the ranked list and the clustered views.
 For the pharmacology baseline that novel interventions should be compared against, see [[pharmacology-comparator-map]].
 For the study-design layer, see [[trial-design-recommendations-for-cognition-interventions]].
 For a narrow imaging-supported candidate that sits below the top 5 but is worth tracking, see [[methylene-blue-2026-scan]].

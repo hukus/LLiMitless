@@ -1,7 +1,7 @@
 ---
 title: Sleep Banking and Sleep Extension
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-04
 type: concept
 tags: [sleep, cognition, performance, clinical-trial, controversy]
 sources: [raw/articles/pubmed-41892386-sleep-banking-cognitive-motor-impairments-sleep-restriction.md, raw/articles/pubmed-40984126-sleep-extension-cognitive-performance-military-aged-adults.md, raw/articles/pubmed-40458955-chronotype-sleep-extension-manipulation-adolescents.md, raw/articles/pubmed-37539684-chronotype-affective-response-sleep-restriction-deprivation.md]
@@ -18,7 +18,7 @@ The main signal is acute: better vigilance, reaction time, and resistance to lat
 
 Chronotype adds a second layer. In short-sleeping adolescents, both morning/intermediate and evening types extended sleep, but the phase response differed: evening types delayed sleep offset while morning/intermediate types narrowed the melatonin-to-sleep-onset angle. In healthy adults under sleep restriction and total sleep deprivation, later chronotypes were more vulnerable to negative affect. That makes chronotype relevant for who benefits most from sleep-extension or sleep-loss countermeasures, but it still does not turn sleep banking into a durable cognition enhancer.^[raw/articles/pubmed-40458955-chronotype-sleep-extension-manipulation-adolescents.md]^[raw/articles/pubmed-37539684-chronotype-affective-response-sleep-restriction-deprivation.md]
 
-This page sits alongside [[circadian-disruption-and-cognition]] because the goal is to reduce performance loss from schedule mismatch, alongside [[cbt-i-and-cognition]] because both belong to the broader sleep-optimization toolkit, and alongside [[bright-light-therapy-and-cognition]] because both are circadian-aligned performance interventions. For the side-by-side practical framing, see [[circadian-and-sleep-interventions-for-performance-and-cognition]] and [[sleep-and-circadian-interventions-for-cognition]]. For navigation, this page also belongs with [[medicine-cognition-summary]] and [[most-promising-methods-for-cognition]].
+This page sits alongside [[circadian-disruption-and-cognition]] because the goal is to reduce performance loss from schedule mismatch, alongside [[cbt-i-and-cognition]] because both belong to the broader sleep-optimization toolkit, and alongside [[bright-light-therapy-and-cognition]] because both are circadian-aligned performance interventions. For the side-by-side practical framing, see the consolidated [[sleep-and-circadian-interventions-for-cognition]] comparison. For navigation, this page also belongs with [[medicine-cognition-summary]] and [[most-promising-methods-for-cognition]].
 
 For the retention question specifically, see [[washout-durability-for-cognition-interventions]]; sleep banking and sleep extension are best read as state buffers, not long-horizon cognitive gains.
 

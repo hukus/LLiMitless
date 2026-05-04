@@ -1,7 +1,7 @@
 ---
 title: Melatonin
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 type: entity
 tags: [domain-medicine, cognition, sleep, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubmed-41764841-nutritional-supplements-cognition-nma.md, raw/articles/pubmed-41240058-melatonin-sleep-cognition-cognitive-impairment-meta.md, raw/articles/pmc-12581400-melatonin-cognition-cognitive-impairment-meta.md, raw/articles/pubmed-24971004-prolonged-release-melatonin-ad-rct.md, raw/articles/pubmed-27645169-melatonin-alzheimers-meta-analysis-null.md, raw/articles/nccih-2026-melatonin-usefulness-safety.md, raw/articles/pmc-5263083-melatonin-supplement-content-variability.md, raw/articles/reddit-2023-melatonin-refreshed-sleep-thread.md, raw/articles/reddit-2024-melatonin-grogginess-brain-fog-thread.md]
@@ -52,7 +52,6 @@ A confidence upgrade requires larger blinded RCTs that separate MCI from AD/deme
 - [[nutrient-supplement-cognition-signal-map]]
 - [[sleep-and-circadian-interventions-for-cognition]]
 - [[phase-locked-triad-for-cognition-interventions]]
-- [[circadian-and-sleep-interventions-for-performance-and-cognition]]
 - [[supplement-identity-evidence-map]]
 - [[dha-epa]]
 - [[tart-cherry]]

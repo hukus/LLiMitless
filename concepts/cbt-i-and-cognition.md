@@ -1,7 +1,7 @@
 ---
 title: CBT-I and Cognition
 created: 2026-04-26
-updated: 2026-05-03
+updated: 2026-05-04
 type: concept
 tags: [sleep, cognition, clinical-trial, mechanism, controversy]
 sources: [raw/articles/pubmed-36543054-cbt-i-objective-short-sleep-duration.md, raw/articles/pubmed-33091586-cbt-i-enhance-cognitive-function-abeta-deposition.md, raw/articles/pubmed-40982264-cbt-i-chronic-disease-meta-analysis.md]
@@ -16,7 +16,7 @@ The 2025 JAMA Internal Medicine meta-analysis in chronic disease populations str
 
 Relevant raw PubMed notes: `raw/articles/pubmed-36543054-cbt-i-objective-short-sleep-duration.md|systematic review`, `raw/articles/pubmed-33091586-cbt-i-enhance-cognitive-function-abeta-deposition.md|pilot protocol`, and `raw/articles/pubmed-40982264-cbt-i-chronic-disease-meta-analysis.md|chronic-disease meta-analysis`.
 
-The cognition-specific literature is still thinner than the insomnia literature. A pilot trial protocol in older adults with insomnia explicitly tested whether CBT-I could improve cognitive function and reduce amyloid-related signal, which makes this a useful bridge page between sleep medicine and [[incretin-therapies-brain-health]]-style brain-health thinking. For the wiki, CBT-I belongs in [[sleep-and-circadian-interventions-for-cognition]] and [[circadian-and-sleep-interventions-for-performance-and-cognition]], and pairs naturally with [[bright-light-therapy-and-cognition]], [[sleep-banking-and-sleep-extension]], and [[circadian-disruption-and-cognition]].^[raw/articles/pubmed-33091586-cbt-i-enhance-cognitive-function-abeta-deposition.md]
+The cognition-specific literature is still thinner than the insomnia literature. A pilot trial protocol in older adults with insomnia explicitly tested whether CBT-I could improve cognitive function and reduce amyloid-related signal, which makes this a useful bridge page between sleep medicine and [[incretin-therapies-brain-health]]-style brain-health thinking. For the wiki, CBT-I belongs in the consolidated [[sleep-and-circadian-interventions-for-cognition]] comparison and pairs naturally with [[bright-light-therapy-and-cognition]], [[sleep-banking-and-sleep-extension]], and [[circadian-disruption-and-cognition]].^[raw/articles/pubmed-33091586-cbt-i-enhance-cognitive-function-abeta-deposition.md]
 
 Durability is still the missing piece. The current CBT-I cognition papers show that cognition can be measured directly, but they do not yet establish a clean retained-enhancement signal after a long washout. For that comparison, see [[washout-durability-for-cognition-interventions]].^[raw/articles/pubmed-32128593-dcbt-i-cognitive-function-rct.md]^[raw/articles/pubmed-35691208-cbt-i-objective-sleep-cognition.md]
 

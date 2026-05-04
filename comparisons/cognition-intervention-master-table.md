@@ -59,7 +59,7 @@ Read the table as a decision aid, not a cross-family numeric meta-analysis. The 
 - For the broader ranking view, see [[most-promising-methods-for-cognition]].
 - For the pre-ranking intake gate, see [[molecule-intake-triage-table]].
 - For the highest-level synthesis, see [[medicine-cognition-summary]].
-- For sleep-specific interpretation, see [[sleep-and-circadian-interventions-for-cognition]] and [[circadian-and-sleep-interventions-for-performance-and-cognition]].
+- For sleep-specific interpretation, see [[sleep-and-circadian-interventions-for-cognition]].
 - For the recovery and adjunctive bucket, see [[adjunctive-interventions-for-cognition]].
 - For the energy-substrate comparator lens, see [[energy-substrate-comparator-map]].
 - For a practical deployability view, see [[implementation-friction-scorecard]].

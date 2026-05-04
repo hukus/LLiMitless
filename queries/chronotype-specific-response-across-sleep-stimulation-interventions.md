@@ -1,7 +1,7 @@
 ---
 title: Chronotype-Specific Response Across Sleep, Light, and Stimulation Interventions
 created: 2026-04-27
-updated: 2026-04-30
+updated: 2026-05-04
 type: query
 tags: [sleep, light-therapy, performance, cognition, comparison, protocol, controversy]
 sources: [raw/articles/pubmed-40458955-chronotype-sleep-extension-manipulation-adolescents.md, raw/articles/pubmed-37539684-chronotype-affective-response-sleep-restriction-deprivation.md, raw/articles/pubmed-40018197-sleep-duration-chronotype-health-lifestyle-cognition.md, raw/articles/pubmed-40221238-chronotype-cognitive-decline.md, raw/articles/pubmed-41113437-chronotype-cognitive-outcomes-neural-dynamics-perioperative.md, raw/articles/chronobiology-international-2025-chronotype-synchrony-human-cognitive-performance-systematic-review.md, raw/articles/pubmed-32924897-bright-light-evening-chronotype-mdd.md, raw/articles/pubmed-37975923-chronotype-tailored-bright-light-breast-cancer.md, raw/articles/pubmed-40939989-morning-light-chronotype-adherence-prediction.md, raw/articles/pubmed-31495294-morningness-eveningness-day-treatment-streams.md, raw/articles/pubmed-29764214-chronotype-antidepressant-chronotherapeutics-bipolar.md, raw/articles/pubmed-27259079-chronotype-light-therapy-fixed-time-sad.md, raw/articles/pubmed-31530241-nb-uvb-chronotype-mood.md, raw/articles/pubmed-34344864-chronotype-and-tdcs-timing-cognition.md, raw/articles/pubmed-30035659-tdcs-time-of-day-episodic-memory-retrieval.md, raw/articles/pubmed-36327249-taVNS-circadian-hrv.md, raw/articles/pubmed-35321778-tacs-insomnia-time-of-day.md, raw/articles/pubmed-41125953-tpbm-insomnia-rct.md, raw/articles/nature-2025-phase-specific-enhancement-motor-memory-consolidation-closed-loop-tmr.md, raw/articles/pubmed-40691439-personalized-targeted-memory-reactivation.md, raw/articles/pubmed-41110657-auditory-stimulation-sleep-varies-thalamocortical-spindle-phase.md, raw/articles/pubmed-40709491-colored-light-chronotype-qeeg.md]
@@ -120,7 +120,7 @@ For the deeper three-layer timing synthesis that separates chronotype, session t
 - Update [[bright-light-therapy-and-cognition]] with the chronotype-tailored and fixed-time light therapy contrast.
 - Update [[bright-light-therapy-and-cognition]] with the 2026 pooled morning-light analysis and the weaker chronotype-response signal.
 - Update [[sleep-banking-and-sleep-extension]] with the chronotype-dependent sleep-extension result.
-- Update [[circadian-and-sleep-interventions-for-performance-and-cognition]] with a chronotype-moderation note.
+- Update [[sleep-and-circadian-interventions-for-cognition]] with a chronotype-moderation note.
 - Update [[transcranial-direct-current-stimulation-and-cognition]] with the new time-of-day and chronotype evidence.
 - Update [[transcranial-alternating-current-stimulation-and-cognition]] with the insomnia timing note and the current lack of chronotype data.
 - Update [[transcranial-photobiomodulation]] with the insomnia RCT as a state-sensitive anchor.
