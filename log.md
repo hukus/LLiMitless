@@ -1,3 +1,11 @@
+## [2026-05-06] infra | Quartz source-note linking added
+
+- Updated `scripts/prepare-quartz-content.mjs` so the generated Quartz content now publishes raw Markdown source notes under `sources/articles/`, `sources/papers/`, and `sources/transcripts/` while keeping canonical editable files under `raw/`.
+- Generated `source-notes.md` as a public source index and added it to the homepage site links.
+- Rewrote generated raw-path references, inline provenance markers, and Markdown links to raw notes into Quartz wikilinks pointing at the public `sources/` namespace; pages without an existing source section now get a generated `## Source Notes` section in the published output.
+- Kept main-page validation strict while sanitizing unresolved historical wikilinks only in generated changelog/source-note pages.
+- Verified locally: `npm run site:validate` passed with 2113 pages, 0 broken links, 0 duplicates, and 0 orphans; `npm run site:build` with Quartz v4.5.2 emitted 2165 files.
+
 ## [2026-05-06] entity | BPC-157 ocular and gray-market quality follow-up
 
 - Added and hashed 4 raw captures for the BPC-157 follow-up: `raw/articles/pubmed-16117343-bpc157-corneal-epithelial-defects-rats.md` (`088a3be87dcde983ee280d75d9e9c6ca13717e1a40c4395b6969d1a13f993bc3`), `raw/articles/pubmed-25912999-bpc157-perforating-corneal-injury-rat.md` (`8d0b5dbb3b9f8f92c892ee6f0dab9e40f1e6e7a5d78f7b6885bc1a95dad569d1`), `raw/articles/finnrick-2026-bpc157-testing-dashboard.md` (`ad55ae3d0de3f3c39ea95443788b5f8cc4e35d5ad5cdf5dee80497c20969d96b`), and `raw/articles/finnrick-2026-products-dashboard.md` (`b22e6d1cb0ab4cc9f27344e202e442d774b5be5c7430149a0a048ec8462ef9c5`).
