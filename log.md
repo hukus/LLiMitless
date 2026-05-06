@@ -1,3 +1,10 @@
+## [2026-05-06] coverage | GH-axis and mitochondrial peptide frontier expanded
+
+- Added and hashed 2 new registry captures for tesamorelin: `raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md` (`4afd9bb87e859c63adb3a4678f4572acd115eb0e4b564100a6f41f9da6d24ace`) and `raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md` (`fb9260a7e80d6b5390c50fb2d5df3e0514478963cd9fafc2b535d3056630b57d`).
+- Updated `entities/tesamorelin.md`, `queries/growth-hormone-secretagogue-cognition-2026-scan.md`, `entities/humanin.md`, `entities/shlp2.md`, `entities/elamipretide.md`, `concepts/mitochondria-derived-peptides.md`, `queries/mitochondrial-peptide-frontier-beyond-mots-c-2026-scan.md`, `entities/cortexin.md`, and `index.md`.
+- Main conclusion: peptide coverage broadened in two useful directions. First, tesamorelin now reads as the clearest formally active GH-axis peptide because the older cognition studies now sit beside recruiting Phase 2 programs in peripheral-nerve recovery and HIV physical-function improvement. Second, the mitochondrial peptide family now reads as one of the wiki's more serious peptide frontiers because it combines Humanin's brain-facing biology, SHLP2's emergence as a real sub-branch, MOTS-c's recruiting metabolic trial, and elamipretide's approved-drug plus healthy-aging-pilot status. Cortexin also now reads as a real recovery-state peptide node rather than just a legacy review mention.
+- Structural lint after this peptide-expansion pass reports 0 error, 0 warn, and 508 info.
+
 ## [2026-05-06] entity | broader peptide frontier pass with Dihexa prioritized
 
 - Broadened the proposed peptide entity pass across the highest-salience or emerging branches, with Dihexa handled first and then Semax, Selank, Pinealon, MOTS-c, PE-22-28, and Adamax aligned to the newer category framing.

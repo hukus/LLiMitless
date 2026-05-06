@@ -1,10 +1,10 @@
 ---
 title: Mitochondrial Peptide Frontier Beyond MOTS-c 2026 Scan
 created: 2026-04-29
-updated: 2026-04-30
+updated: 2026-05-06
 type: query
 tags: [cognition, comparison, metabolism, peptides, neuroscience, mechanism, safety, clinical-trial, biomarker]
-sources: [raw/articles/pubmed-40715951-mdp-neurodegeneration-review.md, raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md, raw/articles/pmc-7343442-humanin-lifespan-healthspan.md, raw/articles/pubmed-30242290-humanin-age-related-cognitive-decline.md, raw/articles/pubmed-38520065-humanin-p3s-apoe4-brain-pathology.md, raw/articles/pubmed-37926362-humanin-tbi-related-cognitive-impairment.md, raw/articles/pubmed-30310092-shlp2-macular-degeneration.md, raw/articles/pubmed-37468568-shlp2-energy-homeostasis.md, raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md, raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md, raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md, raw/articles/fda-forzinity-elamipretide-approval.md, raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md, raw/articles/pubmed-40292418-shlp6-cu-induced-oxidative-stress-neurodegeneration.md, raw/articles/reddit-2026-04-30-ss31-undesirable-effects-thread.md, raw/articles/reddit-2026-04-30-humanin-longevity-signal-guide.md, raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
+sources: [raw/articles/pubmed-40715951-mdp-neurodegeneration-review.md, raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md, raw/articles/pmc-7343442-humanin-lifespan-healthspan.md, raw/articles/pubmed-30242290-humanin-age-related-cognitive-decline.md, raw/articles/pubmed-38520065-humanin-p3s-apoe4-brain-pathology.md, raw/articles/pubmed-37926362-humanin-tbi-related-cognitive-impairment.md, raw/articles/pubmed-30310092-shlp2-macular-degeneration.md, raw/articles/pubmed-37468558-shlp2-energy-homeostasis.md, raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md, raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md, raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md, raw/articles/fda-forzinity-elamipretide-approval.md, raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md, raw/articles/pubmed-40292418-shlp6-cu-induced-oxidative-stress-neurodegeneration.md, raw/articles/reddit-2026-04-30-ss31-undesirable-effects-thread.md, raw/articles/reddit-2026-04-30-humanin-longevity-signal-guide.md, raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
 confidence: low
 ---
 
@@ -14,11 +14,11 @@ confidence: low
 
 Humanin is the most cognition-relevant mitochondrial-derived peptide in the current wiki set, but the human evidence is still mostly genetic association and biomarker-linked resilience rather than a cognition intervention trial. The strongest brain-facing signals are humanin P3S in APOE4 carriers and humanin-associated cognitive aging, plus preclinical protection in age-related decline and TBI models.^[raw/articles/pubmed-30242290-humanin-age-related-cognitive-decline.md]^[raw/articles/pubmed-38520065-humanin-p3s-apoe4-brain-pathology.md]^[raw/articles/pubmed-37926362-humanin-tbi-related-cognitive-impairment.md]
 
-SHLP2 is the family member that moved furthest beyond review-only status. The 2023 energy-homeostasis paper tied SHLP2 to hypothalamic neurons and metabolic control, and the 2024 Parkinson's paper linked a SHLP2 variant to reduced PD risk. SHLP6 then added a new preclinical, cognition-adjacent zebrafish toxicity paper, which makes the SHLP family feel more real biologically without changing the human-evidence gap. Elamipretide/SS-31 is now a real approved mitochondrial drug under the Forzinity name for Barth syndrome, but that approval is disease-specific and muscle-strength-focused; its cognition relevance is still preclinical, with a mouse LPS-memory paper and mitochondrial mechanism reviews, not human cognitive endpoints.^[raw/articles/pubmed-37468568-shlp2-energy-homeostasis.md]^[raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md]^[raw/articles/pubmed-40292418-shlp6-cu-induced-oxidative-stress-neurodegeneration.md]^[raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md]^[raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md]^[raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md]^[raw/articles/fda-forzinity-elamipretide-approval.md]
+SHLP2 is the family member that moved furthest beyond review-only status. The 2023 energy-homeostasis paper tied SHLP2 to hypothalamic neurons and metabolic control, and the 2024 Parkinson's paper linked a SHLP2 variant to reduced PD risk. SHLP6 then added a new preclinical, cognition-adjacent zebrafish toxicity paper, which makes the SHLP family feel more real biologically without changing the human-evidence gap. Elamipretide/SS-31 is now a real approved mitochondrial drug under the Forzinity name for Barth syndrome, but that approval is disease-specific and muscle-strength-focused; its cognition relevance is still preclinical, with a mouse LPS-memory paper and mitochondrial mechanism reviews, not human cognitive endpoints.^[raw/articles/pubmed-37468558-shlp2-energy-homeostasis.md]^[raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md]^[raw/articles/pubmed-40292418-shlp6-cu-induced-oxidative-stress-neurodegeneration.md]^[raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md]^[raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md]^[raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md]^[raw/articles/fda-forzinity-elamipretide-approval.md]
 
 The anecdote layer is also now explicit: SS-31 has one cautionary Reddit self-report, and humanin has one vendor-style guide with promotional framing. Both belong in the low-signal lane rather than the evidence lane.^[raw/articles/reddit-2026-04-30-ss31-undesirable-effects-thread.md]^[raw/articles/reddit-2026-04-30-humanin-longevity-signal-guide.md]
 
-The right wiki interpretation is therefore a split branch: endogenous MDP biology on one side, approved/elamipretide disease use on another, and cognition claims kept separate until human intervention data appear. This is a higher-confidence biological frontier than MOTS-c for brain relevance, but still not a validated enhancement lane.
+The right wiki interpretation is therefore a split branch: endogenous MDP biology on one side, approved/elamipretide disease use on another, and cognition claims kept separate until human intervention data appear. This is now one of the more serious peptide frontiers in the wiki because the family has real biology, one approved drug, one healthy-aging pilot with cognitive secondary endpoints, and a stronger Humanin brain-resilience story than most peptide classes. It is still not a validated enhancement lane.
 
 ## New Since Last Pass
 
@@ -28,6 +28,7 @@ The right wiki interpretation is therefore a split branch: endogenous MDP biolog
 - Elamipretide changed regulatory status in 2025: FDA granted accelerated approval for Barth syndrome, so the compound is no longer just an investigational mitochondria-targeting peptide. That approval does not extend to cognition.^[raw/articles/fda-forzinity-elamipretide-approval.md]
 - The SHAPE healthy-aging trial started in late 2025 and is the first human elamipretide study in this branch with cognitive function as a secondary endpoint. It is open-label and single-arm, so it will be useful for safety and signal hunting, not definitive efficacy.^[raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md]
 - The 2025 neurodegeneration review is still mainly a roadmap paper: it expands the MDP neuroprotection narrative, but it does not add clinical cognition data.^[raw/articles/pubmed-40715951-mdp-neurodegeneration-review.md]
+- No visible Humanin or SHLP2 intervention program surfaced in the current pass, which keeps the family split clear: Humanin is biologically stronger for cognition, while elamipretide is stronger for formal clinical translation.
 
 ## What Changed Since 2024
 
@@ -85,9 +86,8 @@ The right wiki interpretation is therefore a split branch: endogenous MDP biolog
 ## Actionable Wiki Updates
 
 - Keep [[mots-c]] as the metabolism-first branch.
-- Add a dedicated [[humanin]] page from the current humanin evidence set.
-- Add [[shlp2]] as the family's first distinct translational sub-branch page.
+- Keep [[humanin]] and [[shlp2]] as the main endogenous MDP entity pages.
 - Keep SHLP6 inside the family page until mammalian or human cognition evidence appears.
-- Add a dedicated [[elamipretide]] page for the approved drug branch.
+- Keep [[elamipretide]] as the approved-drug branch with a separate safety and translation frame.
 - Use [[mitochondria-derived-peptides]] as the family-level page for SHLPs and the endogenous-vs-therapeutic split.
-- Link this scan from [[peptide-neuroprotection]] and [[medicine-cognition-summary]] once the next page pass happens.
+- Link this scan from [[peptide-neuroprotection]] and [[medicine-cognition-summary]] as the main non-MOTS-c mitochondrial peptide synthesis.

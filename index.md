@@ -75,9 +75,9 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[dha-epa]] — long-chain omega-3 nutrient pair with domain-specific older-adult cognition signals, null counterweights, and bidirectional fish-oil anecdotes.
 - [[dnl343]] — CNS-penetrant eIF2B activator with human ISR target engagement, a negative HEALEY ALS functional readout, and no cognition-efficacy endpoint.
 - [[dp71l]] — viral PPP1R15B-like ISR inhibition tool with strong preclinical cognition rescue but unresolved delivery and safety gates.
-- [[elamipretide]] — mitochondria-targeting peptide now approved for Barth syndrome, with cognition relevance still preclinical.
+- [[elamipretide]] — mitochondria-targeting peptide now approved for Barth syndrome, with a healthy-aging pilot and one of the cleaner cognition-adjacent translation stories in the peptide set.
 - [[epithalon]] — synthetic pineal tetrapeptide linked to telomere, melatonin, and geroprotection claims, but not a validated cognition enhancer.
-- [[cortexin]] — older peptide bioregulator with regional human ischemia/recovery studies, but limited modern cognition evidence.
+- [[cortexin]] — older peptide bioregulator with real regional human ischemia/recovery exposure and limited modern cognition evidence.
 - [[dmae-centrophenoxine]] — legacy DMAE/meclofenoxate cholinergic nootropic branch with weak/inconclusive formal evidence and inconsistent memory/irritability anecdotes.
 - [[ct1812-zervimesine]] — sigma-2 synaptic-rescue candidate with AD qEEG/CSF biomarker movement, exploratory DLB data, and pending long-duration early-AD efficacy readout.
 - [[fampridine]] — potassium-channel blocker with a narrow healthy-volunteer working-memory signal and stronger MS symptom-restoration context.
@@ -99,7 +99,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[hericium-erinaceus]] — lion's mane mushroom entity with mixed product-dependent MCI, early-AD, healthy-adult, and preprint evidence.
 - [[hexarelin]] — GH-secretagogue pharmacology comparator with human GH-release data but no cognition endpoint and absent-to-weak anecdotes.
 - [[phlai-essential-oil-blend]] — GC-MS-characterized inhaled traditional essential-oil blend with small acute mood/stress and cognition trials.
-- [[humanin]] — mitochondrial-derived peptide with the strongest cognition-linked resilience signal in the MDP family, but still no human intervention trial.
+- [[humanin]] — mitochondrial-derived peptide with the strongest brain-facing resilience signal in the MDP family, but still no visible human intervention program.
 - [[huperzine-a]] — cholinesterase-inhibitor botanical alkaloid with contested AD/MCI evidence and safety-first cholinergic routing.
 - [[xanomeline]] — historical muscarinic agonist with direct AD cognition signals but heavy cholinergic toxicity and poor practical enhancer fit.
 - [[xanomeline-trospium]] — Cobenfy/KarXT muscarinic schizophrenia drug with symptom-first efficacy, cognition still low, and label-level cholinergic/anticholinergic safety gates.
@@ -169,7 +169,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[dihexa]] — AngIV-analog peptide with coherent synaptogenic preclinical logic, persistent gray-market "rewiring" salience, and no visible human development program.
 - [[kortagen]] — lesser-known peptide bioregulator from the older neuroprotective-peptide literature, often surfaced as `cortagen`.
 - [[klotho]] — longevity-associated protein and gene product with mixed biomarker, genetic, and intervention evidence for cognition.
-- [[shlp2]] — mitochondrial-derived peptide with metabolic and Parkinson's/translational signals, but no cognition trial yet.
+- [[shlp2]] — mitochondrial-derived peptide now emerging as a real translational sub-branch through metabolic and Parkinson's biology, but no cognition trial yet.
 - [[shilajit]] — risk-first phytomineral / fulvic-acid matrix with preclinical-only cognition evidence, non-cognition human exposure trials, moderate-strong brain-fog/stamina anecdotes, and heavy-metal / thallium / COA gates.
 - [[idebenone]] — CoQ-like legacy mitochondrial candidate with contested old dementia evidence, later AD null, and weak-moderate energy/clarity anecdotes.
 - [[kava-kavalactones]] — anxiolytic botanical routed risk-first for liver/product/sedative concerns, with weak-moderate calm/social-focus anecdotes.
@@ -225,7 +225,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[theacrine]] — caffeine-stack and fatigue-state purine alkaloid with low-confidence combination evidence.
 - [[tianeptine]] — risk-first antidepressant-like compound with strong subjective reports but FDA, poison-center, dependence, and adulteration signals dominating nootropic interpretation.
 - [[thymosin-beta-4]] — regenerative peptide with emerging Alzheimer-target and recovery relevance.
-- [[tesamorelin]] — regulated GHRH analog with a narrow cognition signal in older controlled studies and a newer HIV abdominal-obesity cognition null/trend.
+- [[tesamorelin]] — regulated GHRH analog with narrow phenotype-bound cognition signal plus the clearest active formal-development pipeline in the GH-axis peptide branch.
 - [[tyrosine]] — catecholamine precursor with low-to-moderate acute stress-state cognition signal and daily-use overstimulation caveats.
 - [[ulotaront]] — TAAR1 / 5-HT1A investigational schizophrenia drug with early symptom signal, DIAMOND phase-3 misses, and no direct cognition win.
 - [[uridine]] — UMP / DHA / choline stack hypothesis node with current evidence still preclinical-only.
@@ -250,7 +250,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[glymphatic-system-and-cognition]] — sleep-linked waste-clearance pathway that now has human mechanistic and phenotype-specific intervention evidence.
 - [[hyperbaric-oxygen-neurocognitive-recovery]] — HBOT as a debated adjunct for TBI and post-concussion recovery.
 - [[incretin-therapies-brain-health]] — GLP-1/GIP biology as a metabolism-meets-brain-health research axis.
-- [[mitochondria-derived-peptides]] — family-level page splitting humanin, MOTS-c, SHLPs, and elamipretide into endogenous biology versus approved therapy.
+- [[mitochondria-derived-peptides]] — family-level page showing Humanin, MOTS-c, SHLPs, and elamipretide as a serious mitochondrial peptide frontier, not just a mechanism bucket.
 - [[intranasal-insulin-and-cognition]] — metabolic-brain signaling intervention with mixed human cognitive trial results.
 - [[gut-microbiome-and-cognition]] — phenotype-sensitive gut-microbiome intervention branch with mixed RCT-level cognitive evidence.
 - [[lactate-shuttle-and-cognition]] — lactate as a brain fuel and signaling molecule with mixed human but growing preclinical cognition evidence.
@@ -413,7 +413,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]] — split scan for [[allopregnanolone]], [[testosterone-trt]], [[dhea]], [[pregnenolone]], [[gnrh]], and [[kisspeptin]], with mood/libido/state claims separated from direct cognition evidence.
 - [[cerebrolysin-2026-scan]] — updated human-evidence scan for AD, aMCI, stroke recovery, and safety.
 - [[nootropic-peptide-anecdote-frontier-2026-scan]] — large peptide anecdote ledger showing the class is a serious high-salience frontier rather than isolated forum lore.
-- [[growth-hormone-secretagogue-cognition-2026-scan]] — [[ghrh]], [[tesamorelin]], [[ibutamoren]], [[cjc-1295]], [[hexarelin]], and [[ipamorelin]] scan separating cognition, sleep, physiology, and forum anecdote.
+- [[growth-hormone-secretagogue-cognition-2026-scan]] — [[ghrh]], [[tesamorelin]], [[ibutamoren]], [[cjc-1295]], [[hexarelin]], and [[ipamorelin]] scan separating narrow cognition signal from wider recovery, sleep, and active tesamorelin development.
 - [[cerebrovascular-reserve-interventions-2026-scan]] — reserve-cluster scan for exercise, beetroot/nitrate, and breath protocols, with cognition versus physiology split out.
 - [[pinealon-2026-scan]] — Pinealon scan separating EDR identity, rodent neuroprotection, a mixed human geroprotective study, and the lack of a Pinealon-only cognition trial.
 - [[epithalon-pinealon-2026-scan]] — identity-normalized scan for Epithalon/Epithalamin and Pinealon, with a focus on longevity, melatonin, and the lack of direct cognition evidence.
@@ -431,5 +431,5 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[transcranial-random-noise-stimulation-2026-scan]] — mixed tRNS scan spanning psychiatric disorders, creativity, and preregistered null replication.
 - [[klotho-cognition-2026-scan]] — Klotho evidence map spanning human biomarker studies, mixed genetics, preclinical dosing, and an active gene-therapy lead.
 - [[mots-c-2026-scan]] — MOTS-c evidence map showing metabolic human translation, a prognostic biomarker bridge, and no cognition trial yet.
-- [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]] — Humanin / SHLP / elamipretide scan splitting endogenous MDP biology from approved disease use and preclinical cognition signals.
+- [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]] — Humanin / SHLP / elamipretide scan showing one of the wiki's more serious peptide frontiers while keeping cognition claims below the biology.
 - [[thymosin-beta-4-2026-scan]] — thymosin beta-4 evidence map separating organoid, animal, and human safety layers from cognition claims.
