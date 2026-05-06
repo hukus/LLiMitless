@@ -1,3 +1,10 @@
+## [2026-05-06] entity | broader peptide frontier pass with Dihexa prioritized
+
+- Broadened the proposed peptide entity pass across the highest-salience or emerging branches, with Dihexa handled first and then Semax, Selank, Pinealon, MOTS-c, PE-22-28, and Adamax aligned to the newer category framing.
+- Updated `entities/dihexa.md`, `queries/dihexa-2026-scan.md`, `entities/semax.md`, `entities/selank.md`, `entities/pinealon.md`, `entities/mots-c.md`, `entities/pe-22-28.md`, `entities/adamax.md`, and `index.md`.
+- Main conclusion: the peptide frontier now reads more cleanly when three things stay separate on each page: formal evidence, anecdote strength, and "upcoming" status. Dihexa remains one of the most serious speculative cognition peptides because the mechanism and community heat are both durable, but it is still preclinical-only with no surfaced human program as of 2026-05-06. Semax and Selank now read as more serious phenotype-bound frontier nodes; Pinealon reads as a real sleep/recovery state-restoration node; MOTS-c reads as one of the clearest formally upcoming peptides because a Phase 2a metabolic trial is active; PE-22-28 and Adamax remain emerging names whose community repetition outpaces human evidence.
+- Structural lint after the broader peptide entity pass reports 0 error, 0 warn, and 508 info.
+
 ## [2026-05-06] infra | Quartz source-note linking added
 
 - Updated `scripts/prepare-quartz-content.mjs` so the generated Quartz content now publishes raw Markdown source notes under `sources/articles/`, `sources/papers/`, and `sources/transcripts/` while keeping canonical editable files under `raw/`.
@@ -5,6 +12,13 @@
 - Rewrote generated raw-path references, inline provenance markers, and Markdown links to raw notes into Quartz wikilinks pointing at the public `sources/` namespace; pages without an existing source section now get a generated `## Source Notes` section in the published output.
 - Kept main-page validation strict while sanitizing unresolved historical wikilinks only in generated changelog/source-note pages.
 - Verified locally: `npm run site:validate` passed with 2113 pages, 0 broken links, 0 duplicates, and 0 orphans; `npm run site:build` with Quartz v4.5.2 emitted 2165 files.
+
+## [2026-05-06] query | peptide category outlook recalibrated toward high-salience frontier
+
+- Reused the existing Troof, Reddit survey, Finnrick dashboard, regulatory, and trial-registry captures to do a second-pass category framing update for peptides.
+- Updated `concepts/peptide-neuroprotection.md`, `queries/nootropic-peptide-anecdote-frontier-2026-scan.md`, `queries/community-nootropic-rating-datasets-2026-scan.md`, `queries/peptide-regulatory-live-watch-board.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `index.md`.
+- Main conclusion: the peptide category now reads as a serious high-salience frontier rather than fringe lore because several peptide branches recur across large open-label datasets, forum traffic is broad and internally structured, and a public third-party testing ecosystem now exists at meaningful scale. That does not upgrade the class into a validated cognition category; it upgrades attention priority, triage priority, and translational seriousness.
+- Structural lint after the category-outlook pass reports 0 error, 0 warn, and 508 info.
 
 ## [2026-05-06] entity | BPC-157 ocular and gray-market quality follow-up
 

@@ -1,7 +1,7 @@
 ---
 title: Adamax
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-06
 type: entity
 tags: [domain-medicine, cognition, peptides, safety, anecdote, controversy]
 sources: [raw/articles/disclosedlabs-adamax.md]
@@ -12,6 +12,8 @@ contested: true
 # Adamax
 
 Adamax is a vendor-defined Semax-family peptide label, described in the current raw source packet as N-acetyl Semax amidate with an adamantane moiety. The wiki should keep it separate from [[semax]], [[selank]], [[pe-22-28]], ADNP/NAP/davunetide-style peptides, and generic "next-generation peptide" marketing.
+
+The right broadened read is that Adamax is `upcoming only as a market label`. It is useful to track because it shows where peptide demand is moving, not because it has crossed any formal evidence threshold.
 
 The medicinal signal is `absent for Adamax as its own compound`. The source packet says no indexed peer-reviewed Adamax-specific literature, no human pharmacokinetic data, no validated dose, and no human safety dossier were located in the sweep. Parent-compound Semax evidence does not transfer automatically because the identity, stability, route, impurities, and vendor chain are all different.
 

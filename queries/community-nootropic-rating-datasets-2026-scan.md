@@ -14,11 +14,13 @@ This page is a provenance layer for [[anecdote-led-chemical-heat-map]] and relat
 
 The current public stack is better than a single survey: Troof now has a public code/data backend, the older SSC and ACX surveys still provide a stable baseline, the 2017 /r/Nootropics survey gives an extra Reddit-wide anchor, and Gwern's modafinil survey adds a large single-compound comparator with tolerance and adverse-event detail.
 The Troof backend repo now resolves the merged-data files explicitly, which makes the ranking provenance auditable instead of just a blog-level summary.
+For peptides in particular, these datasets are one of the main reasons the class should stay on the serious-candidate map. They do not prove that peptide nootropics work, but they do show that several different peptide branches are repeatedly salient enough to survive open-label community filtering rather than remaining one-thread curiosities.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
 
 ## What changed since 2024
 
 - No new controlled community dataset has replaced the old SSC / ACX surveys as the main public open-label benchmark.
 - The practical update is not a higher signal, but a cleaner separation between "felt effect" and true cognition benefit.
+- The peptide cluster matters more than it did in earlier wiki passes because Semax, Selank, Cerebrolysin, and BPC-157 keep recurring as salient nodes across public datasets despite thin or uneven formal packages.
 - The best use remains candidate triage for branches like phenylpiracetam, PRL-8-53, bromantane, tianeptine, phenibut, NSI-189, [[noopept]] / racetams, methylene blue, modafinil, nicotine, Semax, Selank, Cerebrolysin, and BPC-157.
 - The extra public anchors mainly sharpen ranking hygiene: Troof's repo confirms the merged-data backend, the 2017 Reddit survey broadens the community sample, and the modafinil survey supplies a detailed side-effect/tolerance comparator.
 
@@ -45,7 +47,7 @@ The Troof backend repo now resolves the merged-data files explicitly, which make
 - NSI-189 and [[noopept]] / racetams: still better treated as lore-heavy hypothesis nodes than durable enhancement branches.
 - Methylene blue: unusual because anecdote and actual human imaging / memory signals overlap.
 - Modafinil and nicotine: best kept as comparator anchors, not novelty claims.
-- Semax, Selank, Cerebrolysin, and BPC-157: Troof's peptide cluster is the main reason these remain worth tracking, with BPC-157 reading more like a recovery-performance node than a clean cognition node.
+- Semax, Selank, Cerebrolysin, and BPC-157: Troof's peptide cluster is one of the strongest reasons the peptide category remains worth serious attention. The same open-label system independently keeps several peptide branches alive at once, which is harder to dismiss than a single charismatic-compound spike.
 - The 2017 /r/Nootropics survey gives Semax a median reported dose of 0.6 mg and Selank 0.25 mg, which is a useful map of where the crowd concentrates peptide curiosity even though it is not dose guidance.
 - Zembrin: a standout in the 2020 survey, but still not the same thing as controlled evidence.
 
@@ -63,10 +65,10 @@ The Troof backend repo now resolves the merged-data files explicitly, which make
 | Methylene blue | Unusual overlap between anecdote and narrow human imaging / memory data. |
 | Modafinil | Comparator anchor with clear tolerance / adverse-event detail. |
 | Nicotine | Focus / motivation signal with addiction confounding. |
-| Semax | Strong peptide-cluster signal, especially in the Troof layer. |
-| Selank | Same peptide-cluster signal, but more anxiety-adjacent than activation-heavy. |
-| Cerebrolysin | Strong peptide-cluster signal and recurring community curiosity. |
-| BPC-157 | One of the clearest peptide-community salience nodes, but still recovery-adjacent rather than cognition proof. |
+| Semax | Strong peptide-cluster signal, especially in the Troof layer; enough repeated salience to justify continued focus-state tracking. |
+| Selank | Same peptide-cluster signal, but more anxiety-adjacent than activation-heavy; still too recurrent to treat as a niche footnote. |
+| Cerebrolysin | Strong peptide-cluster signal and recurring community curiosity; unusually persistent for a medical peptide with route burden. |
+| BPC-157 | One of the clearest peptide-community salience nodes, reading more as recovery-performance heat than cognition proof but still too large to ignore. |
 
 ## Safety / Adverse Events
 
@@ -80,6 +82,7 @@ The Troof backend repo now resolves the merged-data files explicitly, which make
 - Survey rankings measure "felt effect" and willingness to keep taking something, which can reflect stimulation, anxiolysis, placebo, or withdrawal reversal rather than improved cognition.
 - The Reddit survey and the modafinil survey both show that public datasets are better at surfacing salience, tolerance, and adverse effects than at estimating causal cognitive gain.
 - High community scores do not automatically mean broad enhancement; they often mean the substance is noticeable.
+- A large peptide signal does not tell you whether the branch is a direct nootropic, a recovery amplifier, an anxiolytic, or a sourcing-driven placebo story. It does tell you the branch deserves structured follow-up.
 - The best community datasets are still much better at narrowing the search space than at ranking true effect sizes.
 
 ## Use Rule
