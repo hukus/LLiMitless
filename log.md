@@ -1,3 +1,11 @@
+## [2026-05-06] entity | BPC-157 ocular and gray-market quality follow-up
+
+- Added and hashed 4 raw captures for the BPC-157 follow-up: `raw/articles/pubmed-16117343-bpc157-corneal-epithelial-defects-rats.md` (`088a3be87dcde983ee280d75d9e9c6ca13717e1a40c4395b6969d1a13f993bc3`), `raw/articles/pubmed-25912999-bpc157-perforating-corneal-injury-rat.md` (`8d0b5dbb3b9f8f92c892ee6f0dab9e40f1e6e7a5d78f7b6885bc1a95dad569d1`), `raw/articles/finnrick-2026-bpc157-testing-dashboard.md` (`ad55ae3d0de3f3c39ea95443788b5f8cc4e35d5ad5cdf5dee80497c20969d96b`), and `raw/articles/finnrick-2026-products-dashboard.md` (`b22e6d1cb0ab4cc9f27344e202e442d774b5be5c7430149a0a048ec8462ef9c5`).
+- Updated `entities/bpc-157.md`, `comparisons/peptide-safety-and-sourcing-risk-map.md`, and `concepts/peptide-neuroprotection.md`.
+- Main conclusion: I did not find a peer-reviewed study showing that most gray-market peptides are above 98% purity. The strongest peer-reviewed market-quality source in the wiki remains the Belgian Talanta impurity paper as a counterweight, but the newer Finnrick dashboards add a non-peer-reviewed market-monitoring signal that many currently circulating peptide lots can land in high-purity bands while quantity spread remains wide.
+- Ocular conclusion: the current BPC-157 eye story is two rat corneal-healing papers, not human ophthalmic evidence. The branch now has a real ocular-tissue-repair preclinical lane, but I did not locate a human ocular BPC-157 trial or registry in this pass.
+- Structural lint after hash repair reports 0 error, 0 warn, and 508 info.
+
 ## [2026-05-04] entity | lithium-orotate safety branch split
 
 - Added and hashed 3 raw captures for the lithium branch: `raw/articles/clinicaltrials-nct07459959-lio-ad-record-2026-05-04.md` (`5dc191966330bf0f3872b8bd3d7adc3472c2494e0dba982cee5f61e0e0c89ae5`), `raw/articles/reddit-2025-07-13-lithium-orotate-supplements-thread.md` (`dbcd4437ec23eb41301e8f1fea43c4717823e3249c7b1fcfc7e51546bc9f08d5`), and `raw/articles/reddit-2025-12-13-lithium-orotate-nootropicsdepot-thread.md` (`a1bcedc42f3e6e23e3756dcabdd7059b2fca8726dd29e4fb261a36ddc09f88ab`).

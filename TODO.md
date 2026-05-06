@@ -1,7 +1,7 @@
 ---
 title: TODO - Hermes Online Research Backlog
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-05-06
 type: query
 tags: [cognition, performance, protocol, biomarker, safety, comparison]
 sources: []
@@ -338,6 +338,7 @@ Latest P0-16 choline-form note: [[phosphatidylcholine]] and [[choline-bitartrate
 - [x] `RC-72` Capture Amanita / muscimol raw notes: captured FDA Amanita constituent update, FDA industry letter / Not-GRAS context, 2026 CDC MMWR severe-illness report, RAND 2025 psychedelic-use survey report, and a representative Reddit microdosing/productivity thread. Labeled the Reddit source as anecdote and extracted product form, dose ambiguity, adverse events, adulteration risk, and legal/regulatory status. (completed; current run)
 - [x] `RC-73` Capture peptide regulatory live-watch raw notes: FDA significant-safety-risk bulk-substance page (https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks), FDA 2026 GLP-1 503B bulks proposal (https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list), WADA peptide status where applicable, and any official compounding/advisory-committee notices for Semax, Selank, BPC-157, Dihexa, Epitalon, MOTS-c, TB-500, CJC-1295, ipamorelin, and GHRP/GH-axis peptides. (completed; added `raw/articles/fda-2026-glp1-503b-bulks-proposal.md` and `raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md`, reusing existing FDA/WADA raw captures)
 - [x] `RC-74` Capture methylene-blue / tPBM / redox-interaction raw notes: captured NCBI StatPearls methylene-blue safety page (https://www.ncbi.nlm.nih.gov/books/NBK557593/), reused existing 2025 tPBM cognition review (https://pubmed.ncbi.nlm.nih.gov/40822571/), added mitochondrial MB/PBM review/opinion/animal anchors, photodynamic-therapy parameter caution, and a representative 2025 r/Biohackers MB plus red/NIR thread. Extracted serotonergic/G6PD exclusions, dose-toxicity curve, insomnia/anxiety and BP/cardiovascular concerns, light-exposure claims, weak anecdote status, and no direct human MB+tPBM cognition synergy trial in the captured packet. (completed; current run)
+- [x] `RC-75` Capture BPC-157 refresh packet: 2025 musculoskeletal review (https://pubmed.ncbi.nlm.nih.gov/40789979/), 2025 literature/patent review (https://pubmed.ncbi.nlm.nih.gov/40005999/), 2026 recruiting hamstring RCT registry (https://clinicaltrials.gov/study/NCT07437547), a current recovery-anecdote update thread (https://www.reddit.com/r/Biohackers/comments/1skg9yu/1_month_update_update_on_bpc157_tb500_recovery/), and a peptide-market impurity counterweight (https://pubmed.ncbi.nlm.nih.gov/30029448/). Keep recovery-state seriousness separate from direct cognition proof and from blanket gray-market quality claims. (completed; current run)
 
 ## Epithalon / Pinealon Research Detail
 

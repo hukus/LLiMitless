@@ -6,7 +6,7 @@ title: LLiMitless
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-04 | Total pages: 411
+> Last updated: 2026-05-06 | Total pages: 411
 
 Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
 
@@ -52,7 +52,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[bacopa]] — standardized memory-oriented botanical with older age-associated-memory evidence and active product-identity questions.
 - [[blueberry-anthocyanins]] — product-specific blueberry / anthocyanin branch with small older-adult cognition RCTs, broad anthocyanin meta support, and weak food-health anecdotal salience.
 - [[blarcamesine]] — SIGMAR1/autophagy AD candidate with positive ADAS-Cog13 and CDR-SB claims, ADCS-ADL null, sponsor-linked interpretation, and absent-to-weak anecdotal signal.
-- [[bpc-157]] — recovery-focused peptide with strong sports-medicine and healing discussion, but weak direct cognition evidence.
+- [[bpc-157]] — recovery-focused peptide with unusually strong repair salience, a newly started controlled hamstring trial, and weak direct cognition evidence.
 - [[bpn14770]] — PDE4D allosteric inhibitor with a positive fragile-X cognition signal and biomarker follow-up.
 - [[bryostatin-1]] — PKCepsilon synaptogenesis candidate with mixed advanced-AD trial evidence, subgroup/completer signals, and a full-analysis primary-endpoint caveat.
 - [[bromantane]] — Russian actoprotector / stimulant-adjacent compound with stronger asthenia evidence than healthy-adult cognition proof.

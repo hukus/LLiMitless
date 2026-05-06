@@ -1,7 +1,7 @@
 ---
 title: Community Nootropic Rating Datasets
 created: 2026-04-28
-updated: 2026-04-30
+updated: 2026-05-06
 type: query
 tags: [comparison, anecdote, cognition, safety, performance, controversy]
 sources: [raw/articles/github-leogrin-nootroflix-repo.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/slatestarcodex-2016-nootropics-survey-results.md, raw/articles/astralcodexten-2020-nootropics-survey-results.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/gwern-modafinil-community-survey.md]
@@ -45,7 +45,7 @@ The Troof backend repo now resolves the merged-data files explicitly, which make
 - NSI-189 and [[noopept]] / racetams: still better treated as lore-heavy hypothesis nodes than durable enhancement branches.
 - Methylene blue: unusual because anecdote and actual human imaging / memory signals overlap.
 - Modafinil and nicotine: best kept as comparator anchors, not novelty claims.
-- Semax, Selank, Cerebrolysin, and BPC-157: Troof's peptide cluster is the main reason these remain worth tracking.
+- Semax, Selank, Cerebrolysin, and BPC-157: Troof's peptide cluster is the main reason these remain worth tracking, with BPC-157 reading more like a recovery-performance node than a clean cognition node.
 - The 2017 /r/Nootropics survey gives Semax a median reported dose of 0.6 mg and Selank 0.25 mg, which is a useful map of where the crowd concentrates peptide curiosity even though it is not dose guidance.
 - Zembrin: a standout in the 2020 survey, but still not the same thing as controlled evidence.
 
@@ -66,7 +66,7 @@ The Troof backend repo now resolves the merged-data files explicitly, which make
 | Semax | Strong peptide-cluster signal, especially in the Troof layer. |
 | Selank | Same peptide-cluster signal, but more anxiety-adjacent than activation-heavy. |
 | Cerebrolysin | Strong peptide-cluster signal and recurring community curiosity. |
-| BPC-157 | Recovery-adjacent signal, not cognition proof. |
+| BPC-157 | One of the clearest peptide-community salience nodes, but still recovery-adjacent rather than cognition proof. |
 
 ## Safety / Adverse Events
 
