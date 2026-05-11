@@ -1,3 +1,9 @@
+## [2026-05-11] coverage | neuroimmune brain-fog chemical category covered
+
+- Added and hashed 33 source captures covering minocycline, ibudilast, low-dose naltrexone, pentoxifylline, and trial/anecdote context, including formal clinical papers, trial-registry/status pages, DailyMed safety labels, and Reddit anecdote threads.
+- Created `entities/minocycline.md`, `entities/ibudilast.md`, `entities/low-dose-naltrexone.md`, `entities/pentoxifylline.md`, and `comparisons/neuroimmune-brain-fog-chemical-guide.md`; updated `entities/propentofylline.md` so the older glial/xanthine comparator has explicit brain-fog and anecdote-gap routing.
+- Main conclusion: no candidate is proven for brain-fog clearance. [[low-dose-naltrexone]] has the strongest community brain-fog signal and a post-COVID RCT watch; [[minocycline]] has the most direct formal ME/long-COVID brain-fog signal but remains uncontrolled and antibiotic-risk-heavy; [[ibudilast]] and [[pentoxifylline]] are RECLAIM outcome watches; [[propentofylline]] is historical only; [[palmitoylethanolamide]] and [[n-acetylcysteine]] remain lower-friction but mixed adjacent comparators.
+
 ## [2026-05-06] coverage | GH-axis and mitochondrial peptide frontier expanded
 
 - Added and hashed 2 new registry captures for tesamorelin: `raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md` (`4afd9bb87e859c63adb3a4678f4572acd115eb0e4b564100a6f41f9da6d24ace`) and `raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md` (`fb9260a7e80d6b5390c50fb2d5df3e0514478963cd9fafc2b535d3056630b57d`).
@@ -3636,3 +3642,10 @@ The wiki expanded from a cognition/medicine seed into a broad intervention graph
 - Updated `scripts/prepare-quartz-content.mjs` so `updates/changelog.md` is sanitized after public export: historical wikilinks that still resolve to live public pages stay as wikilinks, while links to archived/private/removed pages are rewritten to plain code text.
 - Kept `scripts/validate-public-wiki.mjs` strict; the fix is in content preparation rather than by exempting the changelog from broken-link checks.
 - Re-ran `npm run site:validate`; public validation now passes with 414 pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-06] coverage | FOXO4-DRI senolytic peptide captured
+
+- Captured nine FOXO4-DRI raw notes: `raw/articles/sciencedirect-2017-foxo4-dri-targeted-apoptosis-senescent-cells.md`, `raw/articles/nature-2025-foxo4-dri-p53-tad2-mechanism.md`, `raw/articles/pmc-7053614-foxo4-dri-leydig-cells-testosterone-aged-mice.md`, `raw/articles/frontiers-2021-foxo4-dri-human-chondrocytes.md`, `raw/articles/pubmed-37074394-foxo4-dri-pulmonary-fibrosis-mice.md`, `raw/articles/pmc-11850796-foxo4-dri-keloid-senescent-fibroblasts.md`, `raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md`, `raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md`, and `raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md`.
+- Created [[foxo4-dri]] as a low-confidence, contested preclinical senolytic peptide entity separating mechanistic/preclinical support, translational gap, and first-hand anecdote/safety chatter.
+- Updated `index.md`, [[senolytic-cognition-2026-scan]], [[translational-gap-table]], and [[nootropic-peptide-anecdote-frontier-2026-scan]] so FOXO4-DRI links into the existing senolytic, peptide, and translational-gap maps.
+- ClinicalTrials.gov API checks against the 2026-05-05 data refresh returned zero records for `FOXO4-DRI` and `Proxofim`; broad `FOXO4` returned one unrelated lymphoma trial.

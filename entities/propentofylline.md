@@ -1,9 +1,9 @@
 ---
 title: Propentofylline
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-11
 type: entity
-tags: [domain-medicine, cognition, clinical-trial, safety, dosage, mechanism, comparison, controversy]
+tags: [domain-medicine, cognition, neuroscience, inflammation, clinical-trial, safety, dosage, mechanism, anecdote, comparison, controversy]
 sources: [raw/articles/pubchem-2026-propentofylline-identity.md, raw/articles/cochrane-2003-propentofylline-dementia-limited-evidence.md, raw/articles/pubmed-12804440-propentofylline-dementia-cochrane.md, raw/articles/ncbi-bookshelf-1999-propentofylline-dementia-dare.md, raw/articles/pubmed-9329701-propentofylline-dementia-clinical-trials.md, raw/articles/pubmed-7972348-propentofylline-dementia-rct.md, raw/articles/pubmed-9298634-propentofylline-12mo-dementia-rct.md]
 confidence: low
 contested: true
@@ -20,7 +20,7 @@ Medicinal signal: `low/legacy dementia-only`. Propentofylline has more formal cl
 
 Anecdotal signal: `not captured` in the current source set. This page should not borrow general xanthine, caffeine, or racetam anecdotes.
 
-Practical route: track [[propentofylline]] as a historical dementia / glial-adenosine / PDE comparator near [[legacy-vasoactive-racetam-nootropic-watchlist]], [[pde-camp-creb-cognition-2026-scan]], and [[negative-evidence-watchlist-for-cognition-interventions]], not as a consumer nootropic.
+Practical route: track [[propentofylline]] as a historical dementia / glial-adenosine / PDE comparator near [[legacy-vasoactive-racetam-nootropic-watchlist]], [[pde-camp-creb-cognition-2026-scan]], [[neuroimmune-brain-fog-chemical-guide]], and [[negative-evidence-watchlist-for-cognition-interventions]], not as a consumer nootropic.
 
 ## Human Evidence
 
@@ -36,6 +36,16 @@ The 2003 Cochrane review and the 1999 DARE record keep the total rating low. Coc
 
 Propentofylline is framed as a xanthine derivative that inhibits adenosine uptake and phosphodiesterase, with glial, microglial, free-radical, glutamate, calcium, and cAMP/PKA hypotheses in the older literature. Trial dosing commonly used 300 mg three times daily, one hour before meals, and phase-I material flagged food interactions.^[raw/articles/pubchem-2026-propentofylline-identity.md]^[raw/articles/pubmed-9329701-propentofylline-dementia-clinical-trials.md]
 
+## Brain Fog Category Fit
+
+Propentofylline belongs in the [[neuroimmune-brain-fog-chemical-guide]] only as a historical comparator. Its glial / adenosine-uptake / PDE framing overlaps with [[ibudilast]] and [[pentoxifylline]], but the captured evidence is old dementia-program evidence, not long-COVID, ME/CFS, post-viral brain fog, or healthy-adult clarity evidence.
+
+## Anecdote Ledger
+
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Propentofylline clears brain fog | anecdote gap | Current propentofylline source set | not captured | Legacy smart-drug and dementia-literature context | very low | Do not borrow caffeine, xanthine, ibudilast, or pentoxifylline anecdotes |
+
 ## Safety And Status
 
 Clinical trial abstracts often describe propentofylline as well tolerated, but the DARE adverse-event imbalance and PubChem hazard flags keep safety from being dismissed. PubChem's H302/H312/H332/H373 notifications are handling hazards, while trial adverse events were mainly digestive and nervous-system complaints.^[raw/articles/pubchem-2026-propentofylline-identity.md]^[raw/articles/ncbi-bookshelf-1999-propentofylline-dementia-dare.md]
@@ -46,4 +56,4 @@ The program's bigger practical issue is not acute toxicity proof; it is that the
 
 Propentofylline deserves standalone coverage because it is repeatedly cited in old dementia/nootropic literature and has a larger formal program than most fringe molecules. It still stays low-confidence for cognitive improvement: the signal is old, dementia-bound, partly sponsor-controlled, limited by unavailable unpublished data, and not transportable to healthy-adult enhancement.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[nefiracetam]], [[nicergoline]], [[pde-camp-creb-cognition-2026-scan]], [[pde9-pde10-cgmp-cognition-2026-scan]], and [[negative-evidence-watchlist-for-cognition-interventions]].
+Related pages: [[neuroimmune-brain-fog-chemical-guide]], [[legacy-vasoactive-racetam-nootropic-watchlist]], [[nefiracetam]], [[nicergoline]], [[pde-camp-creb-cognition-2026-scan]], [[pde9-pde10-cgmp-cognition-2026-scan]], and [[negative-evidence-watchlist-for-cognition-interventions]].

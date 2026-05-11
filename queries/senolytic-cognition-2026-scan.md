@@ -1,10 +1,10 @@
 ---
 title: Senolytic Cognition 2026 Scan
 created: 2026-04-28
-updated: 2026-05-04
+updated: 2026-05-06
 type: query
 tags: [cognition, inflammation, longevity, metabolism, recovery, safety, comparison, clinical-trial]
-sources: [raw/articles/pubmed-40010154-senolytics-cognition-mobility-at-risk.md, raw/articles/pubmed-40274471-dasatinib-quercetin-phase1-mild-alzheimer-biomarkers.md, raw/articles/pubmed-40103928-sex-senescence-senolytics-cognition.md, raw/articles/pubmed-37261678-dasatinib-quercetin-nonhuman-primates-aging-inflammation.md, raw/articles/pubmed-35042834-dasatinib-quercetin-aged-rats-cognition.md, raw/articles/pubmed-41895394-senolytic-therapy-hfd-hippocampal-senescence-cognitive-decline-mice.md, raw/articles/dailymed-dasatinib-tablet-label.md, raw/articles/clinicaltrials-nct05422885-dasatinib-quercetin-stamina.md, raw/articles/clinicaltrials-nct04785300-alsenlite-senolytics-alzheimers.md, raw/articles/clinicaltrials-nct05838560-dasatinib-quercetin-accelerated-aging-mental-disorders.md, raw/articles/clinicaltrials-nct03675724-fisetin-frailty-inflammation-older-adults.md, raw/articles/pubmed-40443429-dasatinib-quercetin-cognitive-decline-mental-disorders-protocol.md]
+sources: [raw/articles/pubmed-40010154-senolytics-cognition-mobility-at-risk.md, raw/articles/pubmed-40274471-dasatinib-quercetin-phase1-mild-alzheimer-biomarkers.md, raw/articles/pubmed-40103928-sex-senescence-senolytics-cognition.md, raw/articles/pubmed-37261678-dasatinib-quercetin-nonhuman-primates-aging-inflammation.md, raw/articles/pubmed-35042834-dasatinib-quercetin-aged-rats-cognition.md, raw/articles/pubmed-41895394-senolytic-therapy-hfd-hippocampal-senescence-cognitive-decline-mice.md, raw/articles/dailymed-dasatinib-tablet-label.md, raw/articles/clinicaltrials-nct05422885-dasatinib-quercetin-stamina.md, raw/articles/clinicaltrials-nct04785300-alsenlite-senolytics-alzheimers.md, raw/articles/clinicaltrials-nct05838560-dasatinib-quercetin-accelerated-aging-mental-disorders.md, raw/articles/clinicaltrials-nct03675724-fisetin-frailty-inflammation-older-adults.md, raw/articles/pubmed-40443429-dasatinib-quercetin-cognitive-decline-mental-disorders-protocol.md, raw/articles/sciencedirect-2017-foxo4-dri-targeted-apoptosis-senescent-cells.md, raw/articles/nature-2025-foxo4-dri-p53-tad2-mechanism.md, raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md, raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md, raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md]
 confidence: low
 contested: true
 ---
@@ -19,6 +19,7 @@ contested: true
 - A 2025 sex-differences review now gives the branch a clearer modifier hypothesis: senolytic response may depend on sex, estrogen context, senescent-cell burden, and treatment timing, which matters for how future cognition data should be stratified.^[raw/articles/pubmed-40103928-sex-senescence-senolytics-cognition.md]
 - The preclinical ladder is more supportive than the human ladder: rats showed persistent memory improvement, a 2026 HFD/palmitate mouse study restored hippocampal-dependent cognition after senolytic treatment, and NHPs showed reduced inflammaging and better metabolic markers without cognition testing.^[raw/articles/pubmed-35042834-dasatinib-quercetin-aged-rats-cognition.md]^[raw/articles/pubmed-41895394-senolytic-therapy-hfd-hippocampal-senescence-cognitive-decline-mice.md]^[raw/articles/pubmed-37261678-dasatinib-quercetin-nonhuman-primates-aging-inflammation.md]
 - [[fisetin]] is still a frailty / inflammation program in humans. The main active older-adult trial uses inflammatory and frailty outcomes, not cognition, so [[fisetin]] should not be upgraded to a cognition candidate on current human evidence.^[raw/articles/clinicaltrials-nct03675724-fisetin-frailty-inflammation-older-adults.md]
+- [[foxo4-dri]] now adds a peptide-senolytic branch with stronger preclinical/mechanistic identity than human evidence. The 2017 Cell paper and 2025 Nature Communications mechanism paper make the FOXO4-p53 axis real enough to track, but ClinicalTrials.gov API searches returned zero records for `FOXO4-DRI` and `Proxofim` on the 2026-05-05 data refresh, and no human cognition evidence is captured.^[raw/articles/sciencedirect-2017-foxo4-dri-targeted-apoptosis-senescent-cells.md]^[raw/articles/nature-2025-foxo4-dri-p53-tad2-mechanism.md]^[raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md]
 - [[quercetin]], [[fisetin]], and [[dasatinib-quercetin]] now have standalone entity pages, but D+Q remains combination-level and safety-first until controlled human cognition data exist.
 - Safety is the gating issue: dasatinib inherits oncology-grade warnings, so any senolytic cognition protocol needs much tighter monitoring than a nutraceutical stack.^[raw/articles/dailymed-dasatinib-tablet-label.md]
 
@@ -46,6 +47,8 @@ contested: true
 - [Alleviation by Fisetin of Frailty, Inflammation, and Related Measures in Older Adults](https://clinicaltrials.gov/study/NCT03675724)
 - [DASATINIB tablet label](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1931e73f-918c-4d69-9543-de9643513d05)
 - [Protocol for a pilot clinical trial of the senolytic drug combination Dasatinib Plus Quercetin to mitigate age-related health and cognitive decline in mental disorders](https://pubmed.ncbi.nlm.nih.gov/40443429/)
+- [Targeted Apoptosis of Senescent Cells Restores Tissue Homeostasis in Response to Chemotoxicity and Aging](https://www.sciencedirect.com/science/article/pii/S0092867417302465)
+- [The disordered p53 transactivation domain is the target of FOXO4 and the senolytic compound FOXO4-DRI](https://www.nature.com/articles/s41467-025-60844-9)
 
 ## Evidence Tiering
 
@@ -54,6 +57,7 @@ contested: true
 - Human registry pipeline: ALSENLITE, the D+Q mental-disorders protocol, and [[fisetin]] frailty / inflammation trials.
 - Human review layer: sex-difference framing suggests senolytic response may not be sex-neutral.
 - Preclinical obesity / metabolic-state rescue: 2026 HFD/palmitate mouse work adds a clearer mechanistic cognition lane, but still not a human effect.
+- FOXO4-DRI peptide branch: mechanism and disease-model extensions only; no human registry record or cognition endpoint captured.
 - Nonhuman primate: inflammaging / metabolic effects only.
 - Rodent: direct spatial-memory improvement with washout durability.
 - Mechanistic: senescence marker suppression, anti-inflammatory shifts, and synaptic / histone changes.
@@ -102,9 +106,11 @@ contested: true
 - Sex and hormone status may change the direction or magnitude of response, but current human datasets are too small to stratify robustly.
 - The freshest registry signal is still support-only: a placebo-controlled [[fisetin]] frailty trial, not a cognition efficacy study.
 - The newest 2026 mouse paper strengthens the metabolic rescue hypothesis, not the broad healthy-enhancement case.
+- The FOXO4-DRI branch is even less translated than D+Q: the mechanism is sharper, but human trial, dose-ranging, safety, and cognition data are absent in this pass.^[raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md]
 
 ## Actionable Wiki Updates
 
 - Standalone [[dasatinib-quercetin]] now exists and is linked from [[cognitive-improvement-molecule-signal-atlas]].
+- Standalone [[foxo4-dri]] now exists as a low-confidence peptide-senolytic page with raw research and first-hand anecdote captures.
 - Consider a future row in `comparisons/cognition-intervention-master-table.md` once controlled human cognition data appear.
 - Keep senolytics linked to [[neuroinflammation-and-cognition]], [[clinical-recovery-vs-healthy-enhancement-translation-map]], and [[molecule-intake-triage-table]].
