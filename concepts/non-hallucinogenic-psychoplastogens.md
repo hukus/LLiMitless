@@ -1,7 +1,7 @@
 ---
 title: Non-Hallucinogenic Psychoplastogens
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-12
 type: concept
 tags: [psychedelic, psychoplastogen, cognition, mechanism, preclinical, safety, controversy]
 sources: [raw/articles/pubmed-40354769-non-hallucinogenic-psychedelics-mood-anxiety-systematic-review.md, raw/articles/pubmed-40405723-neuropsychopharmacology-hallucinogenic-non-hallucinogenic-5ht2a-agonists.md, raw/articles/pubmed-36884348-2-br-lsd-nonhallucinogenic-lsd-analog.md, raw/articles/pubmed-40760185-tabernanthalog-neuroplasticity-no-iea.md, raw/articles/pubmed-34035476-tabernanthalog-stress-cognitive-flexibility.md, raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md, raw/articles/pubmed-40545270-5ht2a-efficacy-nonpsychedelic-drugs.md, raw/articles/pubmed-26740873-78-dhf-trkb-review.md, raw/articles/pubmed-37488840-trkb-agonist-caution-review.md, raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md, raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md, raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md, raw/articles/pubmed-40105807-repeated-low-dose-lsd-adhd-adults.md]
@@ -37,6 +37,8 @@ No human cognition trial or registered human psychoplastogen cognition study sur
 
 Human biomarker data on the broader psychoplastogen class are mixed. The BDNF meta-analysis did not resolve a clean peripheral biomarker story, which weakens any simple "plasticity biomarker equals cognitive benefit" inference.^[raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md]
 
+Because this branch is still research-only for cognition, approval and sports visibility should be routed through [[regulatory-and-sports-visibility-map]]; absent a real authorization, WADA S0 logic is the conservative default for pharmacologic substances.
+
 ## Mechanism Notes
 
 Recent mechanistic work suggests the field should be cautious about assuming "non-hallucinogenic" is just a biased-agonism problem. A 2025 study argued that 5-HT2A signaling efficacy, not biased agonism alone, may separate psychedelic from non-psychedelic drugs.^[raw/articles/pubmed-40545270-5ht2a-efficacy-nonpsychedelic-drugs.md]
@@ -50,5 +52,6 @@ TrkB / BDNF-mimetic compounds are now tracked separately in [[trkb-bdnf-mimetic-
 - [[non-hallucinogenic-psychoplastogens-2026-scan]]
 - [[classic-psychedelic-microdosing-vs-psychoplastogens]]
 - [[trkb-bdnf-mimetic-cognition-2026-scan]]
+- [[regulatory-and-sports-visibility-map]]
 - [[medicine-cognition-summary]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]

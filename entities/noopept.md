@@ -1,10 +1,10 @@
 ---
 title: Noopept
 created: 2026-04-30
-updated: 2026-05-03
+updated: 2026-05-12
 type: entity
-tags: [cognition, clinical-trial, preclinical, safety, dosage, comparison, controversy, mechanism]
-sources: [raw/articles/pubmed-12596521-noopept-original-novel-nootropic-agent.md, raw/articles/pubmed-18697252-noopept-comparative-mild-moderate-cognitive-impairment.md, raw/articles/pubmed-19008801-noopept-mci-vascular.md, raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md]
+tags: [cognition, clinical-trial, preclinical, safety, dosage, comparison, controversy, mechanism, anecdote]
+sources: [raw/articles/pubmed-12596521-noopept-original-novel-nootropic-agent.md, raw/articles/pubmed-18697252-noopept-comparative-mild-moderate-cognitive-impairment.md, raw/articles/pubmed-19008801-noopept-mci-vascular.md, raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md, raw/articles/reddit-noopept-racetams-experiences-2023.md]
 confidence: low
 contested: true
 contradictions: []
@@ -36,6 +36,12 @@ Noopept is a Russian nootropic / neuroprotective agent, often marketed as raceta
 | Noopept appeared in a comparative study against piracetam for vascular / traumatic cognitive impairment | human comparative study | PubMed 18697252 | study-level; `moderate` | Mild to moderate cognitive impairment in organic brain disease | low | No abstract on PubMed, so the title carries most of the signal |
 | Noopept caused EEG changes typical of nootropics in vascular and post-traumatic cognitive disturbance | human clinical trial | PubMed 19008801 | study-level; `moderate` | Cerebral asthenic and cognitive disturbances | low | EEG activation is not the same as functional cognition gain |
 | Noopept prevents scopolamine / mecamylamine memory blockade in rats | preclinical | PubMed 19145351 | animal study; `moderate` | Antiamnesic and neurotrophin-style plausibility | low | Preclinical support only |
+
+## Anecdote Ledger
+
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Noopept feels like a short-lived focus / mood / brain-fog compound for some users | `forum anecdote` | raw/articles/reddit-noopept-racetams-experiences-2023.md; Reddit /r/Nootropics thread | thread-level with many replies; `moderate` | Capsules vs sublingual use, focus, mood, memory, work stamina, brain fog | low | Route and product identity alter the signal; reports include irritability, insomnia, no effect, and suspected poor source quality |
 
 ## Safety And Sourcing
 

@@ -1,7 +1,7 @@
 ---
 title: Closed-Loop and Adaptive Neuromodulation for Cognitive Performance
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-12
 type: query
 tags: [cognition, neuroscience, device, clinical-trial, protocol, controversy, sleep]
 sources: [raw/articles/pubmed-40307237-closed-loop-theta-hippocampal-connectivity.md, raw/articles/pubmed-40306616-phase-dependent-closed-loop-deep-brain-stimulation-fornix-theta.md, raw/articles/pubmed-41962614-successful-closed-loop-neurofeedback-alpha-attention.md, raw/articles/pubmed-40928755-lateralised-modulation-posterior-alpha-closed-loop-auditory-stimulation.md, raw/articles/pubmed-41497605-closed-loop-acoustic-stimulation-cathodal-tdcs-retention.md, raw/articles/pubmed-41229102-closed-loop-auditory-stimulation-ecological-memory-null.md, raw/articles/pubmed-40626105-targeting-sleep-spindles-closed-loop-auditory-stimulation.md, raw/articles/pubmed-41110657-auditory-stimulation-sleep-varies-thalamocortical-spindle-phase.md, raw/articles/pubmed-40691439-personalized-targeted-memory-reactivation.md, raw/articles/pubmed-38766135-closed-loop-remote-hippocampal-representations-neurofeedback.md, raw/articles/pubmed-40412459-neuromodulating-rhythms-of-cognition.md, raw/articles/pubmed-36240988-closed-loop-local-slow-oscillations-human-nrem-sleep.md, raw/articles/pubmed-40528736-responsive-neurostimulation-cognition-meta-analysis.md]
@@ -109,7 +109,7 @@ For the sleep-specific acoustic-stimulation/TMR branch, see [[closed-loop-acoust
 
 ## Actionable Wiki Updates
 
-- Update [[noninvasive-brain-stimulation-for-cognition]] with a short closed-loop/adaptive layer note and a pointer to this page.
-- Update [[sleep-and-circadian-interventions-for-cognition]] if you want the CLAS lab-vs-ecological split visible at the sleep-hub level, and point it at [[closed-loop-acoustic-stimulation-and-targeted-memory-reactivation]].
-- Add this page to the next pass of [[healthy-adult-cognition-signals]] so learner-dependent adaptive systems are not lost inside the fixed-parameter stimulation bucket.
-- Create a dedicated concept page only if more closed-loop cognition trials accumulate; for now, keep this as the landing page for `P1-07` in `TODO.md`.
+- Done 2026-05-12: [[noninvasive-brain-stimulation-for-cognition]] now points to this page as the adaptive layer beneath fixed-parameter stimulation.
+- Done 2026-05-12: [[sleep-and-circadian-interventions-for-cognition]] now keeps the CLAS/TMR branch visible at the hub level, and [[closed-loop-acoustic-stimulation-and-targeted-memory-reactivation]] carries the lab-positive versus ecological-null details.
+- Done 2026-05-12: [[healthy-adult-cognition-signals]] and [[cognition-intervention-master-table]] now include closed-loop/adaptive methods as below-top-five, control-property interventions rather than broad enhancers.
+- Keep this page as the landing page for `P1-07`; create a separate concept page only if larger adaptive-cognition trials or consumer-grade closed-loop products accumulate.

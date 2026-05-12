@@ -1,7 +1,7 @@
 ---
 title: Regulatory And Sports Visibility Map
 created: 2026-04-28
-updated: 2026-05-04
+updated: 2026-05-12
 type: query
 tags: [comparison, safety, controversy, timeline, performance]
 sources: [raw/articles/fda-dietary-supplements-regulatory-baseline-2026.md, raw/articles/fda-hidden-ingredients-supplement-risk-2026.md, raw/articles/fda-2025-nmn-dietary-supplement-petition-response.md, raw/articles/springer-2024-nmn-urolithin-label-claim-testing.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/fda-compounder-supplier-quality-warning-2026.md, raw/articles/fda-warning-letter-genogenix-epithalon-2026.md, raw/articles/fda-2026-advisory-epitalon-semax.md, raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md, raw/articles/fda-2026-glp1-503b-bulks-proposal.md, raw/articles/fda-unii-epitalon.md, raw/articles/fda-orphan-epitalon-retinitis-pigmentosa.md, raw/articles/fda-cobenfy-approval-2024.md, raw/articles/nmpa-2019-gv971-approval.md, raw/articles/clinicaltrials-nct04520412-gv971-green-memory-global.md, raw/articles/clinicaltrials-nct05058040-gv971-postmarketing-safety.md, raw/articles/clinicaltrials-nct07011745-karxt-adagio2-alzheimers-agitation.md, raw/articles/wada-2026-prohibited-list-general.md, raw/articles/wada-2026-monitoring-program.md, raw/articles/wada-prohibited-list-peptide-entries-2026.md, raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md, raw/articles/wada-internet-surveillance-epitalon-2026.md, raw/articles/wada-2025-prohibited-list-fonturacetam.md, raw/articles/pubmed-40047835-fonturacetam-asthenia-meta-analysis.md, raw/articles/pharmateca-624929-actitropil-reactive-asthenia-young-patients.md, raw/articles/rusmedreview-2023-actitropil-chronic-cerebral-ischemia.md, raw/articles/dailymed-methylene-blue-injection-label-2026.md, raw/articles/dailymed-modafinil-tablet-label.md, raw/articles/dailymed-armodafinil-tablet-label.md, raw/articles/dailymed-sunosi-solriamfetol-tablet-label.md, raw/articles/dailymed-wakix-pitolisant-tablet-label.md, raw/articles/ema-wakix-pitolisant-2026.md, raw/articles/ema-sunosi-solriamfetol-2026.md, raw/articles/ema-methylthioninium-chloride-proveblue-2026.md, raw/articles/pubmed-31401074-safety-of-transcranial-focused-ultrasound-stimulation.md, raw/articles/pubmed-41610842-transcranial-focused-ultrasound-in-the-human-brain.md, raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md, raw/articles/pubmed-40354769-non-hallucinogenic-psychedelics-mood-anxiety-systematic-review.md, raw/articles/fda-2026-dietary-supplement-ingredient-directory-higenamine-hordenine-octopamine.md, raw/articles/fda-2022-higenamine-hordenine-octopamine-warning-letters.md, raw/articles/wada-2026-higenamine-octopamine-prohibited-list.md, raw/articles/pubmed-30188222-higenamine-supplement-quantity.md, raw/articles/jama-2023-botanical-sports-supplement-label-accuracy.md]
@@ -134,9 +134,8 @@ Use this field when the label and the trial layer diverge. A compound can be app
 
 ## Actionable Wiki Updates
 
-- Add this page to `index.md` under Queries.
-- Link it from `comparisons/pharmacology-comparator-map.md`, `queries/methylene-blue-2026-scan.md`, `concepts/non-hallucinogenic-psychoplastogens.md`, and `queries/traditional-medicine-cognition-2026-scan.md`.
-- Update [[online-evidence-freshness-dashboard]] and [[registry-result-status-watchlist]] when a jurisdiction split changes the active-watch interpretation.
-- Link it from `peptide-safety-and-sourcing-risk-map` and `device-dose-and-session-structure-ontology` when the status overlay needs to be pulled into those branches.
-- Feed the supplement-quality rule into `queries/botanical-standardization-gate.md` and `queries/negative-evidence-watchlist-for-cognition-interventions.md`.
-- Use the WADA rule here as the sports-regulatory anchor for future comparator and source-quality scans.
+- Done 2026-05-12: page is indexed and linked from [[pharmacology-comparator-map]].
+- Done 2026-05-12: [[methylene-blue-2026-scan]] and [[non-hallucinogenic-psychoplastogens]] now point back to this status layer.
+- Done 2026-05-12: peptide status is split across this page, [[peptide-safety-and-sourcing-risk-map]], and [[peptide-regulatory-live-watch-board]] so sourcing, anti-doping, and FDA/PCAC visibility do not collapse into a single efficacy claim.
+- Keep [[online-evidence-freshness-dashboard]] and [[registry-result-status-watchlist]] current when a jurisdiction split changes the active-watch interpretation.
+- Use this page as the WADA / label / approval-status anchor for future comparator and source-quality scans.

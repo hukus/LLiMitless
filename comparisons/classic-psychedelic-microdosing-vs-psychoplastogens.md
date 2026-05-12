@@ -1,10 +1,10 @@
 ---
 title: Classic Psychedelic Microdosing vs Psychoplastogens
 created: 2026-04-30
-updated: 2026-05-03
+updated: 2026-05-12
 type: comparison
-tags: [psychedelic, psychoplastogen, cognition, comparison, controversy, safety, mechanism, clinical-trial, preclinical]
-sources: [raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md, raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md, raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md, raw/articles/pubmed-40105807-repeated-low-dose-lsd-adhd-adults.md, raw/articles/pubmed-35090363-psilocybin-cognitive-emotional-functions-healthy-participants.md, raw/articles/clinicaltrials-nct07449351-psilocybin-microdosing-cognition-mood-quality-of-life.md, raw/articles/pubmed-40354769-non-hallucinogenic-psychedelics-mood-anxiety-systematic-review.md, raw/articles/pubmed-40405723-neuropsychopharmacology-hallucinogenic-non-hallucinogenic-5ht2a-agonists.md, raw/articles/pubmed-36884348-2-br-lsd-nonhallucinogenic-lsd-analog.md, raw/articles/pubmed-40760185-tabernanthalog-neuroplasticity-no-iea.md, raw/articles/pubmed-34035476-tabernanthalog-stress-cognitive-flexibility.md, raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md, raw/articles/pubmed-40545270-5ht2a-efficacy-nonpsychedelic-drugs.md, raw/articles/dea-psilocybin-hallucinogens-schedule-i.md]
+tags: [psychedelic, psychoplastogen, cognition, comparison, controversy, safety, mechanism, clinical-trial, preclinical, anecdote]
+sources: [raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md, raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md, raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md, raw/articles/pubmed-40105807-repeated-low-dose-lsd-adhd-adults.md, raw/articles/pubmed-35090363-psilocybin-cognitive-emotional-functions-healthy-participants.md, raw/articles/clinicaltrials-nct07449351-psilocybin-microdosing-cognition-mood-quality-of-life.md, raw/articles/pubmed-40354769-non-hallucinogenic-psychedelics-mood-anxiety-systematic-review.md, raw/articles/pubmed-40405723-neuropsychopharmacology-hallucinogenic-non-hallucinogenic-5ht2a-agonists.md, raw/articles/pubmed-36884348-2-br-lsd-nonhallucinogenic-lsd-analog.md, raw/articles/pubmed-40760185-tabernanthalog-neuroplasticity-no-iea.md, raw/articles/pubmed-34035476-tabernanthalog-stress-cognitive-flexibility.md, raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md, raw/articles/pubmed-40545270-5ht2a-efficacy-nonpsychedelic-drugs.md, raw/articles/dea-psilocybin-hallucinogens-schedule-i.md, raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md]
 confidence: low
 contested: true
 ---
@@ -25,6 +25,18 @@ For the adjacent concept lane, see [[non-hallucinogenic-psychoplastogens]] and [
 - The non-hallucinogenic psychoplastogen lane became more mechanistically coherent in rodents, especially for tabernanthalog and 2-Br-LSD, but it still did not cross into human cognition proof.^[raw/articles/pubmed-40760185-tabernanthalog-neuroplasticity-no-iea.md]^[raw/articles/pubmed-36884348-2-br-lsd-nonhallucinogenic-lsd-analog.md]
 - The biomarker layer did not rescue the translation problem: a 2025 human BDNF meta-analysis found no evidence that psychoplastogens raise peripheral BDNF.^[raw/articles/pubmed-39613915-psychoplastogens-bdnf-meta-analysis.md]
 - Regulatory status remains a practical barrier because psilocybin is still treated as a Schedule I hallucinogen in DEA materials.^[raw/articles/dea-psilocybin-hallucinogens-schedule-i.md]
+- The anecdote layer is now explicit rather than implied: productivity and creativity reports remain highly visible in Reddit/forum microdosing communities, but the formal evidence still routes the branch as a mismatch case rather than an upgraded cognition signal.^[raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md]^[raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md]^[raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md]
+
+## Anecdote Signal
+
+Community microdosing salience is `strong`: captured Reddit/forum threads repeatedly claim morning energy, gentle clarity, focus, creativity, flow, reduced anxiety, and better work engagement, with counterreports of no effect, emotionality, worsened focus, dose sensitivity, couch-lock, and intensified depressive symptoms. This is useful for hypothesis generation, but it does not change the controlled-evidence read: the 2026 meta-analysis found lower cognitive control and null broad cognition, while placebo-controlled psilocybin microdosing reports were null or narrow after correction.^[raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md]^[raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md]^[raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md]
+
+## Anecdote Ledger
+
+| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Classic psychedelic microdosing improves productivity, focus, clarity, or creativity | `anecdote` | `raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md`; Reddit/forum cluster | Multiple threads checked; `strong` for community salience | Healthy/productivity-oriented microdosing reports, usually psilocybin, mushrooms, truffles, or LSD | low | Self-selection, expectancy, unblinding, product/dose ambiguity, legal/sourcing risk, and endpoint conflation |
+| Classic psychedelic microdosing worsens focus or does nothing | `anecdote` | `raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md`; Reddit/forum cluster | Repeated counterreports; `moderate` | Same community contexts, often dose-sensitive and state-dependent | low | Negative reports are also self-selected, but they match the controlled evidence better than the broad productivity narrative |
 
 ## Top Sources
 
@@ -42,6 +54,7 @@ For the adjacent concept lane, see [[non-hallucinogenic-psychoplastogens]] and [
 - [PMID 39613915](https://pubmed.ncbi.nlm.nih.gov/39613915/): psychoplastogen BDNF meta-analysis in humans.
 - [PMID 40545270](https://pubmed.ncbi.nlm.nih.gov/40545270/): 5-HT2A efficacy versus biased agonism.
 - [DEA hallucinogens](https://www.dea.gov/factsheets/hallucinogens): current federal legal context and acute risk language.
+- [Reddit/forum productivity cluster](raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md): anecdote salience and counterreports for microdosing-as-productivity narratives.
 
 ## Evidence Tiering
 

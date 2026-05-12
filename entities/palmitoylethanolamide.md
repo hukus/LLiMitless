@@ -1,10 +1,10 @@
 ---
 title: Palmitoylethanolamide
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-11
 type: entity
 tags: [domain-medicine, cognition, neuroscience, inflammation, sleep, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, comparison, controversy]
-sources: [raw/articles/mdpi-2024-palmitoylethanolamide-healthy-cognition-bdnf.md, raw/articles/frontiers-2022-palmitoylethanolamide-cognitive-decline-review.md, raw/articles/bmc-2021-palmitoylethanolamide-sleep-disturbance-rct.md, raw/articles/pubmed-37626494-palmitoylethanolamine-mci-protocol.md, raw/articles/pubmed-39664446-palmitoylethanolamide-brain-function-lipidome.md, raw/articles/pubmed-27220803-palmitoylethanolamide-pain-pk-safety.md, raw/articles/pubmed-36986081-palmitoylethanolamide-chronic-pain-meta-analysis.md, raw/articles/pubmed-29486338-palmitoylethanolamide-mdd-adjunct-rct.md, raw/articles/reddit-2022-palmitoylethanolamide-nootropic-thread.md, raw/articles/reddit-2021-palmitoylethanolamide-problems-thread.md, raw/articles/reddit-2022-palmitoylethanolamide-oleamide-insomnia-thread.md, raw/articles/reddit-2021-pea-abbreviation-confusion-thread.md, raw/articles/reddit-2026-optipea-product-identity-thread.md]
+sources: [raw/articles/mdpi-2024-palmitoylethanolamide-healthy-cognition-bdnf.md, raw/articles/frontiers-2022-palmitoylethanolamide-cognitive-decline-review.md, raw/articles/bmc-2021-palmitoylethanolamide-sleep-disturbance-rct.md, raw/articles/pubmed-37626494-palmitoylethanolamine-mci-protocol.md, raw/articles/pubmed-39664446-palmitoylethanolamide-brain-function-lipidome.md, raw/articles/pubmed-27220803-palmitoylethanolamide-pain-pk-safety.md, raw/articles/pubmed-36986081-palmitoylethanolamide-chronic-pain-meta-analysis.md, raw/articles/pubmed-29486338-palmitoylethanolamide-mdd-adjunct-rct.md, raw/articles/sciencedirect-2022-pea-lut-long-covid-gabab-plasticity.md, raw/articles/mdpi-2023-pealut-long-covid-brain-fog-retrospective.md, raw/articles/reddit-2022-palmitoylethanolamide-nootropic-thread.md, raw/articles/reddit-2021-palmitoylethanolamide-problems-thread.md, raw/articles/reddit-2022-palmitoylethanolamide-oleamide-insomnia-thread.md, raw/articles/reddit-2021-pea-abbreviation-confusion-thread.md, raw/articles/reddit-2026-optipea-product-identity-thread.md]
 confidence: low
 contested: true
 contradictions: []
@@ -22,6 +22,8 @@ State-support signal: `low`. In a 103-person sleep-disturbance RCT, 350 mg Levag
 
 Mechanism signal: `preclinical`. A 2024 rat MRI/lipidomics study showed dose-dependent brain BOLD/connectivity and endolipid shifts after acute PEA, supporting that PEA can change CNS lipid tone and functional-connectivity measures. That does not establish human cognitive benefit.^[raw/articles/pubmed-39664446-palmitoylethanolamide-brain-function-lipidome.md]
 
+Combination caveat: [[palmitoylethanolamide-luteolin]] / PEA-LUT is now split into its own entity because the long-COVID brain-fog evidence uses co-ultramicronized PEA plus luteolin, not PEA alone. That branch has GABA(B)-plasticity and retrospective symptom anchors, but it should not be used to upgrade generic PEA as a healthy-adult nootropic.^[raw/articles/sciencedirect-2022-pea-lut-long-covid-gabab-plasticity.md]^[raw/articles/mdpi-2023-pealut-long-covid-brain-fog-retrospective.md]
+
 Safety signal: `moderate but bounded`. Pain-focused clinical reviews support short-term tolerability and report no major side effects in included pain RCTs, but older PK/safety review language explicitly cautions that longer-duration exposure was underpowered to rule out less common adverse reactions. Anecdotal threads also include sleep disruption, slowing, twitchiness, washed-out feelings, and GI complaints, so the wiki should not treat endogenous status as a safety waiver.^[raw/articles/pubmed-27220803-palmitoylethanolamide-pain-pk-safety.md]^[raw/articles/pubmed-36986081-palmitoylethanolamide-chronic-pain-meta-analysis.md]
 
 ## Signal Split
@@ -34,6 +36,7 @@ Safety signal: `moderate but bounded`. Pain-focused clinical reviews support sho
 | Mood-adjacent mental-state support | `low` clinical-state | MDD adjunctive trial supports mood signal, not objective cognition |
 | Anecdote | `weak-moderate` salience | Repeated pain/sleep/neuroprotection use, but direct cognition reports are sparse and mixed |
 | Product identity | `high` caveat | Levagen+, micronized, water-dispersible, liposomal, and generic PEA should not be collapsed without formulation evidence |
+| PEA-LUT combination | `low` post-viral watch | Separate [[palmitoylethanolamide-luteolin]] branch; do not merge with PEA-alone evidence |
 
 ## Anecdote Ledger
 
@@ -52,6 +55,7 @@ PEA deserves standalone entity coverage because it now has a direct healthy-adul
 ## Related Pages
 
 - [[cognitive-improvement-molecule-signal-atlas]]
+- [[palmitoylethanolamide-luteolin]]
 - [[molecule-intake-triage-table]]
 - [[neuroinflammation-and-cognition]]
 - [[supplement-identity-evidence-map]]
@@ -68,6 +72,8 @@ PEA deserves standalone entity coverage because it now has a direct healthy-adul
 - raw/articles/pubmed-27220803-palmitoylethanolamide-pain-pk-safety.md
 - raw/articles/pubmed-36986081-palmitoylethanolamide-chronic-pain-meta-analysis.md
 - raw/articles/pubmed-29486338-palmitoylethanolamide-mdd-adjunct-rct.md
+- raw/articles/sciencedirect-2022-pea-lut-long-covid-gabab-plasticity.md
+- raw/articles/mdpi-2023-pealut-long-covid-brain-fog-retrospective.md
 - raw/articles/reddit-2022-palmitoylethanolamide-nootropic-thread.md
 - raw/articles/reddit-2021-palmitoylethanolamide-problems-thread.md
 - raw/articles/reddit-2022-palmitoylethanolamide-oleamide-insomnia-thread.md

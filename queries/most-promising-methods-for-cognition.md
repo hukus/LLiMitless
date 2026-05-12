@@ -1,10 +1,10 @@
 ---
 title: Most Promising Methods for Improving Cognition
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-05-12
 type: query
 tags: [comparison, cognition, controversy]
-sources: [raw/articles/pubmed-41460391-cerebrolysin-age-induced-memory-decline.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]
+sources: [raw/articles/pubmed-41460391-cerebrolysin-age-induced-memory-decline.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md, raw/articles/pubmed-39883421-acute-exercise-meta-review.md, raw/articles/springer-2026-exercise-brain-volume-cognition-dose-response-meta.md, raw/articles/jama-2026-exercise-intensive-vascular-risk-cognition-null.md, raw/articles/pubmed-37875637-beetroot-chewable-cognitive-performance.md]
 confidence: medium
 ---
 
@@ -27,7 +27,7 @@ Relevant raw PubMed notes behind the peptide cluster: raw/articles/pubmed-414603
 For the evidence-grounded overview, see [[medicine-cognition-summary]] and [[sleep-and-circadian-interventions-for-cognition]]. For the more speculative cluster, see [[neurocognitive-interventions-under-study]], [[peptide-neuroprotection]], and [[adjunctive-interventions-for-cognition]]. For healthy, well-slept adults, see [[healthy-adult-cognition-signals]]. The sleep/rhythm corner of the ranking is easiest to compare against the consolidated [[sleep-and-circadian-interventions-for-cognition]] comparison. For broader graph navigation, start at the root `index.md` and use the comparison hubs [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], [[neurocognitive-interventions-under-study]], and [[state-challenge-matrix-for-cognition-interventions]] to move between the ranked list and the clustered views.
 For the pharmacology baseline that novel interventions should be compared against, see [[pharmacology-comparator-map]].
 For the study-design layer, see [[trial-design-recommendations-for-cognition-interventions]].
-For a narrow imaging-supported candidate that sits below the top 5 but is worth tracking, see [[methylene-blue-2026-scan]].
+For a reserve/state-support branch that sits just outside the tight top 5 but should not be ignored, see [[cerebrovascular-reserve-interventions-2026-scan]] and [[dietary-nitrate-beetroot]]. For a narrow imaging-supported candidate that sits below the top 5 but is worth tracking, see [[methylene-blue-2026-scan]].
 
 ## Tight top-5 shortlist
 
@@ -62,14 +62,15 @@ A good rule here is that anecdotal strength is often highest where the intervent
 | 3 | [[sleep-banking-and-sleep-extension]] | Best short-horizon performance protection under sleep loss | More a performance-preservation tool than a durable cognitive enhancer |
 | 4 | [[repetitive-transcranial-magnetic-stimulation-and-cognition]] | Most mature noninvasive stimulation modality for cognition-relevant endpoints | Promising in selected populations, but protocol-sensitive and heterogeneous |
 | 5 | [[creatine-cognitive-support]] | Low-cost, plausible, and supported in several contexts | A credible adjunct, especially when energy demand, diet, or sleep loss matter |
-| 6 | [[transcranial-direct-current-stimulation-and-cognition]] / [[transcranial-alternating-current-stimulation-and-cognition]] | Small but real human literature; effects are usually task- and protocol-dependent | Useful to watch, but not yet a broadly reliable cognitive intervention |
-| 7 | [[incretin-therapies-brain-health]] | Metabolism-meets-brain-health axis with growing human attention | Promising, but current cognitive benefit remains mostly indirect or early |
-| 8 | [[intranasal-insulin-and-cognition]] | Mechanistically attractive and human-tested, but now clearly state-specific | Chronic AD/MCI use is weak; perioperative protection is the strongest branch |
-| 9 | [[transcutaneous-auricular-vagus-nerve-stimulation]] | Early clinical and mechanistic literature with cognition/inflammation relevance | Plausible, but evidence is still young and uneven |
-| 10 | [[hyperbaric-oxygen-neurocognitive-recovery]] | Context-specific signal, strongest around recovery states such as TBI | More defensible in recovery settings than as a general cognition booster |
-| 11 | [[transcranial-photobiomodulation]] | Early cognition-related signals, still exploratory | Worth tracking, but direct proof remains limited |
-| 12 | [[focused-ultrasound-neuromodulation]] | Very early and still technically evolving | High novelty, low certainty |
-| 13 | [[cerebrolysin]] / [[peptide-neuroprotection]] | Translational interest and anecdotal enthusiasm exceed firm cognition proof | Promising to some, but evidence quality is uneven |
+| 6 | [[cerebrovascular-reserve-interventions-2026-scan]] / [[dietary-nitrate-beetroot]] | Acute exercise has one of the better same-day cognition signals; reserve-preservation evidence is plausible but long-term cognition trials can still be null | Foundational state-support branch, not a simple nootropic |
+| 7 | [[transcranial-direct-current-stimulation-and-cognition]] / [[transcranial-alternating-current-stimulation-and-cognition]] | Small but real human literature; effects are usually task- and protocol-dependent | Useful to watch, but not yet a broadly reliable cognitive intervention |
+| 8 | [[incretin-therapies-brain-health]] | Metabolism-meets-brain-health axis with growing human attention | Promising, but current cognitive benefit remains mostly indirect or early |
+| 9 | [[intranasal-insulin-and-cognition]] | Mechanistically attractive and human-tested, but now clearly state-specific | Chronic AD/MCI use is weak; perioperative protection is the strongest branch |
+| 10 | [[transcutaneous-auricular-vagus-nerve-stimulation]] | Early clinical and mechanistic literature with cognition/inflammation relevance | Plausible, but evidence is still young and uneven |
+| 11 | [[hyperbaric-oxygen-neurocognitive-recovery]] | Context-specific signal, strongest around recovery states such as TBI | More defensible in recovery settings than as a general cognition booster |
+| 12 | [[transcranial-photobiomodulation]] | Early cognition-related signals, still exploratory | Worth tracking, but direct proof remains limited |
+| 13 | [[focused-ultrasound-neuromodulation]] | Very early and still technically evolving | High novelty, low certainty |
+| 14 | [[cerebrolysin]] / [[peptide-neuroprotection]] | Translational interest and anecdotal enthusiasm exceed firm cognition proof | Promising to some, but evidence quality is uneven |
 
 ## 2) Strength of anecdotal evidence
 

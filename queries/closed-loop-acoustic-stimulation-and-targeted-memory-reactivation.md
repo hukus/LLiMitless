@@ -1,7 +1,7 @@
 ---
 title: Closed-Loop Acoustic Stimulation and Targeted Memory Reactivation
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-12
 type: query
 tags: [cognition, neuroscience, device, clinical-trial, protocol, sleep, controversy]
 sources: [raw/articles/nature-2025-phase-specific-enhancement-motor-memory-consolidation-closed-loop-tmr.md, raw/articles/pubmed-39595901-closed-loop-auditory-stimulation-language-discovery-learning.md, raw/articles/pubmed-41033050-down-phase-targeted-auditory-stimulation-home-setting-feasibility.md, raw/articles/pubmed-39208441-closed-loop-auditory-stimulation-alpha-theta-rem-phase-dependent-power-frequency.md, raw/articles/pubmed-40102385-phase-specific-enhancement-motor-memory-consolidation-closed-loop-tmr.md, raw/articles/pubmed-40928755-lateralised-modulation-posterior-alpha-closed-loop-auditory-stimulation.md, raw/articles/pubmed-40691439-personalized-targeted-memory-reactivation.md, raw/articles/pubmed-40575621-tmr-rem-negative-images-lpp.md, raw/articles/pubmed-40983248-targeted-reactivation-multiple-cues-nap.md, raw/articles/pubmed-41656173-odor-cued-targeted-reactivation-declarative-memory-null.md, raw/articles/pubmed-40885484-tmr-word-meaning-priming-null.md, raw/articles/pubmed-41497605-closed-loop-acoustic-stimulation-cathodal-tdcs-retention.md, raw/articles/pubmed-41229102-closed-loop-auditory-stimulation-ecological-memory-null.md, raw/articles/pubmed-41435615-auditory-evoked-changes-slow-oscillations-spindles-memory-consolidation-children-epilepsy-controls.md, raw/articles/medrxiv-2025-11-12-bedtime-brain-state-clas-sleep-cognition.md, raw/articles/chronobiology-international-2025-chronotype-synchrony-human-cognitive-performance-systematic-review.md, raw/articles/medrxiv-2026-04-22-26351552-targeted-memory-reactivation-sleep-parkinsons-disease.md, raw/articles/imaging-neuroscience-2026-targeted-memory-reactivation-elicits-temporally-compressed-reactivation-linked-to-spindles.md]
@@ -161,8 +161,8 @@ The safest synthesis is that `closed-loop` is a control property, not a guarante
 
 ## Actionable Wiki Updates
 
-- Update [[closed-loop-and-adaptive-neuromodulation-for-cognitive-performance]] with a pointer to this sleep-specific branch.
-- Update [[sleep-and-circadian-interventions-for-cognition]] so the sleep hub points to the behavioral TMR/CLAS evidence, including the new multi-night learning result.
-- Update [[practical-cognitive-measurement-stack]] if you want the remote-testing guardrails visible alongside the delayed-recall and EMA battery.
-- Add this page to [[healthy-adult-cognition-signals]] so the phase-window effect is not buried under fixed-parameter stimulation.
-- Keep using `TODO.md` P1-19 as the evidence backlog anchor until a larger meta-analytic or registry-level update appears.
+- Done 2026-05-12: [[closed-loop-and-adaptive-neuromodulation-for-cognitive-performance]] points here as the sleep-specific branch.
+- Done 2026-05-12: [[sleep-and-circadian-interventions-for-cognition]] now points to the behavioral TMR/CLAS evidence and separates lab-positive learning signals from home/ecological nulls.
+- Done 2026-05-12: [[healthy-adult-cognition-signals]] now includes the phase-window branch so it is not buried under fixed-parameter stimulation.
+- Keep [[practical-cognitive-measurement-stack]] as the next optional integration point if remote-testing guardrails become a larger theme.
+- Keep `P1-19` closed unless a larger meta-analysis, registry-level update, or consumer-grade CLAS/TMR efficacy trial appears.

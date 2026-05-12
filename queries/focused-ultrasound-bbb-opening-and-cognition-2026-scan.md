@@ -1,10 +1,10 @@
 ---
 title: Focused Ultrasound BBB Opening and Cognition 2026 Scan
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-12
 type: query
 tags: [cognition, ultrasound, safety, clinical-trial, mechanism, device, controversy, biomarker]
-sources: [raw/articles/pubmed-41610842-transcranial-focused-ultrasound-in-the-human-brain.md, raw/articles/pubmed-40406679-focused-ultrasound-bbbo-ad-meta-analysis.md, raw/articles/pubmed-39044508-focused-ultrasound-bbbo-ad-systematic-review.md, raw/articles/clinicaltrials-nct04118764-focused-ultrasound-bbbo-alz.md, raw/articles/pubmed-36694943-bbbo-default-mode-network-ad.md, raw/articles/pubmed-37554284-focused-ultrasound-mitigates-pathology-improves-spatial-memory-ad.md, raw/articles/pubmed-40450507-serum-isolated-extracellular-vesicles-response-fus-bbbo.md, raw/articles/pubmed-40404732-aducanumab-fus-bbbo-mouse.md, raw/articles/pubmed-40948563-focused-ultrasound-bbbo-astrocytes.md, raw/articles/pubmed-36334289-focused-ultrasound-bbbo-ad-long-term-safety-imaging-cognitive-outcomes.md, raw/articles/pubmed-30046032-mri-guided-focused-ultrasound-bbbo-ad.md, raw/articles/pubmed-33399511-mri-guided-focused-ultrasound-meningeal-venous-permeability.md, raw/articles/pubmed-39113808-portable-focused-ultrasound-bbbo-ad.md, raw/articles/pubmed-39793012-repetitive-bilateral-frontal-bbbo-ad.md, raw/articles/pubmed-41723237-safe-focused-ultrasound-bbb-opening-tight-junctions.md, raw/articles/pubmed-41821761-focused-ultrasound-bbbo-brain-tumor-technical-nuances.md]
+sources: [raw/articles/pubmed-41610842-transcranial-focused-ultrasound-in-the-human-brain.md, raw/articles/pubmed-40406679-focused-ultrasound-bbbo-ad-meta-analysis.md, raw/articles/pubmed-39044508-focused-ultrasound-bbbo-ad-systematic-review.md, raw/articles/clinicaltrials-nct04118764-focused-ultrasound-bbbo-alz.md, raw/articles/pubmed-36694943-bbbo-default-mode-network-ad.md, raw/articles/pubmed-37554284-focused-ultrasound-mitigates-pathology-improves-spatial-memory-ad.md, raw/articles/pubmed-40450507-serum-isolated-extracellular-vesicles-response-fus-bbbo.md, raw/articles/pubmed-40404732-aducanumab-fus-bbbo-mouse.md, raw/articles/pubmed-40948563-focused-ultrasound-bbbo-astrocytes.md, raw/articles/pubmed-36334289-focused-ultrasound-bbbo-ad-long-term-safety-imaging-cognitive-outcomes.md, raw/articles/pubmed-30046032-mri-guided-focused-ultrasound-bbbo-ad.md, raw/articles/pubmed-33399511-mri-guided-focused-ultrasound-meningeal-venous-permeability.md, raw/articles/pubmed-39113808-portable-focused-ultrasound-bbbo-ad.md, raw/articles/pubmed-39793012-repetitive-bilateral-frontal-bbbo-ad.md, raw/articles/pubmed-41723237-safe-focused-ultrasound-bbb-opening-tight-junctions.md, raw/articles/pubmed-41821761-focused-ultrasound-bbbo-brain-tumor-technical-nuances.md, raw/articles/pubmed-41916485-low-frequency-ultrasound-sae-response.md, raw/articles/itrusst-2026-open-letter-ultrasound-neuromodulation-adverse-event.md]
 confidence: medium
 ---
 
@@ -27,6 +27,7 @@ Focused ultrasound blood-brain barrier opening (FUS-BBBO) is the more translatio
 - The 2025 mouse aducanumab study sharpened the platform question: BBBO may matter more as a delivery enabler than as a stand-alone cognitive intervention.^[raw/articles/pubmed-40404732-aducanumab-fus-bbbo-mouse.md]
 - The 2026 mechanism paper sharpened the safety window: low-pressure sonication produced transient tight-junction reorganization, while higher pressure produced persistent junction loss and microglial activation.^[raw/articles/pubmed-41723237-safe-focused-ultrasound-bbb-opening-tight-junctions.md]
 - The 2026 umbrella review made the family taxonomy cleaner by splitting focused ultrasound into lesioning, BBB opening, and low-intensity circuit stimulation, which reduces the risk of mixing delivery, stimulation, and ablation evidence.^[raw/articles/pubmed-41610842-transcranial-focused-ultrasound-in-the-human-brain.md]
+- The 2026 low-frequency safety response is relevant to BBBO because it reinforces a separation this page already needs: BBB-opening or ablation-capable low-frequency systems are not interchangeable with purpose-built low-intensity neuromodulation hardware, and frequency/device class changes the cavitation-margin problem.^[raw/articles/pubmed-41916485-low-frequency-ultrasound-sae-response.md]
 
 ## Top Sources
 
@@ -82,6 +83,7 @@ Focused ultrasound blood-brain barrier opening (FUS-BBBO) is the more translatio
 - The main safety burden is operational, not just biological: contrast agent use, MRI guidance, screening for contraindications, acoustic monitoring, and repeat targeting all matter.
 - The 2024 portable-system paper suggests that cavitation mapping can improve control, but it does not remove the need for specialist oversight.
 - The 2026 mechanism paper adds a sharper warning: high-pressure settings can convert BBB opening from transient and reversible to persistent injury with microglial activation.
+- The 2026 low-frequency SAE debate adds a cross-branch warning: low-frequency, high-output, repurposed systems require full acoustic parameter disclosure and should not be normalized as ordinary low-intensity neuromodulation.^[raw/articles/pubmed-41916485-low-frequency-ultrasound-sae-response.md]^[raw/articles/itrusst-2026-open-letter-ultrasound-neuromodulation-adverse-event.md]
 
 ## Responder Phenotypes
 
@@ -113,7 +115,6 @@ Focused ultrasound blood-brain barrier opening (FUS-BBBO) is the more translatio
 
 ## Actionable Wiki Updates
 
-- Update [[focused-ultrasound-neuromodulation]] to separate tFUS stimulation from BBB-opening as a distinct translational branch.
-- Add a small note to [[neurocognitive-interventions-under-study]] so the focused-ultrasound row does not flatten neuromodulation and BBB opening into one mechanism.
-- Use this page as the landing node for `P1-21` in `TODO.md`.
+- Done: [[focused-ultrasound-neuromodulation]], [[neurocognitive-interventions-under-study]], and [[cognition-intervention-master-table]] now separate stimulation from BBB opening.
+- Use this page as the landing node for `P1-21`; the active status can remain closed unless a larger randomized human cognition-outcome BBBO trial appears.
 - Keep [[focused-ultrasound-at-home-feasibility-and-safety]] as the consumer-safety boundary page, but do not treat it as a substitute for BBB-opening governance.

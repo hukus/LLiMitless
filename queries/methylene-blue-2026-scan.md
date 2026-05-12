@@ -1,7 +1,7 @@
 ---
 title: Methylene Blue 2026 Scan
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-05-12
 type: query
 tags: [comparison, cognition, performance, safety, dosage, protocol, controversy, clinical-trial, biomarker, anecdote]
 sources: [raw/articles/pubmed-27351678-methylene-blue-human-brain-fmri.md, raw/articles/pubmed-26961091-methylene-blue-functional-connectivity-human-brain.md, raw/articles/pubmed-25018057-methylene-blue-claustrophobia-contextual-memory.md, raw/articles/pubmed-28686823-methylene-blue-ptsd-exposure-rct.md, raw/articles/pubmed-25550228-methylthioninium-phase2-ad.md, raw/articles/pubmed-27863809-lmtm-phase3-ad-negative.md, raw/articles/clinicaltrials-nct02380573-methylene-blue-cognition-fmri.md, raw/articles/clinicaltrials-nct02380573-methylene-blue-results-posted.md, raw/articles/clinicaltrials-nct02380573-mb2-results-api-2026-05-04.md, raw/articles/dailymed-methylene-blue-injection-label-2026.md, raw/articles/ncbi-bookshelf-2026-methylene-blue-statpearls.md, raw/articles/pubmed-40879922-methylene-blue-tbi-mice-spatial-working-memory.md, raw/articles/nature-2025-methylene-blue-postoperative-delirium-mice.md, raw/articles/pubmed-33549685-methylene-blue-photobiomodulation-hepatic-encephalopathy.md, raw/articles/bmc-2020-methylene-blue-photobiomodulation-neuroprotection-review.md, raw/articles/reddit-2026-01-23-methylene-blue-capsules-focus-thread.md, raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md, raw/articles/troof-nootropics-ratings-analysis.md]
@@ -27,6 +27,7 @@ What changed since 2024:
 - Two 2025 animal papers add recovery-state preclinical support: mouse TBI spatial-working-memory protection with mitochondrial-quality-control / inflammatory-marker movement, and a mouse postoperative-delirium model with neuroinflammation and blood-brain-barrier repair. These do not upgrade healthy-human enhancement confidence.^[raw/articles/pubmed-40879922-methylene-blue-tbi-mice-spatial-working-memory.md]^[raw/articles/nature-2025-methylene-blue-postoperative-delirium-mice.md]
 - A recent monotherapy Reddit report and the broader Troof nootropics ratings corpus support that MB remains salient for subjective focus, energy, and memory claims, but the anecdotal layer is dose-, product-, medication-, and screening-confounded.^[raw/articles/reddit-2026-01-23-methylene-blue-capsules-focus-thread.md]^[raw/articles/troof-nootropics-ratings-analysis.md]
 - The MB + red/NIR light idea now has its own safety page, [[methylene-blue-plus-light-redox-interaction-scan]]. The current evidence is mechanism/preclinical plus weak anecdote; it should not upgrade the MB medicinal signal.^[raw/articles/pubmed-33549685-methylene-blue-photobiomodulation-hepatic-encephalopathy.md]^[raw/articles/bmc-2020-methylene-blue-photobiomodulation-neuroprotection-review.md]^[raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md]
+- For label, prescription-status, and sports/regulatory comparison across adjacent compounds, route MB through [[regulatory-and-sports-visibility-map]] before treating it as a wellness nootropic.
 
 ## Top Sources
 
@@ -40,6 +41,7 @@ What changed since 2024:
 8. [DailyMed label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eec9bc86-b15b-4c0c-a669-65b03b73da0b) - current U.S. injection label and safety warnings.
 9. [NCBI Bookshelf StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK557593/) - current clinical safety and toxicity reference.
 10. [[methylene-blue-plus-light-redox-interaction-scan]] - separate safety gate for MB plus red/NIR light or tPBM claims.
+11. [[regulatory-and-sports-visibility-map]] - status layer for label, approval, supplement, and anti-doping interpretation.
 
 ## Evidence Tiering
 

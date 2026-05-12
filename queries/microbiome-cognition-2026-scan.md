@@ -1,10 +1,10 @@
 ---
 title: Microbiome-Cognition Interventions - 2026 Scan
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-05-11
 type: query
 tags: [cognition, inflammation, metabolism, clinical-trial, biomarker, mechanism, comparison, safety, protocol]
-sources: [raw/articles/pubmed-41291638-probiotic-supplements-cognitive-function-meta-analysis.md, raw/articles/pubmed-40483001-probiotics-cognitive-performance-older-adults-meta-analysis.md, raw/articles/pubmed-40034358-probiotics-mci-ad-meta-analysis.md, raw/articles/pubmed-40976401-microencapsulation-probiotics-brain-structure-function.md, raw/articles/pubmed-40222448-multistrain-probiotic-healthy-older-adults-cognition.md, raw/articles/pubmed-37502424-cleverage-biota-probiotics-memory-psychological-physical.md, raw/articles/pubmed-36228569-lgg-mci-gut-microbiome-probiotics.md, raw/articles/pubmed-32623402-bifidobacterium-breve-mci-cognition.md, raw/articles/pubmed-40005019-cbt-lr5-mci-cognition.md, raw/articles/pubmed-41907517-obesity-associated-gut-microbiome-influences-diet-induced-metabolic-and-cognitive-outcomes-in-older-adults.md, raw/articles/pubmed-40532960-galacto-oligosaccharides-gut-brain-axis-young-females.md, raw/articles/pubmed-40738103-2-fucosyllactose-older-adults-cognition.md, raw/articles/pubmed-40686934-faecal-microbiota-transplantation-cognitive-function-review.md, raw/articles/clinicaltrials-nct05392556-prebiotic-probiotic-acute-stress-completed.md, raw/articles/clinicaltrials-nct05392556-prebiotic-probiotic-acute-stress.md, raw/articles/pubmed-33731209-sodium-oligomannate-phase3-china.md, raw/articles/pubmed-32928279-sodium-oligomannate-phase2.md, raw/articles/clinicaltrials-nct04520412-gv971-green-memory-global.md, raw/articles/nature-2019-gv971-gut-microbiota-neuroinflammation.md]
+sources: [raw/articles/pubmed-41291638-probiotic-supplements-cognitive-function-meta-analysis.md, raw/articles/pubmed-40483001-probiotics-cognitive-performance-older-adults-meta-analysis.md, raw/articles/pubmed-40034358-probiotics-mci-ad-meta-analysis.md, raw/articles/pubmed-40976401-microencapsulation-probiotics-brain-structure-function.md, raw/articles/pubmed-40222448-multistrain-probiotic-healthy-older-adults-cognition.md, raw/articles/pubmed-37502424-cleverage-biota-probiotics-memory-psychological-physical.md, raw/articles/pubmed-36228569-lgg-mci-gut-microbiome-probiotics.md, raw/articles/pubmed-32623402-bifidobacterium-breve-mci-cognition.md, raw/articles/pubmed-40005019-cbt-lr5-mci-cognition.md, raw/articles/pubmed-41907517-obesity-associated-gut-microbiome-influences-diet-induced-metabolic-and-cognitive-outcomes-in-older-adults.md, raw/articles/pubmed-40532960-galacto-oligosaccharides-gut-brain-axis-young-females.md, raw/articles/pubmed-40738103-2-fucosyllactose-older-adults-cognition.md, raw/articles/nature-2020-colon-delivered-scfa-stress-rct.md, raw/articles/pubmed-35694161-extruded-wheat-bran-scfa-null-rct.md, raw/articles/sage-2024-butyragen-tributyrin-healthy-adults-pilot.md, raw/articles/springer-2024-sodium-butyrate-ulcerative-colitis-sleep-rct.md, raw/articles/pubmed-40944126-ds01-synbiotic-butyrate-urolithin-rct.md, raw/articles/pubmed-40686934-faecal-microbiota-transplantation-cognitive-function-review.md, raw/articles/clinicaltrials-nct05392556-prebiotic-probiotic-acute-stress-completed.md, raw/articles/clinicaltrials-nct05392556-prebiotic-probiotic-acute-stress.md, raw/articles/pubmed-33731209-sodium-oligomannate-phase3-china.md, raw/articles/pubmed-32928279-sodium-oligomannate-phase2.md, raw/articles/clinicaltrials-nct04520412-gv971-green-memory-global.md, raw/articles/nature-2019-gv971-gut-microbiota-neuroinflammation.md]
 confidence: low
 contested: true
 ---
@@ -14,6 +14,10 @@ contested: true
 ## Summary
 
 The microbiome branch has more human RCTs than it used to, but the effect pattern is still inconsistent and highly phenotype-dependent. The clearest positive signals show up in older adults with MCI or declining memory, not in healthy adults. In healthy older adults, most studies are null or only weakly positive on narrow task measures such as executive-function reaction time, with the newer 2'-FL result looking responder-gated rather than class-defining.
+
+The 2026-05-11 normalization pass promoted the most important product-level nodes into standalone pages: [[bifidobacterium-breve-a1]], [[lacticaseibacillus-rhamnosus-cbt-lr5]], [[lacticaseibacillus-rhamnosus-gg]], [[lacticaseibacillus-rhamnosus-hn001]], [[galacto-oligosaccharides]], and [[2-fucosyllactose]]. Use [[psychobiotic-cognition-product-watchlist]] as the router before exporting any result across strains, blends, prebiotics, or medical FMT.
+
+The same run now splits the SCFA / postbiotic-output layer into [[butyrate-tributyrin]] and [[scfa-postbiotic-brain-fog-cognition-watchlist]]. This matters because colon-delivered SCFAs, direct butyrate salts, tributyrin, fiber-mediated SCFA production, and synbiotic butyrate/urolithin outputs have different route identities and different evidence ceilings.
 
 What changed since 2024:
 
@@ -26,6 +30,9 @@ What changed since 2024:
 - A 2025 GOS trial in healthy young females moved Bifidobacterium and some neurochemical measures, but the cognition signal stayed narrow: faster reaction times appeared mainly in the high-anxious subgroup, not as a broad group-level effect.^[raw/articles/pubmed-40532960-galacto-oligosaccharides-gut-brain-axis-young-females.md]
 - A 2025/2026 obesity-stratified sub-analysis of a 10-week diet intervention found that in obese older adults, fat loss correlated with episodic memory and cognitive flexibility gains, while microbiome and metabolite shifts tracked those changes; the non-obese pattern was weaker and sometimes paradoxical.^[raw/articles/pubmed-41907517-obesity-associated-gut-microbiome-influences-diet-induced-metabolic-and-cognitive-outcomes-in-older-adults.md]
 - A 2025 2'-fucosyllactose RCT in healthy older adults missed its primary immune endpoint, but Bifidobacterium responders showed extra metabolic changes and better visual-memory performance, which keeps the signal in a narrow responder bucket rather than a broad enhancement bucket.^[raw/articles/pubmed-40738103-2-fucosyllactose-older-adults-cognition.md]
+- A 2020 colon-delivered SCFA trial in healthy men attenuated cortisol response to psychosocial stress but did not improve mood, BDNF, fear learning/extinction, or cortisol awakening response; a 2022 extruded-wheat-bran trial increased serum acetate/butyrate but did not modulate psychobiological functions.^[raw/articles/nature-2020-colon-delivered-scfa-stress-rct.md]^[raw/articles/pubmed-35694161-extruded-wheat-bran-scfa-null-rct.md]
+- A 2024 healthy-adult ButyraGen tributyrin pilot was a tolerability/biomarker study, while a 2024 active-UC sodium-butyrate RCT improved inflammation, sleep quality, and QoL without measuring cognition. These belong in a gut-metabolite watchlist, not the healthy-adult cognition shortlist.^[raw/articles/sage-2024-butyragen-tributyrin-healthy-adults-pilot.md]^[raw/articles/springer-2024-sodium-butyrate-ulcerative-colitis-sleep-rct.md]
+- A 2025 DS-01 synbiotic trial moved microbiome, urolithin A, fecal butyrate, and inflammation endpoints in healthy adults, but the probiotic/prebiotic/pomegranate formulation prevents attribution to butyrate alone and no cognition endpoint was tested.^[raw/articles/pubmed-40944126-ds01-synbiotic-butyrate-urolithin-rct.md]
 - A 2025 FMT review of clinical trials found 14 cognition-relevant human studies, only three randomized/blinded trials among them, and no trials in cognitively healthy people, which keeps FMT in the disease-state comparator lane rather than the healthy-enhancement lane.^[raw/articles/pubmed-40686934-faecal-microbiota-transplantation-cognitive-function-review.md]
 - The Army acute-stress probiotic/prebiotic protocol is now marked completed with no results posted, so it should be treated as a freshness watch item rather than evidence of efficacy.^[raw/articles/clinicaltrials-nct05392556-prebiotic-probiotic-acute-stress-completed.md]
 - A 2023 CleverAge biota crossover trial found no meaningful cognitive, affective, or physical benefit from human probiotics/prebiotics in community-dwelling older adults with normal or mildly impaired cognition.^[raw/articles/pubmed-37502424-cleverage-biota-probiotics-memory-psychological-physical.md]
@@ -43,6 +50,9 @@ What changed since 2024:
 - [PMID 40532960](https://pubmed.ncbi.nlm.nih.gov/40532960/): 2025 GOS prebiotic trial in healthy young females.
 - [PMID 41907517](https://pubmed.ncbi.nlm.nih.gov/41907517/): 2025 obesity-stratified diet/microbiome sub-analysis in older adults.
 - [PMID 40738103](https://pubmed.ncbi.nlm.nih.gov/40738103/): 2025 2'-FL older-adult RCT with responder-gated visual-memory signal.
+- [Nature Neuropsychopharmacology 2020](https://www.nature.com/articles/s41386-020-0732-x): colon-delivered SCFA stress-axis RCT in healthy men.
+- [PMID 35694161](https://pubmed.ncbi.nlm.nih.gov/35694161/): extruded wheat bran increased serum SCFAs but did not improve psychobiological functions.
+- [ButyraGen tributyrin pilot](https://journals.sagepub.com/doi/abs/10.3233/NHA-240005): healthy-adult tributyrin biomarker/tolerability study.
 - [PMID 40686934](https://pubmed.ncbi.nlm.nih.gov/40686934/): 2025 FMT review of clinical trials and cognition.
 - [PMID 37502424](https://pubmed.ncbi.nlm.nih.gov/37502424/): CleverAge biota null crossover trial.
 - [PMID 36228569](https://pubmed.ncbi.nlm.nih.gov/36228569/): LGG trial linking microbiome changes to cognition in MCI subgroup.
@@ -56,6 +66,7 @@ What changed since 2024:
 - Positive RCTs: strongest in MCI or suspected MCI, especially memory-oriented endpoints.
 - Null RCTs: healthy older adults and community-dwelling older adults often show no cognitive gain.
 - Phenotype-gated signals now include young females with high anxiety, obese older adults whose body-composition shifts track cognitive change, and Bifidobacterium responders in the 2'-FL trial.
+- SCFA-output signals are stress-axis or biomarker adjacent, not direct cognitive-performance evidence.
 - Mechanistic / proxy RCTs: some studies move microbiota composition, serotonin, connectivity, or inflammation without robust cognitive change.
 - FMT is not a healthy-adult enhancer story: the current human evidence sits in neurological disease cohorts and still lacks a healthy-volunteer trial.
 
@@ -69,6 +80,8 @@ What changed since 2024:
 - Healthy older adults multistrain trial: acute executive-task RT improved by 64.91 ms; chronic memory outcomes did not.^[raw/articles/pubmed-40222448-multistrain-probiotic-healthy-older-adults-cognition.md]
 - Micro-encapsulation trial: processing-speed/time-by-group effect was present, but several other domains were null.^[raw/articles/pubmed-40976401-microencapsulation-probiotics-brain-structure-function.md]
 - 2'-FL: no primary cytokine win, but Bifidobacterium responders showed better visual-memory performance; the abstract does not provide a robust class-level effect size, which is itself part of the realism check.^[raw/articles/pubmed-40738103-2-fucosyllactose-older-adults-cognition.md]
+- Colon-delivered SCFAs: cortisol response to psychosocial stress was attenuated in 66 healthy men, while mood, BDNF, and fear-learning/extinction endpoints were null.^[raw/articles/nature-2020-colon-delivered-scfa-stress-rct.md]
+- Extruded wheat bran: serum acetate and butyrate increased, but primary and secondary psychobiological outcomes were unchanged.^[raw/articles/pubmed-35694161-extruded-wheat-bran-scfa-null-rct.md]
 - CleverAge biota: no meaningful cognitive improvement overall.^[raw/articles/pubmed-37502424-cleverage-biota-probiotics-memory-psychological-physical.md]
 
 ## Safety / Adverse Events
@@ -76,6 +89,7 @@ What changed since 2024:
 - Across the recent meta-analysis, probiotics did not clearly lower overall adverse events, but the class did not show a major safety signal either.^[raw/articles/pubmed-41291638-probiotic-supplements-cognitive-function-meta-analysis.md]
 - Individual trials mostly report tolerability, with occasional gastrointestinal discomfort and occasional dropouts from GI effects or protocol burden.
 - Product quality, strain identity, and encapsulation matter enough that results should not be generalized across all probiotic products.
+- For butyrate/tributyrin, product form, release site, sodium load, GI baseline state, and bidirectional anecdotal adverse fog/anxiety reports matter before any efficacy interpretation.
 - FMT belongs in a clinic-only safety frame because donor screening, infectious risk, and route dependence matter more than consumer-probiotic style extrapolation.
 
 ## Responder Phenotypes
@@ -109,6 +123,8 @@ What changed since 2024:
 - Use the 2025 meta-analysis as the current pooled estimate, but mark the certainty as low.
 - Keep the 2025 and 2024 pooled meta-analyses side by side so readers can see that the older-adult trend does not generalize cleanly to MCI/AD.
 - Treat B. breve A1 and CBT-LR5 as promising but small and product-specific, not class-defining.
+- Route B. breve A1, CBT-LR5, LGG, HN001, GOS, and 2'-FL through [[psychobiotic-cognition-product-watchlist]] before comparing them with generic probiotics or prebiotics.
+- Route butyrate salts, tributyrin, colon-delivered SCFAs, fiber-mediated SCFA increases, and DS-01-style postbiotic-output claims through [[scfa-postbiotic-brain-fog-cognition-watchlist]] before using them in brain-fog rankings.
 - Keep the GOS and obesity-stratified diet studies in the "narrow or conditional signal" bucket, not the broad enhancement bucket.
 - Revisit after the Army acute-stress trial or other prebiotic/probiotic trials publish results.
 - Keep the Army acute-stress study flagged as completed/no-results-posted until the registry changes.

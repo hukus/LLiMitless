@@ -1,10 +1,10 @@
 ---
 title: Lithium
 created: 2026-04-28
-updated: 2026-05-04
+updated: 2026-05-11
 type: entity
 tags: [domain-medicine, cognition, mechanism, biomarker, clinical-trial, safety, dosage, anecdote, controversy]
-sources: [raw/articles/nature-2025-lithium-deficiency-onset-alzheimers-disease.md, raw/articles/nih-2025-lithium-levels-tied-alzheimers-disease-and-dementia.md, raw/articles/pubmed-41177743-lithium-ad-meta-analysis.md, raw/articles/pubmed-32743689-low-dose-lithium-against-dementia.md, raw/articles/pubmed-41104528-lithium-cognition-humans-review.md, raw/articles/pubmed-40348943-lithium-neuroprotection-subtherapeutic-concentrations-preclinical-ad.md, raw/articles/jama-2026-low-dose-lithium-mci-rct.md, raw/articles/clinicaltrials-nct07459959-lio-ad-lithium-orotate-feasibility.md, raw/articles/clinicaltrials-nct07459959-lio-ad-record-2026-05-04.md, raw/articles/canadian-jpsychiatry-2025-lithium-supplement-survey.md, raw/articles/reddit-2025-07-13-lithium-orotate-supplements-thread.md, raw/articles/reddit-2025-12-13-lithium-orotate-nootropicsdepot-thread.md, raw/articles/dailymed-lithium-oral-solution-medication-guide.md, raw/articles/pubmed-1260219-lithium-orotate-rat-pharmacokinetics.md, raw/articles/pubmed-34196467-lithium-orotate-superior-option-review.md, raw/articles/sciencedirect-2021-lithium-orotate-toxicology.md, raw/articles/pubmed-41760425-lithium-chloride-ferroptosis-ad-ipsc.md]
+sources: [raw/articles/nature-2025-lithium-deficiency-onset-alzheimers-disease.md, raw/articles/nih-2025-lithium-levels-tied-alzheimers-disease-and-dementia.md, raw/articles/pubmed-41177743-lithium-ad-meta-analysis.md, raw/articles/pubmed-32743689-low-dose-lithium-against-dementia.md, raw/articles/pubmed-41104528-lithium-cognition-humans-review.md, raw/articles/pubmed-40348943-lithium-neuroprotection-subtherapeutic-concentrations-preclinical-ad.md, raw/articles/jama-2026-low-dose-lithium-mci-rct.md, raw/articles/jama-2024-lithium-aspartate-long-covid-rct.md, raw/articles/clinicaltrials-nct07459959-lio-ad-lithium-orotate-feasibility.md, raw/articles/clinicaltrials-nct07459959-lio-ad-record-2026-05-04.md, raw/articles/canadian-jpsychiatry-2025-lithium-supplement-survey.md, raw/articles/reddit-2025-07-13-lithium-orotate-supplements-thread.md, raw/articles/reddit-2025-12-13-lithium-orotate-nootropicsdepot-thread.md, raw/articles/dailymed-lithium-oral-solution-medication-guide.md, raw/articles/pubmed-1260219-lithium-orotate-rat-pharmacokinetics.md, raw/articles/pubmed-34196467-lithium-orotate-superior-option-review.md, raw/articles/sciencedirect-2021-lithium-orotate-toxicology.md, raw/articles/pubmed-41760425-lithium-chloride-ferroptosis-ad-ipsc.md]
 confidence: medium
 contested: true
 contradictions: []
@@ -24,6 +24,7 @@ Lithium is a prescription mood stabilizer, a trace element, and now a cognition-
 - The 2026 meta-analysis in AD dementia found no consistent global cognition or functional benefit across six RCTs, even though serious adverse events were not clearly increased.^[raw/articles/pubmed-41177743-lithium-ad-meta-analysis.md]
 - The 2025 human cognition review found mixed effects across 30 studies and 727 participants, with affective-state and population differences driving much of the apparent signal.^[raw/articles/pubmed-41104528-lithium-cognition-humans-review.md]
 - The live [[lithium-orotate]] feasibility study is still not yet recruiting as of 2026-05-04; it is a 40-participant phase 1/2 early-AD trial centered on feasibility, adherence, safety, and CSF lithium target engagement.^[raw/articles/clinicaltrials-nct07459959-lio-ad-record-2026-05-04.md]
+- In long-COVID fatigue and cognitive dysfunction, lithium aspartate 10-15 mg/day was negative in a 52-participant randomized trial. The same paper reported only a tiny open-label higher-dose signal at 40-45 mg/day, which should remain trial-watch rather than supplement guidance.^[raw/articles/jama-2024-lithium-aspartate-long-covid-rct.md]
 - The 2020 Springer commentary on the older MCI trial was optimistic but also explicitly flagged sample-size, blinding, and endpoint caveats; it is historical context, not new evidence.^[raw/articles/pubmed-32743689-low-dose-lithium-against-dementia.md]
 - Lithium orotate remains a hypothesis and supplement formulation, not a validated cognition intervention. Current evidence does not justify treating it as a superior or safer substitute for monitored prescription lithium.^[raw/articles/pubmed-1260219-lithium-orotate-rat-pharmacokinetics.md]^[raw/articles/pubmed-34196467-lithium-orotate-superior-option-review.md]^[raw/articles/sciencedirect-2021-lithium-orotate-toxicology.md]
 
@@ -35,6 +36,7 @@ Lithium is a prescription mood stabilizer, a trace element, and now a cognition-
 | Lithium in AD dementia | `negative/contested` medicinal | 2026 meta-analysis does not show stable global cognition/function benefit |
 | Endogenous lithium / AD biology | `preclinical/mechanistic` | Tissue/mouse/iPSC biology is plausible but not treatment proof |
 | [[lithium-orotate]] in early AD | `protocol-only` medicinal | LiO-AD has no posted results and is target-engagement first |
+| Lithium aspartate in long COVID | `negative low-dose / higher-dose hypothesis` | Low-dose RCT was negative; open-label n=3 higher-dose extension is not efficacy proof |
 | OTC supplement anecdotes | `moderate` anecdote, `weak` objective cognition | Survey and forum reports show salience, but salt/dose/product identity and indication confounds dominate |
 | Safety | `high-burden` | Narrow-therapeutic-index history, renal/thyroid/sodium/interactions, and monitoring logic govern the branch |
 
@@ -52,6 +54,7 @@ The safety baseline is the prescription label, not supplement folklore. Lithium 
 
 - [[low-dose-lithium-and-lithium-orotate-2026-scan]]
 - [[lithium-orotate]]
+- [[post-viral-brain-fog-chemical-watchlist]]
 - [[medicine-cognition-summary]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[self-experimentation-stop-rules]]
@@ -66,6 +69,7 @@ The safety baseline is the prescription label, not supplement folklore. Lithium 
 - 2020 low-dose-lithium commentary.^[raw/articles/pubmed-32743689-low-dose-lithium-against-dementia.md]
 - 2025 human cognition systematic review.^[raw/articles/pubmed-41104528-lithium-cognition-humans-review.md]
 - 2026 MCI pilot RCT.^[raw/articles/jama-2026-low-dose-lithium-mci-rct.md]
+- 2024 lithium aspartate long-COVID fatigue/cognition RCT.^[raw/articles/jama-2024-lithium-aspartate-long-covid-rct.md]
 - 2026 lithium chloride ApoE4/E4 iPSC mechanistic paper.^[raw/articles/pubmed-41760425-lithium-chloride-ferroptosis-ad-ipsc.md]
 - 2026 lithium-orotate feasibility trial registry.^[raw/articles/clinicaltrials-nct07459959-lio-ad-record-2026-05-04.md]
 - OTC supplement survey, forum, and safety sources.^[raw/articles/canadian-jpsychiatry-2025-lithium-supplement-survey.md]^[raw/articles/reddit-2025-07-13-lithium-orotate-supplements-thread.md]^[raw/articles/reddit-2025-12-13-lithium-orotate-nootropicsdepot-thread.md]^[raw/articles/dailymed-lithium-oral-solution-medication-guide.md]^[raw/articles/pubmed-34196467-lithium-orotate-superior-option-review.md]^[raw/articles/pubmed-1260219-lithium-orotate-rat-pharmacokinetics.md]

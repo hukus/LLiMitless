@@ -1,10 +1,10 @@
 ---
 title: Rhodiola Rosea
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-11
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, traditional-medicine, performance, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
-sources: [raw/articles/pmc-3541197-rhodiola-rosea-fatigue-systematic-review.md, raw/articles/slatestarcodex-2016-nootropics-survey-results.md]
+sources: [raw/articles/pmc-3541197-rhodiola-rosea-fatigue-systematic-review.md, raw/articles/slatestarcodex-2016-nootropics-survey-results.md, raw/articles/sciencedirect-2010-adapt232-stressed-healthy-adults-cognition-rct.md]
 confidence: low
 contested: true
 contradictions: []
@@ -15,6 +15,8 @@ contradictions: []
 Rhodiola rosea is an adaptogen / fatigue-oriented botanical. In the wiki it should be ranked as a mental-fatigue and stress-resilience candidate, not as a direct memory or executive-function enhancer.
 
 Medicinal signal: `low`. The captured systematic review found contradictory evidence: 11 studies met inclusion criteria, with some positive mental-fatigue and physical-fatigue trials, but every included study had high risk of bias or reporting flaws that limited confidence. That makes Rhodiola relevant for state-restoration hypotheses, but too weak for broad cognition claims.^[raw/articles/pmc-3541197-rhodiola-rosea-fatigue-systematic-review.md]
+
+Formula-level update: ADAPT-232, a fixed formula containing Rhodiola, [[schisandra-chinensis]], and [[eleutherococcus-senticosus]], improved attention/speed/accuracy after a single dose in stressed/tired healthy women. This supports the adaptogen state-restoration branch, but it should not be counted as Rhodiola-alone evidence.^[raw/articles/sciencedirect-2010-adapt232-stressed-healthy-adults-cognition-rct.md]
 
 ## Signal Split
 
@@ -33,11 +35,12 @@ Medicinal signal: `low`. The captured systematic review found contradictory evid
 
 ## Practical Interpretation
 
-Rhodiola belongs near [[standardized-herbal-extracts-for-cognition]], [[traditional-medicine-cognition-2026-scan]], and [[state-challenge-matrix-for-cognition-interventions]]. Its plausible role is fatigue-state preservation, not rested-baseline cognitive enhancement. Keep it separate from [[ashwagandha]] and [[sceletium-tortuosum]], where stress/anxiety effects can look similar subjectively but have different pharmacology and evidence packets.
+Rhodiola belongs near [[standardized-herbal-extracts-for-cognition]], [[adaptogen-cognition-and-brain-fog-watchlist]], [[traditional-medicine-cognition-2026-scan]], and [[state-challenge-matrix-for-cognition-interventions]]. Its plausible role is fatigue-state preservation, not rested-baseline cognitive enhancement. Keep it separate from [[ashwagandha]] and [[sceletium-tortuosum]], where stress/anxiety effects can look similar subjectively but have different pharmacology and evidence packets.
 
 ## Related Pages
 
 - [[standardized-herbal-extracts-for-cognition]]
+- [[adaptogen-cognition-and-brain-fog-watchlist]]
 - [[traditional-medicine-cognition-2026-scan]]
 - [[ashwagandha]]
 - [[sceletium-tortuosum]]
