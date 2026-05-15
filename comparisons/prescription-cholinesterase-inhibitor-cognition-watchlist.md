@@ -1,10 +1,10 @@
 ---
 title: Prescription Cholinesterase Inhibitor Cognition Watchlist
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-15
 type: comparison
 tags: [comparison, cognition, domain-medicine, neuroscience, clinical-trial, safety, mechanism, anecdote, controversy]
-sources: [raw/articles/pubmed-12105320-donepezil-flight-simulator.md, raw/articles/pubmed-19725251-donepezil-sleep-deprivation-vulnerable.md, raw/articles/pubmed-22161694-donepezil-sleep-deprivation-null.md, raw/articles/pubmed-21262858-donepezil-healthy-young-executive.md, raw/articles/pmc-3169575-donepezil-healthy-older-memory-impairment.md, raw/articles/pubmed-18818443-donepezil-cognitive-training-older-adults-null.md, raw/articles/ncbi-bookshelf-2020-dementia-drugs-donepezil-rivastigmine.md, raw/articles/pubmed-28854283-rivastigmine-hiv-cognitive-impairment-pilot.md, raw/articles/dailymed-2026-donepezil-label.md, raw/articles/dailymed-2025-rivastigmine-patch-label.md, raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md]
+sources: [raw/articles/pubmed-12105320-donepezil-flight-simulator.md, raw/articles/pubmed-19725251-donepezil-sleep-deprivation-vulnerable.md, raw/articles/pubmed-22161694-donepezil-sleep-deprivation-null.md, raw/articles/pubmed-21262858-donepezil-healthy-young-executive.md, raw/articles/pmc-3169575-donepezil-healthy-older-memory-impairment.md, raw/articles/pubmed-18818443-donepezil-cognitive-training-older-adults-null.md, raw/articles/ncbi-bookshelf-2020-dementia-drugs-donepezil-rivastigmine.md, raw/articles/pubmed-28854283-rivastigmine-hiv-cognitive-impairment-pilot.md, raw/articles/dailymed-2026-donepezil-label.md, raw/articles/dailymed-2025-rivastigmine-patch-label.md, raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md, raw/articles/dailymed-2026-pyridostigmine-bromide-label.md, raw/articles/chest-2022-pyridostigmine-mecfs-icpet-rct.md, raw/articles/frontiers-2025-pyridostigmine-handgrip-mecfs.md, raw/articles/clinical-autonomic-research-2025-pots-treatment-review-pyridostigmine.md]
 confidence: low
 contested: true
 contradictions: [cholinergic-state-restoration-and-cognition]
@@ -12,7 +12,7 @@ contradictions: [cholinergic-state-restoration-and-cognition]
 
 # Prescription Cholinesterase Inhibitor Cognition Watchlist
 
-This page separates prescription acetylcholinesterase inhibitors from supplement-style choline donors and plant alkaloids. The useful signal is not "more acetylcholine improves cognition"; it is a narrow mix of state rescue, trained-skill retention, dementia treatment, and responder gating, with a safety ceiling high enough to keep these out of casual brain-fog stacks.
+This page separates prescription acetylcholinesterase inhibitors from supplement-style choline donors and plant alkaloids. The useful signal is not "more acetylcholine improves cognition"; it is a narrow mix of state rescue, trained-skill retention, dementia treatment, responder gating, and now one peripheral-autonomic boundary case. The safety ceiling is high enough to keep these out of casual brain-fog stacks.
 
 ## Comparison
 
@@ -22,6 +22,7 @@ This page separates prescription acetylcholinesterase inhibitors from supplement
 | [[rivastigmine]] | `low-moderate` in dementia treatment; HIV cognitive-impairment pilot was nonsignificant despite domain trends; no healthy-adult signal captured | `absent-to-weak` | Multiple-patch overdose errors, GI/dehydration, weight loss, skin reactions, beta-blocker / cholinergic interactions | Disease-context comparator |
 | [[galantamine]] | `low-moderate` responder-gated signal through basal-forebrain enrichment and recovery/clinical-state tests; HIV trial null | `absent-to-weak` for cognition, stronger in lucid-dreaming contexts not captured here | Bradycardia and cholinergic GI burden | Responder-enrichment comparator |
 | [[huperzine-a]] | `low/contested`; AD/MCI evidence exists but bias and product/context issues dominate | `weak-moderate`; visible nootropic memory lore | Long half-life, cholinergic stacking, sleep/vivid-dream effects, bradycardia/GI concerns | Supplement/plant-alkaloid comparator, safety-first |
+| [[pyridostigmine]] | `low/state-bound`; ME/CFS iCPET and hand-grip/orthostatic studies support exertional/autonomic physiology rather than direct cognition | `moderate` in ME/CFS / long-COVID POTS brain-fog threads | Cholinergic crisis, GI/secretions, asthma caution, obstruction contraindication, renal dosing | Peripheral/autonomic exception; route to post-viral brain-fog pages |
 
 ## Takeaways
 
@@ -29,6 +30,7 @@ This page separates prescription acetylcholinesterase inhibitors from supplement
 - [[rivastigmine]] is mainly a dementia and Parkinson's-dementia drug; the HIV pilot keeps it in the neuroimmune clinical-context map but does not justify brain-fog extrapolation.
 - [[galantamine]] remains more phenotype-gated than broad: basal-forebrain reserve, nicotine interaction, SAH safety, and HIV null evidence all point away from one-size-fits-all cholinergic boosting.
 - [[huperzine-a]] is not prescription in the same way, but mechanistically it belongs near this safety cluster because it is an acetylcholinesterase inhibitor rather than a benign choline food.
+- [[pyridostigmine]] is a boundary case. It is useful here to prevent a false class analogy: its current brain-fog relevance runs through orthostatic intolerance, ME/CFS exertional physiology, POTS, and peripheral cholinergic/autonomic effects, not through a central memory-enhancement claim.^[raw/articles/chest-2022-pyridostigmine-mecfs-icpet-rct.md]^[raw/articles/frontiers-2025-pyridostigmine-handgrip-mecfs.md]^[raw/articles/clinical-autonomic-research-2025-pots-treatment-review-pyridostigmine.md]
 
 ## Anecdote Ledger
 
@@ -37,17 +39,18 @@ This page separates prescription acetylcholinesterase inhibitors from supplement
 | Donepezil improves memory recall | anecdote | raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md; Reddit /r/Nootropics | several small threads; `weak` | 2.5-5 mg donepezil / Aricept, studying, huperzine comparison | low | Sparse, prescription-bound, no objective testing, sleep and cholinergic adverse effects confound |
 | Rivastigmine improves brain fog or cognition outside dementia | anecdote gap | Current source set | not captured; `absent-to-weak` | nootropic / brain-fog discourse | very low | Do not borrow [[donepezil]], [[galantamine]], or [[huperzine-a]] anecdotes |
 | Cholinesterase inhibitors improve memory but can worsen sleep or mood | mixed anecdote | raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md plus [[huperzine-a]] corpus | small; `weak-moderate` at class level | memory, vivid dreams, studying, focus | low | Cholinergic class effects are easy to misattribute and may include insomnia or depressive/overfocused states |
+| Pyridostigmine improves brain fog in ME/CFS / long-COVID POTS | illness-state anecdote | raw/articles/reddit-2023-2026-pyridostigmine-mestinon-brainfog-threads.md; Reddit | repeated visible threads; `moderate` | Mestinon, POTS, PEM, orthostatic intolerance | low | Not healthy-adult enhancement; LDN, vitamins, antivirals, pacing, and recovery confound attribution |
 
 ## Routing Rule
 
-Use this page when a source says "donepezil," "rivastigmine," "Aricept," "Exelon," "acetylcholinesterase inhibitor," or "AChEI" and the claim is about memory, attention, brain fog, training retention, sleep-loss rescue, or cholinergic nootropic use. Use [[choline-donor-cognition-signal-map]] for [[alpha-gpc]], [[citicoline]], [[lysolecithin]], [[phosphatidylcholine]], and [[choline-bitartrate]]. Use [[cholinergic-state-restoration-and-cognition]] for the broader mechanism model.
+Use this page when a source says "donepezil," "rivastigmine," "Aricept," "Exelon," "pyridostigmine," "Mestinon," "acetylcholinesterase inhibitor," or "AChEI" and the claim is about memory, attention, brain fog, training retention, sleep-loss rescue, orthostatic brain fog, or cholinergic nootropic use. Use [[post-viral-brain-fog-chemical-watchlist]] for pyridostigmine in ME/CFS / long-COVID / POTS contexts. Use [[choline-donor-cognition-signal-map]] for [[alpha-gpc]], [[citicoline]], [[lysolecithin]], [[phosphatidylcholine]], and [[choline-bitartrate]]. Use [[cholinergic-state-restoration-and-cognition]] for the broader mechanism model.
 
 ## Related Pages
 
 - [[cholinergic-and-nicotinic-agents-2026-scan]]
 - [[cholinergic-state-restoration-and-cognition]]
 - [[pharmacology-comparator-map]]
+- [[post-viral-brain-fog-chemical-watchlist]]
 - [[molecule-intake-triage-table]]
 - [[parameterized-null-evidence-library]]
 - [[safety-interaction-matrix-for-multi-modal-stacks]]
-

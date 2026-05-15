@@ -1,10 +1,10 @@
 ---
 title: D-Amphetamine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, comparison, controversy]
-sources: [raw/articles/pubmed-32709551-pharmaceutical-cognitive-enhancement-healthy-adults.md, raw/articles/dailymed-dextroamphetamine-sulfate-tablet-label.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
+sources: [raw/articles/pubmed-32709551-pharmaceutical-cognitive-enhancement-healthy-adults.md, raw/articles/dailymed-dextroamphetamine-sulfate-tablet-label.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/pubmed-29511807-lisdexamfetamine-damphetamine-healthy-cognition.md, raw/articles/dailymed-2026-vyvanse-lisdexamfetamine-label.md]
 confidence: low
 contested: true
 contradictions: []
@@ -12,12 +12,13 @@ contradictions: []
 
 # D-Amphetamine
 
-D-amphetamine, usually encountered clinically as dextroamphetamine or as part of mixed amphetamine salts, is a prescription stimulant and risk comparator. The wiki should keep it separate from [[methylphenidate]]: both are stimulant comparators, but the captured healthy-adult meta-analysis found a clearer methylphenidate signal and no overall d-amphetamine effect in healthy non-sleep-deprived adults.
+D-amphetamine, usually encountered clinically as dextroamphetamine, as part of mixed amphetamine salts, or downstream of the prodrug [[lisdexamfetamine]], is a prescription stimulant and risk comparator. The wiki should keep it separate from [[methylphenidate]]: both are stimulant comparators, but the captured healthy-adult meta-analysis found a clearer methylphenidate signal and no overall d-amphetamine effect in healthy non-sleep-deprived adults.
 
 ## Medicinal Signal
 
 - Formal signal: `negative/risk-first` for broad healthy-adult enhancement; `clinical` for ADHD and narcolepsy treatment contexts.
 - The 2020 healthy-adult meta-analysis found no overall d-amphetamine effect, while methylphenidate and modafinil showed small positive signals in narrower task domains.^[raw/articles/pubmed-32709551-pharmaceutical-cognitive-enhancement-healthy-adults.md]
+- A separate 24-person healthy-volunteer crossover compared d-amphetamine 40 mg, [[lisdexamfetamine]] 100 mg, and placebo. Both amphetamine exposures improved go accuracy and vigilance; lisdexamfetamine improved DSST processing speed; neither improved Digit Span. This supports an acute task signal, but not durable healthy-adult enhancement proof.^[raw/articles/pubmed-29511807-lisdexamfetamine-damphetamine-healthy-cognition.md]
 - The current DailyMed label for dextroamphetamine sulfate tablets lists narcolepsy and pediatric ADHD-context use, but the label is a regulatory/safety anchor rather than a cognition-efficacy source.^[raw/articles/dailymed-dextroamphetamine-sulfate-tablet-label.md]
 - Any stimulant ranking should compare d-amphetamine against [[methylphenidate]], [[modafinil]], [[caffeine]], and [[nicotine]] under the same endpoint and state challenge rather than relying on reputation.
 
@@ -31,8 +32,9 @@ D-amphetamine, usually encountered clinically as dextroamphetamine or as part of
 
 - Main burden: Schedule CII prescription status, boxed abuse/misuse/addiction warning, overdose risk, insomnia, appetite suppression, blood-pressure and heart-rate increases, serious-cardiac-disease exclusions, psychosis/mania warnings, seizure caution, Raynaud/peripheral-vasculopathy warnings, tic/Tourette monitoring, and serotonin-syndrome interaction risk.
 - D-amphetamine should be treated as a benchmark and cautionary comparator, not as a candidate to promote from community heat.
+- [[lisdexamfetamine]] should not be read as a safety-free version of d-amphetamine. The prodrug formulation changes exposure and drug-liking dynamics, but the label still carries Schedule II and boxed stimulant-risk language.^[raw/articles/dailymed-2026-vyvanse-lisdexamfetamine-label.md]
 - The right downstream pages are [[pharmacology-comparator-map]], [[cognitive-fidelity-split]], [[active-comparator-and-caffeine-scheduling-confound-audit]], [[regulatory-and-sports-visibility-map]], and [[cognitive-improvement-molecule-signal-atlas]].
 
 ## Current Read
 
-D-amphetamine closes a source-normalization gap in the stimulant lane. Its formal cognitive-enhancement signal is weaker than its cultural reputation, and its safety/regulatory burden is high enough that the wiki should use it mainly to discipline claims about newer focus compounds.
+D-amphetamine closes a source-normalization gap in the stimulant lane. Its formal cognitive-enhancement signal is weaker than its cultural reputation, and its safety/regulatory burden is high enough that the wiki should use it mainly to discipline claims about newer focus compounds, including [[lisdexamfetamine]] and other prodrug or long-acting stimulant formulations.

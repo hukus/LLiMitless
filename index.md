@@ -6,9 +6,9 @@ title: LLiMitless
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-12 | Total pages: 481
+> Last updated: 2026-05-15 | Total pages: 513
 
-Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[post-viral-brain-fog-chemical-watchlist]], [[mast-cell-histamine-brain-fog-chemical-watchlist]], [[scfa-postbiotic-brain-fog-cognition-watchlist]], [[fixed-traditional-formula-cognition-watchlist]], [[traditional-mind-body-cognition-treatment-watchlist]], [[mineral-status-brain-fog-cognition-watchlist]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
+Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[autonomic-pots-brain-fog-chemical-watchlist]], [[mast-cell-histamine-brain-fog-chemical-watchlist]], [[scfa-postbiotic-brain-fog-cognition-watchlist]], [[fixed-traditional-formula-cognition-watchlist]], [[traditional-mind-body-cognition-treatment-watchlist]], [[mineral-status-brain-fog-cognition-watchlist]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
 
 ## Summaries
 - [[OUTCOME]] — current top-level synthesis of the wiki's strongest treatment, medicine, molecule, device, nutrient, peptide, risk-first, and anecdotal-evidence signals.
@@ -16,6 +16,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 ## Entities
 - [[5-htp-tryptophan]] — serotonin-precursor branch separating 5-HTP, L-tryptophan, sleep/mood confounds, kynurenine challenge logic, and serotonergic/product-quality safety gates.
 - [[7-8-dihydroxyflavone]] — TrkB / BDNF-mimetic plasticity molecule with preclinical cognition signals, no human cognition trial, and mixed route-dependent anecdotes.
+- [[acd856]] — human-exposed pan-Trk positive allosteric modulator with safety/PK/CSF/qEEG evidence, sponsor-linked preclinical plasticity biology, weak-moderate nootropic anecdotes, and no cognition-efficacy trial.
 - [[adamax]] — vendor-defined Semax-family peptide label that looks upcoming only as a market/offshoot story, with no indexed peer-reviewed human evidence and high sourcing-identity risk.
 - [[dietary-nitrate-beetroot]] — nitrate-rich beetroot / Beta vulgaris branch with a small acute recall/flexibility signal, vascular-responsiveness support, and nitric-oxide hype guarded by product and reserve-state gates.
 - [[dietary-nucleotides]] — product-specific RiboDiet / RiboCARE nucleotide branch with a low-moderate older-adult TMT-B signal, weak direct anecdote, and strong formulation-identity gates.
@@ -30,6 +31,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[lacticaseibacillus-rhamnosus-hn001]] — HN001 probiotic strain where microencapsulation, processing-speed, and connectivity signals matter more than broad memory or mood outcomes.
 - [[galacto-oligosaccharides]] — GOS prebiotic branch with a high-anxiety young-female reaction-time signal, Bifidobacterium movement, and GI/FODMAP responder gates.
 - [[2-fucosyllactose]] — 2'-FL human-milk-oligosaccharide prebiotic with a primary immune miss but Bifidobacterium-responder visual-memory signal in healthy older adults.
+- [[2-bromo-lsd]] — non-hallucinogenic LSD analog / 2-Br-LSD comparator with preclinical psychoplastogen relevance but no cognition-use evidence.
 - [[plasmalogens]] — ether-lipid membrane-replacement branch with primary-endpoint-weak MCI/mild-AD evidence, small athlete concentration signal, APOE4/lipidomics plausibility, product-identity caveats, and weak brain-fog anecdotes.
 - [[soy-isoflavones]] — phytoestrogenic soy polyphenol branch with modest memory-leaning formal evidence, WISH null counterweights, weak menopause-confounded anecdote, and product-form gates.
 - [[spermidine]] — polyamine autophagy/longevity branch with a small SCD memory pilot, SmartAge phase-IIb null counterweight, weak cognition anecdotes, and strong dose/product-identity gates.
@@ -45,7 +47,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[selenium]] — narrow-margin thyroid/redox trace-mineral branch with a small Brazil-nut MCI pilot, weak thyroid-status anecdotes, and toxicity gates.
 - [[9-me-bc]] — preclinical dopaminergic / neurotrophic hypothesis node with weak-to-moderate forum signal and no human cognition proof.
 - [[acetyl-l-carnitine]] — mitochondrial carnitine ester with contested MCI/dementia signals, hepatic-encephalopathy state support, and weak healthy-adult cognition evidence.
-- [[adrafinil]] — gray-market modafinil prodrug with focus-positive survey salience but risk-first formal routing.
+- [[adrafinil]] — gray-market modafinil prodrug with focus-positive survey salience, WADA S6.A visibility, hidden-API/source-quality concerns, and risk-first formal routing.
 - [[alpha-gpc]] — choline alphoscerate / alfoscerate entity with amnestic-MCI and mild-TBI recovery signals, not healthy-adult proof.
 - [[alpha-lipoic-acid]] — redox / mitochondrial cofactor with combination-limited AD pilot data and neuropathy-like brain-fog anecdotes.
 - [[allopregnanolone]] — neurosteroid AD development lead with safety/imaging/protocol support, no posted cognition-efficacy win yet, sedation/IV-route gates, and absent-to-weak anecdotes.
@@ -53,18 +55,32 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[amanita-muscaria]] — risk-first legal-mushroom branch separating muscimol / ibotenic acid anecdotes from FDA and CDC safety signals.
 - [[agmatine]] — neuromodulator/tolerance gray-zone molecule with preclinical-only cognition evidence and moderate mood/pain/tolerance anecdotes.
 - [[apelin]] — apelin/APJ peptide-system comparator with indirect mood/metabolic/CNS mechanism evidence but no human cognition-enhancement signal.
+- [[atomoxetine]] — prescription nonstimulant NRI ADHD drug with a narrow healthy-volunteer response-inhibition signal, mixed focus/fog anecdotes, and liver/BP/HR/CYP2D6 safety gates.
 - [[caffeine]] — baseline adenosine-antagonist comparator for acute vigilance and sleep-loss state support, with timing and withdrawal as major confounds.
 - [[cathepsin-b]] — mixed lysosomal/inflammatory mediator with mechanism-only cognition relevance and compartment/disease-stage caveats.
+- [[ce-123]] — experimental modafinil-family DAT-inhibitor with preclinical cognitive-flexibility and aged-rat motivation/social-cognition signals, weak-moderate emerging anecdotes, and no human cognition packet.
+- [[centanafadine]] — investigational NDSRI ADHD drug with adult phase 3 symptom evidence, a 2026 FDA priority-review clock, speculative CDS/brain-fog community interest, and no healthy-adult cognition proof.
 - [[centella-asiatica]] — gotu kola / Asian pennywort botanical with small healthy-elderly and post-stroke cognition signals, meta-analytic caution, weak-moderate calm/product anecdotes, and liver-safety/product-standardization gates.
 - [[chondroitinase-abc]] — experimental PNN / chondroitin-sulfate proteoglycan digestion enzyme with preclinical recognition-memory and narrow working-memory signals, no human cognition proof, absent direct-use anecdote, and high circuit/delivery safety burden.
 - [[choline-bitartrate]] — free choline-salt comparator with a narrow visuomotor-precision signal, healthy-adult memory/load-carriage nulls, TMAO/platelet-form caveats, and weak mixed anecdotes.
 - [[paraxanthine]] — caffeine-metabolite comparator with small short-term cognition trials, exercise-fatigue and postprandial signals, ENFINITY/Rarebird product-identity gates, and mixed smoother-energy anecdotes.
+- [[theobromine]] — cocoa methylxanthine comparator with low direct psychopharmacology signal, weak-moderate smoother-energy anecdotes, and heavy cocoa/caffeine/flavanol confounding.
 - [[methylliberine]] — Dynamine purine-alkaloid stimulant-stack ingredient with subjective affect/concentration RCT signal, objective cognition null monotherapy, caffeine/theacrine-confounded stack trials, product-GRAS identity gates, and mixed euphoric/crashy anecdotes.
 - [[mucuna-pruriens]] — risk-first L-DOPA botanical branch with Parkinson's disease clinical-state evidence, no healthy cognition proof, product-levodopa variability, prescription-label safety gates, and strong motivation anecdotes with adverse counterweights.
 - [[phenylalanine]] — phenotype-sensitive catecholamine-precursor branch with PKU cognitive-vulnerability evidence, weak/old DLPA mood and DPA pain literature, and mixed focus anecdotes.
+- [[phentermine]] — prescription sympathomimetic anorectic with old acute-task and sleep-deprivation rescue signals, moderate ADHD-like focus anecdotes, Schedule IV / BP-HR / abuse gates, and phentermine-topiramate cognitive-adverse caveats.
+- [[diethylpropion]] — amfepramone / prescription sympathomimetic anorectic kept as a risk-first sibling comparator for phentermine and tesofensine-adjacent diet-stimulant claims.
+- [[phendimetrazine]] — prescription anorectic stimulant sibling page with label-level BP/HR, tolerance, abuse/dependence, pulmonary-hypertension, and valvular-disease gates but no cognition packet.
+- [[benzphetamine]] — stimulant-related prescription anorectic with explicit abuse-potential framing and no captured healthy-adult cognition evidence.
+- [[fenfluramine]] — serotonergic anorectic / FINTEPLA comparator with VHD/PAH and REMS safety precedent, not a cognition lead.
 - [[p-synephrine]] — bitter-orange stimulant-adjacent ingredient with no direct cognition proof, contested energy/sports/weight-loss evidence, BP/HR and label-adulteration risks, NCAA/WADA visibility, and weak mixed anecdotes.
 - [[yohimbine]] — adrenergic alpha-2-antagonist risk comparator with one tiny cognition trial, stronger stress/anxiety probe evidence, NCCIH safety/product-variability warnings, and mixed focus/fat-loss anecdotes with panic and cardiovascular counterweights.
 - [[higenamine-hordenine-octopamine]] — grouped preworkout stimulant-amine risk comparator covering FDA warning status, WADA higenamine/octopamine visibility, weak formal cognition evidence, and confounded focus/euphoria anecdotes.
+- [[tesofensine]] — triple monoamine-reuptake / anorectic-development compound, often misspelled tesonfensine, with obesity efficacy, old AD/PD exposure, DAT occupancy, emerging executive-function anecdotes, and long-half-life HR/BP/insomnia gates.
+- [[sibutramine]] — withdrawn monoamine-reuptake anorectic kept as a SCOUT / FDA cardiovascular-risk and hidden-ingredient warning comparator, not a cognition lead.
+- [[mazindol]] — older anorectic and mazindol-ER narcolepsy-development comparator with wakefulness-state evidence but no healthy-adult cognition proof.
+- [[brasofensine]] — historical dopamine-transporter-antagonist development compound with tiny Parkinson pharmacology exposure and no cognition-positive bridge.
+- [[nomifensine]] — withdrawn norepinephrine-dopamine reuptake antidepressant kept as a hemolytic-anemia safety precedent for dopaminergic nootropic lore.
 - [[ashwagandha]] — standardized Withania extract candidate with a small MCI memory trial and product-specific interpretation.
 - [[axa1125]] — endogenous metabolic modulator composition with a fatigue-positive long-COVID phase 2a signal, negative primary bioenergetics endpoint, and no objective cognition proof.
 - [[bacopa]] — standardized memory-oriented botanical with older age-associated-memory evidence and active product-identity questions.
@@ -74,6 +90,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[bpn14770]] — PDE4D allosteric inhibitor with a positive fragile-X cognition signal and biomarker follow-up.
 - [[bryostatin-1]] — PKCepsilon synaptogenesis candidate with mixed advanced-AD trial evidence, subgroup/completer signals, and a full-analysis primary-endpoint caveat.
 - [[bromantane]] — Russian actoprotector / stimulant-adjacent compound with stronger asthenia evidence than healthy-adult cognition proof.
+- [[bupropion]] — prescription aminoketone NDRI/nicotinic-antagonist branch with a narrow healthy-adult attention-lapse signal, adult-ADHD context, mixed motivation/fog anecdotes, and seizure/BP/activation gates.
 - [[butyrate-tributyrin]] — SCFA / tributyrin gut-metabolite branch with healthy-human stress-axis and biomarker evidence, no direct cognition win, and bidirectional brain-fog anecdotes.
 - [[cerebrolysin]] — peptide neuroprotective drug with the strongest formal human evidence and one of the most durable community-salience profiles in the peptide cluster.
 - [[citicoline]] — CDP-choline entity with older-adult memory and vascular-MCI support, kept separate from Alpha-GPC and generic choline.
@@ -82,6 +99,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[clusterin]] — exercise-plasma transfer factor with mouse neuroinflammation/memory signals and human exercise biomarker support, but no direct dosing trial.
 - [[cx1739]] — low-impact AMPAkine with human safety/PK and respiratory-development exposure but no cognition-efficacy endpoint.
 - [[cx516]] — older Ampalex / low-impact AMPAkine failure comparator with negative schizophrenia and fragile-X cognition trials.
+- [[cx614]] — high-impact AMPAkine mechanism comparator with BDNF/plasticity biology, AMPAR-compensation signals, scarce direct anecdotes, and hyperexcitability safety concerns.
 - [[cx691-farampator]] — preclinical low-impact AMPAkine rescue candidate with animal spatial-memory and schizophrenia-adjacent signals but no human cognition evidence.
 - [[cx717]] — low-impact AMPAkine with adult-ADHD secondary-analysis signal, mixed-to-negative healthy-human sleep-loss evidence, and scarce direct-use anecdotes.
 - [[cocoa-flavanols]] — cocoa-derived flavanol branch with mixed older-adult cognition evidence, hypoxia-state support, weak product-sourcing anecdotes, and heavy-metal QA caveats.
@@ -89,9 +107,12 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[cordyceps-cordycepin]] — product-split Cordyceps / cordycepin branch with a low-confidence SCD cognition-sleep watch item, immune-exposure RCT, brain-fog anecdotes, and glucose/bleeding safety gates.
 - [[creatine]] — energy-buffer molecule with moderate strain-state cognition signal, two acute sleep-deprivation challenge trials, older/menopause phenotype clues, low safety burden, and mixed brain-fog anecdotes.
 - [[d-amphetamine]] — prescription stimulant and risk comparator with no overall healthy-adult meta-analytic effect in the captured source and high label-level safety burden.
+- [[lisdexamfetamine]] — Vyvanse / prodrug-amphetamine prescription stimulant with acute healthy-volunteer task signals, ADHD/RRSO clinical-state cognition context, strong ADHD-state anecdotes, and Schedule II safety gates.
+- [[dasotraline]] — discontinued long-acting DNRI ADHD/BED development compound with adult ADHD symptom signal, direct cognitive-battery null, high insomnia/appetite discontinuation burden, and withdrawn NDAs.
 - [[dasatinib-quercetin]] — senolytic D+Q combination with open-label human cognition-adjacent pilots, stronger preclinical signal, and oncology-drug safety burden.
 - [[deoxygedunin]] — gedunin-family natural-product TrkB agonist claim with animal learning/neuroprotection signals but no human cognition program.
 - [[desmopressin]] — safety-first DDAVP / vasopressin-analog memory comparator with old mixed evidence, weak nootropic anecdotes, and hyponatremia/fluid-restriction gates.
+- [[dextromethorphan-bupropion]] — AUVELITY rapid-antidepressant combination with MDD efficacy evidence but no direct cognition endpoint, plus polarized clarity-versus-brain-fog anecdotes and seizure/BP/serotonin-syndrome gates.
 - [[dhea]] — adrenal steroid precursor and negative healthy-aging cognition comparator after the DAWN trial found no cognitive benefit over 1 year.
 - [[dha-epa]] — long-chain omega-3 nutrient pair with domain-specific older-adult cognition signals, null counterweights, and bidirectional fish-oil anecdotes.
 - [[dnl343]] — CNS-penetrant eIF2B activator with human ISR target engagement, a negative HEALEY ALS functional readout, and no cognition-efficacy endpoint.
@@ -101,6 +122,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[eleutherococcus-senticosus]] — Eleuthero / Siberian-ginseng adaptogen branch with low formula-limited cognition evidence, not Panax ginseng, and digoxin/product-identity gates.
 - [[epithalon]] — synthetic pineal tetrapeptide linked to telomere, melatonin, and geroprotection claims, but not a validated cognition enhancer.
 - [[cortexin]] — older peptide bioregulator with real regional human ischemia/recovery exposure and limited modern cognition evidence.
+- [[cyclazodone]] — pemoline-adjacent gray-market stimulant with moderate functional-focus anecdotes, identity-only public chemistry anchors, and status/toxicology/liver-risk gates.
 - [[dmae-centrophenoxine]] — legacy DMAE/meclofenoxate cholinergic nootropic branch with weak/inconclusive formal evidence and inconsistent memory/irritability anecdotes.
 - [[ct1812-zervimesine]] — sigma-2 synaptic-rescue candidate with AD qEEG/CSF biomarker movement, exploratory DLB data, and pending long-duration early-AD efficacy readout.
 - [[fampridine]] — potassium-channel blocker with a narrow healthy-volunteer working-memory signal and stronger MS symptom-restoration context.
@@ -125,6 +147,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[h1-h2-antihistamines]] — fexofenadine/famotidine and broader H1/H2 mast-cell brain-fog lane with a small long-COVID cohort signal, moderate community salience, and phenotype-dependent interpretation.
 - [[cromolyn-sodium]] — prescription mast-cell stabilizer with low formal brain-fog evidence, moderate mixed MCAS brain-fog anecdotes, and meal/GI/titration safety gates.
 - [[ketotifen]] — H1-antihistamine / mast-cell-stabilizer candidate with low cognition evidence, weak-moderate MCAS anecdotes, and sedation/weight/appetite confounds.
+- [[ketamine-esketamine]] — rapid-antidepressant NMDA-antagonist branch with TRD cognitive-safety / possible attention-processing recovery evidence, acute impairment warnings, and polarized brain-fog anecdotes.
 - [[dao-enzyme]] — diamine-oxidase supplement branch for meal-linked histamine-intolerance brain fog, with urticaria/migraine symptom evidence but no cognition trial.
 - [[hericium-erinaceus]] — lion's mane mushroom entity with mixed product-dependent MCI, early-AD, healthy-adult, and preprint evidence.
 - [[holy-basil]] — Tulsi / Ocimum tenuiflorum Ayurvedic adaptogen branch with a small healthy-volunteer cognition trial, stress/sleep RCT support, and thyroid/bleeding/glucose/pregnancy safety gates.
@@ -138,11 +161,13 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[emraclidine]] — M4 positive allosteric modulator with symptom-first schizophrenia data and no direct cognition readout in the current corpus.
 - [[hydergine-ergoloid-mesylates]] — legacy ergoloid / dihydroergotoxine mixture with old dementia Cochrane-era signal, discontinued-U.S. status, label-level mechanism uncertainty, and weak-to-moderate smart-drug anecdotes.
 - [[ibudilast]] — glial/PDE neuroimmune drug with progressive-MS brain-atrophy seriousness, completed-but-unreported RECLAIM long-COVID relevance, and mixed clarity/tolerability anecdotes.
+- [[ivabradine]] — Corlanor / I_f-current heart-rate-control drug for tachycardic POTS and long-COVID dysautonomia brain-fog routing, with small POTS RCT support, RECOVER symptom-null caution, and bradycardia/AF/phosphene/pregnancy/CYP3A4 gates.
 - [[ibutamoren]] — oral growth-hormone secretagogue (MK-677) with strong GH/sleep target engagement but no convincing cognition benefit and notable glucose/appetite risks.
 - [[idalopirdine]] — 5-HT6 antagonist with phase 2 and phase 3 Alzheimer's disease cognition failures, useful as a negative serotonergic comparator.
 - [[ido-tdo-kynurenine-modulation]] — upstream tryptophan-catabolism target lane separating IDO/TDO immune-metabolic hypotheses from serotonin-precursor supplement claims.
 - [[intepirdine]] — 5-HT6 antagonist with a negative dementia-with-Lewy-bodies trial, useful as a cross-phenotype failure anchor.
 - [[ipamorelin]] — selective GH-secretagogue peptide with preclinical/mechanism-only cognition evidence and strong CJC-stack sleep/recovery anecdotes that do not prove cognition.
+- [[idra-21]] — older benzothiadiazine AMPAkine research chemical with rat and primate cognition data, weak-moderate mixed anecdotes, market-surveillance visibility, and no human cognition trial.
 - [[irisin]] — exercise-linked myokine with AD/MCI cognition biomarker associations and no validated human cognition intervention.
 - [[isrib]] — landmark integrated-stress-response inhibitor with preclinical cognition rescue and moderate but safety-heavy gray-market anecdotes.
 - [[semaglutide]] — GLP-1RA metabolic-brain comparator with positive-adjacent T2DM/MDD signals counterweighted by primary-endpoint-negative MDD and AD phase 3 readouts.
@@ -171,6 +196,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[mevidalen]] — D1 positive allosteric modulator with an LBD cognition miss, motor/global disease-state signals, active AD program, and blood-pressure/cardiovascular caveats.
 - [[melatonin]] — sleep/circadian-state molecule with low, contested cognitive-impairment evidence and bidirectional next-day anecdote reports.
 - [[metformin]] — prescription metabolic drug with a COVID-OUT acute-infection long-COVID prevention signal, not established brain-fog treatment, and boxed-warning safety gates.
+- [[metadoxine]] — pyridoxine/pyrrolidone-carboxylate ADHD and alcohol-aftereffect compound with phase 2 / single-dose attention signals, acute intoxication recovery evidence, weak hangover anecdotes, and phase 3 ADHD failure.
 - [[methylphenidate]] — prescription attention/control comparator with small acute healthy-adult signal, task-limited 2025 state-dynamics evidence, a post-COVID case-series signal, and Schedule II safety gates.
 - [[minocycline]] — tetracycline antibiotic with an uncontrolled ME/long-COVID brain-fog signal, broader mixed-to-negative cognition counterweights, and antibiotic-specific safety gates.
 - [[modafinil]] — prescription wake-promoter benchmark with modest rested healthy-adult signal and strong state-restoration / community-use visibility.
@@ -181,6 +207,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[nicergoline]] — legacy ergot-derived vasoactive drug with low-moderate dementia/vascular clinical-state evidence, EMA fibrosis/ergotism restrictions, and narrow postprandial-brain-fog anecdotes.
 - [[nigella-sativa]] — black seed / black cumin botanical with old small seed-capsule cognition RCTs, preclinical thymoquinone plausibility, weak symptom-confounded anecdotes, and product/safety gates.
 - [[varenicline]] — nicotinic partial agonist with a small healthy-nonsmoker memory signal, prescription cessation-drug safety gates, and absent-to-weak cognition anecdotes.
+- [[viloxazine]] — Qelbree selective NRI ADHD drug with adult-ADHD symptom evidence, no healthy-adult cognition packet, weak cognition anecdotes, and suicidality/BP/HR/CYP1A2 gates.
 - [[vortioxetine]] — prescription antidepressant with a post-COVID RCT showing an overall cognition miss, CRP-moderated signal, mood/HRQoL benefits, and antidepressant-label safety gates.
 - [[galantamine]] — responder-gated cholinergic comparator with basal-forebrain enrichment, nicotine-interaction, recovery/null counterweights, and bradycardia/tolerability gates.
 - [[aronia-melanocarpa-extract]] — standardized anthocyanin-rich berry extract with two small cognition RCTs and a narrow psychomotor-speed signal.
@@ -196,7 +223,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[nsi-189]] — investigational neurogenic-antidepressant candidate with mood-first human context and moderate anecdotal cognition lore.
 - [[palmitoylethanolamide]] — endocannabinoid-like lipid mediator with a small healthy-adult memory/BDNF trial, sleep-inertia signal, and formulation-sensitive anecdote routing.
 - [[palmitoylethanolamide-luteolin]] — PEA-LUT / PEALUT post-viral brain-fog branch with long-COVID GABA(B)-plasticity and retrospective symptom signals plus weak-moderate anecdotes.
-- [[phosphatidylserine]] — phospholipid supplement entity with modest older-adult signals and product-composition transportability problems.
+- [[phosphatidylserine]] — phospholipid supplement entity with BC-PS, soy-PS, PS-DHA, PS+PA, and PS-formula evidence split across older-adult memory, MCI, stress, and inattention contexts.
 - [[phosphatidylcholine]] — lecithin / PC choline-donor branch with old mixed acute-memory evidence, dementia negative evidence, egg-yolk phospholipid-choline caveats, and weak product-form anecdotes.
 - [[pterostilbene]] — resveratrol-adjacent stilbene with preclinical AD/Nrf2 cognition evidence, short-term human safety exposure, and no isolated human cognition trial.
 - [[picamilon]] — nicotinoyl-GABA / regional drug nootropic routed risk-first because U.S. supplement status is invalid, labels are unreliable, and formal cognition evidence is vascular-state and open/combo-confounded.
@@ -219,7 +246,9 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[naftidrofuryl]] — legacy nafronyl / naftidrofuryl oxalate vasoactive drug with low-quality dementia-state cognition evidence, stronger PAD walking-distance evidence, absent-to-weak anecdotes, and oxalate/hepatic safety gates.
 - [[nardostachys-jatamansi]] — Jatamansi / spikenard Ayurvedic CNS plant with preclinical stress-memory and AD-target plausibility but no captured human cognition trial.
 - [[n-acetylcysteine]] — redox / glutathione / glutamate-modulation molecule with negative additive MCI cognition data and strong split brain-fog anecdotes.
+- [[n-methyl-cyclazodone]] — NMC / N-methylcyclazodone gray-market stimulant analog with focus anecdotes plus a lab-confirmed toxicity case and multi-agent DILI case signal.
 - [[nattokinase]] — fermented-soy fibrinolytic enzyme with in-vitro spike-protein evidence, moderate long-COVID brain-fog anecdotes, and bleeding/interactions safety gates.
+- [[reboxetine]] — selective NRI antidepressant comparator with a small healthy-human attention/working-memory/motor-learning signal, social-behavior probe context, and non-U.S.-approved status.
 - [[resveratrol]] — stilbene polyphenol with postmenopausal vascular-cognition signals, pooled older-adult nulls, pterostilbene-separation caveats, and strong longevity but weak cognition-specific anecdote.
 - [[rivastigmine]] — prescription acetylcholinesterase inhibitor with dementia-context evidence, a nonsignificant HIV cognitive-impairment pilot, absent healthy-adult signal, and patch-specific medication-error safety gates.
 - [[roflumilast]] — selective PDE4 inhibitor with low-dose human memory signals across healthy adults, schizophrenia, and post-stroke cognitive impairment.
@@ -233,6 +262,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[pf-04447943]] — Pfizer PDE9A inhibitor with a negative AD phase II result and tolerability caveats.
 - [[pe-22-28]] — shortened spadin / mini-spadin TREK-1 peptide with real preclinical antidepressant-like logic, rising peptide-frontier curiosity, and no human validation.
 - [[pentoxifylline]] — vascular methylxanthine/PDE drug with RECLAIM long-COVID relevance, rationale-level anti-inflammatory evidence, and weak stack-confounded brain-fog anecdote.
+- [[pemoline]] — withdrawn oxazolidine CNS stimulant / CYLERT comparator where liver-failure warnings and approval withdrawal dominate any attention-use analogy.
 - [[peppermint-essential-oil]] — acute encapsulated Mentha piperita essential-oil branch with small cognitive-demand/fatigue evidence and strict route/safety gates.
 - [[phenibut]] — risk-first anxiolytic/sedative-adjacent compound with strong community salience but dependence, withdrawal, and misbranding dominating the interpretation.
 - [[pf4]] — platelet factor 4 / CXCL4 exercise-transfer factor with strong aged-mouse cognition data but no human dosing validation.
@@ -246,6 +276,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[pqq]] — product-specific redox quinone / mitochondrial cofactor with a small older-adult BioPQQ cognition trial and weak community salience.
 - [[pregnenolone]] — neurosteroid precursor with schizophrenia functional-capacity signal but neutral controlled cognition composite and weak captured anecdotes.
 - [[pyritinol]] — legacy pyrithioxine / Encephabol drug-nootropic candidate with old healthy-volunteer processing-speed signal, old dementia-state support, weak sourcing anecdotes, and rare pancreatitis safety caution.
+- [[pyridostigmine]] — Mestinon / peripheral acetylcholinesterase-inhibitor branch for ME/CFS, long-COVID/POTS, orthostatic-intolerance, and PEM-linked brain fog with iCPET and hand-grip signals but no healthy-adult cognition proof.
 - [[quercetin]] — dietary flavonol with a large cognition-null RCT, narrow quercetin-glycoside reaction-time signal, D+Q senolytic context, and weak histamine/brain-fog anecdotes.
 - [[quinolinic-acid]] — contested kynurenine-pathway biomarker whose current dementia meta-analyses do not support a simple high-QA cognitive-decline model.
 - [[r13]] — 7,8-DHF prodrug lead with better preclinical exposure and AD-model memory rescue, but no human cognition efficacy.
@@ -270,23 +301,32 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[taurine]] — common sulfur-containing amino acid with mostly negative independent cognition evidence, caffeine-combination confounding, and moderate calm/sleep anecdotes.
 - [[tak-063]] — PDE10A inhibitor with a schizophrenia primary-endpoint miss and biomarker-only striatal PDE10A cognition relevance.
 - [[tak-653]] — modern AMPAR PAM / AMPAkine-adjacent candidate with human CNS-PD evidence and mixed nootropic anecdotes, but no cognition-efficacy trial.
+- [[tabernanthalog]] — TBG / ibogaine-inspired non-hallucinogenic psychoplastogen with preclinical stress/cognitive-flexibility evidence and no human cognition proof.
 - [[selegiline]] — prescription MAO-B inhibitor with short-lived disease-context cognition signals, moderate dopamine-state anecdotes, and major interaction constraints.
+- [[rasagiline]] — prescription MAO-B inhibitor with the strongest PD-context cognition signal in the class, plus AD biomarker-positive but cognition-not-proven evidence and major interaction gates.
+- [[safinamide]] — reversible MAO-B / glutamatergic Parkinson add-on drug with small PD executive/non-motor signals, cognition-neutral counterweight, and broad contraindication burden.
+- [[ladostigil]] — investigational propargylamine MCI program where a 3-year phase 2 trial missed conversion and cognition/function endpoints despite an atrophy hint.
+- [[sembragiline]] — reversible MAO-B Alzheimer's candidate with PET target engagement but a phase 2 AD cognition/function miss.
+- [[kds2010-tisolagiline]] — reversible MAO-B / astrocyte-GABA Alzheimer's candidate with mouse memory rescue and an active AD/MCI phase 2a registry but no human efficacy result yet.
+- [[lazabemide]] — legacy reversible MAO-B Parkinson comparator with tolerability/ADL evidence but no cognition-enhancement bridge.
 - [[shankhpushpi]] — Ayurvedic memory-tonic label with open-label human evidence, Convolvulus tau-model support, plant-identity ambiguity, and no controlled human cognition proof.
 - [[testosterone-trt]] — phenotype-sensitive endocrine-state comparator with null broad older-men TRT data, a smaller obese hypogonadal lifestyle co-intervention signal, and weak captured cognition anecdotes.
-- [[theacrine]] — caffeine-stack and fatigue-state purine alkaloid with low-confidence combination evidence.
+- [[theacrine]] — TeaCrine purine alkaloid with subjective standalone pilot evidence, caffeine-stack fatigue/e-gamer signals, short-term safety/PK anchors, and weak-moderate stack-like anecdotes.
 - [[tianeptine]] — risk-first antidepressant-like compound with strong subjective reports but FDA, poison-center, dependence, and adulteration signals dominating nootropic interpretation.
+- [[tropisetron]] — 5-HT3 antagonist / alpha7 nicotinic comparator with small schizophrenia P50/attention/RBANS signals, mechanism-post nootropic salience, and no healthy-adult cognition proof.
 - [[thymosin-beta-4]] — regenerative peptide with emerging Alzheimer-target and recovery relevance.
 - [[tesamorelin]] — regulated GHRH analog with narrow phenotype-bound cognition signal plus the clearest active formal-development pipeline in the GH-axis peptide branch.
 - [[tinospora-cordifolia]] — Guduchi / Giloy safety-first Ayurvedic node with AD target hypotheses but clinically important liver-injury warnings and weak direct cognition anecdotes.
 - [[tyrosine]] — catecholamine precursor with low-to-moderate acute stress-state cognition signal and daily-use overstimulation caveats.
 - [[ulotaront]] — TAAR1 / 5-HT1A investigational schizophrenia drug with early symptom signal, DIAMOND phase-3 misses, and no direct cognition win.
-- [[uridine]] — UMP / DHA / choline stack hypothesis node with current evidence still preclinical-only.
+- [[uridine]] — UMP / triacetyluridine phospholipid-stack node with Fortasyn/Souvenaid disease-context formula evidence, acute healthy alpha-GPC+UMP+DHA null data, and stack-confounded anecdotes.
 - [[vasopressin]] — social-memory and threat-processing peptide with narrow face-memory and 2026 challenge signals, but no broad cognition proof.
-- [[vinpocetine]] — synthetic memory/focus-marketed compound routed risk-first because FDA efficacy is unevaluated and reproductive-safety warnings dominate.
+- [[vinpocetine]] — synthetic memory/focus-marketed compound routed risk-first because FDA efficacy is unevaluated, a small healthy-volunteer/epilepsy cognition test was null, reproductive warnings dominate, and supplement labels are unreliable.
 - [[vitamin-d3]] — nutrient-status and deficiency-correction branch with small contested cognition signals, large null trial counterweights, and lab-guided safety gates.
 - [[wild-green-oat-extract]] — product-specific Neuravena / Cognitaven green-oat extract branch with low acute/stressor-state signal, chronic older-adult null counterweight, and bidirectional oatstraw anecdotes.
 - [[yokukansan]] — Kampo / Yi-Gan San formula with dementia behavioral-symptom evidence, cognition-neutral MMSE meta-analysis, and licorice/hypokalemia safety gates.
 - [[zeb85]] — fully human TrkB agonist antibody comparator with preclinical hippocampal plasticity and amyloid-toxicity protection, useful for target-specificity gates rather than nootropic use.
+- [[zalsupindole-dlx-001]] — DLX-001 / AAZ-A-154 clinical-stage non-hallucinogenic neuroplastogen with phase 1/1b human exposure but no cognition endpoint yet.
 
 ## Concepts
 - [[anecdotal-evidence-in-cognitive-intervention-research]] — how to keep anecdotal reports in the graph with source, source type, signal size, signal strength, and confidence separation.
@@ -339,12 +379,15 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[endpoint-fragility-ledger]] — claim-level ledger separating physiology-only, subjective-only, same-day, delayed-retention, transfer, home-replicated, and durable-after-washout outcomes.
 - [[parameterized-null-evidence-library]] — cross-domain null-pattern library for biomarker-positive, primary-negative, healthy-null, transfer-negative, durable-null, and home-null failure shapes.
 - [[failed-mechanism-atlas-for-cognition-interventions]] — top-level atlas of recurring failure layers across biomarkers, endpoints, phenotype mismatch, durability, geography, and translational gaps.
+- [[emerging-synaptic-plasticity-stack-chemicals-watchlist]] — router for ACD856, TAK-653, IDRA-21, CX614, tropisetron, BPN14770, and NSI-189 plasticity-stack claims where Trk-PAM, AMPAR-PAM, alpha7, PDE4D, and neurogenic lore can be over-collapsed.
+- [[non-hallucinogenic-neuroplastogen-chemical-watchlist]] — chemical-first router for [[zalsupindole-dlx-001]], [[tabernanthalog]], and [[2-bromo-lsd]] where plasticity and clinical-stage status can be mistaken for cognition proof.
+- [[high-impact-ampakine-research-chemical-watchlist]] — safety-first router for [[idra-21]], [[cx614]], and older/high-impact AMPAkine nootropic claims, separating animal/primate cognition, BDNF mechanisms, anecdotes, and excitatory-ceiling risk.
 - [[fixed-traditional-formula-cognition-watchlist]] — formula-level traditional medicine router for Sailuotong, Kai-Xin-San, Yokukansan, and Shankhpushpi with ingredient-attribution and safety gates separated.
 - [[gray-zone-nootropic-community-signal-ledger]] — direct community-source ledger for magnesium L-threonate, phosphatidylserine, uridine, theacrine, and vinpocetine.
 - [[cognitive-fidelity-split]] — intervention-level map separating arousal, throughput, transfer, consolidation, and state-restoration claims.
 - [[choline-donor-cognition-signal-map]] — comparison page separating alpha-GPC / choline alphoscerate, choline alfoscerate, lysolecithin, and generic choline claims by phenotype and endpoint.
 - [[carotenoid-xanthophyll-cognition-watchlist]] — nutrient-status watchlist for lutein, zeaxanthin, meso-zeaxanthin, astaxanthin, AREDS2 counterweights, and multi-nutrient carotenoid stacks.
-- [[common-nootropic-gray-zone-molecule-watchlist]] — watchlist for adrafinil, vinpocetine, phosphatidylserine, magnesium L-threonate, theacrine, and uridine before entity promotion.
+- [[common-nootropic-gray-zone-molecule-watchlist]] — watchlist for adrafinil, vinpocetine, phosphatidylserine, magnesium L-threonate, theacrine, [[theobromine]], and uridine with formal, anecdotal, safety, sports, and source-quality signals separated.
 - [[histidine-dipeptide-cognition-watchlist]] — product-normalized router for anserine/carnosine, essence of chicken, beta-alanine, ProBeptigen, and fermented-milk peptide cognition claims.
 - [[psychobiotic-cognition-product-watchlist]] — strain/product-normalized router for probiotic, prebiotic, FMT, and gut-brain cognition claims.
 - [[legacy-regional-botanical-nootropic-watchlist]] — second-pass watchlist for pyritinol, [[picamilon]], [[emoxypine-mexidol]], Polygala, [[centella-asiatica]], [[lemon-balm]], [[nigella-sativa]], [[shankhpushpi]], and [[shilajit]].
@@ -355,11 +398,13 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[molecule-intake-triage-table]] — pre-ranking intake gate that routes candidates into comparator, state-restoration, disease-modifying clinical, nutraceutical proxy, preclinical-only, or negative-class buckets.
 - [[metabolic-microclot-long-covid-chemical-watchlist]] — illness-state watchlist for metformin, AXA1125, CoQ10, and nattokinase across prevention, fatigue, mitochondrial, and microclot-adjacent claims.
 - [[neuroimmune-brain-fog-chemical-guide]] — comparison guide for minocycline, ibudilast, low-dose naltrexone, pentoxifylline, propentofylline, PEA, and NAC in brain-fog clearance claims.
-- [[post-viral-brain-fog-chemical-watchlist]] — illness-state guide for guanfacine plus NAC, H1/H2 antihistamines, low-dose aripiprazole, LDN, minocycline, ibudilast/pentoxifylline, NAC, and PEA in long-COVID/ME-type brain-fog claims.
+- [[post-viral-brain-fog-chemical-watchlist]] — illness-state guide for guanfacine plus NAC, H1/H2 antihistamines, low-dose aripiprazole, LDN, pyridostigmine, minocycline, ibudilast/pentoxifylline, NAC, and PEA in long-COVID/ME-type brain-fog claims.
+- [[glutamatergic-rapid-antidepressant-cognition-watchlist]] — router for [[ketamine-esketamine]], [[dextromethorphan-bupropion]], and nearby NMDA/glutamate psychiatric-state chemicals where mood recovery, acute impairment, and brain-fog anecdotes can be over-collapsed.
+- [[autonomic-pots-brain-fog-chemical-watchlist]] — phenotype-first router for [[ivabradine]], [[pyridostigmine]], [[desmopressin]], midodrine, fludrocortisone, droxidopa, and beta-blockers when brain fog tracks tachycardia, standing, venous pooling, or low preload.
 - [[mast-cell-histamine-brain-fog-chemical-watchlist]] — phenotype-first watchlist for H1/H2 blockers, cromolyn, ketotifen, DAO enzyme, quercetin, and PEA-LUT in histamine/MCAS-pattern brain-fog claims.
 - [[scfa-postbiotic-brain-fog-cognition-watchlist]] — SCFA and postbiotic-output watchlist for butyrate/tributyrin, colon-delivered SCFAs, fiber-mediated SCFA increases, and synbiotic butyrate/urolithin claims.
 - [[muscarinic-agent-cognition-watchlist]] — molecule-level routing for xanomeline, Cobenfy/KarXT, VU0467319, emraclidine, and related muscarinic cognition claims.
-- [[prescription-cholinesterase-inhibitor-cognition-watchlist]] — prescription AChEI router for donepezil, rivastigmine, galantamine, and huperzine-adjacent cognition claims with healthy-adult counterweights and label risks separated.
+- [[prescription-cholinesterase-inhibitor-cognition-watchlist]] — prescription AChEI router for donepezil, rivastigmine, galantamine, pyridostigmine, and huperzine-adjacent cognition claims with healthy-adult counterweights, autonomic boundary cases, and label risks separated.
 - [[nutrient-supplement-cognition-signal-map]] — comparison page for [[dha-epa]], [[melatonin]], [[vitamin-d3]], [[folate-b-vitamins]], 5-HTP/tryptophan, lutein/zeaxanthin, histidine dipeptides, and multi-nutrient cognition signals.
 - [[mineral-status-brain-fog-cognition-watchlist]] — status-correction watchlist for iron, iodine, zinc, magnesium, selenium, and Magtein-style product-specific mineral claims.
 - [[orexin-axis-molecule-watchlist]] — orexin agonist and antagonist molecule watchlist separating NT1 state-restoration signals from DORA sleep-restoration/non-impairment evidence.
@@ -369,7 +414,14 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[racetam-long-tail-watchlist]] — long-tail racetam and racetam-adjacent watchlist for piracetam, oxiracetam, fasoracetam, coluracetam, and sunifiram.
 - [[soy-isoflavones-and-cognition]] — comparison companion for [[soy-isoflavones]], covering the modest memory signal, newer fermented-soy trial, and long-duration WISH null counterweight.
 - [[standardized-herbal-extracts-for-cognition]] — comparison of grape extract, EGb 761, ginseng, ashwagandha, bacopa, saffron, sage, spearmint, holy basil, curcumin, phlai, Sailuotong, Shankhpushpi, and broader CHM.
-- [[stimulant-adjacent-dopamine-precursor-watchlist]] — stimulant-adjacent and dopamine-precursor watchlist for [[paraxanthine]], [[methylliberine]], [[mucuna-pruriens]]/L-DOPA, [[phenylalanine]]/DLPA, [[p-synephrine]], [[yohimbine]], and [[higenamine-hordenine-octopamine]].
+- [[stimulant-adjacent-dopamine-precursor-watchlist]] — stimulant-adjacent and dopamine-precursor watchlist for [[paraxanthine]], [[methylliberine]], [[mucuna-pruriens]]/L-DOPA, [[phenylalanine]]/DLPA, [[p-synephrine]], [[yohimbine]], [[higenamine-hordenine-octopamine]], and [[tesofensine]].
+- [[sympathomimetic-anorectic-stimulant-cognition-watchlist]] — classic anorectic stimulant router for [[phentermine]], phentermine/topiramate, [[diethylpropion]], [[phendimetrazine]], [[benzphetamine]], and [[fenfluramine]] safety precedent.
+- [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]] — watchlist for [[tesofensine]], Tesomet, [[sibutramine]], [[mazindol]], [[brasofensine]], [[nomifensine]], and [[solriamfetol]] where appetite/wakefulness signals can be mistaken for cognition.
+- [[mao-b-propargylamine-cognition-watchlist]] — MAO-B / propargylamine cognition router for [[selegiline]], [[rasagiline]], [[safinamide]], [[ladostigil]], [[sembragiline]], [[kds2010-tisolagiline]], and [[lazabemide]].
+- [[pemoline-adjacent-gray-market-stimulant-watchlist]] — risk-first router for [[pemoline]], [[cyclazodone]], and [[n-methyl-cyclazodone]] where functional-focus anecdotes collide with liver, toxicology, and status gates.
+- [[nonstimulant-noradrenergic-attention-agent-watchlist]] — prescription/non-U.S.-approved NRI and NDRI attention-agent router for [[bupropion]], [[atomoxetine]], [[viloxazine]], and [[reboxetine]] across formal task signals, ADHD context, anecdotes, and safety gates.
+- [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]] — pipeline/discontinued ADHD attention-agent router for [[centanafadine]], [[dasotraline]], and [[metadoxine]], separating symptom scales, direct cognition endpoints, hangover anecdotes, and regulatory status.
+- [[unapproved-modafinil-analog-eugeroic-watchlist]] — risk-first watchlist for [[ce-123]], flmodafinil, fladrafinil, hydrafinil, N-methyl-difluoromodafinil, and related gray-market eugeroic analog claims.
 - [[supplement-identity-evidence-map]] — product-identity and QA map for Hericium, ergothioneine, dietary nucleotides, [[mfgm-phospholipids]], histidine-dipeptide / food-peptide products, 5-HTP, and other nutraceutical identities.
 - [[translational-gap-table]] — map of where preclinical promise still outruns human proof across the main intervention families.
 - [[traditional-mind-body-cognition-treatment-watchlist]] — traditional nonpharmacologic treatment router for acupuncture, electroacupuncture, Tai Chi, Baduanjin, and breath practices in cognition and brain-fog contexts.
@@ -388,7 +440,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 
 ## Queries
 - [[aniracetam-2026-scan]] — historical aniracetam evidence scan separating placebo-controlled mixed trials from comparator/open studies.
-- [[cholinergic-and-nicotinic-agents-2026-scan]] — acute-attention, withdrawal-rescue, and muscarinic branch scan for nicotine, varenicline, galantamine, xanomeline, Cobenfy, and emraclidine.
+- [[cholinergic-and-nicotinic-agents-2026-scan]] — acute-attention, withdrawal-rescue, alpha7/setron, and muscarinic branch scan for nicotine, varenicline, galantamine, tropisetron, xanomeline, Cobenfy, and emraclidine.
 - [[dopamine-state-precision-pharmacology-2026-scan]] — D1 PAM and TAAR1 branch scan showing [[mevidalen]]'s cognition miss in LBD and [[ulotaront]]'s phase 3 schizophrenia miss.
 - `IDEAS.md` — frontier hypothesis backlog for high-variance, testable cognitive-performance research directions, including corpus-derived and internet-gap-scan ideas.
 - `TODO.md` — Hermes-ready research backlog and raw-capture queue for online evidence follow-up, now expanded with missing molecule and chemical-branch tasks.
@@ -413,7 +465,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[non-hallucinogenic-psychoplastogens-2026-scan]] — current evidence scan for non-hallucinogenic psychoplastogens, TBG, and 2-Br-LSD.
 - [[trkb-bdnf-mimetic-2026-scan]] — preclinical TrkB / BDNF-mimetic branch scan for 7,8-DHF, LM22A-4, and deoxygedunin, with no human cognition trial surfaced.
 - [[orexin-hypocretin-axis-interventions-2026-scan]] — cognition and wakefulness scan for orexin agonists, DORAs, and sleep-pressure state-restoration claims.
-- [[ampakines-and-glutamatergic-plasticity-2026-scan]] — AMPAkine and glutamatergic-plasticity scan for [[cx717]], [[cx516]], [[tak-653]], [[cx1739]], and [[cx691-farampator]], separating adult-ADHD disease-state signal from weak healthy-cognition translation.
+- [[ampakines-and-glutamatergic-plasticity-2026-scan]] — AMPAkine and glutamatergic-plasticity scan for [[cx717]], [[cx516]], [[tak-653]], [[cx1739]], [[cx691-farampator]], [[idra-21]], and [[cx614]], separating adult-ADHD disease-state signal and high-impact research-chemical caution from weak healthy-cognition translation.
 - [[ketone-esters-under-sleep-loss-and-high-load]] — ketone monoester evidence under sleep restriction, mental fatigue, hypoxia, and other high-load contexts.
 - [[kynurenine-tryptophan-immunometabolic-cognition-2026-scan]] — kynurenine / tryptophan comparator scan separating AD, schizophrenia, stroke, age, challenge-study, metabolite, and enzyme-modulator evidence from any supplement promotion.
 - [[bright-light-tavns-circadian-autonomic-scan]] — proxy-only stack scan for morning light plus morning taVNS; no direct combo trial surfaced.
@@ -425,7 +477,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[senolytic-cognition-2026-scan]] — [[dasatinib-quercetin]], [[quercetin]], and [[fisetin]] branch separating human feasibility, biomarker movement, and preclinical cognition from the current lack of randomized cognition efficacy data.
 - [[5-ht6-antagonist-negative-class-map]] — negative-class map for 5-HT6 antagonists, now linked to standalone [[idalopirdine]], [[intepirdine]], [[masupirdine]], and [[sb-742457]] failure-comparator entities.
 - [[nmda-coagonist-glyt1-daao-cognition-2026-scan]] — glutamatergic state-restoration scan separating iclepertin's phase 3 miss from sodium benzoate's phenotype-sensitive signal.
-- [[trkb-bdnf-mimetic-cognition-2026-scan]] — preclinical TrkB / BDNF-mimetic scan for 7,8-DHF, LM22A-4, deoxygedunin, and missing human registry evidence.
+- [[trkb-bdnf-mimetic-cognition-2026-scan]] — TrkB / BDNF-mimetic scan for 7,8-DHF, LM22A-4, deoxygedunin, ACD856 human exposure/qEEG, and missing cognition-efficacy evidence.
 - [[target-specificity-gate-for-plasticity-molecules]] — branch-specific promotion gate for plasticity leads that distinguishes direct TrkB engagement from assay-specific or prodrug-only claims.
 - [[regulatory-and-sports-visibility-map]] — cross-cutting status layer for prescription labels, supplement risk, WADA visibility, and unapproved research-chemical branches.
 - [[peptide-regulatory-live-watch-board]] — current peptide compounding, WADA, sourcing, community-heat, and market-scale overlay for BPC-157, Dihexa, Epitalon, MOTS-c, Semax, Selank, TB-500, CJC/ipamorelin, and GH-axis peptides.
@@ -433,6 +485,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[anecdote-led-chemical-heat-map]] — community-heat triage for phenylpiracetam, PRL-8-53, bromantane, NSI-189, 9-Me-BC, noopept/racetams, selegiline, methylene blue, tianeptine, and phenibut.
 - [[community-nootropic-rating-datasets-2026-scan]] — provenance layer for Troof, SSC, and ACX nootropic rating datasets, including why the peptide cluster remains a serious anecdote-priority lane.
 - [[anecdote-signal-ledger]] — cross-domain anecdote routing layer for peptides, chemicals, devices, and lifestyle interventions.
+- [[top-buyable-cognition-chemicals]] — practical top-five query for non-prescription, consumer-buyable cognition chemicals, separating molecule-like products from prescription, peptide, research-chemical, and device branches.
 - [[lactate-shuttle-and-cognition-2026-scan]] — lactate-clamp, AD-continuum, and human brain fuel evidence for the lactate branch.
 - [[tpbm-creatine-combination-logic]] — hypothesis page for whether tPBM and creatine stack on brain energy and fatigue resilience.
 - [[healthy-adult-cognition-signals]] — ranked signals for healthy, well-slept adults where the evidence is thin and mostly incremental.

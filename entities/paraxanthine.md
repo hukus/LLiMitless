@@ -1,7 +1,7 @@
 ---
 title: Paraxanthine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-8708375-paraxanthine-dose-response-cognition-rct.md, raw/articles/pmc-12777857-paraxanthine-postprandial-cognition-rct.md, raw/articles/pubmed-38725238-paraxanthine-exercise-cognition-caffeine-rct.md, raw/articles/frontiers-2023-paraxanthine-safety-caffeine-comparison.md, raw/articles/nutraingredients-2021-enfinity-paraxanthine-self-affirmed-gras.md, raw/articles/enfinity-2026-paraxanthine-product-visibility.md, raw/articles/rarebird-2026-paraxanthine-coffee-product-identity.md, raw/articles/reddit-2023-paraxanthine-experience-thread.md, raw/articles/reddit-2026-paraxanthine-supplements-experience-thread.md]
@@ -12,7 +12,7 @@ contradictions: [small positive direct cognition trials vs no large independent 
 
 # Paraxanthine
 
-Paraxanthine (1,7-dimethylxanthine; PX/PXN) is the main human metabolite of caffeine and is now sold directly as a caffeine-alternative stimulant / nootropic ingredient, especially as ENFINITY or Px coffee. This page covers direct paraxanthine cognition and performance claims, not [[caffeine]], theobromine, theophylline, methylliberine / Dynamine, theacrine, decaf coffee alone, or multi-stimulant energy drinks unless paraxanthine is the active unit.
+Paraxanthine (1,7-dimethylxanthine; PX/PXN) is the main human metabolite of caffeine and is now sold directly as a caffeine-alternative stimulant / nootropic ingredient, especially as ENFINITY or Px coffee. This page covers direct paraxanthine cognition and performance claims, not [[caffeine]], [[theobromine]], theophylline, methylliberine / Dynamine, theacrine, decaf coffee alone, or multi-stimulant energy drinks unless paraxanthine is the active unit.
 
 Medicinal cognition signal: `low-moderate/product-specific and short-term`. The best formal evidence is direct but small. A 12-person double-blind crossover dose-response study found selected acute cognition, memory, reasoning, reaction-time, and sustained-attention signals at 100-200 mg ENFINITY paraxanthine, with no clinically significant side-effect or chemistry-panel signal over 7 days. A 24-person postprandial crossover study found paraxanthine effects on subjective energy/focus/productivity/satiety and cognition tests after a mixed meal, but it was still acute, product-linked, and industry-linked.^[raw/articles/pmc-8708375-paraxanthine-dose-response-cognition-rct.md]^[raw/articles/pmc-12777857-paraxanthine-postprandial-cognition-rct.md]
 
@@ -44,7 +44,7 @@ Anecdote signal: `weak-moderate for smoother caffeine-like energy, mixed for dos
 
 ## Identity Gates
 
-- Separate paraxanthine from [[caffeine]], decaf coffee, theobromine, theophylline, theacrine, methylliberine / Dynamine, and multi-stimulant blends.
+- Separate paraxanthine from [[caffeine]], decaf coffee, [[theobromine]], theophylline, theacrine, methylliberine / Dynamine, and multi-stimulant blends.
 - Track dose and format: 50 mg, 100 mg, 200 mg, 300 mg, 60 mg/cup Px coffee, energy drinks, capsules, powders, and caffeine+paraxanthine combinations are not interchangeable.
 - Check product identity: ENFINITY, MuscleTech paraxanthine, Rarebird Px coffee, UPDATE, generic capsules, and multi-ingredient drinks have different transportability.
 - Treat paraxanthine as a stimulant: watch sleep timing, blood pressure, heart rate, anxiety/panic sensitivity, pregnancy/breastfeeding, age under 18, stimulant medication, arrhythmia/cardiovascular disease, CYP1A2-active substances, and total caffeine/paraxanthine exposure.
@@ -54,7 +54,7 @@ Anecdote signal: `weak-moderate for smoother caffeine-like energy, mixed for dos
 
 Paraxanthine is the strongest candidate in the stimulant-adjacent watchlist for standalone tracking because it has direct human cognition trials rather than only lore. It still stays below [[caffeine]], [[modafinil]], [[methylphenidate]], and established state-restoration comparators because the evidence is small, short, product-linked, and not yet independently replicated at scale. The current route is `caffeine-adjacent comparator / short-term focus-energy candidate`, with safety and product identity carried beside the signal.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[regulatory-and-sports-visibility-map]], [[caffeine]], and [[biohacker-anecdote-methodology]].
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[regulatory-and-sports-visibility-map]], [[caffeine]], [[theobromine]], [[theacrine]], [[methylliberine]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

@@ -2646,3 +2646,155 @@
 
 - Refreshed [[regulatory-and-sports-visibility-map]] action items after confirming it is indexed and linked from the pharmacology comparator, then added explicit backlinks from [[methylene-blue-2026-scan]] and [[non-hallucinogenic-psychoplastogens]].
 - Closed `P1-22` and `P2-30` in `TODO.md`, routing peptide sourcing and status interpretation through [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], and [[regulatory-and-sports-visibility-map]].
+
+## [2026-05-15] coverage | Tesofensine and monoamine-reuptake anorectic stimulants added
+
+- Captured thirteen raw notes covering [[tesofensine]] / NS 2330 obesity and appetite trials, AD/PD exposure, DAT occupancy, Endotext pharmacology, Tesomet and Mexico status records, Reddit focus/energy anecdotes, sibutramine hidden-ingredient / withdrawn-market caution, brasofensine PD evidence, nomifensine withdrawal, and mazindol narcolepsy evidence.
+- Created [[tesofensine]] as a low-confidence, safety-constrained entity and [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]] as the class router for tesofensine, Tesomet, sibutramine, mazindol, brasofensine, nomifensine, and [[solriamfetol]] comparators.
+- Updated [[stimulant-adjacent-dopamine-precursor-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], and [[regulatory-and-sports-visibility-map]] so appetite suppression, wakefulness, DAT occupancy, and community focus reports do not get upgraded into healthy-adult cognition proof.
+- Closed `RC-81` in `TODO.md`; current read is hot-but-low-confidence: track tesofensine because the anecdote and target-engagement signal are visible, but keep it below mature wakefulness comparators until controlled cognition endpoints exist.
+
+## [2026-05-15] coverage | Phosphatidylserine formulation split refreshed
+
+- Captured nine raw notes for [[phosphatidylserine]] covering the 1993 BC-PS cognitive-decline trial, the 2010 soy-PS memory-complaint RCT, PS-DHA safety and open-label-extension papers, the 2025 PS/ALA/Ginkgo/B-vitamin MCI formula RCT, PS+phosphatidic-acid stress physiology, pediatric ADHD meta-analysis, FDA qualified-health-claim status, and 2023-2026 focus/stress anecdotes.
+- Refreshed [[phosphatidylserine]] so bovine cortex PS, soy/sunflower-style PS, PS-DHA, PS+PA, and multinutrient formulas no longer collapse into one evidence claim.
+- Updated [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-zone-nootropic-community-signal-ledger]], [[cognitive-improvement-molecule-signal-atlas]], `index.md`, and `TODO.md`.
+- Closed `RC-82`; current read is low-moderate only for older-memory / MCI / stress-state / inattention-phenotype contexts, with no clean healthy-adult cognition proof.
+
+## [2026-05-15] coverage | Similar anorectic reuptake comparators promoted to entities
+
+- Added raw anchors for SCOUT sibutramine cardiovascular outcomes and the SLEEP 2023 mazindol ER narcolepsy phase 2 abstract.
+- Created [[sibutramine]], [[mazindol]], [[brasofensine]], and [[nomifensine]] so the [[tesofensine]] class branch now has navigable sibling pages rather than one-row mentions.
+- Updated [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[regulatory-and-sports-visibility-map]], `index.md`, and `TODO.md`.
+- Current read: tesofensine remains the only emerging anecdote-positive focus branch in this cluster; sibutramine and nomifensine are withdrawn-risk comparators, mazindol is wakefulness/narcolepsy state-bound, and brasofensine is historical development context.
+
+## [2026-05-15] coverage | Theacrine gray-zone source extraction closed
+
+- Added raw anchors for the TeaCrine standalone subjective pilot, 8-week safety study, and caffeine-theacrine human PK interaction study.
+- Refreshed [[theacrine]] so standalone subjective effects, caffeine-stack / methylliberine-stack studies, short-term safety, and caffeine exposure interaction are not collapsed into one nootropic claim.
+- Updated [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-zone-nootropic-community-signal-ledger]], [[cognitive-improvement-molecule-signal-atlas]], `index.md`, and `TODO.md`.
+- Current read: theacrine belongs in subjective-energy and caffeine-stack state-support lanes; objective theacrine-alone cognition remains the missing evidence layer.
+
+## [2026-05-15] coverage | Uridine stack and Fortasyn formula branch refreshed
+
+- Added and hashed eight raw notes for [[uridine]] covering Souvenaid / Fortasyn Connect mild-AD, mild-to-moderate-AD null, and prodromal-AD LipiDiDiet evidence; acute alpha-GPC+UMP+DHA healthy-young null evidence; triacetyluridine bioavailability; UMP food-intake exposure; prescription uridine-triacetate identity; and Cochrane-level Souvenaid caution.
+- Refreshed [[uridine]] so preclinical UMP+DHA+choline, Fortasyn/Souvenaid disease-context formulas, acute healthy-stack null data, UMP/TAU/prescription form boundaries, and stack-confounded anecdotes are no longer collapsed into one preclinical claim.
+- Updated [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-zone-nootropic-community-signal-ledger]], [[cognitive-improvement-molecule-signal-atlas]], [[choline-donor-cognition-signal-map]], [[nutrient-supplement-cognition-signal-map]], `index.md`, and `TODO.md`.
+- Current read: uridine is `low/stack-formulation-gated`, not healthy-adult cognition-positive. The remaining evidence gap is direct uridine-alone or well-controlled chronic UMP / TAU cognition data in healthy adults.
+
+## [2026-05-15] coverage | CE-123 and unapproved modafinil analog watchlist added
+
+- Added and hashed six raw notes covering modafinil analog analytical chemistry, FDA/ORA supplement-screening method context, CE-123 rat cognitive flexibility, S-CE-123 aged-rat motivation/social-cognition profiling, CE-123 versus R-modafinil CNS distribution/metabolism, and 2025-2026 modafinil-analog community threads.
+- Created [[ce-123]] as a preclinical-only experimental DAT-inhibitor entity and [[unapproved-modafinil-analog-eugeroic-watchlist]] as the risk-first router for flmodafinil / CRL-40,940, fladrafinil / CRL-40,941, N-methyl-difluoromodafinil, hydrafinil / fluorenol, CE-123, and related labels.
+- Updated [[modafinil]], [[adrafinil]], [[pharmacology-comparator-map]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: the branch is worth tracking because anecdotal salience and CE-123 preclinical cognition data exist, but it remains identity-, status-, and safety-gated and should not inherit prescription [[modafinil]] evidence by analogy.
+
+## [2026-05-15] coverage | Nonstimulant noradrenergic attention agents added
+
+- Added and hashed twelve raw notes covering bupropion healthy-adult attention and adult-ADHD evidence, bupropion/atomoxetine/viloxazine labels, atomoxetine healthy-volunteer response inhibition, viloxazine adult-ADHD phase III evidence, reboxetine healthy-human NRI cognition and social-behavior probes, reboxetine SmPC and U.S. status context, and 2023-2026 bupropion / atomoxetine / viloxazine cognition anecdotes.
+- Created [[bupropion]], [[atomoxetine]], [[viloxazine]], [[reboxetine]], and [[nonstimulant-noradrenergic-attention-agent-watchlist]] so the class now routes through standalone entities rather than passing mentions or borrowed stimulant evidence.
+- Updated [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: this branch is low/state-bound. [[bupropion]] has a narrow attention-lapse signal and adult-ADHD context, [[atomoxetine]] has response-inhibition evidence, [[viloxazine]] is ADHD-clinical rather than healthy-enhancement proof, and [[reboxetine]] is a small healthy-human NRI probe with replication need.
+
+## [2026-05-15] coverage | ACD856 and tropisetron plasticity-stack chemicals added
+
+- Added and hashed ten raw notes covering [[acd856]] human SAD/MAD/qEEG exposure, preclinical Trk-PAM biology, Phase Ib sponsor status, ACD856 anecdotes, [[tropisetron]] identity, schizophrenia P50/attention/RBANS studies, 5-HT3 sensory-gating review, and alpha7 nootropic science-post threads.
+- Created [[acd856]], [[tropisetron]], and [[emerging-synaptic-plasticity-stack-chemicals-watchlist]] so ACD856/TAK-653/tropisetron/BPN14770/NSI-189 stack lore no longer collapses mechanisms or disease-state endpoints.
+- Updated [[trkb-bdnf-mimetic-cognition-2026-scan]], [[cholinergic-and-nicotinic-agents-2026-scan]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[tak-653]], `index.md`, and `TODO.md`.
+- Current read: ACD856 is human-exposed but efficacy-unproven; tropisetron is schizophrenia/sensory-gating-bound; both remain low-confidence healthy-adult cognition leads.
+
+## [2026-05-15] coverage | High-impact AMPAkine research chemicals added
+
+- Added and hashed ten raw notes covering [[idra-21]] rat and primate cognition, IDRA-21 partial-modulator neurotoxicity context, Japan and EDQM smart-drug/nootropic-market surveillance, mixed IDRA-21 community anecdotes, and [[cx614]] BDNF / dendritic-translation / AMPAR-compensation biology.
+- Created [[idra-21]], [[cx614]], and [[high-impact-ampakine-research-chemical-watchlist]] so older/high-impact AMPAkine research-chemical claims no longer hide inside the low-impact [[cx717]] / [[tak-653]] branch.
+- Updated [[ampakines-and-glutamatergic-plasticity-2026-scan]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[emerging-synaptic-plasticity-stack-chemicals-watchlist]], `index.md`, and `TODO.md`.
+- Current read: IDRA-21 is animal/primate-positive and anecdote-visible but human-absent; CX614 is mechanism-positive but high-impact hyperexcitability and AMPAR-compensation concerns dominate, so this remains a safety-first research-chemical caution lane rather than a healthy-adult cognition tier.
+
+## [2026-05-15] coverage | Pemoline-adjacent gray-market stimulants added
+
+- Added and hashed seven raw notes covering [[cyclazodone]] / [[n-methyl-cyclazodone]] PubChem identity, [[pemoline]] / CYLERT FDA liver-warning label, Federal Register approval withdrawal, WADA 2026 stimulant entries for afinils / pemoline / tesofensine, NMC lab-confirmed toxicology, the ACG online-drug DILI case, and 2020-2026 Reddit focus / toxicity / status threads.
+- Created [[pemoline]], [[cyclazodone]], [[n-methyl-cyclazodone]], and [[pemoline-adjacent-gray-market-stimulant-watchlist]] so functional-stimulant anecdotes no longer hide inside generic stimulant or modafinil-adjacent routing.
+- Updated [[stimulant-adjacent-dopamine-precursor-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[unapproved-modafinil-analog-eugeroic-watchlist]], [[regulatory-and-sports-visibility-map]], `index.md`, and `TODO.md`.
+- Current read: cyclazodone/NMC are hot enough to track for focus and work-throughput anecdotes, but the branch is liver/toxicology/status first. Pemoline's approval-withdrawal history, NMC's toxicity case, the multi-agent DILI case, and WADA 2026 stimulant logic keep the class below prescription comparators and far below a cognition-positive tier.
+
+## [2026-05-15] coverage | MAO-B and propargylamine cognition branch added
+
+- Added and hashed sixteen raw notes covering rasagiline and safinamide labels, the 2026 MAO-B PD cognition network meta-analysis, the 2023 MAO-B cognition review, rasagiline PD/AD cognition studies, safinamide PD executive/non-motor studies, ladostigil MCI phase 2, sembragiline PET target engagement and AD phase 2 miss, KDS2010 mouse and active AD/MCI phase 2a registry evidence, lazabemide legacy PD evidence, and 2021-2026 MAO-B forum/pipeline threads.
+- Created [[rasagiline]], [[safinamide]], [[ladostigil]], [[sembragiline]], [[kds2010-tisolagiline]], [[lazabemide]], and [[mao-b-propargylamine-cognition-watchlist]].
+- Updated [[selegiline]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: the class remains low/state-bound. [[rasagiline]] has the strongest PD-context cognition signal, [[safinamide]] is exploratory/PD wearing-off-bound, [[ladostigil]] and [[sembragiline]] are translation caution anchors, and KDS2010/tisolagiline is a live preclinical-plus-protocol watch item rather than a human cognition-positive molecule.
+
+## [2026-05-15] coverage | Non-hallucinogenic neuroplastogen chemicals added
+
+- Added and hashed five raw notes covering [[zalsupindole-dlx-001]] / DLX-001 identity, ACS preclinical neuroplastogen data, phase 1 healthy-volunteer reporting, sponsor phase 1b MDD / phase 2 design-clearance reporting, and 2023-2026 Reddit/pipeline thread salience.
+- Created [[zalsupindole-dlx-001]], [[tabernanthalog]], [[2-bromo-lsd]], and [[non-hallucinogenic-neuroplastogen-chemical-watchlist]] so clinical-stage zalsupindole, preclinical TBG, and 2-Br-LSD lysergamide comparator claims no longer collapse into generic psychoplastogen language.
+- Updated `index.md` and `TODO.md`.
+- Current read: [[zalsupindole-dlx-001]] is the strongest human-translation anchor in this class, but the cognition signal remains unproven; [[tabernanthalog]] is the stress/cognitive-flexibility preclinical anchor; [[2-bromo-lsd]] is a comparator rather than a cognition lead.
+
+## [2026-05-15] coverage | Nonstimulant ADHD-pipeline attention chemicals added
+
+- Added and hashed nine raw notes covering [[centanafadine]] adult phase 3 evidence, Otsuka's 2026 FDA priority-review announcement, [[dasotraline]] adult ADHD proof-of-concept and 2020 discontinuation, [[metadoxine]] adult ADHD phase 2, single-dose ADHD-PI, acute-alcohol-intoxication, and phase 3 failure records, plus 2023-2026 community anticipation / hangover threads.
+- Created [[centanafadine]], [[dasotraline]], [[metadoxine]], and [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]] so the tesofensine-adjacent monoamine / attention-agent space now separates active NDSRI development, discontinued DNRI development, and failed-pivotal metadoxine from approved NRI/NDRI nonstimulants.
+- Updated [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: [[centanafadine]] is the live watch item but remains ADHD-clinical and investigational as of 2026-05-15; [[dasotraline]] is a cautionary symptom-scale / cognition-battery split; [[metadoxine]] stays low-confidence because phase 2 and alcohol-aftereffect signals are downgraded by phase 3 failure and weak anecdotes.
+
+## [2026-05-15] coverage | Sympathomimetic anorectic stimulant branch added
+
+- Added and hashed eight raw notes covering [[phentermine]] DailyMed status, phentermine sleep-deprivation performance, older phentermine/ephedrine/fenfluramine/prolintane acute mental-task effects, Qsymia cognitive-impairment warnings, diethylpropion/phendimetrazine/benzphetamine label cluster, fenfluramine-phentermine valvular disease, FINTEPLA REMS, and 2021-2026 phentermine focus / ADHD / brain-fog threads.
+- Created [[phentermine]] and [[sympathomimetic-anorectic-stimulant-cognition-watchlist]] so the classic diet-pill stimulant branch no longer hides inside tesofensine-style monoamine-reuptake or generic stimulant-adjacent routing.
+- Updated [[stimulant-adjacent-dopamine-precursor-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[regulatory-and-sports-visibility-map]], `index.md`, and `TODO.md`.
+- Current read: [[phentermine]] is relevant enough to track because sleep-loss rescue evidence and ADHD-like anecdotes are visible, but it remains low-confidence and safety-first due Schedule IV / short-term obesity status, HR/BP/insomnia/tolerance/abuse gates, appetite and sleep confounds, phentermine/topiramate cognitive adverse effects, and fenfluramine VHD/PAH precedent.
+
+## [2026-05-15] coverage | Lisdexamfetamine prodrug-stimulant comparator added
+
+- Added and hashed five raw notes covering [[lisdexamfetamine]] / Vyvanse DailyMed status, acute healthy-volunteer lisdexamfetamine versus d-amphetamine cognition evidence, adult ADHD executive-function evidence, RRSO cognitive-complaint context, and 2020-2026 Vyvanse focus / brain-fog anecdotes.
+- Created [[lisdexamfetamine]] so the prescription prodrug-amphetamine branch no longer depends on passing mentions inside [[d-amphetamine]], [[centanafadine]], or community stimulant scans.
+- Updated [[d-amphetamine]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[regulatory-and-sports-visibility-map]], [[stimulant-adjacent-dopamine-precursor-watchlist]], `index.md`, and `TODO.md`.
+- Current read: lisdexamfetamine has a direct acute healthy-adult task signal and strong ADHD-state anecdotes, but it remains low-confidence for healthy-adult enhancement because the healthy study is acute/high-dose, clinical evidence is diagnosis/phenotype-bound, and the Schedule II label keeps abuse, BP/HR, insomnia, psychiatric, appetite, and diversion gates central.
+
+## [2026-05-15] coverage | Classic anorectic sibling entities promoted
+
+- Promoted [[diethylpropion]], [[phendimetrazine]], [[benzphetamine]], and [[fenfluramine]] from watchlist mentions to standalone low-confidence / risk-first entity pages.
+- Reused the captured DailyMed anorectic-label cluster, FINTEPLA REMS label, fenfluramine-phentermine VHD/PAH case-series note, and old acute phentermine/ephedrine/fenfluramine/prolintane mental-effects note.
+- Updated [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[regulatory-and-sports-visibility-map]], `index.md`, and `TODO.md`.
+- Current read: these similar-class chemicals are now navigable, but the cognition verdict stays risk-first. Phentermine is still the only classic anorectic with a notable phentermine-specific cognition/anecdote packet; diethylpropion, phendimetrazine, benzphetamine, and fenfluramine mainly add label, abuse/dependence, cardiovascular, and VHD/PAH interpretation gates.
+
+## [2026-05-15] coverage | Theobromine methylxanthine comparator added
+
+- Added and hashed five raw notes covering [[theobromine]] healthy-volunteer psychopharmacology, 500 mg/day vascular-function null/mixed proxy data, 450 mg/day metabolic-syndrome diet-context exposure, young-adult cocoa cognition review boundaries, and 2021-2026 Reddit cacao / isolated-theobromine smooth-energy threads.
+- Created [[theobromine]] as the missing cocoa/caffeine methylxanthine comparator so cacao, cocoa-flavanol, theacrine-stack, and paraxanthine boundary claims no longer depend on passing mentions.
+- Updated [[common-nootropic-gray-zone-molecule-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[caffeine]], [[cocoa-flavanols]], [[theacrine]], [[paraxanthine]], `index.md`, and `TODO.md`.
+- Current read: theobromine is worth tracking because the direct human and anecdote layers exist, but it remains low-confidence. The strongest practical use is attribution control: keep isolated theobromine separate from [[cocoa-flavanols]], dark chocolate/cacao products, [[caffeine]], [[paraxanthine]], and theacrine/methylliberine stacks.
+
+## [2026-05-15] maintenance | Common gray-zone chemistry refresh
+
+- Added and hashed raw notes for the 2021 vinpocetine healthy-volunteer / epilepsy cognition study, the Cochrane vinpocetine dementia/cognitive-impairment review page, and USDA/ARS vinpocetine supplement-label accuracy record.
+- Updated [[adrafinil]], [[vinpocetine]], and [[common-nootropic-gray-zone-molecule-watchlist]] so adrafinil now carries WADA S6.A / afinil-analog sports visibility and vinpocetine now carries direct small-study null evidence plus product-identity risk.
+- Updated `index.md` and `TODO.md`, including a findability note that [[tesofensine]] already covers the common "tesonfensine" misspelling and routes similar monoamine-reuptake anorectic chemicals.
+- Current read: adrafinil and vinpocetine stay risk-first despite visible anecdotes; the useful improvement is cleaner separation of anecdote, formal cognition evidence, sports/regulatory visibility, and supplement-source reliability.
+- Current run time: 2026-05-15T13:16:51Z
+
+## [2026-05-15] coverage | Pyridostigmine autonomic brain-fog branch added
+
+- Added and hashed eight raw notes covering [[pyridostigmine]] / Mestinon ME/CFS iCPET RCT evidence, 2025 hand-grip / orthostatic ME/CFS evidence, NCT06366724 LIFT status, DailyMed label risks, POTS treatment-review context, Reddit brain-fog / POTS / PEM anecdotes, plus current Saniona tesofensine and Tesomet pipeline status pages.
+- Created [[pyridostigmine]] as a low-confidence, phenotype-gated entity for ME/CFS, long-COVID/POTS, orthostatic-intolerance, and PEM-linked brain-fog claims.
+- Updated [[post-viral-brain-fog-chemical-watchlist]] and [[prescription-cholinesterase-inhibitor-cognition-watchlist]] so pyridostigmine routes as a peripheral/autonomic acetylcholinesterase-inhibitor exception rather than a central memory-enhancement analogue.
+- Refreshed [[tesofensine]] and [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]] with current Saniona status, Tesomet funding-pause context, WADA visibility, and explicit "tesonfensine" misspelling findability.
+- Updated `index.md` and `TODO.md`.
+- Current read: pyridostigmine is one of the better illness-state/autonomic treatment candidates to track, but the formal signal is exertional physiology and orthostatic state, not healthy-adult cognition; tesofensine remains a hot-but-low-confidence SNDRI/anorectic branch rather than a proven nootropic.
+
+## [2026-05-15] coverage | Autonomic POTS brain-fog chemical router added
+
+- Added and hashed nine raw notes covering [[ivabradine]] POTS RCT summaries, the 2026 ivabradine-versus-propranolol POTS crossover trial, RECOVER-AUTONOMIC Long COVID POTS results, the 2025 oral-medication POTS systematic review, DailyMed labels for Corlanor/ivabradine, midodrine, fludrocortisone, and droxidopa, plus 2024-2026 ivabradine POTS / brain-fog Reddit anecdotes.
+- Created [[ivabradine]] as a low-confidence, phenotype-gated entity for tachycardic POTS / dysautonomia brain-fog routing, with RECOVER-AUTONOMIC kept as a major Long COVID symptom-null caution.
+- Created [[autonomic-pots-brain-fog-chemical-watchlist]] to separate rate-control drugs, pressor/volume-expansion drugs, [[pyridostigmine]], and [[desmopressin]] by autonomic phenotype rather than treating them as generic nootropics.
+- Updated [[post-viral-brain-fog-chemical-watchlist]], `index.md`, and `TODO.md` so the illness-state brain-fog branch now routes through the dedicated autonomic/POTS chemical page.
+- Current read: autonomic drugs can be relevant when fog tracks standing, tachycardia, low preload, PEM, or venous pooling, but the evidence is state-restoration and symptom physiology, not healthy-adult cognitive enhancement; ivabradine is especially contested in Long COVID because heart-rate lowering did not significantly improve symptom surveys in RECOVER.
+- Current run time: 2026-05-15T13:46:49Z
+
+## [2026-05-15] query | Top buyable cognition chemicals
+
+- Filed [[top-buyable-cognition-chemicals]] as a practical synthesis for non-prescription, consumer-buyable cognition chemicals.
+- Ranked [[creatine]], [[caffeine]], [[ketone-ester]], [[citicoline]], and [[l-theanine]] under the explicit assumption that "buyable" excludes prescription drugs, injected peptides, research chemicals, and device/procedure interventions.
+- Noted near-miss handling for [[dha-epa]], [[magnesium-l-threonate]], [[dietary-nitrate-beetroot]], standardized botanicals, and [[methylene-blue]].
+- Current read: creatine and caffeine are the cleanest practical picks; the remaining three are context-specific rather than broad enhancers.

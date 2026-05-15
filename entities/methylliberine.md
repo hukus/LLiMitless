@@ -1,7 +1,7 @@
 ---
 title: Methylliberine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-10650428-methylliberine-cognition-affect-rct.md, raw/articles/pubmed-35103121-caffeine-theacrine-dynamine-egamers.md, raw/articles/tandfonline-2022-caffeine-methylliberine-theacrine-tactical-rct.md, raw/articles/pmc-6930730-methylliberine-dynamine-toxicology.md, raw/articles/compoundsolutions-2026-dynamine-product-identity.md, raw/articles/nutritionaloutlook-2019-dynamine-self-affirmed-gras.md, raw/articles/reddit-2020-dynamine-experience-thread.md]
@@ -12,7 +12,7 @@ contradictions: [subjective concentration and mood benefits vs objective cogniti
 
 # Methylliberine
 
-Methylliberine is a purine alkaloid marketed mainly as Dynamine. It is structurally related to methylxanthines and to [[theacrine]], and is usually sold as a rapid-onset energy / focus ingredient in pre-workout, gaming, nootropic, or caffeine-stack products. This page covers methylliberine / Dynamine, not [[caffeine]], [[theacrine]], [[paraxanthine]], TeaCrine, coffee, or multi-stimulant products unless methylliberine is the interpretable active unit.
+Methylliberine is a purine alkaloid marketed mainly as Dynamine. It is structurally related to methylxanthines and to [[theacrine]], and is usually sold as a rapid-onset energy / focus ingredient in pre-workout, gaming, nootropic, or caffeine-stack products. This page covers methylliberine / Dynamine, not [[caffeine]], [[theacrine]], [[paraxanthine]], [[theobromine]], TeaCrine, coffee, or multi-stimulant products unless methylliberine is the interpretable active unit.
 
 Medicinal cognition signal: `low/subjective-affect positive, objective-cognition null alone`. The key monotherapy RCT is a 25-person randomized, double-blind, within-subject crossover trial using 100 mg methylliberine. It improved subjective concentration, motivation, mood, well-being, stress tolerance, and selected sustained-energy ratings, but it did not improve objective cognitive-function outcomes on the test battery and reported no adverse events.^[raw/articles/pmc-10650428-methylliberine-cognition-affect-rct.md]
 
@@ -41,7 +41,7 @@ Anecdote signal: `moderate for subjective energy/euphoria/focus salience, weak f
 
 ## Identity Gates
 
-- Separate methylliberine / Dynamine from [[theacrine]], [[caffeine]], [[paraxanthine]], theobromine, coffee, and generic "energy nootropic" blends.
+- Separate methylliberine / Dynamine from [[theacrine]], [[caffeine]], [[paraxanthine]], [[theobromine]], coffee, and generic "energy nootropic" blends.
 - Treat caffeine + Dynamine + TeaCrine studies as combination evidence; do not attribute the result to methylliberine alone.
 - Track dose and format: 75 mg stack dose, 100 mg monotherapy dose, capsules, powders, pre-workouts, RTDs, gummies, and caffeine/theacrine co-use are not interchangeable.
 - Watch sleep timing, anxiety, blood pressure/heart rate, headache, comedown, stimulant medication, cardiovascular disease, pregnancy/breastfeeding, age under 18, and total stimulant load.
@@ -51,7 +51,7 @@ Anecdote signal: `moderate for subjective energy/euphoria/focus salience, weak f
 
 Methylliberine deserves standalone coverage because it is common in stimulant/nootropic stacks and has a direct monotherapy RCT. It should not be ranked as a cognitive enhancer on current evidence. The current route is `subjective energy / affect modifier and caffeine-stack candidate`, with objective cognition confidence held at low until a blinded methylliberine-alone trial moves cognitive endpoints.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[paraxanthine]], [[theacrine]], [[caffeine]], [[cognitive-improvement-molecule-signal-atlas]], [[regulatory-and-sports-visibility-map]], and [[biohacker-anecdote-methodology]].
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[paraxanthine]], [[theacrine]], [[theobromine]], [[caffeine]], [[cognitive-improvement-molecule-signal-atlas]], [[regulatory-and-sports-visibility-map]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

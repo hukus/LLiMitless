@@ -1,7 +1,7 @@
 ---
 title: Modafinil
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, performance, sleep, dosage, safety, clinical-trial, anecdote, comparison]
 sources: [raw/articles/pubmed-32709551-pharmaceutical-cognitive-enhancement-healthy-adults.md, raw/articles/dailymed-modafinil-tablet-label.md, raw/articles/dailymed-armodafinil-tablet-label.md, raw/articles/pubmed-10767651-modafinil-long-term-narcolepsy.md, raw/articles/pubmed-38790126-modafinil-aviators-sleep.md, raw/articles/pubmed-38823543-caffeine-modafinil-avl3288-cx516-sleep-deprivation.md, raw/articles/gwern-modafinil-community-survey.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
@@ -36,6 +36,6 @@ Modafinil is the wiki's main prescription wake-promoter benchmark. Armodafinil b
 
 ## Current Read
 
-Modafinil belongs in [[pharmacology-comparator-map]] as the serious prescription benchmark. A novel compound claiming focus, wakefulness, or study performance should be interpreted against modafinil, caffeine, methylphenidate, and sleep-state controls before being called meaningfully better.
+Modafinil belongs in [[pharmacology-comparator-map]] as the serious prescription benchmark. A novel compound claiming focus, wakefulness, or study performance should be interpreted against modafinil, caffeine, methylphenidate, and sleep-state controls before being called meaningfully better. Unapproved afinil-style chemicals should route through [[unapproved-modafinil-analog-eugeroic-watchlist]] before borrowing modafinil's evidence.
 
-Related pages: [[caffeine]], [[pharmacology-comparator-map]], [[anti-tolerance-periodization-in-cognitive-enhancement]], [[cognitive-fidelity-split]], and [[cognitive-improvement-molecule-signal-atlas]].
+Related pages: [[caffeine]], [[adrafinil]], [[unapproved-modafinil-analog-eugeroic-watchlist]], [[pharmacology-comparator-map]], [[anti-tolerance-periodization-in-cognitive-enhancement]], [[cognitive-fidelity-split]], and [[cognitive-improvement-molecule-signal-atlas]].

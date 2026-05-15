@@ -1,10 +1,10 @@
 ---
 title: TrkB / BDNF-Mimetic Cognition - 2026 Scan
 created: 2026-04-28
-updated: 2026-05-04
+updated: 2026-05-15
 type: query
 tags: [domain-medicine, cognition, neuroscience, mechanism, preclinical, clinical-trial, biomarker, safety, controversy, comparison]
-sources: [raw/articles/pubmed-26740873-78-dhf-trkb-review.md, raw/articles/pubmed-24070857-78-dhf-memory-consolidation-rodents.md, raw/articles/pubmed-25661191-78-dhf-tbi-trkb.md, raw/articles/pubmed-39341363-78-dhf-nhe6-plasticity.md, raw/articles/pubmed-20407211-lm22a4-bdnf-mimetics-trkb.md, raw/articles/pubmed-28679669-lm22a4-rett-object-location-memory.md, raw/articles/pubmed-38785269-lm22a4-rett-spine-behavior.md, raw/articles/plos-2010-deoxygedunin-natural-product-trkb.md, raw/articles/pmc-5777001-r13-7-8-dhf-prodrug-ad.md, raw/articles/pubmed-35845610-zeb85-trkb-agonist-antibody.md, raw/articles/pubmed-37488840-trkb-agonist-caution-review.md, raw/articles/pmc-8398766-small-molecule-trkb-agonist-limitations.md, raw/articles/clinicaltrials-trkb-bdnf-mimetic-registry-search-2026.md]
+sources: [raw/articles/pubmed-26740873-78-dhf-trkb-review.md, raw/articles/pubmed-24070857-78-dhf-memory-consolidation-rodents.md, raw/articles/pubmed-25661191-78-dhf-tbi-trkb.md, raw/articles/pubmed-39341363-78-dhf-nhe6-plasticity.md, raw/articles/pubmed-20407211-lm22a4-bdnf-mimetics-trkb.md, raw/articles/pubmed-28679669-lm22a4-rett-object-location-memory.md, raw/articles/pubmed-38785269-lm22a4-rett-spine-behavior.md, raw/articles/plos-2010-deoxygedunin-natural-product-trkb.md, raw/articles/pmc-5777001-r13-7-8-dhf-prodrug-ad.md, raw/articles/pubmed-35845610-zeb85-trkb-agonist-antibody.md, raw/articles/pubmed-37488840-trkb-agonist-caution-review.md, raw/articles/pmc-8398766-small-molecule-trkb-agonist-limitations.md, raw/articles/clinicaltrials-trkb-bdnf-mimetic-registry-search-2026.md, raw/articles/springer-2024-acd856-single-ascending-dose-healthy-subjects.md, raw/articles/springer-2023-acd856-multiple-dose-qeeg-healthy-subjects.md, raw/articles/mdpi-2023-acd856-trk-pam-neuroprotective.md, raw/articles/alzecure-2026-acd856-phase-ib-lplv.md]
 confidence: low
 contested: true
 contradictions: [non-hallucinogenic-psychoplastogens, translational-gap-table]
@@ -16,7 +16,7 @@ Companion first-pass scan: [[trkb-bdnf-mimetic-2026-scan]]. This page is the exp
 
 ## Summary
 
-TrkB / BDNF-mimetic compounds are now a distinct plasticity branch in the wiki. The named small-molecule leads are [[7-8-dihydroxyflavone|7,8-DHF]], [[lm22a-4]], and [[deoxygedunin]]; the next-generation comparators are 7,8-DHF prodrugs such as [[r13]] and TrkB agonist antibodies such as [[zeb85]].
+TrkB / BDNF-mimetic compounds are now a distinct plasticity branch in the wiki. The named small-molecule leads are [[7-8-dihydroxyflavone|7,8-DHF]], [[lm22a-4]], and [[deoxygedunin]]; the next-generation comparators are 7,8-DHF prodrugs such as [[r13]], TrkB agonist antibodies such as [[zeb85]], and the human-exposed pan-Trk positive allosteric modulator [[acd856]].
 
 The evidence is still overwhelmingly preclinical. 7,8-DHF has rodent memory-consolidation, TBI-recovery, aging/stress, AD-model, and NHE6/SLC9A6 plasticity signals, but no registered human cognition trial surfaced in targeted ClinicalTrials.gov API searches on 2026-04-28. LM22A-4 now has a clearer Rett mouse object-location-memory / LTP rescue anchor, while deoxygedunin remains older discovery-stage natural-product chemistry. These are useful TrkB-mimetic and animal-model comparators, not clinical cognition leads.^[raw/articles/pubmed-24070857-78-dhf-memory-consolidation-rodents.md]^[raw/articles/pubmed-25661191-78-dhf-tbi-trkb.md]^[raw/articles/pubmed-39341363-78-dhf-nhe6-plasticity.md]^[raw/articles/pubmed-20407211-lm22a4-bdnf-mimetics-trkb.md]^[raw/articles/pubmed-28679669-lm22a4-rett-object-location-memory.md]^[raw/articles/pubmed-38785269-lm22a4-rett-spine-behavior.md]^[raw/articles/plos-2010-deoxygedunin-natural-product-trkb.md]^[raw/articles/clinicaltrials-trkb-bdnf-mimetic-registry-search-2026.md]
 
@@ -25,6 +25,7 @@ The branch should be linked to [[non-hallucinogenic-psychoplastogens]] only as a
 ## What Changed Since 2024
 
 - A 2025 issue paper made the branch more interesting by connecting 7,8-DHF to NHE6/SLC9A6-linked hippocampal spine density, AMPAR transmission, and LTP rescue. That points toward a possible endosomal-trafficking / synaptic-plasticity responder axis rather than generic enhancement.^[raw/articles/pubmed-39341363-78-dhf-nhe6-plasticity.md]
+- [[acd856]] adds a newer clinical-development lane: healthy-volunteer single- and multiple-dose studies show tolerability, approximately 20-hour half-life, CSF exposure, and qEEG movement, while the 2026 Phase Ib sponsor update says higher-repeat-dose last-patient-last-visit occurred. None of this is human cognition efficacy yet.^[raw/articles/springer-2024-acd856-single-ascending-dose-healthy-subjects.md]^[raw/articles/springer-2023-acd856-multiple-dose-qeeg-healthy-subjects.md]^[raw/articles/alzecure-2026-acd856-phase-ib-lplv.md]
 - The 2024 caution review and 2021 assay-limitations paper keep confidence low: several small-molecule TrkB agonist claims have assay-specificity concerns, and some benefits may reflect broader neuroprotection, antioxidant effects, or non-TrkB mechanisms rather than clean TrkB agonism.^[raw/articles/pubmed-37488840-trkb-agonist-caution-review.md]^[raw/articles/pmc-8398766-small-molecule-trkb-agonist-limitations.md]
 - The new follow-up lanes sharpen the branch split: [[r13]] is a prodrug / pharmacokinetics page for 7,8-DHF, while [[zeb85]] is the biologic comparator that the caution review itself points toward when it argues for better specificity.^[raw/articles/pmc-5777001-r13-7-8-dhf-prodrug-ad.md]^[raw/articles/pubmed-35845610-zeb85-trkb-agonist-antibody.md]^[raw/articles/pubmed-37488840-trkb-agonist-caution-review.md]
 - ClinicalTrials.gov still does not show a named human cognition program for 7,8-DHF, LM22A-4, deoxygedunin, or the broad `TrkB agonist cognition` query as of 2026-04-28.^[raw/articles/clinicaltrials-trkb-bdnf-mimetic-registry-search-2026.md]
@@ -38,11 +39,12 @@ The branch should be linked to [[non-hallucinogenic-psychoplastogens]] only as a
 | [[deoxygedunin]] | Gedunin-family natural product TrkB agonist claim | Mouse neuroprotection, antidepressant-like, and learning-enhancement effects in discovery paper | Natural-product lead, specificity and translation uncertain |
 | [[r13]] | 7,8-DHF prodrug lead | Better druggability, oral exposure, and AD-model memory claims in mice | Keep in the prodrug / PK lane, not as human cognition evidence |
 | [[zeb85]] | TrkB agonist antibody / biologic lane | Plasticity and amyloid-toxicity protection in preclinical hippocampal neurons | Best named specificity comparator in the branch so far |
+| [[acd856]] | Pan-Trk positive allosteric modulator / NeuroRestore clinical candidate | Healthy-volunteer PK, CSF, and qEEG exposure; sponsor-linked preclinical Trk-PAM cognition/plasticity biology | Human-exposed target-engagement lead, still no human cognition-efficacy result |
 
 ## Evidence Tiering
 
-- `Human cognition trials`: none found in the targeted ClinicalTrials.gov search snapshot.
-- `Human safety`: no named clinical safety package found for the core cognition candidates in this pass.
+- `Human cognition trials`: none found in the targeted ClinicalTrials.gov search snapshot for the older 7,8-DHF / LM22A-4 / deoxygedunin set; [[acd856]] has human safety/PK/qEEG studies but no cognition-efficacy result.
+- `Human safety`: ACD856 now has single- and multiple-dose healthy-volunteer exposure sources; the older TrkB-mimetic set still lacks a practical human cognition-dosing package.
 - `Preclinical cognition`: strongest for 7,8-DHF in object recognition / object-location memory, TBI recovery, and synaptic plasticity rescue.
 - `Preclinical chemistry / target engagement`: 7,8-DHF, LM22A-4, deoxygedunin, R13, and ZEB85 are credible enough to track as separate entities, but not strong enough to rank as human interventions.
 - `Anecdote`: direct-use anecdotes are captured only for [[7-8-dihydroxyflavone]] in this branch; [[lm22a-4]], [[deoxygedunin]], [[r13]], and [[zeb85]] have `absent` anecdote ledgers in the current corpus.
@@ -95,3 +97,4 @@ The branch is least supported for rested healthy-adult acute enhancement.
 - Keep TrkB mimetics in [[negative-evidence-watchlist-for-cognition-interventions]] as a missing-human-translation branch, not a failed clinical class.
 - Keep cross-links from [[non-hallucinogenic-psychoplastogens]] as a comparator for plasticity mechanisms that are not 5-HT2A psychoplastogens.
 - Use the standalone entity pages for [[lm22a-4]], [[deoxygedunin]], [[r13]], and [[zeb85]] when a source names one of those candidates; do not borrow 7,8-DHF anecdotes or animal data across identities.
+- Use [[acd856]] for the newer Trk-PAM / human-exposure lane and route nootropic-stack claims through [[emerging-synaptic-plasticity-stack-chemicals-watchlist]] rather than treating ACD856 as another 7,8-DHF variant.

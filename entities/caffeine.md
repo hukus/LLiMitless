@@ -1,7 +1,7 @@
 ---
 title: Caffeine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, performance, sleep, dosage, safety, clinical-trial, anecdote, comparison]
 sources: [raw/articles/pubmed-27612937-caffeine-effects-cognitive-physical-occupational-performance.md, raw/articles/pubmed-35791877-repeated-low-dose-caffeine-sleep-deprivation-cognition.md, raw/articles/pubmed-38830861-repeated-caffeine-intake-sleep-restriction-gm.md, raw/articles/pubmed-39377163-caffeine-dose-timing-subsequent-sleep.md, raw/articles/pubmed-41124973-age-dose-specific-effects-caffeine-sleep-meta-analysis.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
@@ -39,4 +39,4 @@ Caffeine is the baseline molecule for acute cognitive-state support. It should b
 
 Caffeine is one of the strongest practical molecules in the wiki, but only because it is a reliable state tool. It is not evidence for a durable IQ increase, and it should not be used to validate a broad "cognitive enhancement" category without sleep, withdrawal, and timing controls.
 
-Related pages: [[pharmacology-comparator-map]], [[active-comparator-and-caffeine-scheduling-confound-audit]], [[anti-tolerance-periodization-in-cognitive-enhancement]], [[cognitive-improvement-molecule-signal-atlas]], and [[energy-substrate-comparator-map]].
+Related pages: [[pharmacology-comparator-map]], [[active-comparator-and-caffeine-scheduling-confound-audit]], [[anti-tolerance-periodization-in-cognitive-enhancement]], [[cognitive-improvement-molecule-signal-atlas]], [[energy-substrate-comparator-map]], [[paraxanthine]], [[theobromine]], [[theacrine]], and [[methylliberine]].
