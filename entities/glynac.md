@@ -1,7 +1,7 @@
 ---
 title: GlyNAC
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-15
 type: entity
 tags: [domain-medicine, cognition, metabolism, inflammation, longevity, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-8002905-glynac-older-adults-open-label-cognition.md, raw/articles/pmc-11689385-glynac-aging-cognition-pilot.md, raw/articles/pmc-7601820-glynac-aging-hiv-open-label-cognition.md, raw/articles/academic-oup-2022-glynac-older-adults-rct-aging-hallmarks.md, raw/articles/pmc-8968300-glynac-healthy-aging-glutathione-dose-rct.md, raw/articles/pmc-10215265-glynac-old-mice-brain-cognition.md, raw/articles/fda-2022-nac-enforcement-discretion-guidance.md, raw/articles/reddit-2023-glynac-experiences-thread.md, raw/articles/reddit-2023-glynac-energy-hangover-thread.md, raw/articles/reddit-2025-glynac-anhedonia-thread.md]
@@ -12,7 +12,7 @@ contradictions: []
 
 # GlyNAC
 
-GlyNAC is a combination protocol using glycine plus N-acetylcysteine as glutathione-precursor support. In this wiki it is a combination entity, not a synonym for [[n-acetylcysteine]], glycine alone, glutathione, cysteine, or generic antioxidant supplementation. The relevant exposure includes glycine dose, NAC dose/form, aging or oxidative-stress phenotype, duration, and withdrawal.
+GlyNAC is a combination protocol using [[glycine]] plus N-acetylcysteine as glutathione-precursor support. In this wiki it is a combination entity, not a synonym for [[n-acetylcysteine]], glycine alone, glutathione, cysteine, or generic antioxidant supplementation. The relevant exposure includes glycine dose, NAC dose/form, aging or oxidative-stress phenotype, duration, and withdrawal.
 
 Medicinal cognition signal: `low/aging-phenotype and open-label`. The main direct human cognition anchor is a tiny 36-week open-label older-adult pilot: eight older adults improved on MoCA and Trails A after 24 weeks of GlyNAC, and some gains declined after 12 weeks off supplementation. A later 2024 aging-cognition pilot abstract reports cognition and mechanistic improvements with washout reversal, but still stays proof-of-concept. The aging-HIV open-label trial adds a premature-aging clinical-state signal, with improvements across MoCA, Trails A/B, DSST, and verbal fluency after 12 weeks. None of these are large blinded cognition-efficacy trials.^[raw/articles/pmc-8002905-glynac-older-adults-open-label-cognition.md]^[raw/articles/pmc-11689385-glynac-aging-cognition-pilot.md]^[raw/articles/pmc-7601820-glynac-aging-hiv-open-label-cognition.md]
 
@@ -50,6 +50,7 @@ A confidence upgrade requires a randomized, blinded GlyNAC cognition trial with 
 
 ## Related Pages
 
+- [[glycine]]
 - [[n-acetylcysteine]]
 - [[redox-mitochondrial-cofactor-cognition-watchlist]]
 - [[amino-acid-mitochondrial-stack-watchlist]]

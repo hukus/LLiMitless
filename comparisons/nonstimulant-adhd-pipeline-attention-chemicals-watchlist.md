@@ -1,7 +1,7 @@
 ---
 title: Nonstimulant ADHD Pipeline Attention Chemicals Watchlist
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-18
 type: comparison
 tags: [domain-medicine, cognition, comparison, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-9426730-centanafadine-adult-adhd-phase3.md, raw/articles/otsuka-2026-centanafadine-nda-priority-review.md, raw/articles/nature-2015-dasotraline-adult-adhd-proof-of-concept.md, raw/articles/businesswire-2020-dasotraline-discontinued.md, raw/articles/pubmed-23290324-metadoxine-er-adult-adhd.md, raw/articles/pubmed-25295645-metadoxine-single-dose-adhd-pi.md, raw/articles/pubmed-11923586-metadoxine-acute-alcohol-intoxication.md, raw/articles/genengnews-2017-metadoxine-phase3-failure.md, raw/articles/reddit-2023-2026-centanafadine-metadoxine-attention-threads.md]
@@ -12,7 +12,7 @@ contradictions: []
 
 # Nonstimulant ADHD Pipeline Attention Chemicals Watchlist
 
-This page routes attention-agent chemicals that are adjacent to [[nonstimulant-noradrenergic-attention-agent-watchlist]] and [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], but do not fit cleanly in either bucket: [[centanafadine]], [[dasotraline]], and [[metadoxine]].
+This page routes attention-agent chemicals that are adjacent to [[nonstimulant-noradrenergic-attention-agent-watchlist]] and [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], but do not fit cleanly in either bucket: [[centanafadine]], [[dasotraline]], and [[metadoxine]]. SNDRI / triple-reuptake antidepressant comparators now route through [[triple-reuptake-inhibitor-cognition-watchlist]] instead of this ADHD-pipeline page.
 
 The class lesson is that ADHD symptom relief, reuptake pharmacology, and hangover / alertness anecdotes can look like cognitive improvement, but they need separate gates before being promoted into healthy-adult cognition.
 
@@ -27,6 +27,8 @@ The class lesson is that ADHD symptom relief, reuptake pharmacology, and hangove
 ## Why This Branch Matters
 
 [[tesofensine]] prompted the broader monoamine-reuptake expansion, but tesofensine is mostly an anorectic / obesity-development and self-experimentation story. Centanafadine and dasotraline are closer to clinical ADHD attention-agent development, while metadoxine is a different mechanism with ADHD-PI and alcohol-aftereffect relevance.
+
+The newer [[triple-reuptake-inhibitor-cognition-watchlist]] handles [[ansofaxine-toludesvenlafaxine]], [[liafensine]], [[amitifadine]], [[gsk372475]], [[csti-500]], and [[nefopam]]. That split keeps MDD/TRD anhedonia or pain-state claims from being overread as ADHD-style executive-function proof.
 
 That split prevents three common overreads:
 
@@ -57,4 +59,4 @@ That split prevents three common overreads:
 - For [[metadoxine]], keep ER ADHD studies, IV alcohol-intoxication studies, and supplement-style B-vitamin / pyroglutamate claims separate.
 - For [[centanafadine]], preserve exact regulatory dates: as of 2026-05-15 the NDA is under priority review, with PDUFA target 2026-07-24.
 
-Related pages: [[centanafadine]], [[dasotraline]], [[metadoxine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[tesofensine]], [[atomoxetine]], [[bupropion]], [[viloxazine]], [[reboxetine]], [[solriamfetol]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], and [[cognitive-improvement-molecule-signal-atlas]].
+Related pages: [[centanafadine]], [[dasotraline]], [[metadoxine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[tesofensine]], [[atomoxetine]], [[bupropion]], [[viloxazine]], [[reboxetine]], [[solriamfetol]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], and [[cognitive-improvement-molecule-signal-atlas]].

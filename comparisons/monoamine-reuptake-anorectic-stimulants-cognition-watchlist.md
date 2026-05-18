@@ -1,7 +1,7 @@
 ---
 title: Monoamine Reuptake Anorectic Stimulants Cognition Watchlist
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-18
 type: comparison
 tags: [domain-medicine, cognition, comparison, safety, dosage, clinical-trial, anecdote, mechanism, performance, controversy]
 sources: [raw/articles/pubmed-18474731-tesofensine-advanced-parkinson-advans.md, raw/articles/pubmed-18950853-tesofensine-obesity-phase2.md, raw/articles/pubmed-20479765-tesofensine-energy-metabolism-appetite.md, raw/articles/pubmed-24239329-tesofensine-dat-occupancy-pet.md, raw/articles/pmc-2000606-tesofensine-alzheimers-pk-phase2.md, raw/articles/endotext-2026-tesofensine-obesity-pharmacotherapy.md, raw/articles/saniona-2025-annual-report-tesomet-tesofensine.md, raw/articles/saniona-2024-mexico-tesofensine-not-approved.md, raw/articles/saniona-2026-tesofensine-pipeline-status.md, raw/articles/saniona-2026-tesomet-pipeline-status.md, raw/articles/reddit-2025-2026-tesofensine-focus-energy-threads.md, raw/articles/fda-2015-sibutramine-hidden-ingredient-withdrawn.md, raw/articles/pubmed-20818901-sibutramine-scout-cv-outcomes.md, raw/articles/pubmed-11847938-brasofensine-parkinsons-levodopa.md, raw/articles/pubchem-2026-nomifensine-withdrawn-hemolytic-anemia.md, raw/articles/pubmed-525256-mazindol-narcolepsy.md, raw/articles/sleep-2023-mazindol-er-narcolepsy-phase2.md, raw/articles/dailymed-sunosi-solriamfetol-tablet-label.md, raw/articles/pubmed-39528111-solriamfetol-sharp-osa-cognition.md, raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
@@ -16,7 +16,7 @@ This page covers tesofensine and nearby monoamine-reuptake anorectic / stimulant
 
 The class-level lesson is simple: appetite, wakefulness, and catecholamine target engagement can feel cognitive, but they are not the same as durable cognitive improvement.
 
-For classic sympathomimetic diet-pill stimulants such as [[phentermine]], see [[sympathomimetic-anorectic-stimulant-cognition-watchlist]]. For nonstimulant ADHD pipeline chemicals that overlap mechanistically but are not anorectic-first, see [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]].
+For classic sympathomimetic diet-pill stimulants such as [[phentermine]], see [[sympathomimetic-anorectic-stimulant-cognition-watchlist]]. For nonstimulant ADHD pipeline chemicals that overlap mechanistically but are not anorectic-first, see [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]]. For SNDRI / triple-reuptake antidepressant and analgesic comparators such as [[ansofaxine-toludesvenlafaxine]], [[liafensine]], [[amitifadine]], [[gsk372475]], [[csti-500]], and [[nefopam]], see [[triple-reuptake-inhibitor-cognition-watchlist]].
 
 ## Current Read
 
@@ -61,4 +61,4 @@ The obesity data are real but not cognitive: 203 adults with obesity had dose-de
 4. For safety, treat long half-life, HR/BP, insomnia, mood flattening, serotonergic/dopaminergic stacking, cardiovascular history, renal function, and product identity as first-order variables.
 5. For sports or tested-athlete contexts, route tesofensine through [[regulatory-and-sports-visibility-map]] because the 2026 WADA list names it in S6.B specified stimulants.^[raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
 
-Related pages: [[tesofensine]], [[sibutramine]], [[mazindol]], [[brasofensine]], [[nomifensine]], [[solriamfetol]], [[phentermine]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+Related pages: [[tesofensine]], [[sibutramine]], [[mazindol]], [[brasofensine]], [[nomifensine]], [[solriamfetol]], [[phentermine]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], and [[safety-interaction-matrix-for-multi-modal-stacks]].

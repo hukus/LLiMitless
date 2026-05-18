@@ -14,6 +14,8 @@ contradictions: []
 
 This page normalizes the choline-donor branch so alpha-GPC / choline alphoscerate, choline alfoscerate, [[citicoline]], [[lysolecithin]], [[phosphatidylcholine]], and [[choline-bitartrate]] / generic "choline" supplement claims are not treated as interchangeable. The current wiki evidence supports impairment, recovery, product-matrix, or narrow task phenotypes more than healthy-adult broad enhancement.
 
+For choline's methyl-donor / betaine branch, route through [[one-carbon-methyl-donor-cognition-watchlist]] and [[betaine-tmg]] rather than treating acetylcholine, phospholipid, TMAO, and homocysteine-remethylation claims as one choline effect.
+
 ## Medicinal Signal
 
 | Candidate or formulation | Main formal signal | Signal strength | Best route | Main caveat |
@@ -38,6 +40,7 @@ The current signal is therefore asymmetric: [[alpha-gpc]] deserves tracking in a
 ## Interpretation Gates
 
 - Do not collapse [[alpha-gpc]], choline alfoscerate, [[citicoline]], [[phosphatidylcholine]], [[choline-bitartrate]], and [[lysolecithin]] into one effect estimate.
+- Do not borrow [[betaine-tmg]] or [[s-adenosyl-l-methionine]] methyl-donor anecdotes for choline donor ranking unless the choline form, methylation marker, and cognitive endpoint are isolated.
 - Do not treat [[uridine]] / UMP + DHA + choline stack evidence as proof for [[alpha-gpc]], [[citicoline]], or standalone UMP; keep formula, dose, and duration attached.
 - Separate impairment / recovery settings from rested healthy adults.
 - Require formulation, dose, duration, baseline diet, and cognitive endpoint before upgrading any generic choline claim.
@@ -45,4 +48,4 @@ The current signal is therefore asymmetric: [[alpha-gpc]] deserves tracking in a
 
 ## Current Read
 
-Choline donors belong inside [[cholinergic-state-restoration-and-cognition]] as phenotype-bound support candidates. They are weaker than [[nicotine]] for acute attention and weaker than [[methylphenidate]] or [[modafinil]] as general comparators, but they matter because the MCI, older-adult memory, mTBI, product-matrix, and narrow visuomotor signals are specific enough to keep the branch alive. Route future updates through [[cholinergic-and-nicotinic-agents-2026-scan]], [[pharmacology-comparator-map]], and [[cognitive-improvement-molecule-signal-atlas]].
+Choline donors belong inside [[cholinergic-state-restoration-and-cognition]] as phenotype-bound support candidates. They are weaker than [[nicotine]] for acute attention and weaker than [[methylphenidate]] or [[modafinil]] as general comparators, but they matter because the MCI, older-adult memory, mTBI, product-matrix, and narrow visuomotor signals are specific enough to keep the branch alive. Route methyl-donor claims through [[one-carbon-methyl-donor-cognition-watchlist]]; route acetylcholine / phospholipid claims through [[cholinergic-and-nicotinic-agents-2026-scan]], [[pharmacology-comparator-map]], and [[cognitive-improvement-molecule-signal-atlas]].

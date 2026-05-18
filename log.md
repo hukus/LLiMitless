@@ -2798,3 +2798,204 @@
 - Ranked [[creatine]], [[caffeine]], [[ketone-ester]], [[citicoline]], and [[l-theanine]] under the explicit assumption that "buyable" excludes prescription drugs, injected peptides, research chemicals, and device/procedure interventions.
 - Noted near-miss handling for [[dha-epa]], [[magnesium-l-threonate]], [[dietary-nitrate-beetroot]], standardized botanicals, and [[methylene-blue]].
 - Current read: creatine and caffeine are the cleanest practical picks; the remaining three are context-specific rather than broad enhancers.
+
+## [2026-05-15] coverage | Glutamatergic rapid-antidepressant cognition branch added
+
+- Added and hashed seven raw notes covering SPRAVATO / esketamine DailyMed REMS and acute impairment gates, long-term ketamine/esketamine safety review, psychiatric-disorder ketamine cognition meta-analysis, 2026 esketamine TRD cognition systematic review, AUVELITY DailyMed seizure/BP/serotonin/MAOI gates, GEMINI phase 3 MDD trial endpoints, and 2024-2026 ketamine/Spravato/Auvelity cognition / brain-fog anecdotes.
+- Created [[ketamine-esketamine]] and [[dextromethorphan-bupropion]] as low-confidence, state-bound rapid-antidepressant entities.
+- Created [[glutamatergic-rapid-antidepressant-cognition-watchlist]] so NMDA/glutamate psychiatric-state claims are separated from [[memantine]], [[sodium-benzoate]], [[amantadine]], [[methylene-blue]], and AMPAkine routes.
+- Updated [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: this branch is worth tracking for depression-linked brain fog and anecdotal clarity signals, but formal cognition confidence remains low/state-bound because same-day impairment, mood recovery, dissociation, and interaction risks dominate.
+
+## [2026-05-15] coverage | SAMe and methyl-donor cognition branch added
+
+- Added and hashed ten raw notes covering NCCIH SAMe safety/usefulness, SAMe depression meta-analysis, broad CNS SAMe systematic review, MDD cognitive-symptom secondary analysis, 2026 AD/MCI SAMe phase-2 null, a SAMe/B-vitamin/NAC/ALCAR multinutrient formula trial, CYSTADANE / betaine label status, betaine homocysteine-lowering meta-analysis, ODS choline methyl-donor context, and SAMe/TMG methylation-community anecdotes.
+- Created [[s-adenosyl-l-methionine]], [[betaine-tmg]], and [[one-carbon-methyl-donor-cognition-watchlist]].
+- Updated [[folate-b-vitamins]], [[choline-donor-cognition-signal-map]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: SAMe is a low-confidence mood-state / subjective-cognitive-symptom candidate, TMG is a biomarker/status candidate, and methyl-donor anecdotes are useful for safety and responder hypotheses but too bidirectional and lab-confounded to upgrade healthy-adult cognition confidence.
+
+## [2026-05-15] coverage | Bile-acid neuroprotection / TUDCA branch added
+
+- Added and hashed eight raw notes covering TUDCA / UDCA identity, DailyMed ursodiol prescription-label context, the 2023 UDCA Parkinson's phase-2 target-engagement trial, the 2024 TUDCA-ALS phase-3 miss, Amylyx AMX0035 / RELYVRIO-ALBRIOZA withdrawal after PHOENIX, the 2024 TUDCA Alzheimer's review, the progressive-MS bile-acid / TUDCA safety-biomarker trial, and 2024-2026 Reddit TUDCA brain-fog / mood / gut-liver anecdotes.
+- Created [[tudca-ursodiol]] and [[bile-acid-neuroprotection-cognition-watchlist]] so TUDCA / taurursodiol / TURSO, UDCA / ursodiol, and AMX0035 are no longer hidden under generic mitochondrial, gut, liver, or neuroinflammation pages.
+- Updated [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: the branch is worth tracking for gut-liver-brain, bile-acid, ER-stress, mitochondrial, neuroinflammatory, and phenotype-gated brain-fog hypotheses, but healthy-adult cognition confidence remains low because direct cognition trials are absent and the strongest modern clinical translation signals in ALS are negative.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,641 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | NADH redox / cognitive-fatigue branch added
+
+- Added and hashed nine raw notes covering [[nadh]] identity, 1999 and 2010 CFS NADH trials, CoQ10 plus NADH CFS / ME-CFS trials, older AD and dementia counterweight studies, a 2025 healthy-adult endurance proxy trial, and 2024-2026 NADH brain-fog / CFS anecdotes.
+- Created [[nadh]] as a low-confidence, contested entity that separates reduced NADH / ENADA from [[nicotinamide-riboside]], [[nicotinamide-mononucleotide]], IV NAD+, NAD+ lozenges, and generic NAD-booster blends.
+- Updated [[redox-mitochondrial-cofactor-cognition-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: NADH is worth tracking for ME/CFS-like cognitive fatigue and mitochondrial/redox responder hypotheses, but the signal remains illness-state, combination-confounded, and not healthy-adult cognition-positive.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,651 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | D-ribose energy-substrate brain-fog branch added
+
+- Added and hashed six raw notes covering [[d-ribose]] identity, CFS/fibromyalgia open-label mental-clarity studies, EFSA safety context, a healthy-exercise null counterweight, and 2021-2026 D-ribose CFS / brain-fog anecdotes.
+- Created [[d-ribose]] as a low-confidence, contested energy-substrate entity separating ribose / ATP-support claims from [[nadh]], [[coenzyme-q10]], [[creatine]], ketones, lactate, glucose stability, and generic mitochondrial stacks.
+- Updated [[energy-substrate-comparator-map]], [[post-viral-brain-fog-chemical-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: D-ribose is worth tracking for ME/CFS-like energy-envelope and subjective mental-clarity hypotheses, but the evidence is open-label, illness-state, and stack-confounded, with no objective healthy-adult cognition endpoint.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,658 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | DMG methylation-adjacent branch added
+
+- Added and hashed six raw notes covering [[dimethylglycine-dmg]] identity, pediatric autism / PDD randomized evidence, progressive-MS fatigue/cognition randomized evidence, cytochrome-c oxidase deficiency oxygen-consumption testing, MSKCC cautious monograph context, and 2025-2026 CFS / methylation-stack anecdotes.
+- Created [[dimethylglycine-dmg]] as the missing N,N-dimethylglycine sibling between [[betaine-tmg]] and [[sarcosine]].
+- Updated [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: DMG is worth tracking for attribution control in SAMe/TMG/methylation and NR/NMN energy-stack discussions, but the formal signal is mostly negative or non-significant and the anecdote signal is weak.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,665 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | Glycine sleep-state / glycine-family branch added
+
+- Added and hashed six raw notes covering [[glycine]] identity, the 2024 human-adult glycine systematic review, 3 g bedtime glycine under partial sleep restriction, acute high-dose healthy-control cognition null evidence, VKM supplement-dose safety context, and 2020-2026 Reddit glycine sleep / brain-fog anecdotes.
+- Created [[glycine]] as the missing unmethylated glycine-family sibling beside [[dimethylglycine-dmg]], [[sarcosine]], [[betaine-tmg]], [[glynac]], magnesium glycinate, and collagen.
+- Updated [[one-carbon-methyl-donor-cognition-watchlist]], [[amino-acid-mitochondrial-stack-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[glynac]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: glycine is worth tracking for sleep-mediated state support, attribution control, and bidirectional anecdotal brain-fog signals, but it remains low-confidence because the direct acute healthy-control cognition test was null and the positive human clue is sleep-restriction / vigilance-bound rather than broad enhancement.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,672 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | L-methionine SAMe-precursor branch added
+
+- Added and hashed six raw notes covering [[l-methionine]] identity, methionine-loading effects on SAMe/SAH/homocysteine markers, supplemented L-methionine healthy-older-adult tolerance evidence, amino-acid upper-limit context, clinical-context methionine metabolism review, and 2022-2026 weak Reddit SAMe/methylation-adjacent anecdotes.
+- Created [[l-methionine]] as the direct SAMe-precursor / sulfur-amino-acid entity beside [[s-adenosyl-l-methionine]], [[betaine-tmg]], [[dimethylglycine-dmg]], and [[glycine]].
+- Updated [[s-adenosyl-l-methionine]], [[one-carbon-methyl-donor-cognition-watchlist]], [[amino-acid-mitochondrial-stack-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: L-methionine closes an important attribution gap, but it is not a healthy-adult cognition lead. The useful signal is biomarker/safety routing: SAMe precursor logic must be interpreted through homocysteine, SAH, folate/B12/B6, kidney function, diet/protein intake, and methyl-donor co-use.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,679 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-15] coverage | L-methylfolate / 5-MTHF branch added
+
+- Added and hashed two raw PubMed notes covering adjunctive L-methylfolate in SSRI-resistant major depression and folate adjunct therapy meta-analysis across L-methylfolate / folic-acid trials.
+- Created [[l-methylfolate-5-mthf]] as the named methylfolate / 5-MTHF entity beside [[s-adenosyl-l-methionine]], [[l-methionine]], [[betaine-tmg]], [[dimethylglycine-dmg]], and [[folate-b-vitamins]].
+- Updated [[folate-b-vitamins]], [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: L-methylfolate is worth tracking for depression-linked brain fog hypotheses and methylation-community safety monitoring, but the evidence is mood-state/status-bound rather than direct healthy-adult cognition proof; adverse methylfolate anecdotes remain prominent and lab/status gates dominate.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,682 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-16] coverage | Methylcobalamin / methyl-B12 branch added
+
+- Added and hashed two raw PubMed notes covering the 2025 methyl-nutrients MCI network meta-analysis and the 2020 methylcobalamin plus folic-acid MCI RCT.
+- Created [[methylcobalamin-b12]] as the named methyl-B12 / mecobalamin entity beside [[l-methylfolate-5-mthf]], [[folate-b-vitamins]], [[s-adenosyl-l-methionine]], [[l-methionine]], and [[betaine-tmg]].
+- Updated [[folate-b-vitamins]], [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: methylcobalamin is worth tracking for B12-deficiency/status and form-specific brain-fog reports, but broad non-deficient supplementation is meta-analytic null and MCI evidence is combination-bound with folate; anecdotes are low-confidence and cofactor/lab-gated.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,685 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-16] coverage | Folinic acid / leucovorin branch added
+
+- Added and hashed five raw notes covering FDA's 2026 Wellcovorin / leucovorin approval for confirmed FOLR1 cerebral folate transport deficiency, the small pediatric ASD/language folinic-acid RCT, the CFD/FRAA/leucovorin ASD review, the 2024 ASD RCT retraction record, and 2024-2026 folinic-acid / methylfolate-alternative brain-fog anecdotes.
+- Created [[folinic-acid-leucovorin]] as the reduced-folate / leucovorin entity beside [[folate-b-vitamins]], [[l-methylfolate-5-mthf]], [[methylcobalamin-b12]], and [[one-carbon-methyl-donor-cognition-watchlist]].
+- Updated [[folate-b-vitamins]], [[l-methylfolate-5-mthf]], [[methylcobalamin-b12]], [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: folinic acid is medically important for confirmed FOLR1-CFD and clinically visible in pediatric ASD/FRAA literature, but it is not healthy-adult cognition proof; source-integrity and retraction awareness now gate the branch, while methylation-forum anecdotes stay low-confidence and bidirectional.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,691 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-16] coverage | B6/P5P and riboflavin/B2 cofactor branch added
+
+- Added and hashed six raw notes covering vitamin B6 cognition counterweights, a short-term folate/B12/B6 memory RCT, riboflavin/MTHFR mechanism, riboflavin 677TT blood-pressure RCT evidence, riboflavin-status homocysteine genetics, and 2023-2026 P5P/B2/MTHFR brain-fog anecdotes.
+- Created [[vitamin-b6-p5p]] and [[riboflavin-b2]] as low-confidence SAMe-adjacent cofactor entities beside [[s-adenosyl-l-methionine]], [[folate-b-vitamins]], [[methylcobalamin-b12]], [[l-methylfolate-5-mthf]], [[folinic-acid-leucovorin]], and [[one-carbon-methyl-donor-cognition-watchlist]].
+- Updated [[s-adenosyl-l-methionine]], [[folate-b-vitamins]], [[one-carbon-methyl-donor-cognition-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: B6/P5P and riboflavin/B2 close real one-carbon cofactor gaps, but they do not upgrade the methyl-donor branch into healthy-adult cognition-positive territory; B6 is mainly a PLP/status/safety route with mostly null direct cognition evidence, while riboflavin is an MTHFR/homocysteine genotype-status route without a cognition endpoint.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,699 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-16] coverage | Niacin / nicotinamide / B3 NAD-methylation bridge added
+
+- Added and hashed eight raw notes covering the ODS niacin health-professional fact sheet, two dietary B-vitamin / niacin cognition association analyses, high-dose nicotinamide early-AD intervention and PK/PD counterweights, a niacin/nicotinamide adverse-effect review, an NNMT / nicotinamide-SAM methylation review, and 2024-2026 niacin/niacinamide methylation brain-fog anecdotes.
+- Created [[niacin-nicotinamide-b3]] as the ordinary B3 / niacinamide bridge between [[nicotinamide-riboside]], [[nicotinamide-mononucleotide]], [[nadh]], [[s-adenosyl-l-methionine]], [[betaine-tmg]], [[vitamin-b6-p5p]], and [[riboflavin-b2]].
+- Updated [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: B3 is worth tracking for deficiency/status correction, NAD precursor attribution, and NNMT/SAM methylation-gate interpretation, but dietary associations are confounded, high-dose nicotinamide did not establish cognition efficacy in early AD, and methylation-forum anecdotes remain bidirectional and low-confidence.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,708 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-16] coverage | Direct NAD+ products branch added
+
+- Added and hashed five raw notes covering NAD+ chemical identity, IV NAD+ metabolome routing, IV NAD+ versus IV NR tolerability, FDA sterile-compounding warnings, and a clinic-status review; reused the existing LDN plus NAD+ patch long-COVID note and NADH/CFS anecdote cluster.
+- Created [[nad-plus-products]] as the direct NAD+ product page for IV/injectable NAD+, patches, lozenges, oral labels, and clinic protocols, explicitly separate from [[nadh]], NR/NMN, and [[niacin-nicotinamide-b3]].
+- Updated [[redox-mitochondrial-cofactor-cognition-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: direct NAD+ products are visible enough to track, especially in long-COVID / ME-CFS and clinic-marketing contexts, but the cognition signal is very low and route-gated; sterile source quality, endotoxin risk, infusion symptoms, LDN/stack confounding, and NAD+/NADH naming confusion dominate.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,714 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-17] coverage | Phenethylamine / beta-PEA trace-amine branch added
+
+- Added and hashed six raw notes covering [[phenethylamine]] identity, trace-amine / TAAR1 mechanism, MAO-B substrate biology, BMPEA dietary-supplement boundary status, 2-phenethylamine plus N,N-DMPEA in-vitro proximal-tubule toxicity, and 2019-2026 phenethylamine / PEA focus anecdotes.
+- Created [[phenethylamine]] as the beta-PEA trace-amine entity, explicitly separated from [[palmitoylethanolamide]], [[phenylalanine]], BMPEA, N,N-DMPEA / eria-jarensis labels, amphetamine, and generic substituted-phenethylamine claims.
+- Updated [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: phenethylamine has weak-moderate focus anecdotes and real monoamine/MAO-B plausibility, but no captured controlled healthy-adult cognition proof; MAOI/stimulant-stack risk, BP/HR/anxiety, short-lived arousal, and product-identity boundaries keep it risk-first.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,721 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-17] coverage | N,N-DMPEA and sarcosine boundary branches added
+
+- Added and hashed six raw notes covering [[nn-dimethylphenethylamine-eria-jarensis]] identity/status and 2020-2026 Eria/N,N-DMPEA anecdotes, plus [[sarcosine]] identity and 2019-2026 sarcosine / N-methylglycine nootropic anecdotes.
+- Created [[nn-dimethylphenethylamine-eria-jarensis]] as the Eria / N,N-DMPEA product-label sibling of [[phenethylamine]], with PubChem identity, FDA food-substance inventory context, phenethylamine-analog supplement caution, in-vitro PEA plus N,N-DMPEA stack caution, and weak-moderate preworkout/focus anecdotes separated.
+- Refreshed [[sarcosine]] from an NMDA comparator stub into the N-methylglycine / methylated-glycine bridge between [[glycine]], [[dimethylglycine-dmg]], [[betaine-tmg]], [[s-adenosyl-l-methionine]], [[sodium-benzoate]], and the GlyT1 / DAAO branch.
+- Updated [[s-adenosyl-l-methionine]], [[one-carbon-methyl-donor-cognition-watchlist]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: N,N-DMPEA / Eria is unsupported and risk-first because product identity, blend confounding, hidden-stimulant risk, BP/HR/anxiety, and MAO-B/stimulant-stack questions dominate. Sarcosine remains low-confidence and phenotype/combination-gated: monotherapy cognition evidence is weak, sarcosine-plus-benzoate is the better formal clue, and direct healthy-adult anecdotes are weak.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,728 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-17] coverage | Inositol and direct glutathione product branches added
+
+- Added and hashed twelve raw notes covering [[myo-inositol]] / ASI identity and cognition-state evidence, plus [[glutathione-products]] identity, oral/liposomal/micellar body-store or PK evidence, brain-GSH/cognition MRS context, and 2021-2026 glutathione brain-fog anecdotes.
+- Created [[myo-inositol]] so plain myo-inositol, D-chiro/IP6-style confusion, and ASI/Nitrosigine cognition claims no longer sit under generic nutrient or nitric-oxide stack lore.
+- Created [[glutathione-products]] so direct reduced/liposomal/micellar/S-acetyl/IV-style glutathione claims stay separate from [[n-acetylcysteine]], [[glynac]], [[glycine]], and SAMe/transsulfuration anecdotes.
+- Updated [[nutrient-supplement-cognition-signal-map]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[one-carbon-methyl-donor-cognition-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], [[s-adenosyl-l-methionine]], `index.md`, and `TODO.md`.
+- Current read: myo-inositol is low-confidence and product/state-gated; ASI has small healthy-adult cognition signals, while plain inositol evidence is mostly sleep/anxiety/PCOS-state and bidirectional anecdote. Direct glutathione products are very-low-confidence for cognition, with useful biomarker/route evidence and moderate illness-state brain-fog anecdotes but no objective healthy-adult cognition endpoint.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,742 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-17] coverage | MSM organosulfur attribution branch added
+
+- Added and hashed seven raw notes covering [[methylsulfonylmethane-msm]] identity, broad MSM applications/safety context, human brain MRS exposure after 1-3 g/day, HepaRG methyl-donor cell evidence, half-marathon redox/pain proxy RCT data, NCCIH osteoarthritis evidence/safety caution, and 2020-2026 MSM sulfur/methylation brain-fog anecdotes.
+- Created [[methylsulfonylmethane-msm]] so MSM / dimethyl sulfone, DMSO confusion, sulfur intolerance narratives, joint-health formulas, and detox/methylation anecdotes no longer inherit SAMe, [[l-methionine]], NAC, [[glutathione-products]], [[glynac]], [[taurine]], or generic redox evidence.
+- Updated [[one-carbon-methyl-donor-cognition-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[top-buyable-cognition-chemicals]], [[s-adenosyl-l-methionine]], `index.md`, and `TODO.md`.
+- Current read: MSM is worth tracking as a buyable organosulfur / methylation-redox attribution-control compound, but direct cognition confidence remains very low. Brain exposure and cell methyl-donor evidence are mechanism anchors, while human clinical evidence is recovery/redox proxy and anecdotes are weak-moderate, bidirectional, and heavily stack-confounded.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,750 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | SNDRI / triple-reuptake cognition comparator branch added
+
+- Added and hashed fourteen raw notes covering ansofaxine / toludesvenlafaxine phase 2 and phase 3 MDD evidence, Luye LY03005 endpoint and China approval status, liafensine ENLIGHTEN ANK3-positive TRD evidence and Fast Track status, amitifadine positive proof-of-concept plus TRIADE miss, GSK372475 negative MDD trials, CSTI-500 first-in-human healthy-volunteer PK/PET transporter occupancy, nefopam analgesic/safety/abuse anchors, and 2022-2026 SNDRI / triple-reuptake forum scans.
+- Created [[ansofaxine-toludesvenlafaxine]], [[liafensine]], [[amitifadine]], [[gsk372475]], [[csti-500]], [[nefopam]], and [[triple-reuptake-inhibitor-cognition-watchlist]].
+- Updated [[pharmacology-comparator-map]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: SNDRI / triple-reuptake chemistry is worth tracking for depression/TRD anhedonia, concentration-factor, fatigue, pain-state, target-engagement, and adverse psychoactive signals, but the branch remains low-confidence for healthy-adult cognition. It should not inherit [[tesofensine]] anorectic anecdotes or ADHD-pipeline attention evidence by mechanism analogy.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,771 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | Non-methyl B12 form boundary added
+
+- Added and hashed four raw notes covering ODS vitamin-B12 form guidance, coenzyme-B12-form superiority counterweights, a B12-form bioavailability review, and 2024-2026 hydroxy/adenosyl/cyano-B12 form-switching anecdotes.
+- Created [[hydroxy-adenosyl-cyano-b12]] for hydroxycobalamin, adenosylcobalamin, and cyanocobalamin as the non-methyl B12 form boundary beside [[methylcobalamin-b12]], [[l-methylfolate-5-mthf]], [[folinic-acid-leucovorin]], and [[s-adenosyl-l-methionine]].
+- Updated [[methylcobalamin-b12]], [[one-carbon-methyl-donor-cognition-watchlist]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], `index.md`, and `TODO.md`.
+- Current read: non-methyl B12 forms are worth tracking for deficiency/status correction, route choice, and methyl-sensitive tolerability anecdotes, but they are not healthy-adult nootropic leads. Form preference should be interpreted through B12, MMA, homocysteine, folate, route, dose, deficiency cause, medications, and co-supplement changes.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,776 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | Berberine and dihydroberberine metabolic-glucose branch added
+
+- Added and hashed nine raw notes covering berberine and dihydroberberine PubChem identities, NCCIH weight-loss hype guardrail, MSKCC safety/interactions, the 2025 metabolic-syndrome meta-analysis, the 2026 obesity/MASLD RCT counterweight, the dihydroberberine PK/glycemia pilot, the chronic-schizophrenia cognition RCT clue, and 2022-2026 glucose/brain-fog anecdotes.
+- Created [[berberine-dihydroberberine]] as a product-level metabolic-state / postprandial-fog candidate rather than a traditional-medicine page.
+- Updated [[energy-substrate-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[top-buyable-cognition-chemicals]], `index.md`, and `TODO.md`.
+- Current read: berberine/dihydroberberine is low-confidence for cognition. It is useful to track when brain fog looks postprandial or metabolic, but direct healthy-adult cognition evidence is absent, the schizophrenia clue is disease-state, the 2026 obesity/MASLD RCT missed primary fat/liver endpoints, and medication/glucose/GI/pregnancy/formulation gates dominate practical use.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,786 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | Homocysteine / SAH biomarker gate added to SAMe branch
+
+- Added and hashed two PubChem raw notes for homocysteine and S-adenosyl-L-homocysteine / SAH identity.
+- Created [[homocysteine]] as the SAMe-adjacent biomarker gate for [[s-adenosyl-l-methionine]], [[l-methionine]], [[betaine-tmg]], folate/B12/B6/B2 status, choline, creatine, and methylation-stack brain-fog claims.
+- Updated [[s-adenosyl-l-methionine]], [[one-carbon-methyl-donor-cognition-watchlist]], [[l-methionine]], [[betaine-tmg]], [[folate-b-vitamins]], [[anecdote-led-chemical-heat-map]], [[nutrient-supplement-cognition-signal-map]], [[cognitive-improvement-molecule-signal-atlas]], `index.md`, and `TODO.md`.
+- Current read: homocysteine and SAH are status and attribution markers, not nootropic endpoints. The positive branch is MCI/high-homocysteine subgroup evidence, counterweighted by broad homocysteine-lowering meta-analysis nulls; SAMe, methionine, TMG, folate/B12/B6/B2, choline, creatine, and "overmethylation" anecdotes should stay lab/status gated.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,789 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | Tadalafil / PDE5 vascular-nootropic comparator added
+
+- Added and hashed three raw notes covering tadalafil PubChem identity, DailyMed tadalafil/Cialis label safety context, and 2019-2026 low-dose Cialis / tadalafil cognition, focus, energy, gym, and brain-fog anecdotes.
+- Created [[tadalafil]] as the long-acting PDE5 / Cialis comparator beside [[sildenafil]], anchored to ETLAS-2 CSVD cognition-null / mixed data, prescription vasodilator gates, and weak-moderate bidirectional anecdotes.
+- Updated [[pde-camp-creb-cognition-2026-scan]], [[pde9-pde10-cgmp-cognition-2026-scan]], [[sildenafil]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[molecule-intake-triage-table]], [[anecdote-led-chemical-heat-map]], `index.md`, and `TODO.md`.
+- Current read: tadalafil is worth tracking because PDE5/cGMP vascular logic and community salience are visible, but the formal cognition read remains low-confidence and mostly negative. Keep it out of the enhancer tier unless a controlled cognition endpoint separates from placebo and from gym/libido/blood-pressure confounds.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,793 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | Vardenafil PDE5 healthy-adult counterexample added
+
+- Added and hashed two raw notes covering vardenafil PubChem identity and DailyMed label safety context, reusing the existing healthy-adult vardenafil cognition study and 2025 PDE5 review.
+- Created [[vardenafil]] as the direct healthy-adult PDE5 counterexample beside [[sildenafil]] and [[tadalafil]], with no convincing cognitive benefit, worse 20 mg reaction-time performance, and QT/vasodilator safety gates.
+- Updated [[pde-camp-creb-cognition-2026-scan]], [[pde9-pde10-cgmp-cognition-2026-scan]], [[sildenafil]], [[tadalafil]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[molecule-intake-triage-table]], `index.md`, and `TODO.md`.
+- Current read: the PDE5 branch is now much cleaner. Sildenafil covers schizophrenia null, tadalafil covers CSVD null/mixed plus anecdotes, and vardenafil covers healthy-adult null/negative data; keep the class as a negative/vascular comparator unless a new controlled cognition-positive result appears.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,796 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-18] coverage | SAMe identity gate tightened
+
+- Added and hashed a PubChem raw note for [[s-adenosyl-l-methionine]] identity, covering SAMe / SAM-e / ademetionine / AdoMet name normalization and multiple closely related PubChem records.
+- Updated [[s-adenosyl-l-methionine]] and [[one-carbon-methyl-donor-cognition-watchlist]] so chemical identity, salt/formulation identity, clinical efficacy, and methylation-stack anecdotes remain separate.
+- Updated `TODO.md` with the SAMe identity note.
+- Current read: the SAMe-adjacent branch remains low-confidence and status-gated. SAMe has depression/mood-state evidence, a small subjective MDD recall signal, and strong anecdotal salience, but it still lacks healthy-adult cognition proof and is counterweighted by AD/MCI null data plus serotonergic, bipolar, levodopa, formulation-quality, homocysteine/SAH, folate/B12/B6/B2, choline, creatine, and methyl-donor-stack gates.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,797 public pages, 0 broken links, 0 duplicates, and 0 orphans.
