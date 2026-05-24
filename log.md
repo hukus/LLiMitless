@@ -3017,3 +3017,10 @@
 - Added three raw notes for route interpretation: `raw/articles/alzdiscovery-2021-dihexa-route-safety.md`, `raw/articles/peptideprotocolwiki-2026-dihexa-route-no-human-protocol.md`, and `raw/articles/peptidewiki-2026-dihexa-subq-community-protocol-claim.md`.
 - Updated [[dihexa]] with an `Administration / Route Read` section separating formal rodent oral/i.p./i.c.v./i.v. route data, sciatic-nerve repair delivery routes, FDA no-human-exposure warning, conflicting internet protocol pages, and route-improvisation anecdotes.
 - Current read: Dihexa is usually discussed as orally active because the cognition literature used oral rodent dosing, but no human administration process is validated. Gray-market claims split across oral, sublingual, subcutaneous, intranasal, and DMSO/transdermal routes and should be treated as unverified protocol lore.
+
+## [2026-05-24] coverage | Retatrutide cognitive-effect watch node added
+
+- Added six raw notes covering Lilly Phase 3 TRIUMPH-1, TRANSCEND-T2D-1, and TRIUMPH-4 topline releases, the NEJM 2023 obesity Phase 2 paper, the ADDF Cognitive Vitality retatrutide cognition review, and 2025-2026 Reddit cognition/fatigue/brain-fog anecdotes.
+- Created [[retatrutide]] as a GIP/GLP-1/glucagon triple-agonist entity with formal cognition signal separated from anecdote. The current read is low-confidence and bidirectional: no Phase 3 cognition endpoint yet; anecdotal reports include mental clarity/brain-fog relief as well as fatigue, anhedonia, brain fog, memory/recall issues, and low motivation.
+- Updated [[incretin-therapies-brain-health]] and `index.md`.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,810 public pages, 0 broken links, 0 duplicates, and 0 orphans.

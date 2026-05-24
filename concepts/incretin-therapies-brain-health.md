@@ -1,10 +1,10 @@
 ---
 title: Incretin Therapies and Brain Health
 created: 2026-04-26
-updated: 2026-05-03
+updated: 2026-05-24
 type: concept
 tags: [metabolism, cognition, mechanism, clinical-trial, controversy]
-sources: [raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md, raw/articles/pubmed-41684077-glp1-autophagy-neurodegenerative-disorders.md, raw/articles/pubmed-41710720-gip-metabolic-neurodegenerative-disorders.md, raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md]
+sources: [raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md, raw/articles/pubmed-41684077-glp1-autophagy-neurodegenerative-disorders.md, raw/articles/pubmed-41710720-gip-metabolic-neurodegenerative-disorders.md, raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md, raw/articles/lilly-2026-retatrutide-triumph1-phase3-topline.md, raw/articles/lilly-2026-retatrutide-transcend-t2d1-phase3-topline.md, raw/articles/lilly-2025-retatrutide-triumph4-phase3-osteoarthritis.md, raw/articles/addf-2024-retatrutide-cognitive-vitality.md, raw/articles/reddit-2025-2026-retatrutide-cognition-fatigue-brainfog.md]
 confidence: medium
 ---
 
@@ -15,6 +15,8 @@ GLP-1 receptor agonists and related incretin biology are now relevant to brain-h
 The raw-note anchors for that discussion are `raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md`, `raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md`, `raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md`, `raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md`, `raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md`, and `raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md`.
 
 The strongest current signal is still phenotype-sensitive rather than a universal nootropic effect. In the primary human cognition set retrieved for this pass, the direct outcome evidence is GLP-1RA-driven; I did not find a human cognition-outcome trial for a GIP-based agent. The only cognition-primary registry lead I found was [[mazdutide]], but that is a GLP-1/glucagon dual agonist rather than a GIP agent. The result is a better-defined but more conflicted picture: plausible in selected phenotypes, not proven as a broad enhancer, and now clearly limited by negative late-stage AD and negative MCI readouts. That keeps this page at medium confidence for phenotype-sensitive brain-health relevance, but low confidence for any generic cognitive-boosting claim.
+
+[[retatrutide]] is now the high-salience triple-agonist watch item after Phase 3 topline readouts in obesity, type 2 diabetes, and knee osteoarthritis. Those readouts are strongly metabolic and pain/function positive, but they do not report cognition endpoints. A 2024 ADDF cognition review likewise found no retatrutide clinical or observational cognition studies. The only current retatrutide-specific cognition signal captured here is anecdotal and bidirectional: mental clarity / brain-fog relief on one side, fatigue / brain fog / anhedonia / memory-recall trouble on the other.^[raw/articles/lilly-2026-retatrutide-triumph1-phase3-topline.md]^[raw/articles/lilly-2026-retatrutide-transcend-t2d1-phase3-topline.md]^[raw/articles/lilly-2025-retatrutide-triumph4-phase3-osteoarthritis.md]^[raw/articles/addf-2024-retatrutide-cognitive-vitality.md]^[raw/articles/reddit-2025-2026-retatrutide-cognition-fatigue-brainfog.md]
 
 Relevant raw PubMed notes for the adjacent metabolic-brain comparator bucket: `raw/articles/pubmed-36530613-hypoglycemic-drugs-ad-mci-network-meta-analysis.md` and `raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md`.
 

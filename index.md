@@ -6,7 +6,7 @@ title: LLiMitless
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-24 | Total pages: 568
+> Last updated: 2026-05-24 | Total pages: 569
 
 Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[one-carbon-methyl-donor-cognition-watchlist]], [[bile-acid-neuroprotection-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[autonomic-pots-brain-fog-chemical-watchlist]], [[mast-cell-histamine-brain-fog-chemical-watchlist]], [[scfa-postbiotic-brain-fog-cognition-watchlist]], [[fixed-traditional-formula-cognition-watchlist]], [[traditional-mind-body-cognition-treatment-watchlist]], [[mineral-status-brain-fog-cognition-watchlist]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
 
@@ -200,6 +200,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[semaglutide]] — GLP-1RA metabolic-brain comparator with positive-adjacent T2DM/MDD signals counterweighted by primary-endpoint-negative MDD and AD phase 3 readouts.
 - [[exenatide]] — GLP-1RA negative-evidence comparator after weekly exenatide improved glucose/weight but not ADAS-Cog11 in MCI.
 - [[mazdutide]] — GLP-1/glucagon dual agonist with preclinical diabetes-associated cognition rescue and a recruiting cognition-primary LIGHT-COG human trial, but no posted human results.
+- [[retatrutide]] — GIP/GLP-1/glucagon triple agonist with strong Phase 3 metabolic and pain/function readouts, no formal cognition endpoint yet, and bidirectional clarity-versus-fatigue brain-fog anecdotes.
 - [[ketone-ester]] — exogenous ketone-body delivery branch with small pooled human cognition signal, mixed high-load trials, and formulation-sensitive interpretation.
 - [[kat-ii-inhibitors]] — kynurenic-acid-lowering target class with schizophrenia target-validity, BFF-816 preclinical logic, and TrypNAC-II registry-level human challenge data.
 - [[kisspeptin]] — CNS-active reproductive-axis peptide with hormone, imaging, anxiety-null, and preclinical state-circuitry data but no direct cognition endpoint yet.
