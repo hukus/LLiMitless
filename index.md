@@ -6,7 +6,7 @@ title: LLiMitless
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-18 | Total pages: 567
+> Last updated: 2026-05-24 | Total pages: 568
 
 Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-intervention-master-table]], [[molecule-intake-triage-table]], [[cognitive-improvement-molecule-signal-atlas]], [[most-promising-methods-for-cognition]], [[healthy-adult-cognition-signals]], [[one-standard-deviation-iq-proposal]], [[anecdotal-evidence-in-cognitive-intervention-research]], [[biohacker-anecdote-methodology]], [[anecdote-led-chemical-heat-map]], [[one-carbon-methyl-donor-cognition-watchlist]], [[bile-acid-neuroprotection-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[autonomic-pots-brain-fog-chemical-watchlist]], [[mast-cell-histamine-brain-fog-chemical-watchlist]], [[scfa-postbiotic-brain-fog-cognition-watchlist]], [[fixed-traditional-formula-cognition-watchlist]], [[traditional-mind-body-cognition-treatment-watchlist]], [[mineral-status-brain-fog-cognition-watchlist]], [[sleep-and-circadian-interventions-for-cognition]], [[adjunctive-interventions-for-cognition]], [[noninvasive-brain-stimulation-for-cognition]], and [[neurocognitive-interventions-under-study]]. These hub pages are the fastest way to move between the wiki's main clusters.
 
@@ -400,6 +400,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[redox-mitochondrial-cofactor-cognition-watchlist]] — conservative redox and mitochondrial-cofactor watchlist for NAC/[[glynac]], [[glutathione-products]], [[methylsulfonylmethane-msm]], CoQ10, [[nadh]], [[nad-plus-products]], [[niacin-nicotinamide-b3]], PQQ, and alpha-lipoic acid with medicinal, anecdotal, route, and safety signals separated.
 - [[racetam-comparison-2026-scan]] — class-level comparator set for aniracetam, fonturacetam / phenylpiracetam, bromantane, noopept, and PRL-8-53.
 - [[pineal-peptide-bioregulator-comparison]] — identity-normalized comparison of Epithalon, Pinealon, Semax, Selank, Cortexin, Kortagen, and Cerebrolysin.
+- [[oral-vs-subq-epithalon-pinealon-dihexa]] — route-efficacy comparison showing no direct oral-vs-subcutaneous human comparison, with oral Dihexa rodent data separated from Pinealon review claims and Epithalon circadian/longevity evidence.
 - [[energy-substrate-comparator-map]] — shared strain-state comparison of creatine, ketones, lactate, [[d-ribose]], [[berberine-dihydroberberine]], glucose stability, and caffeine.
 - [[cognition-intervention-master-table]] — master comparison table for the wiki's intervention families, with effect size, confidence, safety, cost, and freshness in one view.
 - [[active-sham-and-inertness-taxonomy]] — control-condition taxonomy separating inert placebo, sensory-matched sham, active comparator, withdrawal-reversal comparator, and state challenge.

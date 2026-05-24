@@ -2999,3 +2999,21 @@
 - Updated `TODO.md` with the SAMe identity note.
 - Current read: the SAMe-adjacent branch remains low-confidence and status-gated. SAMe has depression/mood-state evidence, a small subjective MDD recall signal, and strong anecdotal salience, but it still lacks healthy-adult cognition proof and is counterweighted by AD/MCI null data plus serotonergic, bipolar, levodopa, formulation-quality, homocysteine/SAH, folate/B12/B6/B2, choline, creatine, and methyl-donor-stack gates.
 - Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,797 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-05-24] query | Oral vs subq route-efficacy check for Epithalon, Pinealon, and Dihexa
+
+- Answered a route-efficacy query by creating [[oral-vs-subq-epithalon-pinealon-dihexa]].
+- Added two Dihexa integrity raw notes: `raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md` and `raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md`.
+- Updated [[dihexa]], [[dihexa-2026-scan]], and `index.md`.
+- Current read: no direct oral-vs-subcutaneous efficacy comparison is captured for any of the three. Oral Dihexa has the strongest route-specific animal cognition signal, but it remains preclinical and integrity-caveated. Pinealon has weak oral review-level and anecdotal recovery-state support. Epithalon remains circadian/longevity-first rather than cognition-efficacy-first, and subcutaneous claims are not controlled.
+
+## [2026-05-24] query update | Anecdote-only route matrix added
+
+- Updated [[oral-vs-subq-epithalon-pinealon-dihexa]] with an anecdote-only route matrix covering captured Epitalon/Epithalon, Pinealon, and Dihexa forum reports.
+- Current read: the anecdote layer is route-loose and bidirectional. Epitalon anecdotes cluster around sleep/brain-fog timing but include brain-fog and no-effect counterreports. Pinealon anecdotes cluster around sleep, TBI/hypoxia recovery, and next-day clarity, with explicit subcutaneous no-effect counter-signal. Dihexa anecdotes are mostly oral nonresponse, route improvisation, and high-upside framing rather than reproducible outcome reports.
+
+## [2026-05-24] entity update | Dihexa administration route read
+
+- Added three raw notes for route interpretation: `raw/articles/alzdiscovery-2021-dihexa-route-safety.md`, `raw/articles/peptideprotocolwiki-2026-dihexa-route-no-human-protocol.md`, and `raw/articles/peptidewiki-2026-dihexa-subq-community-protocol-claim.md`.
+- Updated [[dihexa]] with an `Administration / Route Read` section separating formal rodent oral/i.p./i.c.v./i.v. route data, sciatic-nerve repair delivery routes, FDA no-human-exposure warning, conflicting internet protocol pages, and route-improvisation anecdotes.
+- Current read: Dihexa is usually discussed as orally active because the cognition literature used oral rodent dosing, but no human administration process is validated. Gray-market claims split across oral, sublingual, subcutaneous, intranasal, and DMSO/transdermal routes and should be treated as unverified protocol lore.
