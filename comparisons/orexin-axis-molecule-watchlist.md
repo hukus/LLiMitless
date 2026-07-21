@@ -1,7 +1,7 @@
 ---
 title: Orexin Axis Molecule Watchlist
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-15
 type: comparison
 tags: [domain-medicine, cognition, sleep, performance, clinical-trial, dosage, safety, comparison, anecdote, mechanism]
 sources: [raw/articles/pubmed-40367374-oveporexton-narcolepsy-type-1.md, raw/articles/pubmed-41359331-orexin-agonist-cognition-narcolepsy-secondary-analysis.md, raw/articles/pubmed-37494485-oral-orexin-receptor-2-agonist-narcolepsy-type-1.md, raw/articles/pubmed-39804333-danavorexton-opioid-induced-respiratory-depression-sedation-healthy-men.md, raw/articles/pubmed-40552089-fazamorexant-first-in-human-study.md, raw/articles/pubmed-41622624-vornorexant-orexin-receptor-occupancy-human-pk.md, raw/articles/clinicaltrials-nct07267559-dorea-daridorexant-executive-function.md]
@@ -38,6 +38,8 @@ Oveporexton is the important positive branch because it has both the NT1 efficac
 - Keep `TAK-994` as a cautionary comparator because liver-safety problems dominate its interpretive value.
 - Keep [[daridorexant]] and the broader DORAs in the sleep-restoration lane until the healthy-volunteer daridorexant cognition registry posts results.
 - Do not compare orexin agonists to [[modafinil]] or [[solriamfetol]] without matching sleepiness state, endpoint, and safety monitoring.
+
+June 2026 wakefulness-state attribution gate: orexin agonist, H3 inverse-agonist, and DORA reports need diagnosis or sleep-state context before they can change nootropic rankings. Capture NT1/NT2/OSA/insomnia/sedation model or healthy status, baseline ESS/MWT/PVT or sleepiness severity, prior night's sleep and sleep debt, circadian phase, dose and timing, trial versus gray-market or prescription status, liver enzymes where orexin agonists are involved, insomnia/abnormal dreams/next-day somnolence, stimulant or sedative co-use, washout from caffeine and wake-promoters, and objective attention, memory, executive-function, driving, or work-output endpoints. Route reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparing this branch with [[bromantane]], [[semax]], [[selank]], [[cerebrolysin]], or stimulant-adjacent nootropics.
 
 ## Current Read
 

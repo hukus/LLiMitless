@@ -1,7 +1,7 @@
 ---
 title: Dihexa
 created: 2026-04-27
-updated: 2026-05-24
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, peptides, neuroscience, mechanism, preclinical, controversy, safety, dosage, protocol, anecdote]
 sources: [raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md, raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md, raw/articles/pubmed-25649658-hgf-cmet-dihexa-alzheimers.md, raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md, raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md, raw/articles/alzdiscovery-2021-dihexa-route-safety.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/peptideprotocolwiki-2026-dihexa-route-no-human-protocol.md, raw/articles/peptidewiki-2026-dihexa-subq-community-protocol-claim.md, raw/articles/reddit-2026-04-29-dihexa-thread.md, raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md]
@@ -10,7 +10,9 @@ confidence: low
 
 # Dihexa
 
-Dihexa is an AngIV-analog peptide that sits at the sharpest speculative edge of the peptide-cognition map. It deserves more attention than a generic fringe peptide because the formal route-specific animal story is unusually explicit and the community keeps returning to it as a high-upside "rewiring" candidate. It does not deserve more confidence yet: as of 2026-05-24, I still did not surface a published human cognition trial or a visible ClinicalTrials.gov development program for Dihexa.
+Dihexa is an AngIV-analog peptide that sits at the sharp speculative edge of the peptide-cognition map. It deserves continued tracking because the route-specific animal story is unusually explicit and the community keeps returning to it as a high-upside "rewiring" candidate. It should not sit in the strongest current anecdote-priority tier: as of 2026-05-24, I still did not surface a published human cognition trial or a visible ClinicalTrials.gov development program for Dihexa.
+
+June 2026 read: Dihexa has `moderate high-upside rewiring salience, low-to-very-low human confidence`. It should be visible in nootropic-peptide routing because the lore is unusually persistent and mechanism-specific, but it should be de-ranked for practical cognition claims because human exposure is missing, route lore is unsettled, FDA flags no identified human-exposure data for Dihexa acetate, and the founding oral/HGF-c-Met story is now integrity-caveated.
 
 Evidence-integrity update: the foundational 2013 JPET paper that anchors oral and intraperitoneal rodent procognitive claims now has a 2021 Notice of Concern, and the 2014 HGF/c-Met mechanistic paper has a 2025 retraction notice. This does not erase the independent 2021 APP/PS1 and sciatic-nerve animal papers, but it means Dihexa's mechanism and oral efficacy story should be read as provisional, not cleanly validated.^[raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md]^[raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md]^[raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]^[raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md]
 
@@ -38,14 +40,16 @@ Practical wiki wording: Dihexa is usually discussed as an orally active research
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Dihexa may be a high-upside long-cycle "rewiring" peptide | anecdote | `raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md`; Reddit comparison thread | 1 long post plus multiple comments; moderate | Compared against Semax; dose, cycling, and source-quality discussion | low | Mostly mechanistic paraphrase and sourcing talk, not controlled outcome reporting |
-| Oral Dihexa often feels subtle or unclear, with heavy route speculation | anecdote | `raw/articles/reddit-2026-04-29-dihexa-thread.md`; Reddit thread | 1 thread; weak | Oral, nasal, DMSO, transdermal, and sublingual speculation | low | More delivery troubleshooting than reproducible efficacy evidence |
+| Dihexa may be a high-upside long-cycle "rewiring" peptide | `forum anecdote` / vendor-linked discussion | `raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md`; Reddit comparison thread | one long post plus multiple comments; `moderate` | Compared against Semax; dose, cycling, source quality, theoretical brain repair, practical peptide choice | low | Mostly mechanistic paraphrase and sourcing talk, not controlled outcome reporting. |
+| Oral Dihexa often feels subtle or unclear, with heavy route speculation | `forum anecdote` | `raw/articles/reddit-2026-04-29-dihexa-thread.md`; Reddit thread | one thread; `weak` | Oral nonresponse or subtle response; nasal, DMSO/transdermal, sublingual, enteric, and subcutaneous speculation | low | More delivery troubleshooting than reproducible efficacy evidence; no human PK route anchor. |
+| Dihexa can produce dramatic memory / learning claims in long self-experiment stories | `forum anecdote` | `[[nootropic-peptide-anecdote-frontier-2026-scan]]`; Reddit long-term experience summarized from captured frontier scan | one long-form report; `moderate` as salience, `weak` as evidence | Memory, logic, academic performance, procedural learning, long-cycle self-experimentation | low | Single-subject, uncontrolled, old report; product identity, expectancy, life-context, and selective reporting dominate. |
+| Dihexa is a validated human nootropic or protocol-ready peptide | `anecdote-to-formal mismatch` | `[[dihexa-2026-scan]]`, `[[peptide-regulatory-live-watch-board]]`, and `raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md`; synthesis plus regulator source | `weak` for human efficacy despite `moderate` frontier salience | Gray-market nootropic-peptide stacks, oral-versus-subq debate, HGF/MET / synaptogenic framing | low | No published human cognition trial, no human PK/safety series, FDA no-human-exposure visibility, and integrity caveats on the founding oral/HGF-c-Met story. |
 
 ## Frontier Read
 
-Dihexa is one of the few peptides that still merits a front-rank watch position even with `low confidence`. The reason is not that the evidence is broad. The reason is that a coherent synaptogenic mechanism, repeated rodent memory signals, and persistent community salience have all survived multiple years without disappearing. That makes Dihexa a serious frontier hypothesis, not a validated human enhancer.^[raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md]^[raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]^[raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md]
+Dihexa still merits a visible watch position, but now as a de-ranked frontier hypothesis rather than a front-rank nootropic lead. The reason to keep it visible is that a coherent synaptogenic mechanism, repeated rodent memory signals, and persistent community salience have all survived multiple years without disappearing. The reason to de-rank it is stronger: missing human exposure, route uncertainty, FDA no-human-exposure visibility, and integrity caveats on the founding oral/HGF-c-Met story.^[raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md]^[raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]^[raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md]^[raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md]^[raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md]
 
 The important distinction is `upcoming in community imagination` versus `upcoming in formal development`. Dihexa currently looks like the first and not the second. The current FDA bulk-compounding page reinforces that by saying Dihexa acetate has no identified human exposure data, which keeps the branch in a research-compound bucket rather than a clinically translated one.^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 

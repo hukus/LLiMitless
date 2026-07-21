@@ -1,7 +1,7 @@
 ---
 title: Tesofensine
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/pubmed-18474731-tesofensine-advanced-parkinson-advans.md, raw/articles/pubmed-18950853-tesofensine-obesity-phase2.md, raw/articles/pubmed-20479765-tesofensine-energy-metabolism-appetite.md, raw/articles/pubmed-24239329-tesofensine-dat-occupancy-pet.md, raw/articles/pmc-2000606-tesofensine-alzheimers-pk-phase2.md, raw/articles/endotext-2026-tesofensine-obesity-pharmacotherapy.md, raw/articles/saniona-2025-annual-report-tesomet-tesofensine.md, raw/articles/saniona-2024-mexico-tesofensine-not-approved.md, raw/articles/saniona-2026-tesofensine-pipeline-status.md, raw/articles/saniona-2026-tesomet-pipeline-status.md, raw/articles/reddit-2025-2026-tesofensine-focus-energy-threads.md, raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
@@ -32,7 +32,7 @@ Regulatory / development read: tesofensine has not become a general cognition me
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Tesofensine improves executive function, task initiation, focus, emotional steadiness, and caffeine reliance | `forum anecdote` | raw/articles/reddit-2025-2026-tesofensine-focus-energy-threads.md; Reddit /r/Nootropics | one detailed multi-month report plus update; `moderate` salience | AuDHD-like executive dysfunction, 0.25-0.5 mg dosing, off-label use | low | Single user, neurodivergent baseline, vendor sourcing, weight/appetite change, caffeine reduction, and expectation all confound attribution |
 | Tesofensine can feel strongly stimulant-like or joyless | `forum adverse/counterreport` | raw/articles/reddit-2025-2026-tesofensine-focus-energy-threads.md; Reddit comments | multiple counterreports; `weak-moderate` | 0.25-0.5 mg style self-experimentation | low | Long half-life and dose accumulation dominate; no product verification or objective sleep/cognition testing |
@@ -44,9 +44,10 @@ Regulatory / development read: tesofensine has not become a general cognition me
 - Watch insomnia, dry mouth, GI effects, appetite suppression, dehydration, HR/BP, anxiety, mood flattening/anhedonia, neuropsychiatric activation, stimulant/caffeine stacking, serotonergic or dopaminergic medications, cardiovascular history, renal function, and product identity.^[raw/articles/pubmed-18950853-tesofensine-obesity-phase2.md]^[raw/articles/endotext-2026-tesofensine-obesity-pharmacotherapy.md]
 - Sports/status signal: the captured WADA 2026 stimulant-list note names tesofensine in S6.B specified stimulants, so athlete-facing discussions should treat it as sports-visible even before any nootropic interpretation.^[raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
 - Do not infer cognitive benefit from weight loss, appetite suppression, or reduced food noise. Those may improve perceived energy in some users while worsening sleep, hydration, anxiety, or nutrient intake in others.
+- Route tesofensine anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting executive-function or focus reports, because long half-life, dose accumulation, caffeine reduction, hydration, appetite, sleep, and source identity can dominate the signal.
 
 ## Current Route
 
-Tesofensine belongs in [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]] and [[stimulant-adjacent-dopamine-precursor-watchlist]] as a high-salience, low-confidence, safety-constrained monoamine-reuptake branch. Its nearest practical comparators are [[solriamfetol]], [[methylphenidate]], [[modafinil]], [[p-synephrine]], and [[yohimbine]], while withdrawn anorectic comparators should route through [[regulatory-and-sports-visibility-map]].
+Tesofensine belongs in [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]] and [[stimulant-adjacent-dopamine-precursor-watchlist]] as a high-salience, low-confidence, safety-constrained monoamine-reuptake branch. Its nearest practical comparators are [[solriamfetol]], [[methylphenidate]], [[modafinil]], [[p-synephrine]], and [[yohimbine]], while withdrawn anorectic comparators should route through [[regulatory-and-sports-visibility-map]] and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 Current verdict: track it, but keep it below established wakefulness comparators and below direct cognition-positive branches until a controlled cognition endpoint appears.

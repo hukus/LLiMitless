@@ -1,7 +1,7 @@
 ---
 title: Desmopressin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, peptides, clinical-trial, safety, protocol, anecdote, controversy]
 sources: [raw/articles/pubmed-3762902-vasopressin-desmopressin-memory-healthy-volunteers.md, raw/articles/pubmed-6494028-vasopressin-analog-ddavp-improves-memory-human-males.md, raw/articles/pubmed-3602225-vasopressin-memory-short-term-recall-alcohol-amnesia.md, raw/articles/pubmed-9364618-vasopressin-memory-older-humans.md, raw/articles/dailymed-desmopressin-acetate-spray-label.md, raw/articles/reddit-2026-04-29-desmopressin-memory-enhancement-thread.md, raw/articles/reddit-2026-04-29-desmopressin-source-thread.md, raw/articles/reddit-2026-04-29-desmopressin-hypovolemic-pots-thread.md]
@@ -32,9 +32,11 @@ The broader vasopressin memory trail adds context rather than confidence. A 1987
 
 The desmopressin anecdote layer is weak for cognition. A r/Nootropics memory-enhancement thread is explicitly a curiosity and risk discussion rather than an efficacy report; a sourcing thread shows rumor propagation; a POTS thread reports blood-pressure and standing-heart-rate symptom changes in a hypovolemic context, not cognition.^[raw/articles/reddit-2026-04-29-desmopressin-memory-enhancement-thread.md]^[raw/articles/reddit-2026-04-29-desmopressin-source-thread.md]^[raw/articles/reddit-2026-04-29-desmopressin-hypovolemic-pots-thread.md]
 
+June 2026 attribution gate: desmopressin stays a risk-first old-memory comparator and POTS/hypovolemia symptom-context molecule, not a modern nootropic. Future reports need prescription/product identity, route/formulation and nasal-mucosa context, dose timing, fluid intake/restriction, sodium monitoring, renal/hyponatremia history, BP/vasoconstrictor context, rapid weight/fluid change, POTS or hypovolemia phenotype, adverse symptoms, and objective memory endpoints before any ranking comparison with [[vasopressin]], [[oxytocin]], [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Desmopressin as a memory enhancer | anecdote | raw/articles/reddit-2026-04-29-desmopressin-memory-enhancement-thread.md; Reddit r/Nootropics | one thread; weak | curiosity-driven nootropic thread | low | OP frames water-retention/homeostasis risk and notes lack of good reports |
 | Desmopressin sourcing / memory belief | anecdote | raw/articles/reddit-2026-04-29-desmopressin-source-thread.md; Reddit r/Nootropics | one thread; weak | sourcing discussion and rumor propagation | low | Procurement interest is not efficacy evidence |
@@ -43,6 +45,8 @@ The desmopressin anecdote layer is weak for cognition. A r/Nootropics memory-enh
 ## Safety And Status
 
 The DailyMed label is the central interpretation gate. Desmopressin nasal spray is indicated for central diabetes insipidus, not cognition. The label contraindicates use in renal impairment or hyponatremia/history of hyponatremia, warns about fluid restriction and sodium monitoring, and notes unpredictable absorption with nasal-mucosa abnormalities. It also flags blood-pressure interactions with vasoconstrictors.^[raw/articles/dailymed-desmopressin-acetate-spray-label.md]
+
+Route desmopressin anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpretation. The main gates are serum sodium, fluid intake/restriction, rapid weight change, headache/nausea/confusion, renal status, nasal absorption, POTS/hypovolemia context, vasoconstrictors/BP, and whether the reported benefit is orthostatic symptom relief rather than memory.
 
 ## Signal Judgment
 
@@ -57,5 +61,8 @@ Practical route: risk-first / deprioritize as a nootropic; any use belongs in pr
 - [[oxytocin-vasopressin-desmopressin-social-memory-2026-scan]]
 - [[vasopressin]]
 - [[oxytocin]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
 - [[self-experimentation-stop-rules]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

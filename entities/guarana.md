@@ -1,7 +1,7 @@
 ---
 title: Guarana
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, performance, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-9865053-guarana-cognition-meta-analysis.md, raw/articles/pubmed-36678305-guarana-cognition-meta-analysis.md, raw/articles/pubmed-16533867-guarana-acute-multidose-rct.md, raw/articles/pubmed-18077056-guarana-multivitamin-fatigue-rct.md, raw/articles/pubmed-24067387-guarana-multivitamin-fmri-rct.md, raw/articles/pubmed-26225993-mvm-guarana-fasted-exercise-rct.md, raw/articles/pmc-11206275-guarana-caffeine-mental-performance-rct.md, raw/articles/ncbi-bookshelf-2023-livertox-guarana.md, raw/articles/fda-caffeine-too-much-safety.md, raw/articles/reddit-2020-guarana-vs-extract-thread.md, raw/articles/reddit-2021-guarana-extract-caffeine-stack-thread.md]
@@ -44,7 +44,7 @@ Safety and product-quality signal: `moderate caffeine-product caution`. LiverTox
 
 Guarana belongs below [[caffeine]] in [[molecule-intake-triage-table]]. Its most defensible use in the wiki is as a caffeine-containing botanical whose extra compounds may modify tolerability, response time, or fatigue-state performance in some products, not as an independent memory enhancer. Any future upgrade requires matched-caffeine trials with verified caffeine/xanthine content, sleep timing, tolerance/withdrawal controls, and objective cognitive endpoints.
 
-For future updates, keep these exposures separate: guarana seed powder, standardized PC-102-like extract, caffeine-standardized guarana extract, energy-drink guarana, multivitamin / mineral / guarana products, and isolated caffeine controls. If a product label reports caffeine, treat that as a hypothesis until assay or reliable certification confirms the actual dose.
+For future updates, route guarana reports through [[safety-interaction-matrix-for-multi-modal-stacks]] and keep these exposures separate: guarana seed powder, standardized PC-102-like extract, caffeine-standardized guarana extract, energy-drink guarana, multivitamin / mineral / guarana products, and isolated caffeine controls. If a product label reports caffeine, treat that as a hypothesis until assay or reliable certification confirms the actual dose. The main interpretation gates are cumulative caffeine/methylxanthine load, label mismatch, sleep timing, tolerance or withdrawal reversal, BP/HR, anxiety or panic sensitivity, energy-drink/preworkout co-use, and whether the report is really about avoiding coffee rather than adding guarana.
 
 ## Related Pages
 
@@ -52,6 +52,7 @@ For future updates, keep these exposures separate: guarana seed powder, standard
 - [[l-theanine]]
 - [[theacrine]]
 - [[stimulant-adjacent-dopamine-precursor-watchlist]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[plant-active-substance-product-watchlist]]
 - [[polyphenol-nrf2-cognition-watchlist]]
 - [[molecule-intake-triage-table]]

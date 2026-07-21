@@ -1,7 +1,7 @@
 ---
 title: Memantine
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, dosage, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-17117395-memantine-age-associated-memory-impairment.md, raw/articles/dailymed-2021-memantine-hydrochloride-label.md, raw/articles/reddit-2020-memantine-one-month-thread.md]
@@ -30,13 +30,15 @@ The captured Reddit thread gives memantine a `moderate` anecdotal salience signa
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Memantine can transiently improve anhedonia, focus, or tolerance-like states | anecdote | raw/articles/reddit-2020-memantine-one-month-thread.md; Reddit /r/Nootropics | one high-visibility thread with mixed replies; moderate | low-dose daily memantine, mood/focus claims, dose escalation | low | Long half-life, accumulation, migraine, dissociation, psychiatric confounding |
 
 ## Safety And Status
 
 Memantine should stay prescription-first. Nootropic use often underweights its long half-life, accumulation, confusion/dizziness risk, and interaction risk with other NMDA antagonists.
+
+Route stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading any anecdote. The main attribution gates are dose escalation, delayed accumulation, renal/urine-pH changes, sleep debt, cannabis or dissociative co-use, other NMDA antagonists, psychiatric baseline, and whether "tolerance reset" reports are really withdrawal or state changes.
 
 ## Signal Judgment
 
@@ -52,3 +54,4 @@ Practical route: prescription comparator and risk-gated experimental/nootropic c
 - [[nmda-coagonist-glyt1-daao-cognition-2026-scan]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[anecdote-led-chemical-heat-map]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

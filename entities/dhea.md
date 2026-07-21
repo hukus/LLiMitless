@@ -1,7 +1,7 @@
 ---
 title: DHEA
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-18482290-dhea-dawn-trial.md]
@@ -30,13 +30,15 @@ No DHEA-specific cognition anecdote raw note is currently indexed. Public claims
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | DHEA improves mental energy or cognition | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; weak | anti-aging / hormone-state supplement discourse | low | DAWN is cognition-null; subjective vitality claims can reflect mood, libido, sleep, or expectancy |
 
 ## Safety And Status
 
 For cognition tracking, DHEA should be routed through endocrine and product-identity gates before any benefit claim is considered. Hormone-sensitive adverse effects, sex-specific responses, lab context, and product quality matter more than the current cognition signal.
+
+Use [[safety-interaction-matrix-for-multi-modal-stacks]] for DHEA anecdotes that mix vitality, libido, sleep, adrenal-state language, training, or anti-aging expectations with cognition. The DAWN cognition-null result should remain the default anchor unless objective cognitive endpoints and baseline hormone status are captured.
 
 ## Signal Judgment
 
@@ -51,5 +53,5 @@ Practical route: negative endocrine comparator; do not upgrade anti-aging or vit
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]]
 - [[pregnenolone]]
 - [[testosterone-trt]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
-

@@ -1,7 +1,7 @@
 ---
 title: Ashwagandha
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, traditional-medicine, clinical-trial, dosage, safety, comparison]
 sources: [raw/articles/pubmed-40099725-ashwagandha-mci-rct.md, raw/articles/pubmed-40099725-ashwagandha-sominone-mci-rct.md, raw/articles/ctgov-nct04092647-ashwagandha-cognitive-dysfunction.md]
@@ -25,4 +25,6 @@ Ashwagandha is a standardized botanical candidate whose cognition signal is curr
 
 Ashwagandha belongs in [[standardized-herbal-extracts-for-cognition]] as an MCI/product-specific candidate. It should not be merged with generic anxiety, sleep, testosterone, or stress anecdotes unless objective cognition endpoints and product identity are available.
 
-Related pages: [[bacopa]], [[grape-extract]], [[curcumin]], [[ginseng]], [[botanical-standardization-gate]], and [[cognitive-improvement-molecule-signal-atlas]].
+Route ashwagandha / Sominone claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting stress relief, sleep, testosterone/vitality, chemotherapy-brain-fog, or MCI-memory reports as direct cognition. The first gates are extract identity, withanolide/Sominone profile, impairment phenotype, sleep or anxiety mediation, thyroid/liver/GI symptoms, sedative/stimulant co-use, and whether the product matches the clinical source.
+
+Related pages: [[bacopa]], [[grape-extract]], [[curcumin]], [[ginseng]], [[botanical-standardization-gate]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[cognitive-improvement-molecule-signal-atlas]].

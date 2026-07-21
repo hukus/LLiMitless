@@ -1,9 +1,9 @@
 ---
 title: Intranasal Insulin 2024-2026 Scan
 created: 2026-04-27
-updated: 2026-05-12
+updated: 2026-06-15
 type: query
-tags: [cognition, metabolism, clinical-trial, safety, controversy, protocol, biomarker, comparison]
+tags: [cognition, metabolism, peptides, clinical-trial, safety, controversy, protocol, biomarker, comparison]
 sources: [raw/articles/pubmed-36219990-intranasal-insulin-cbf-cognition-adults-systematic-review.md, raw/articles/pubmed-37379265-intranasal-insulin-cognition-humans.md, raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md, raw/articles/pubmed-41436338-intranasal-insulin-mci-ad-systematic-review-meta-analysis.md, raw/articles/pubmed-23507773-intranasal-insulin-sex-apoe-differences.md, raw/articles/pubmed-25374101-intranasal-insulin-detemir-mci-ad.md, raw/articles/pubmed-24101698-intranasal-insulin-type2-diabetes-vasoreactivity-cognition.md, raw/articles/pubmed-35482079-memaid-intranasal-insulin-type2-diabetes-control-rct.md, raw/articles/pubmed-39216470-intranasal-insulin-perioperative-cognitive-function-older-adults.md, raw/articles/pubmed-39911448-intranasal-insulin-postoperative-delirium-older-joint-replacement.md, raw/articles/pubmed-40359848-intranasal-insulin-postop-sleep-cardiac-surgery.md, raw/articles/pubmed-41146035-intranasal-insulin-hip-fracture-delirium.md, raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md, raw/articles/pubmed-41091693-long-acting-intranasal-insulin-delirium-rct.md, raw/articles/pubmed-40253245-intranasal-insulin-multiple-sclerosis-cognition.md, raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md, raw/articles/pubmed-41720686-intranasal-insulin-perioperative-delirium-meta.md, raw/articles/sage-2026-intranasal-insulin-postoperative-delirium-meta.md, raw/articles/pubmed-41057918-intranasal-insulin-empagliflozin-mci-early-ad.md, raw/articles/pubmed-39558506-high-dose-intranasal-insulin-healthy-human-participants.md]
 confidence: medium
 ---
@@ -17,6 +17,8 @@ Intranasal insulin no longer reads as a broad chronic enhancer story. The latest
 The more interesting modern readout is perioperative neurocognitive protection: a 2025 cardiac-surgery RCT, a 2025 hip-fracture RCT, and two 2026 meta-analyses now point to lower postoperative delirium, better short-term cognition or POCD prevention, and lower inflammatory markers in surgical patients.^[raw/articles/pubmed-40359848-intranasal-insulin-postop-sleep-cardiac-surgery.md]^[raw/articles/pubmed-41146035-intranasal-insulin-hip-fracture-delirium.md]^[raw/articles/pubmed-41720686-intranasal-insulin-perioperative-delirium-meta.md]^[raw/articles/sage-2026-intranasal-insulin-postoperative-delirium-meta.md]
 
 Metabolic and phenotype-sensitive mechanisms remain plausible, especially in T2DM/insulin resistance and in older or perioperative states, but the branch should now be framed as state-specific rather than disease-agnostic.^[raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md]^[raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md]
+
+June 2026 attribution gate: route any intranasal-insulin cognition, clarity, perioperative, metabolic-combo, or stimulation-combo claim through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[device-parameter-worksheet-for-self-study-and-protocol-review]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]]. Minimum fields are insulin type/analog, delivery device, spray volume/dose per nostril, total dose, timing, phenotype, glucose/hypoglycemia monitoring, nasal status, APOE/sex/cognitive-status context when relevant, co-interventions, adverse events, and objective cognition or delirium endpoints.
 
 What changed since 2024:
 
@@ -107,10 +109,12 @@ The latest MCI/AD meta-analysis adds a small safety wrinkle: gastrointestinal ad
 - Very high doses are not automatically benign; the healthy-volunteer escalation study showed episodic hypoglycemia at 600 U even though mean glucose stayed stable.
 - Device choice is no longer a footnote: the PET validation study suggests that brain exposure depends on the delivery system and responder physiology, so older trial heterogeneity may partly reflect pharmacokinetic differences rather than pure pharmacology.
 - Healthy-adult and younger-adult cognitive claims remain weak compared with the perioperative or metabolically vulnerable cohorts.
+- De-rank consumer nootropic or self-study claims by default when they do not identify the delivery device, meal/glucose state, dose timing, and objective endpoint; `intranasal` alone is not enough exposure detail.
 
 ## Actionable Wiki Updates
 
 - Update [[intranasal-insulin-and-cognition]] with the 2025-2026 split: chronic MCI/AD null versus perioperative protection.
+- Keep the June 2026 routing gate synchronized with [[delivery-validation-checklist-for-cognition-interventions]], [[device-parameter-worksheet-for-self-study-and-protocol-review]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]].
 - Update [[adjunctive-interventions-for-cognition]] so intranasal insulin reads as a state-specific metabolic-brain candidate, not a broad chronic enhancer.
 - Update [[negative-evidence-watchlist-for-cognition-interventions]] so the latest MCI/AD meta-analysis replaces older optimism.
 - Consider a follow-on comparison note for intranasal insulin versus incretin-based metabolic-brain approaches, especially if the perioperative branch keeps strengthening.

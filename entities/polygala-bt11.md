@@ -1,7 +1,7 @@
 ---
 title: Polygala / BT-11
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, traditional-medicine, herbal-medicine, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubmed-19699261-polygala-bt11-elderly-cognition.md, raw/articles/pubmed-40213691-natural-extracts-healthy-adults-network-meta-analysis.md, raw/articles/nci-2026-pdc1421-drug-dictionary.md, raw/articles/clinicaltrials-2026-nct01774045-pdc1421-phase1-safety.md, raw/articles/clinicaltrials-2026-nct02395978-pdc1421-mdd-results.md, raw/articles/clinicaltrials-2026-nct05202327-pdc1421-adhd-no-results.md, raw/articles/pubmed-38873413-polygalae-radix-toxicology-review.md, raw/articles/reddit-2023-polygala-12-week-report.md]
@@ -36,7 +36,7 @@ The adult-ADHD phase 2 trial is the current attention-relevant watch item. It co
 
 ## Anecdote Ledger
 
-| Claim | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Polygala can feel anxiolytic, mood-smoothing, or motivating | `anecdote` | raw/articles/reddit-2023-polygala-12-week-report.md; Reddit /r/Nootropics | one long report plus replies; `strong` salience | 100 mg 2-3x/day, mostly sublingual, 12-week self-experiment | low | Subjective, unblinded, route-specific, and likely state-dependent |
 | Cognitive benefit is often secondary to anxiety/mood state | `anecdote` | raw/articles/reddit-2023-polygala-12-week-report.md; Reddit /r/Nootropics | thread-level pattern; `moderate` cognition relevance | calm-focus, mood stabilization, libido, late sleep disruption | low | Anxiety relief can masquerade as better cognition |
@@ -52,4 +52,6 @@ The broader Polygalae Radix review is the main product-chemistry caution. It rep
 
 [[polygala-bt11]] is now a standalone low-confidence entity because it has more than anecdote: a small direct cognition RCT, a healthy-adult extract-level meta-analytic signal, official PDC-1421 trial exposure data, and a real community corpus. It still should not be ranked as a top-tier cognitive enhancer. The most defensible route is product-specific, state-dependent calm-focus or mood/attention restoration, with healthy-adult objective cognition still uncertain.
 
-Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[standardized-herbal-extracts-for-cognition]], [[traditional-medicine-cognition-2026-scan]], [[plant-active-substance-product-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], and [[biohacker-anecdote-methodology]].
+Route Polygala / BT-11 / PDC-1421 anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting calm-focus, motivation, anxiety relief, sleep, libido, or attention reports as direct cognition; the first gates are product identity, route, dose, mood/anxiety state, sleep disruption, GI/throat irritation, liver/potassium signals, stimulant/sedative stack context, and unpublished ADHD-result status.
+
+Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[standardized-herbal-extracts-for-cognition]], [[traditional-medicine-cognition-2026-scan]], [[plant-active-substance-product-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[biohacker-anecdote-methodology]].

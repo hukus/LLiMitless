@@ -1,7 +1,7 @@
 ---
 title: Methylene Blue
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, biomarker, anecdote, controversy]
 sources: [raw/articles/pubmed-27351678-methylene-blue-human-brain-fmri.md, raw/articles/pubmed-26961091-methylene-blue-functional-connectivity-human-brain.md, raw/articles/pubmed-25018057-methylene-blue-claustrophobia-contextual-memory.md, raw/articles/pubmed-28686823-methylene-blue-ptsd-exposure-rct.md, raw/articles/pubmed-25550228-methylthioninium-phase2-ad.md, raw/articles/pubmed-27863809-lmtm-phase3-ad-negative.md, raw/articles/clinicaltrials-nct02380573-methylene-blue-results-posted.md, raw/articles/clinicaltrials-nct02380573-mb2-results-api-2026-05-04.md, raw/articles/dailymed-methylene-blue-injection-label-2026.md, raw/articles/ncbi-bookshelf-2026-methylene-blue-statpearls.md, raw/articles/pubmed-40879922-methylene-blue-tbi-mice-spatial-working-memory.md, raw/articles/nature-2025-methylene-blue-postoperative-delirium-mice.md, raw/articles/pubmed-33549685-methylene-blue-photobiomodulation-hepatic-encephalopathy.md, raw/articles/bmc-2020-methylene-blue-photobiomodulation-neuroprotection-review.md, raw/articles/reddit-2026-01-23-methylene-blue-capsules-focus-thread.md, raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md, raw/articles/troof-nootropics-ratings-analysis.md]
@@ -13,6 +13,8 @@ contradictions: []
 # Methylene Blue
 
 Methylene blue is the main small-molecule case where community nootropic heat overlaps with a narrow human memory and imaging signal. The right reading is not "general enhancer"; it is a safety-constrained redox / consolidation candidate whose benefit depends heavily on dose, formulation, learning context, exclusion criteria, and whether the outcome is healthy enhancement or recovery-state support.
+
+June 2026 anecdote read: `strong redox/nootropic salience with narrow formal anchor`. Methylene blue should now sit beside the strongest anecdote-led nootropic signals because Troof-scale community heat, a current capsule-focus report, and red/NIR stack experimentation all point in the same direction of user interest. That still does not make it a broad enhancer: the formal human cognition layer remains small, task/context-dependent, and tightly safety-screened, while the strongest practical signal may be memory consolidation after a learning/exposure session rather than everyday stimulation.
 
 ## Medicinal Signal
 
@@ -30,6 +32,7 @@ Methylene blue is the main small-molecule case where community nootropic heat ov
 | Methylene blue improves energy, focus, or memory | `community survey` | raw/articles/troof-nootropics-ratings-analysis.md; structured community ratings analysis | 2,802 people / 36,163 ratings; `very-high` as a broad nootropic-survey source, compound-specific denominator not exposed in this note | Nootropic / mitochondrial / redox use | low | Self-selection, dose/formulation uncertainty, serotonergic medication exclusions, and product-quality issues |
 | Methylene blue capsules improve focus and energy | `forum anecdote` | raw/articles/reddit-2026-01-23-methylene-blue-capsules-focus-thread.md; Reddit monotherapy self-report | `weak-to-moderate` current salience | Consumer capsule use | low | Short duration, no objective testing, uncertain dose/product identity, and no safety-screening verification |
 | Methylene blue plus red/NIR light improves energy or training | `forum anecdote` | raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md; Reddit combination thread | `weak` for direct combination | MB plus red/NIR light and exercise/preworkout cofactors | low | Combination attribution is not possible; keep in [[methylene-blue-plus-light-redox-interaction-scan]] |
+| Methylene blue is a general daily nootropic | `anecdote-to-formal mismatch` | [[anecdote-signal-ledger]] and [[methylene-blue-2026-scan]] | `weak` as broad efficacy despite `strong` salience | Healthy-adult enhancement, longevity/wellness capsules, mitochondrial stacks | low | Human signals are small, screened, dose-specific, and task-dependent; label-level serotonin-syndrome and G6PD gates make casual use a category error |
 
 ## Safety And Exclusions
 

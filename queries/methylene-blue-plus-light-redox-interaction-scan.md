@@ -1,7 +1,7 @@
 ---
 title: Methylene Blue Plus Light Redox Interaction Scan
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: query
 tags: [domain-medicine, cognition, light-therapy, mechanism, safety, dosage, anecdote, comparison, controversy, clinical-trial]
 sources: [raw/articles/ncbi-bookshelf-2026-methylene-blue-statpearls.md, raw/articles/dailymed-methylene-blue-injection-label-2026.md, raw/articles/pubmed-27351678-methylene-blue-human-brain-fmri.md, raw/articles/pubmed-26961091-methylene-blue-functional-connectivity-human-brain.md, raw/articles/pubmed-40822571-tpbm-systematic-review-sleep-wakefulness-cognition.md, raw/articles/pubmed-33549685-methylene-blue-photobiomodulation-hepatic-encephalopathy.md, raw/articles/bmc-2020-methylene-blue-photobiomodulation-neuroprotection-review.md, raw/articles/pubmed-26029050-methylene-blue-near-infrared-neuroprotection-opinion.md, raw/articles/pubmed-32716711-photobiomodulation-cco-no-evidence-review.md, raw/articles/pubmed-38845020-methylene-blue-photodynamic-therapy-animal-review.md, raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md]
@@ -43,7 +43,7 @@ The safety gate dominates the practical read: current clinical references and th
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | MB plus red/NIR light improves workout performance | anecdote | raw/articles/reddit-2025-methylene-blue-red-light-gym-thread.md; Reddit forum thread | one visible thread, +52 votes; `weak` | About 3 mg MB plus short red/NIR light exposure before strength training | low | Exercise day variability, citrulline, tadalafil, other supplement discussion, no blinding, no cognitive endpoint. |
 | MB improves focus/energy/brain fog when used near light or outdoors | anecdote | same thread plus broader MB comments inside it | repeated comments but no denominator; `weak-moderate` for MB salience, `weak` for light-specific attribution | Self-experimenter nootropic use | low | Not isolated from MB-only use, product identity, stimulant-like arousal, sleep, or expectancy. |
@@ -59,7 +59,7 @@ The safety gate dominates the practical read: current clinical references and th
 
 ## Bottom Line
 
-Treat MB + light as a hypothesis that belongs in [[safety-interaction-matrix-for-multi-modal-stacks]], not as an upgrade to [[methylene-blue]]. The formal cognition evidence remains MB-only or tPBM-only; the combination layer is mechanism/preclinical plus weak anecdote and a nontrivial safety screen.
+Treat MB + light as a hypothesis that belongs in [[safety-interaction-matrix-for-multi-modal-stacks]], not as an upgrade to [[methylene-blue]]. The formal cognition evidence remains MB-only or tPBM-only; the combination layer is mechanism/preclinical plus weak anecdote and a nontrivial safety screen. Route every report through the safety matrix before interpretation, because serotonergic/opioid medication status, G6PD, dose/dropper accuracy, BP/HR, insomnia/anxiety, light dose, exercise co-interventions, and photosensitizer assumptions can dominate the subjective signal.
 
 ## Related Pages
 
@@ -70,4 +70,3 @@ Treat MB + light as a hypothesis that belongs in [[safety-interaction-matrix-for
 - [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[tpbm-creatine-combination-logic]]
 - [[cognitive-improvement-molecule-signal-atlas]]
-

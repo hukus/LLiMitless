@@ -1,7 +1,7 @@
 ---
 title: Irisin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, biomarker, mechanism, safety, preclinical, controversy]
 sources: [raw/articles/pubmed-40560607-correlation-between-irisin-and-cognitive-functions-in-alzheimer-dementia.md, raw/articles/pmc-12284321-association-between-irisin-level-and-cognitive-function-systematic-review-meta-analysis.md, raw/articles/pmc-12315660-irisin-emerging-therapeutic-targets-for-cognitive-impairment-related-diseases.md]
@@ -34,13 +34,15 @@ No irisin-specific cognition anecdote or self-use raw note is indexed. That is e
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Irisin improves cognition if administered directly | anecdote | No dedicated anecdote raw note located in the current wiki corpus | none; absent | exercise-mediator speculation | low | Human evidence is correlation/biomarker only |
 
 ## Safety And Status
 
 Direct irisin administration should be treated as research biology, not a nootropic protocol. The proven actionable layer is exercise and metabolic health, while irisin remains a candidate mediator and disease biomarker.
+
+Route irisin claims through [[safety-interaction-matrix-for-multi-modal-stacks]] when biomarker association, exercise response, metabolic change, AD/MCI state, or recombinant/protein-delivery speculation is being used as a cognition proxy.
 
 ## Signal Judgment
 
@@ -56,4 +58,4 @@ Practical route: biomarker and exercise-mediator hypothesis; no direct dosing re
 - [[clusterin]]
 - [[pf4]]
 - [[cathepsin-b]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

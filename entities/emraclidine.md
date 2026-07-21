@@ -1,9 +1,9 @@
 ---
 title: Emraclidine
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
-tags: [domain-medicine, cognition, neuroscience, clinical-trial, mechanism, safety, controversy]
+tags: [domain-medicine, cognition, neuroscience, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-36528376-emraclidine-m4-phase1b.md, raw/articles/clinicaltrials-nct05227690-emraclidine-phase2-results.md]
 confidence: low
 contested: true
@@ -32,13 +32,15 @@ No emraclidine cognition anecdote raw note is currently indexed. Signal is `abse
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Emraclidine improves cognition | anecdote | No dedicated anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | Investigational schizophrenia drug | low | Symptom improvement and cognition are not interchangeable |
 
 ## Safety And Status
 
 The phase 1b note describes acceptable tolerability; the phase 2 registry confirms the program moved into larger schizophrenia testing. The main interpretive limit remains endpoint choice rather than a current cognition-specific safety/benefit calculation.
+
+Route emraclidine claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating symptom movement as cognition. The main gates are schizophrenia baseline, PANSS-first endpoints, antipsychotic comparator changes, dose, sedation/activation context, and absence of a public cognition readout.
 
 ## Signal Judgment
 
@@ -54,3 +56,4 @@ Practical route: M4 muscarinic comparator and negative/unknown cognition endpoin
 - [[muscarinic-agent-cognition-watchlist]]
 - [[cholinergic-and-nicotinic-agents-2026-scan]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

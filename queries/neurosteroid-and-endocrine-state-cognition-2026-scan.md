@@ -1,9 +1,9 @@
 ---
 title: Neurosteroid and Endocrine-State Cognition 2026 Scan
 created: 2026-04-29
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [cognition, performance, biomarker, safety, comparison]
+tags: [cognition, performance, biomarker, safety, comparison, peptides, anecdote]
 sources: [raw/articles/pubmed-33344752-allopregnanolone-phase1b2a-ad.md, raw/articles/pubmed-35310526-allopregnanolone-imaging-follow-up.md, raw/articles/clinicaltrials-nct04838301-allopregnanolone-regen-brain.md, raw/articles/clinicaltrials-nct04838301-allopregnanolone-regen-brain-status.md, raw/articles/pubmed-27377542-testosterone-teaam-cognition.md, raw/articles/pubmed-34375393-testosterone-lifestyle-hypogonadism-cognition.md, raw/articles/pubmed-40818499-testosterone-harm-avoidance-learning.md, raw/articles/pubmed-18482290-dhea-dawn-trial.md, raw/articles/pubmed-24496044-pregnenolone-schizophrenia-cognition.md, raw/articles/clinicaltrials-nct04390646-gnrh-cognition-down-syndrome.md, raw/articles/clinicaltrials-nct04390646-gnrh-cognition-down-syndrome-status.md, raw/articles/pubmed-36048943-gnrh-replacement-rescues-cognition-down-syndrome.md, raw/articles/pubmed-40190351-gnrh-down-syndrome-mri-followup.md, raw/articles/pubmed-40854505-allopregnanolone-ad-depression-review.md, raw/articles/pubmed-40215751-intranasal-kisspeptin-hormone-release.md, raw/articles/pubmed-28112678-kisspeptin-sexual-emotional-brain-processing.md, raw/articles/pubmed-40036336-kisspeptin-anxiety-rct.md, raw/articles/pubmed-40065551-kisspeptin-state-control-anatomy.md]
 confidence: low
 ---
@@ -24,7 +24,9 @@ This branch looks much more like state restoration than universal enhancement.
 
 [[kisspeptin]] remains upstream and mostly reproductive so far. The human work now has one biologically active crossover RCT with no anxiety, cortisol, blood pressure, or heart-rate effect, plus an anatomy paper pointing to sensorial-processing and behavioral-state-control regions, but still no direct cognition endpoint.
 
-Related pages: [[growth-hormone-secretagogue-cognition-2026-scan]], [[incretin-therapies-brain-health]], and [[cholinergic-state-restoration-and-cognition]].
+Related pages: [[growth-hormone-secretagogue-cognition-2026-scan]], [[incretin-therapies-brain-health]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[cholinergic-state-restoration-and-cognition]].
+
+June 2026 peptide attribution gate: route [[gnrh]] and [[kisspeptin]] claims through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before ranking. Minimum fields are exact peptide/analog identity, source or prescription status, route/formulation and pump/device when relevant, dose schedule, phenotype or diagnosis, sex/age and reproductive-axis context, hormone response or endocrine monitoring, co-interventions, adverse mood/reproductive/autonomic effects, washout, and objective cognition endpoints.
 
 ## What Changed Since 2024
 
@@ -97,6 +99,8 @@ These branches should not be upgraded above `confidence: low` for cognition in h
 - [[dhea]] and [[pregnenolone]]: endocrine side effects and product-identity problems matter more than any current cognition signal.
 - [[gnrh]]: peptide-delivery burden and disease-specific selection are major practical constraints.
 - [[kisspeptin]]: current human work is not a cognition protocol, so do not translate reproductive-hormone dosing into cognitive enhancement assumptions. The human safety-style RCT is reassuring, but it does not create an enhancement claim.
+- Route endocrine-state anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting clarity, drive, mood, libido, sleep, training, or anti-aging reports as cognition. The first gates are lab-defined deficiency, sex/age, endocrine indication, route, fertility-axis effects, sleep apnea, hematocrit/prostate/cardiovascular monitoring for TRT, sedation or IV-route burden for allopregnanolone, and pulsatile pump delivery for GnRH.
+- De-rank endocrine peptide stacks by default when libido, mood, drive, fertility-axis shifts, reproductive-hormone release, or sexual/emotional processing is the only outcome; they need direct cognition endpoints and clean single-variable attribution before they can influence peptide/nootropic rankings.
 
 ## Open Contradictions
 
@@ -110,5 +114,6 @@ These branches should not be upgraded above `confidence: low` for cognition in h
 ## Actionable Wiki Updates
 
 - Standalone entity pages now exist for [[allopregnanolone]], [[testosterone-trt]], [[dhea]], [[pregnenolone]], [[gnrh]], and [[kisspeptin]].
+- Keep the June 2026 peptide-routing gate synchronized with [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]].
 - Keep [[gnrh]] and [[kisspeptin]] separated unless a direct cognition paper appears for kisspeptin itself.
 - Route hormone-community anecdotes into the anecdote ledger only when a stable source can be captured with date, report count, and source type.

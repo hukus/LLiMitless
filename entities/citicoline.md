@@ -1,7 +1,7 @@
 ---
 title: Citicoline
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-8349115-citicoline-memory-healthy-older-adults.md, raw/articles/pubmed-36818199-citicoline-mci-review.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
@@ -35,12 +35,15 @@ Medicinal signal: `low-moderate`. A 100-person randomized placebo-controlled tri
 
 Citicoline belongs in [[choline-donor-cognition-signal-map]] as its own lane. It is not interchangeable with [[alpha-gpc]], and it should not be ranked above stimulant or cholinergic acute-attention comparators like [[nicotine]] without direct attention-task evidence in the target population.
 
+Route citicoline / CDP-choline stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] when they involve racetams, uridine/DHA stacks, nicotine, caffeine, phospholipid formulas, vascular-MCI context, or generic "choline" labels. The first gates are age/memory-complaint phenotype, vascular or neurodegenerative context, dose, product identity, co-donor use, sleep, headaches, GI effects, and whether the report isolates citicoline from the stack.
+
 ## Related Pages
 
 - [[choline-donor-cognition-signal-map]]
 - [[cholinergic-state-restoration-and-cognition]]
 - [[alpha-gpc]]
 - [[nicotine]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 
 ## Sources

@@ -1,9 +1,9 @@
 ---
 title: CSTI-500
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-12
 type: entity
-tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, mechanism, controversy]
+tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, mechanism, anecdote, controversy]
 sources: [raw/articles/pmc-12979414-csti500-first-in-human-tri.md]
 confidence: low
 contested: true
@@ -24,7 +24,7 @@ Safety gate: the maximum tolerable acute dose was 100 mg. At 150 mg, most active
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | CSTI-500 as an attention, appetite, or mood nootropic | `not captured as direct anecdote` | Current raw set has first-in-human PK/PET source and class-level forum scan only | no direct reports; `absent-to-weak` | Development compound / transporter-occupancy curiosity | very low | No cognition endpoint and no source-specific self-experiment corpus captured |
 
@@ -33,5 +33,6 @@ Safety gate: the maximum tolerable acute dose was 100 mg. At 150 mg, most active
 - Do not treat PET transporter occupancy as cognitive efficacy.
 - Separate SERT/DAT occupancy from antidepressant, appetite, alertness, and cognition endpoints.
 - Watch long-ish half-life, dose accumulation, nausea/dizziness/vomiting, HR effects, insomnia/activation, and monoamine drug stacking.
+- Route CSTI-500 and transporter-occupancy anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating target engagement as cognition.
 
 Current verdict: live human-exposed TRI mechanism anchor; no cognition claim yet.

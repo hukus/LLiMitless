@@ -1,7 +1,7 @@
 ---
 title: Tesamorelin
 created: 2026-04-30
-updated: 2026-05-06
+updated: 2026-06-15
 type: entity
 tags: [peptides, cognition, metabolism, sleep, longevity, recovery, performance, safety, dosage, clinical-trial, comparison, biomarker, mechanism, controversy]
 sources: [raw/articles/pubmed-16399214-ghrh-healthy-older-adults.md, raw/articles/pubmed-22869065-ghrh-mci-healthy-older-adults-controlled-trial.md, raw/articles/pubmed-39813152-tesamorelin-hiv-abdominal-obesity-neurocognitive-impairment.md, raw/articles/clinicaltrials-nct02572323-tesamorelin-cognition-aging-hiv.md, raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md, raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md, raw/articles/dailymed-egrifta-wr-tesamorelin-label.md]
@@ -15,6 +15,8 @@ contradictions: []
 Tesamorelin is a synthetic growth hormone-releasing hormone analog and the regulated GH-axis peptide with the clearest cognition-specific human evidence in this branch. The direct tesamorelin story is mixed: an older controlled trial in healthy older adults and people with MCI looked favorable, while the newer 2025 HIV + abdominal-obesity study reduced waist circumference and increased IGF-1 but did not show a significant between-group cognitive benefit. What has changed is that tesamorelin now also looks like the most formally active peptide in this GH-axis branch, with recruiting Phase 2 programs in peripheral nerve injury and HIV-associated physical-function improvement. That makes it a live translational peptide, not just a legacy cognition signal.^[raw/articles/pubmed-22869065-ghrh-mci-healthy-older-adults-controlled-trial.md]^[raw/articles/pubmed-39813152-tesamorelin-hiv-abdominal-obesity-neurocognitive-impairment.md]^[raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md]^[raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md]
 
 The ClinicalTrials.gov record for NCT02572323 posted results in 2026 after the study completed in 2023, which keeps the cognition branch current even though the readout stayed cautious. Two newer recruiting studies widen the translational map without upgrading cognition confidence: NCT03150511 tests tesamorelin 2 mg in repaired ulnar-nerve injury with estimated primary completion in December 2027, and TRIUMPH (NCT06554717) tests tesamorelin WR 1.28 mg plus exercise in adults aging with HIV, frailty or impaired physical function, and abdominal obesity, with estimated primary completion in January 2028.^[raw/articles/clinicaltrials-nct02572323-tesamorelin-cognition-aging-hiv.md]^[raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md]^[raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md]
+
+June 2026 attribution gate: tesamorelin is the regulated/formal-development anchor of the GH-axis peptide branch, but its cognition signal remains phenotype-bound and safety-gated. Future nootropic or peptide-stack reports need prescription/regulatory status, source and product identity, route/formulation, dose timing, stack order, washout, HIV/lipodystrophy/MCI/older-adult/recovery phenotype, sleep state, abdominal-fat or metabolic context, glucose/edema/BP/HR and IGF-1 monitoring where medically available, neoplasm-risk screening context, adverse events, and objective cognition endpoints before any ranking comparison with [[ghrh]], [[cjc-1295]], [[ipamorelin]], [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
 
 ## Key Facts
 
@@ -32,6 +34,7 @@ The ClinicalTrials.gov record for NCT02572323 posted results in 2026 after the s
 - Waist reduction and IGF-1 rise do not guarantee a cognition benefit.
 - Active formal development outside cognition suggests the peptide still has serious translational momentum, especially in recovery and function phenotypes.
 - The label and trial pattern keep tesamorelin in medically supervised territory rather than casual self-experimentation.
+- Tesamorelin should not inherit the stronger CJC-1295/ipamorelin sleep/recovery anecdote signal, and CJC-1295/ipamorelin stacks should not inherit tesamorelin's regulated-product evidence.
 
 ## Limits
 
@@ -44,6 +47,13 @@ The ClinicalTrials.gov record for NCT02572323 posted results in 2026 after the s
 
 - [[growth-hormone-secretagogue-cognition-2026-scan]]
 - [[ibutamoren]]
+- [[cjc-1295]]
+- [[ipamorelin]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
+- [[self-experimentation-stop-rules]]
+- [[peptide-stack-topology-ledger]]
 - [[peptide-safety-and-sourcing-risk-map]]
 - [[clinical-recovery-vs-healthy-enhancement-translation-map]]
 

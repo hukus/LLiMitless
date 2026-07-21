@@ -1,7 +1,7 @@
 ---
 title: Theacrine
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-4271659-theacrine-pilot-subjective-cognition.md, raw/articles/pmc-4711067-teacrine-8-week-safety.md, raw/articles/pubmed-28875060-theacrine-caffeine-pk-interaction.md, raw/articles/pubmed-35103121-caffeine-theacrine-dynamine-egamers.md, raw/articles/tandfonline-2022-caffeine-methylliberine-theacrine-tactical-rct.md, raw/articles/pubmed-40693646-caffeine-theacrine-tactical-fatigue-cognition.md, raw/articles/reddit-2025-theacrine-experience-thread.md]
@@ -40,6 +40,8 @@ Safety and PK read: short-term product-specific safety looks acceptable in healt
 
 Route theacrine through [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-zone-nootropic-community-signal-ledger]], [[caffeine]], [[methylliberine]], and [[state-challenge-matrix-for-cognition-interventions]]. It is best scored as a subjective-energy / caffeine-stack modifier, not a standalone cognitive enhancer. Any self-study or trial interpretation should log caffeine dose, habitual caffeine state, sleep timing, BP/HR, palpitations, anxiety, and product identity.
 
+Route theacrine / TeaCrine anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating clean energy, longer caffeine duration, fatigue-state vigilance, gaming, tactical, fasting, workout, or focus reports as direct cognition. The first gates are caffeine co-use, methylliberine co-use, caffeine increasing theacrine exposure, sleep timing, BP/HR, palpitations, anxiety, fatigue challenge, product identity, and whether any objective cognition endpoint survives the stimulant-stack context.
+
 ## Related Pages
 
 - [[caffeine]]
@@ -49,6 +51,7 @@ Route theacrine through [[common-nootropic-gray-zone-molecule-watchlist]], [[gra
 - [[gray-zone-nootropic-community-signal-ledger]]
 - [[state-challenge-matrix-for-cognition-interventions]]
 - [[anti-tolerance-periodization-in-cognitive-enhancement]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 
 ## Sources

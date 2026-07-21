@@ -1,7 +1,7 @@
 ---
 title: GHRH
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, peptides, metabolism, sleep, clinical-trial, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-16399214-ghrh-healthy-older-adults.md, raw/articles/clinicaltrials-nct00000380-ghrh-age-related-sleep-disturbances.md, raw/articles/pubmed-22869065-ghrh-mci-healthy-older-adults-controlled-trial.md]
@@ -34,13 +34,15 @@ No GHRH-specific cognition anecdote raw note is currently indexed. Peptide-commu
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | GHRH improves cognition through GH/IGF-1 restoration | anecdote | No dedicated GHRH cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | older-adult sleep/restoration and peptide-stack discourse | low | Formal signal is older and phenotype-bound; stack anecdotes are not GHRH-specific |
 
 ## Safety And Status
 
 The practical safety gate is somatotropic-axis manipulation rather than the word "peptide." IGF-1 elevation, glucose/insulin effects, fluid retention, joint symptoms, injection reactions, neoplasm-risk screening, and product identity all affect how a cognition claim should be interpreted.
+
+Route GHRH or GHRH-analog reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating sleep, recovery, lean-mass, energy, or older-adult restoration effects as direct cognition evidence. Keep [[ghrh]], [[tesamorelin]], [[ibutamoren]], [[cjc-1295]], and GH-secretagogue blends separate.
 
 ## Signal Judgment
 
@@ -55,5 +57,5 @@ Practical route: historical positive comparator and class anchor; use [[tesamore
 - [[growth-hormone-secretagogue-cognition-2026-scan]]
 - [[tesamorelin]]
 - [[ibutamoren]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[peptide-safety-and-sourcing-risk-map]]
-

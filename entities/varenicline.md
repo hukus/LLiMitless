@@ -1,7 +1,7 @@
 ---
 title: Varenicline
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-23072834-varenicline-healthy-non-smoking-adults.md, raw/articles/dailymed-varenicline-tablets-label.md, raw/articles/fda-want-to-quit-smoking-cessation-products.md]
@@ -37,6 +37,12 @@ No varenicline-specific nootropic or cognition anecdote raw note is indexed. Sig
 ## Safety And Status
 
 Varenicline should stay prescription/smoking-cessation-first. The DailyMed label notes neuropsychiatric events, seizures, alcohol interaction, accidental injury, cardiovascular events in patients with underlying cardiovascular disease, somnambulism, and nausea. FDA consumer guidance also highlights nausea, constipation, gas, vomiting, trouble sleeping, vivid dreams, and alcohol-tolerance changes.^[raw/articles/dailymed-varenicline-tablets-label.md]^[raw/articles/fda-want-to-quit-smoking-cessation-products.md]
+
+## June 2026 Attribution Gate
+
+Do not let the small healthy-nonsmoker memory signal turn varenicline into a generic nicotinic nootropic. Future reports should capture prescription/cessation context, nicotine status, quit date or abstinence interval, dose and titration, nausea and GI burden, sleep disruption, vivid dreams, neuropsychiatric changes, alcohol response, seizure risk, cardiovascular context, and co-use with bupropion, nicotine replacement, caffeine, stimulants, wake-promoters, racetams, or peptide/nootropic stacks.
+
+Route reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]]. Require washout or stable-dose timing plus objective working-memory, declarative-memory, attention, or cessation-state endpoints before any cognition ranking update.
 
 ## Signal Judgment
 

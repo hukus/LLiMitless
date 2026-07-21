@@ -1,9 +1,9 @@
 ---
 title: Intranasal Insulin and Brain Stimulation Interaction Scan
 created: 2026-04-27
-updated: 2026-04-29
+updated: 2026-06-15
 type: query
-tags: [cognition, metabolism, neuroscience, device, clinical-trial, comparison, controversy]
+tags: [cognition, metabolism, neuroscience, peptides, device, clinical-trial, comparison, controversy]
 sources: [raw/articles/pubmed-28392373-tdcs-glucose-reduction.md, raw/articles/pubmed-28487570-intranasal-insulin-functional-connectivity-hunger.md, raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md, raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md, raw/articles/pubmed-41057918-intranasal-insulin-empagliflozin-mci-early-ad.md, raw/articles/pubmed-37379265-intranasal-insulin-cognition-humans.md, raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md, raw/articles/pubmed-39332547-acute-intranasal-insulin-neuroimaging-cognitive-behavioral-outcomes.md, raw/articles/pubmed-36219990-intranasal-insulin-cbf-cognition-adults-systematic-review.md]
 confidence: medium
 ---
@@ -15,6 +15,8 @@ confidence: medium
 I did not find a direct human trial combining intranasal insulin with tDCS, tACS, or rTMS for cognition in the current PubMed/ClinicalTrials.gov sweep. The best-supported reading is therefore proxy-based: intranasal insulin is state- and phenotype-sensitive on its own, while tDCS can shift systemic glucose handling, which makes the two interventions metabolically entangled rather than cleanly independent.^[raw/articles/pubmed-28392373-tdcs-glucose-reduction.md]^[raw/articles/pubmed-28487570-intranasal-insulin-functional-connectivity-hunger.md]^[raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md]^[raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md]
 
 The newer 2025-2026 insulin literature strengthens the proxy logic without producing direct combo proof: PET validation shows device-sensitive brain uptake, T2DM rsFC work ties connectivity to HOMA-IR, and a phase 2A/B factorial trial in MCI/early AD shows intranasal insulin can still move cognition and biomarkers in an enriched metabolic-brain design.^[raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md]^[raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md]^[raw/articles/pubmed-41057918-intranasal-insulin-empagliflozin-mci-early-ad.md]
+
+June 2026 interaction gate: do not treat intranasal insulin plus tDCS/tACS/rTMS/tPBM/taVNS as a stackable nootropic protocol until a direct factorial trial exists. Any report needs insulin type, delivery device, dose/timing, stimulation modality and parameters, sequence/spacing, meal and glucose state, insulin-resistance phenotype, nasal status, adverse events, and objective cognition endpoints before additivity, synergy, or ranking claims.
 
 What changed since 2024:
 
@@ -55,6 +57,7 @@ What changed since 2024:
 - The tDCS glucose study did not suggest an acute safety problem from the metabolic readout, but it does imply that combined protocols could shift glucose handling in ways worth monitoring.
 - Very high intranasal-insulin doses are not metabolically inert: healthy-volunteer escalation data reported episodic hypoglycemia at 600 U, so any stimulation combo that changes glucose or appetite should monitor those states explicitly.^[raw/articles/pubmed-39558506-high-dose-intranasal-insulin-healthy-human-participants.md]
 - For any real combination study, glucose, symptoms of hypoglycemia, blood pressure, and stimulation-related skin effects should be watched explicitly.
+- Route any informal insulin-plus-stimulation or insulin-plus-metabolic-stack report through [[delivery-validation-checklist-for-cognition-interventions]], [[device-parameter-worksheet-for-self-study-and-protocol-review]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpretation.
 
 ## Responder Phenotypes
 
@@ -80,5 +83,6 @@ What changed since 2024:
 ## Actionable Wiki Updates
 
 - Update [[intranasal-insulin-and-cognition]] with the new proxy framing: state-dependent insulin effects plus no direct combo trial.
+- Keep [[delivery-validation-checklist-for-cognition-interventions]] and [[device-parameter-worksheet-for-self-study-and-protocol-review]] aligned with the device-sensitive insulin exposure rule.
 - Update [[transcranial-direct-current-stimulation-and-cognition]] or [[noninvasive-brain-stimulation-for-cognition]] if the metabolic proxy becomes important enough to surface in the comparison layer.
 - Keep this page linked from [[adjunctive-interventions-for-cognition]] as a "missing interaction" note rather than a recommendation.

@@ -1,7 +1,7 @@
 ---
 title: p-Synephrine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/nccih-bitter-orange-synephrine-safety.md, raw/articles/pmc-9572433-bitter-orange-synephrine-meta-analysis.md, raw/articles/wada-2026-monitoring-program.md, raw/articles/reddit-2024-synephrine-supplements-energy-thread.md, raw/articles/reddit-2025-bitter-orange-adverse-reaction-thread.md]
@@ -33,10 +33,10 @@ Anecdote signal: `weak-moderate energy/well-being salience, weak cognition-speci
 
 ## Anecdote Ledger
 
-| Claim | Anecdote type | Source | Reported effect | Direction | Confidence | Why it does or does not matter |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Synephrine can feel useful for general mental/physical energy and well-being | subjective energy self-report | raw/articles/reddit-2024-synephrine-supplements-energy-thread.md; Reddit /r/Supplements | enjoyable energy/well-being, every-few-days use | positive | very low-to-low | Salience justifies tracking, but it is a single supplement thread and not objective cognition |
-| Bitter orange / synephrine may contribute to anxiety, irritability, or aggression in blends | adverse attribution self-report | raw/articles/reddit-2025-bitter-orange-adverse-reaction-thread.md; Reddit /r/Supplements | irritability, anxiety, aggression attributed by commenters to bitter orange/synephrine | negative/confounded | very low | Product is multi-ingredient, but direction matches adrenergic safety concerns |
+| Synephrine can feel useful for general mental/physical energy and well-being | anecdote / subjective energy self-report | raw/articles/reddit-2024-synephrine-supplements-energy-thread.md; Reddit /r/Supplements | one thread; `weak` | Enjoyable energy/well-being, every-few-days use | very low-to-low | Salience justifies tracking, but it is a single supplement thread and not objective cognition |
+| Bitter orange / synephrine may contribute to anxiety, irritability, or aggression in blends | anecdote / adverse attribution self-report | raw/articles/reddit-2025-bitter-orange-adverse-reaction-thread.md; Reddit /r/Supplements | one thread; `weak` | Irritability, anxiety, aggression attributed by commenters to bitter orange/synephrine in a blend | very low | Product is multi-ingredient, but direction matches adrenergic safety concerns |
 
 ## Identity Gates
 
@@ -44,12 +44,13 @@ Anecdote signal: `weak-moderate energy/well-being salience, weak cognition-speci
 - Track actual assayed dose, not just "bitter orange extract" milligrams.
 - Treat caffeine, yohimbine/rauwolscine, higenamine, hordenine, octopamine, DMAA-like adulterants, and multi-stimulant fat burners as major confounds.
 - Watch blood pressure, heart rhythm, anxiety, irritability, panic vulnerability, stimulant medications, MAO inhibitors, cardiovascular disease, pregnancy/breastfeeding, age under 18, athlete testing, and product-label accuracy.
+- Route p-synephrine and bitter-orange anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting energy, well-being, fat-loss, workout, or focus reports as cognition.
 
 ## Practical Ranking
 
 p-Synephrine deserves standalone coverage because it is common in energy/preworkout/fat-loss stacks and has safety and sports-visibility consequences. It should not be ranked as a cognitive enhancer. The current route is `risk-first stimulant-adjacent / sports-visible supplement ingredient`.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], [[caffeine]], and [[biohacker-anecdote-methodology]].
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], [[caffeine]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

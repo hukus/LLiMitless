@@ -1,7 +1,7 @@
 ---
 title: Kisspeptin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, peptides, clinical-trial, preclinical, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-40215751-intranasal-kisspeptin-hormone-release.md, raw/articles/pubmed-28112678-kisspeptin-sexual-emotional-brain-processing.md, raw/articles/pubmed-40036336-kisspeptin-anxiety-rct.md, raw/articles/pubmed-40065551-kisspeptin-state-control-anatomy.md]
@@ -30,19 +30,23 @@ The 2025 anxiety RCT is useful as a negative-claim guardrail. IV kisspeptin-54 p
 
 The 2025 anatomy paper mapped kisspeptin fibers in 118 rodent brain regions, especially extra-hypothalamic sensorial-processing and behavioral-state-control regions. This is a mechanism clue for future cognition studies, not human cognition evidence.^[raw/articles/pubmed-40065551-kisspeptin-state-control-anatomy.md]
 
+June 2026 attribution gate: kisspeptin should stay an upstream reproductive/endocrine routing node until direct cognition evidence appears. Future reports need exact kisspeptin form, source/prescription status, route/formulation, dose timing, reproductive-hormone baseline and response, sex/age and fertility context, libido or sexual/emotional task separation, anxiety/autonomic measures, co-interventions, adverse endocrine or mood effects, washout, and objective cognition endpoints before any ranking comparison with [[gnrh]], [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+
 ## Anecdote Signal
 
 No kisspeptin-specific cognition anecdote raw note is currently indexed. Any community translation from reproductive, libido, anxiety, or hormone-release effects into cognition should stay outside the efficacy ranking until captured and separated by claim domain.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Kisspeptin improves cognition or mental state | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | reproductive-axis / peptide extrapolation | low | Current human evidence is hormone, sexual/emotional processing, and anxiety-null physiology, not cognition |
 
 ## Safety And Status
 
 The practical safety issue is over-translation. Human hormone-release and anxiety-null results do not establish a cognition protocol, and reproductive-axis dosing should not be imported into nootropic use without cognition endpoints and endocrine monitoring.
+
+Route kisspeptin anecdotes or protocol extrapolations through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] when libido, reproductive-hormone release, anxiety, sexual/emotional processing, or behavioral-state circuitry is being used as a proxy for cognition.
 
 ## Signal Judgment
 
@@ -56,6 +60,10 @@ Practical route: keep linked to [[gnrh]] and the endocrine scan; promote only if
 
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]]
 - [[gnrh]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
+- [[self-experimentation-stop-rules]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[peptide-safety-and-sourcing-risk-map]]
 - [[target-specificity-gate-for-plasticity-molecules]]
-

@@ -1,7 +1,7 @@
 ---
 title: Nootropic Peptide Anecdote Frontier 2026 Scan
 created: 2026-04-29
-updated: 2026-05-12
+updated: 2026-06-15
 type: query
 tags: [peptides, cognition, anecdote, safety, controversy, comparison, mechanism]
 sources: [https://www.reddit.com/r/Nootropics/comments/1srkash/semaxselank_and_cerebrolysin/, https://www.reddit.com/r/AskAboutPeptides/comments/1r4x2sh/nootropic_stack_semax_selank_cerebrolycin/, https://www.reddit.com/r/Biohackers/comments/1sqcb7i/semax_and_selank/, https://www.reddit.com/r/Semax/comments/1po24fa/experience_with_semax/, https://www.reddit.com/r/Biohackers/comments/1nf7y8w/experiences_with_selank/, https://www.reddit.com/r/Cerebrolysin/comments/wgfbg7/wow_cerebrolysin/, https://www.reddit.com/r/Cerebrolysin/comments/1s9tmnq/cerebrolysin_inquiry/, https://www.reddit.com/r/Cerebrolysin/comments/1s4e0bw/cerebrolysin_made_me_paralyzed_and_unable_to_speak/, https://www.reddit.com/r/Peptides/comments/11npzqn/pinealon-worse-hrv-and-sleep-so-farlooking-for-advice/, https://www.reddit.com/r/Biohackers/comments/1i5xmti/pinealon_peptide/, https://www.reddit.com/r/Nootropics/comments/cn2y5r/, https://www.reddit.com/r/Nootropics/comments/1qlyo5v/any_experiences_with_the_peptide_pe2228/, https://www.reddit.com/r/NootropicsFrontline/comments/1eum9oz/has_anyone_tried_the_peptide_pe2228/, https://www.reddit.com/r/NooTopics/comments/1ss2rps/dihexa/, https://www.peptidejournal.org/peptides/pe-22-28-emerging-nootropic-peptide-research/, https://www.disclosedlabs.com/peptides/adamax, https://pubmed.ncbi.nlm.nih.gov/18454096/, https://pubmed.ncbi.nlm.nih.gov/11552768/, https://pubmed.ncbi.nlm.nih.gov/20500802/, https://pubmed.ncbi.nlm.nih.gov/16634437/, https://pubmed.ncbi.nlm.nih.gov/32342318/, https://pubmed.ncbi.nlm.nih.gov/20405001/, https://pubmed.ncbi.nlm.nih.gov/28955242/, https://pubmed.ncbi.nlm.nih.gov/30291907/, https://pubmed.ncbi.nlm.nih.gov/41171324/, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/finnrick-2026-products-dashboard.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md, raw/articles/reddit-2026-01-12-bpc157-tb500-three-months-mixed-thread.md, raw/articles/reddit-2026-05-06-bpc157-tb500-shoulder-recovery-update-thread.md, raw/articles/reddit-2026-04-12-epitalon-snake-oil-or-legit.md, raw/articles/reddit-2026-01-19-epitalon-insomnia-brain-fog.md, raw/articles/longecity-2020-n-acetyl-epitalon-no-effect.md, raw/articles/thinksteroids-2025-epithalon-mental-clarity.md, raw/articles/reddit-2026-03-25-epitalon-more-than-2x-year.md, raw/articles/reddit-2025-03-06-pinealon-tbi-recovery-sleep-cognition.md, raw/articles/reddit-2026-03-17-pinealon-sleep-quality.md, raw/articles/reddit-2026-04-12-pinealon-omg-brain-acuity-tbi-insomnia.md, raw/articles/reddit-2026-04-03-pinealon-not-feeling-any-effects.md, raw/articles/reddit-2025-05-25-pinealon-brain-fog-improvement.md, raw/articles/reddit-2026-04-09-pinealon-for-sleep-my-short-experience-no-noticeable-effect.md, raw/articles/reddit-2025-09-30-pinealon-the-peptide-that-fixes-sleep-and-boosts-mood.md, raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md, raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md]
@@ -12,9 +12,15 @@ confidence: low
 
 This page is a search-and-triage layer, not a recommendation list. The purpose is to separate peptides that are loud in community use from peptides that actually have a durable human cognition signal, and to keep the safety, sourcing, and phenotype split visible while doing it. By 2026 the peptide anecdote corpus is too large and too internally structured to treat as disposable fringe lore. Troof alone contributes 36,163 ratings from 2,802 people, the older Reddit survey adds peptide-specific dose and effect mapping, and the active forum lanes now span focus, calmness, recovery, sleep, body-composition, and injury-repair use cases.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
 
-Regulatory interpretation now routes through [[peptide-regulatory-live-watch-board]]. That board keeps FDA compounding status, WADA visibility, GLP-1-adjacent compounding policy, and sourcing/COA risk beside the forum signal, so the anecdote heat below does not get mistaken for medicinal confidence.
+Regulatory interpretation now routes through [[peptide-regulatory-live-watch-board]] and [[regulatory-and-sports-visibility-map]]. Those boards keep FDA compounding status, WADA visibility, GLP-1-adjacent compounding policy, non-peptide sports visibility, and sourcing/COA risk beside the forum signal, so the anecdote heat below does not get mistaken for medicinal confidence.
 
 Stack attribution now routes through [[peptide-stack-topology-ledger]]. Use that ledger when a report involves blends, sequential peptides, dose cycling, nasal-route improvisation, recovery-state confounds, or unclear washout.
+
+Cross-class peptide plus stimulant-like reports should also route through [[safety-interaction-matrix-for-multi-modal-stacks]]. In practice this especially means [[semax]] / [[selank]] with caffeine, nicotine, wake-promoters, bright light, stimulation blocks, or [[bromantane]], because "focus plus calm" can be a stack-attribution artifact rather than a molecule-specific cognition signal.
+
+Delivery and safety interpretation now also routes through [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-safety-and-sourcing-risk-map]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]]. The minimum useful follow-up record names exact molecule or fragment, source/COA, route/formulation, dose timing, stack order, washout or stable background, sleep/recovery phenotype, stimulant/anxiolytic/nootropic co-use, adverse events, regulatory or sports status, and objective endpoints.
+
+June 2026 normalization status: the strongest peptide/nootropic monitoring cluster now sits around [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and adjacent non-peptide [[bromantane]]. That is a triage cluster, not healthy-adult cognition proof. Even for the strongest nodes, interpretation still depends on exact identity or fragment, source/COA or medical-product status, route/formulation, dose timing, stack order, washout, sleep/recovery phenotype, adverse events, sports/regulatory status, and objective endpoints. The newer entity ledgers make the de-ranking rules sharper. [[epithalon]] and [[pinealon]] now have separate positive, counterreport, and broad-cognition-mismatch rows. [[dihexa]], [[pe-22-28]], and [[adamax]] now have entity-level ledgers that explicitly keep them below the stronger monitoring cluster: Dihexa stays high-upside but preclinical and route-confounded, PE-22-28 stays mood/anhedonia curiosity rather than cognition proof, and Adamax stays a vendor-defined Semax-family identity-risk label.
 
 A separate reason to take the frontier seriously is that the supply-side observation layer is no longer just vendor screenshots and private Discord lore. Finnrick's public testing dashboards currently track 7,164 samples from 205 vendors across 15 products, which means gray-market peptide discussion now sits beside a live third-party market-monitoring ecosystem. That does not prove human-grade quality or clinical efficacy, but it does mean the category is large enough to generate real external measurement rather than pure hearsay.^[raw/articles/finnrick-2026-products-dashboard.md]
 
@@ -48,6 +54,7 @@ The main pattern is consistent across the branch:
 - Adamax surfaced as a Semax-family label in discussion threads and vendor pages, but I did not find indexed peer-reviewed human evidence for it. Treat it as a marketing synonym unless a stronger source appears.
 - The peptide regulatory overlay is now centralized at [[peptide-regulatory-live-watch-board]], covering BPC-157, Dihexa, Epitalon, MOTS-c, Semax, Selank, TB-500, CJC-1295/ipamorelin, GHRP/GH-axis peptides, and GLP-1-adjacent compounding. Use it before interpreting any community heat as a practical option.
 - The stack-topology overlay is now centralized at [[peptide-stack-topology-ledger]], which extracts route, dose, washout, fixed-blend, source-identity, and adverse-event patterns from the same anecdote corpus without converting them into efficacy claims.
+- By June 2026, entity-level anecdote ledgers are now in place for [[epithalon]], [[pinealon]], [[dihexa]], [[pe-22-28]], and [[adamax]], making the frontier scan less of a holding pen and more of a routing layer.
 
 ## Raw Capture Ledger
 
@@ -111,10 +118,10 @@ The main pattern is consistent across the branch:
 | FOXO4-DRI self-experiment threads | Reddit anecdote and protocol threads | raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md and raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md | 2026-05-06 | 2 threads; multiple comments | Weak for efficacy, moderate for protocol-chaos signal | Mixed: pain/brain-fog/skin claims, no-effect reports, depressed mood/sleep/GI adverse report | Senolytic/anti-aging peptide self-experimentation | No human trial, no validated dose, no biomarker confirmation, product/source uncertainty |
 | Adamax mention in Semax/Selank thread | Reddit anecdote thread | https://www.reddit.com/r/Biohackers/comments/1sqcb7i/semax_and_selank/ | 2026-04-29 | 1 mention | Weak | Positive / promotional | User notes Adamax might be a stronger Semax-family option | This is mostly label reuse, not evidence |
 
-## Effect Size Snapshot
+## Anecdotal Effect Snapshot
 
-- Semax: anecdotal reports usually describe cleaner focus, less procrastination, and short-lived mental activation, often around 250-1000 mcg/day.
-- Selank: anecdotal reports usually describe lower anxiety, less overthinking, and better emotional control, often around 250-1000 mcg/day.
+- Semax: anecdotal reports usually describe cleaner focus, less procrastination, and short-lived mental activation; source, route, sleep debt, stimulant co-use, and task context decide whether the report is useful.
+- Selank: anecdotal reports usually describe lower anxiety, less overthinking, and better emotional control; separate anxiolysis, sleep change, and stress-state mediation from direct cognition.
 - Cerebrolysin: anecdotal reports are more dramatic and polarized, ranging from large perceived recovery to severe headache, fog, or neurologic-feeling adverse events.
 - BPC-157: anecdotal reports usually cluster around less pain, faster training recovery, and smoother return to movement rather than direct mental stimulation.
 - Pinealon: anecdotal reports skew subtle, with sleep/circadian or long-horizon recovery claims rather than an obvious acute "feel."
@@ -141,15 +148,18 @@ The main pattern is consistent across the branch:
 - Pinealon is most often discussed in people trying to restore sleep, circadian rhythm, or brain-fog recovery.
 - PE-22-28 appears most often in depression/anhedonia or "brain recovery" discussions.
 
-## Protocol Parameters
+## Reported Use Parameters
 
-- Semax: anecdotal intranasal or subcutaneous use often falls around 250-1000 mcg/day, with some users pushing higher for exam periods.
-- Selank: anecdotal use often falls around 250-1000 mcg/day, commonly split between morning and afternoon or used as needed.
-- Cerebrolysin: community protocols often mention 5-10 mL IM or IV, daily or on a 5-on/2-off pattern, typically for 10-20 days.
-- Pinealon: anecdotal schedules vary widely; some users report 10 mg courses, others much smaller doses, and the route is inconsistent across threads.
-- Dihexa: the community often discusses weekly or low-frequency cycles, but there is no validated human protocol.
-- PE-22-28: forum discussion often mentions 400-800 mcg/day, intranasal or subcutaneous, but this is not a human-validated regimen.
-- Adamax: online dosage pages exist, but they are vendor-derived and should not be treated as protocol evidence.
+These are anecdote-normalization fields, not dose guidance. Use them to identify exposure ambiguity, not to infer an advisable protocol.
+
+- Semax: reports often name intranasal or subcutaneous use, exam periods, sleep debt, and stimulant/nootropic co-use; the important capture fields are route, formulation, timing, source/COA, washout, and objective task endpoints.
+- Selank: reports often name intranasal or subcutaneous use, anxiety state, as-needed versus course use, and morning/afternoon timing; the important capture fields are anxiety baseline, sleep impact, route, source/COA, washout, and adverse activation.
+- Cerebrolysin: reports often name IM or IV course patterns; the important capture fields are medical-product status, injection setting or supervision, lot/source, hypersensitivity screening, co-rehabilitation, co-medications, adverse events, and recovery phenotype.
+- BPC-157: reports often omit whether the exposure is single-molecule, fixed blend, oral, subcutaneous, local, or stacked with TB-500 / [[thymosin-beta-4]]; the important capture fields are injury natural history, rehab/training changes, pain and sleep mediators, route, source/COA, WADA/FDA status, and objective recovery endpoints.
+- Pinealon and Epithalon: reports vary widely by dose timing, oral/nasal/subcutaneous route, sleep timing, and recovery state; route through [[epithalon-pinealon-2026-scan]] before comparing them with acute nootropic claims.
+- Dihexa: community schedules are not validated human protocols; exact identity, solvent/route, dose timing, adverse events, and washout matter more than claimed cycle length.
+- PE-22-28: forum dosing talk is not human-validated; route, source identity, mood/anhedonia baseline, antidepressant or stimulant co-use, and objective mood/cognition endpoints dominate.
+- Adamax: online dosage pages are vendor-derived and should not be treated as protocol evidence; first establish independent identity, source/COA, route, and human safety.
 
 ## Community Rating Layer
 
@@ -168,16 +178,10 @@ The main pattern is consistent across the branch:
 - PE-22-28 and Adamax are often presented as "next-generation" versions of older peptide stories, but the human evidence gap remains the same.
 - The main contradiction is no longer whether the peptide frontier exists. It is whether the strongest reported effects are direct cognition enhancement, state restoration, recovery carryover, placebo/expectancy, or sourcing artifacts.
 
-## Actionable Wiki Updates
+## Maintenance Status
 
-- Update [[semax]] with the new community pattern: focus under stress, stimulation risk, route dependence, and short duration.
-- Update [[selank]] with the anxiety/calmness split and the occasional activation or sleep issue.
-- Update [[cerebrolysin]] with the adverse-event anecdotes so the branch keeps a real harm counterweight.
-- Update [[bpc-157]] with the new recovery-anecdote packet and the first clearly serious registry signal, while keeping direct cognition confidence low.
-- Update [[pinealon]] with the sleep / HRV / circadian anecdote lane and the fact that some users report negative mood or poor sleep.
-- Keep [[dihexa]] tied to [[dihexa-2026-scan]] as a preclinical node with high anecdote heat but no human proof.
-- Add PE-22-28 / mini-spadin and Adamax notes to [[peptide-neuroprotection]] and [[peptide-safety-and-sourcing-risk-map]] so the graph distinguishes vendor language from evidence.
-- Keep [[pe-22-28]] linked to the peptide-neuroprotection and safety pages so the branch stays split between mechanism, anecdote, and sourcing risk.
-- Link future peptide anecdote updates through [[peptide-regulatory-live-watch-board]] before any signal-strength change.
-- Route multi-peptide or fixed-blend anecdotes through [[peptide-stack-topology-ledger]] before assigning signal to a single molecule.
-- Add this page to `index.md` and reference it from [[peptide-neuroprotection]] and [[neurocognitive-interventions-under-study]].
+- [[semax]], [[selank]], [[cerebrolysin]], [[bpc-157]], [[pinealon]], [[dihexa]], [[pe-22-28]], and [[adamax]] now have entity or scan-level routing that separates anecdote salience from formal cognition proof.
+- [[peptide-neuroprotection]], [[neurocognitive-interventions-under-study]], [[cognitive-improvement-molecule-signal-atlas]], [[gray-zone-nootropic-community-signal-ledger]], [[anecdote-signal-ledger]], and [[most-promising-methods-for-cognition]] now point back to this scan or its downstream ledgers.
+- Future peptide anecdote updates should route through [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], and [[regulatory-and-sports-visibility-map]] before any signal-strength change, especially for PCAC, WADA, FDA, GLP-1-adjacent compounding, sports-visibility, or market-testing updates.
+- Multi-peptide, fixed-blend, route-switching, or recovery-state anecdotes should route through [[peptide-stack-topology-ledger]], [[delivery-validation-checklist-for-cognition-interventions]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[self-experimentation-stop-rules]] before assigning signal to a single molecule.
+- Current priority split: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and adjacent non-peptide comparator [[bromantane]] stay the strongest monitoring cluster; [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], FOXO4-DRI, mitochondrial peptides, [[mots-c]], and TB-500-style fragments stay tracked but de-ranked or state-bound until cleaner human cognition evidence appears.

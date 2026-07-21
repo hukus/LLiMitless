@@ -1,7 +1,7 @@
 ---
 title: Nonstimulant ADHD Pipeline Attention Chemicals Watchlist
 created: 2026-05-15
-updated: 2026-05-18
+updated: 2026-06-12
 type: comparison
 tags: [domain-medicine, cognition, comparison, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-9426730-centanafadine-adult-adhd-phase3.md, raw/articles/otsuka-2026-centanafadine-nda-priority-review.md, raw/articles/nature-2015-dasotraline-adult-adhd-proof-of-concept.md, raw/articles/businesswire-2020-dasotraline-discontinued.md, raw/articles/pubmed-23290324-metadoxine-er-adult-adhd.md, raw/articles/pubmed-25295645-metadoxine-single-dose-adhd-pi.md, raw/articles/pubmed-11923586-metadoxine-acute-alcohol-intoxication.md, raw/articles/genengnews-2017-metadoxine-phase3-failure.md, raw/articles/reddit-2023-2026-centanafadine-metadoxine-attention-threads.md]
@@ -46,7 +46,7 @@ That split prevents three common overreads:
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | [[centanafadine]] may help ADHD / CDS / brain fog without stimulant scheduling | `forum anticipation` | raw/articles/reddit-2023-2026-centanafadine-metadoxine-attention-threads.md; Reddit /r/SCT, /r/BetterMeds, /r/PMHNP | several discussion threads; `weak/speculative` | Investigational ADHD drug, not marketed yet | low | No direct first-person efficacy corpus; comments are mechanism, price, scheduling, and tolerability speculation |
 | [[metadoxine]] before alcohol may prevent hangover-like cognitive fog | `forum anecdote` | same raw thread cluster; Reddit /r/NooTopics | one direct report plus paper-sharing; `weak` | Alcohol-aftereffect / hangover-prevention context | low | Timing, alcohol dose, sleep, hydration, expectancy, and no product verification dominate |
@@ -58,5 +58,6 @@ That split prevents three common overreads:
 - For long-half-life agents such as [[dasotraline]] and [[tesofensine]], accumulation and slow adverse-event resolution are central.
 - For [[metadoxine]], keep ER ADHD studies, IV alcohol-intoxication studies, and supplement-style B-vitamin / pyroglutamate claims separate.
 - For [[centanafadine]], preserve exact regulatory dates: as of 2026-05-15 the NDA is under priority review, with PDUFA target 2026-07-24.
+- Route attention-pipeline anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting ADHD symptom relief, hangover recovery, or wakefulness as durable cognition improvement.
 
-Related pages: [[centanafadine]], [[dasotraline]], [[metadoxine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[tesofensine]], [[atomoxetine]], [[bupropion]], [[viloxazine]], [[reboxetine]], [[solriamfetol]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], and [[cognitive-improvement-molecule-signal-atlas]].
+Related pages: [[centanafadine]], [[dasotraline]], [[metadoxine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], [[tesofensine]], [[atomoxetine]], [[bupropion]], [[viloxazine]], [[reboxetine]], [[solriamfetol]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[cognitive-improvement-molecule-signal-atlas]].

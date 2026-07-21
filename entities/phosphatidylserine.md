@@ -1,7 +1,7 @@
 ---
 title: Phosphatidylserine
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/alzdiscovery-2023-phosphatidylserine-cognitive-vitality.md, raw/articles/pubmed-8323999-phosphatidylserine-cognitive-decline-elderly.md, raw/articles/pmc-2966935-soy-phosphatidylserine-memory-elderly.md, raw/articles/pmc-3136416-ps-dha-safety-memory-complaints.md, raw/articles/karger-2014-ps-dha-open-label-extension.md, raw/articles/sciencedirect-2025-phosphatidylserine-ala-mci-rct.md, raw/articles/pmc-4237891-phosphatidylserine-phosphatidic-acid-stress.md, raw/articles/pubmed-33539192-phosphatidylserine-adhd-meta-analysis.md, raw/articles/fda-2004-phosphatidylserine-qualified-health-claim.md, raw/articles/reddit-2020-phosphatidylserine-experiences-thread.md, raw/articles/reddit-2023-2026-phosphatidylserine-focus-stress-threads.md]
@@ -52,6 +52,8 @@ Route phosphatidylserine through [[common-nootropic-gray-zone-molecule-watchlist
 
 Practical ranking: keep PS below [[citicoline]], [[alpha-gpc]], [[caffeine]], [[modafinil]], [[methylphenidate]], and [[creatine]] for healthy adults. It is more plausible as an older-adult memory-complaint / stress-state / inattention-phenotype candidate than as a universal enhancer. Any future upgrade needs an isolated modern soy/sunflower PS trial in healthy adults, or at minimum a product-matched older-adult replication with delayed-memory endpoints.
 
+Route PS anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting stress control, stimulant smoothing, sleep, ADHD focus, or memory reports as direct cognition. The first gates are bovine versus soy/sunflower source, PS-DHA or PS+PA formulas, omega-3/B-vitamin/Ginkgo co-use, cortisol/stress state, stimulant history, sleep timing, mood irritability, and anticoagulant/bleeding context.
+
 ## Interpretation Gates
 
 - Do not transport bovine cortex PS results directly to soy or sunflower PS.
@@ -66,6 +68,7 @@ Practical ranking: keep PS below [[citicoline]], [[alpha-gpc]], [[caffeine]], [[
 - [[gray-zone-nootropic-community-signal-ledger]]
 - [[supplement-identity-evidence-map]]
 - [[nutrient-supplement-cognition-signal-map]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[citicoline]]
 - [[alpha-gpc]]
 - [[mfgm-phospholipids]]

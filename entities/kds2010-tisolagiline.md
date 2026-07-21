@@ -1,7 +1,7 @@
 ---
 title: KDS2010 / Tisolagiline
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, safety, dosage, clinical-trial, preclinical, biomarker, mechanism, protocol, controversy]
 sources: [raw/articles/pubmed-30906861-kds2010-reversible-maob-ad-mice.md, raw/articles/clinicaltrials-2026-kds2010-ad-phase2a.md, raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md]
@@ -24,7 +24,7 @@ Endpoints include CDR-SB, MMSE, ADAS-Cog13, A-IADL-Q-SV, and biomarkers includin
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | KDS2010/tisolagiline could be a better reversible MAO-B path than older irreversible inhibitors | `forum/pipeline discussion` | raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md; Reddit mechanism and investor/pipeline threads | several checked threads; `weak` direct nootropic signal | AD/obesity pipeline, reversible MAO-B, astrocyte-GABA mechanism | low | Mostly investment or mechanism discussion; no direct self-experiment cognition corpus |
 
@@ -32,6 +32,8 @@ Endpoints include CDR-SB, MMSE, ADAS-Cog13, A-IADL-Q-SV, and biomarkers includin
 
 The active AD trial excludes recent MAOIs/linezolid, several opioids, cyclobenzaprine, St. John's wort, serotonergic drugs, sympathomimetics, and dextromethorphan. That exclusion pattern is a practical reminder that reversible does not mean stack-friendly.^[raw/articles/clinicaltrials-2026-kds2010-ad-phase2a.md]
 
+Route KDS2010/tisolagiline pipeline anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before giving them nootropic weight. Until human efficacy posts, the useful signal is trial surveillance plus interaction exclusions, not direct self-experiment cognition evidence.
+
 ## Current Route
 
-Track KDS2010 through [[mao-b-propargylamine-cognition-watchlist]] and compare it to [[sembragiline]] before upgrading any biomarker claim. Current verdict: promising enough to watch, but as of 2026-05-15 it is not a human cognition-positive molecule.
+Track KDS2010 through [[mao-b-propargylamine-cognition-watchlist]] and compare it to [[sembragiline]] before upgrading any biomarker claim. Current verdict: promising enough to watch, but as of 2026-06-12 it is not a human cognition-positive molecule.

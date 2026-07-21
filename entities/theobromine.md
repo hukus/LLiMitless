@@ -1,7 +1,7 @@
 ---
 title: Theobromine
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubmed-23420115-theobromine-healthy-volunteers-psychopharmacology.md, raw/articles/pmc-6499748-theobromine-vascular-function-null.md, raw/articles/rsc-2023-theobromine-metabolic-syndrome-rct.md, raw/articles/mdpi-2020-cocoa-young-adults-cognition-review.md, raw/articles/reddit-2021-2026-theobromine-cocoa-focus-threads.md]
@@ -36,7 +36,7 @@ Anecdote signal: `weak-moderate / smoother stimulant`. 2021-2026 forum threads i
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Theobromine or cacao gives smoother focus/energy than coffee | `forum anecdote` | raw/articles/reddit-2021-2026-theobromine-cocoa-focus-threads.md; Reddit /r/Nootropics cluster | several checked threads; `weak-moderate` | Cacao powder, isolated 300-310 mg theobromine, theacrine/caffeine/L-theanine stacks | low | Caffeine, flavanols, magnesium, cocoa fat/sugar, exercise, and placebo are not controlled |
 | Theobromine can feel calming or anxiolytic while mildly stimulating | `forum anecdote` | same raw thread cluster | repeated comments but no denominator; `weak` | Preworkout, cacao, sleep-compatible stimulant claims | low | Could be cacao matrix, relief from caffeine avoidance, dose, or baseline anxiety rather than theobromine |
@@ -48,9 +48,10 @@ Anecdote signal: `weak-moderate / smoother stimulant`. 2021-2026 forum threads i
 - Do not borrow [[caffeine]], [[paraxanthine]], [[theacrine]], or [[cocoa-flavanols]] effects by analogy.
 - Track total methylxanthine load: theobromine plus caffeine, theacrine, methylliberine, guarana, preworkout stimulants, or prescription stimulants can change sleep, palpitations, BP/HR, anxiety, and tolerance.
 - Watch GI effects, headache, sweating/tremor at high intake, sleep timing, palpitations, anxiety/panic sensitivity, cardiovascular disease, pregnancy/breastfeeding, and cocoa-product heavy metals.
+- Route theobromine, cocoa/cacao, and methylxanthine-stack anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating calm stimulation, workout mood, or smoother focus as a molecule-specific cognition signal.
 
 ## Current Route
 
 Theobromine belongs in [[common-nootropic-gray-zone-molecule-watchlist]] as a standalone low-confidence methylxanthine comparator. It is useful for interpreting cacao/cocoa focus claims and theacrine/caffeine stack reports, but current evidence keeps it below [[caffeine]] and below [[paraxanthine]] for direct cognition evidence.
 
-Related pages: [[caffeine]], [[paraxanthine]], [[theacrine]], [[methylliberine]], [[cocoa-flavanols]], [[guarana]], [[common-nootropic-gray-zone-molecule-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], and [[anecdote-led-chemical-heat-map]].
+Related pages: [[caffeine]], [[paraxanthine]], [[theacrine]], [[methylliberine]], [[cocoa-flavanols]], [[guarana]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[common-nootropic-gray-zone-molecule-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], and [[anecdote-led-chemical-heat-map]].

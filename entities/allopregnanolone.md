@@ -1,7 +1,7 @@
 ---
 title: Allopregnanolone
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-33344752-allopregnanolone-phase1b2a-ad.md, raw/articles/pubmed-35310526-allopregnanolone-imaging-follow-up.md, raw/articles/clinicaltrials-nct04838301-allopregnanolone-regen-brain-status.md, raw/articles/pubmed-40854505-allopregnanolone-ad-depression-review.md]
@@ -36,13 +36,15 @@ No allopregnanolone-specific cognition anecdote raw note is currently indexed. N
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Allopregnanolone improves memory or brain regeneration | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | neurosteroid / AD-regeneration discourse | low | Sleep, mood, sedation, and disease-stage selection can mimic or obscure cognition effects |
 
 ## Safety And Status
 
 The current cognition-relevant safety gate is clinical supervision and route burden. The captured early-AD study used IV weekly dosing and identified sedation at higher doses as a practical dose-limiting issue. Over-the-counter hormone or neurosteroid analog claims should not be equated with the tested protocol.
+
+Route allopregnanolone claims through [[safety-interaction-matrix-for-multi-modal-stacks]] when sedation, mood/depression, sleep, AD stage, APOE status, IV dosing, neurosteroid analogs, or imaging-only endpoints are part of the interpretation.
 
 ## Signal Judgment
 
@@ -57,5 +59,5 @@ Practical route: watch the REGEN-BRAIN readout; do not upgrade on imaging or moo
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]]
 - [[testosterone-trt]]
 - [[gnrh]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
-

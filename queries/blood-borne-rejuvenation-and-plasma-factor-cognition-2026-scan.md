@@ -1,7 +1,7 @@
 ---
 title: Blood-Borne Rejuvenation and Plasma-Factor Cognition 2026 Scan
 created: 2026-04-29
-updated: 2026-05-04
+updated: 2026-06-12
 type: query
 tags: [cognition, clinical-trial, biomarker, inflammation, safety, controversy, comparison, recovery]
 sources: [raw/articles/pubmed-30383097-young-plasma-infusion-alzheimers-rct.md, raw/articles/pubmed-32715623-ambar-primary-results.md, raw/articles/pubmed-39476248-ambar-inflammatory-mediator-levels.md, raw/articles/pubmed-40202045-extracellular-vesicles-aging-age-related-diseases-review.md, raw/articles/nature-platelet-derived-exerkine-cxcl4-platelet-factor-4-rejuvenates-hippocampal-neurogenesis-and-restores-cognitive-function-in-aged-mice.md, raw/articles/nature-exercise-plasma-boosts-memory-and-dampens-brain-inflammation-via-clusterin.md, raw/articles/pubmed-38667317-plasma-ev-lipidomics-ad.md, raw/articles/pubmed-40749766-pf4-cognition-review.md, raw/articles/pubmed-32646997-gpld1-exercise-neurogenesis-cognition.md, raw/articles/sciencedirect-2026-gpld1-tnap-memory-loss-vasculature.md, raw/articles/pubmed-30470794-gdf11-hippocampus-aged-mice.md, raw/articles/pubmed-29480172-gdf11-ad-cerebrovascular-cognition.md, raw/articles/nature-aging-2023-systemic-gdf11-memory-mood-autophagy.md, raw/articles/pubmed-37978295-gdf11-neuronal-senescence-brain-aging-p21.md, raw/articles/pmc-10793994-gdf11-aging-biology-controversies.md]
@@ -11,7 +11,7 @@ contested: true
 
 # Blood-Borne Rejuvenation and Plasma-Factor Cognition 2026 Scan
 
-Related pages: [[exerkine-myokine-cognition-2026-scan]], [[msc-exosome-secretome-cognition-2026-scan]], [[klotho]], [[plasmalogen-and-lipid-membrane-replacement-2026-scan]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[clinical-recovery-vs-healthy-enhancement-translation-map]].
+Related pages: [[exerkine-myokine-cognition-2026-scan]], [[msc-exosome-secretome-cognition-2026-scan]], [[klotho]], [[plasmalogen-and-lipid-membrane-replacement-2026-scan]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[clinical-recovery-vs-healthy-enhancement-translation-map]].
 
 ## Summary
 
@@ -79,6 +79,7 @@ The right wiki interpretation is that circulating-factor biology is real, plasma
 - The biomarker follow-up reinforces that the safety story is inseparable from apheresis logistics and invasive monitoring.^[raw/articles/pubmed-39476248-ambar-inflammatory-mediator-levels.md]
 - EV and exosome commercialization still needs the separate regulatory and sourcing checks already used in the regenerative-medicine branch. [[msc-exosome-secretome-cognition-2026-scan]]^[raw/articles/pubmed-40202045-extracellular-vesicles-aging-age-related-diseases-review.md]
 - [[gdf11]] high-dose and protein-quality issues mean it should be safety-first, not "replacement therapy" by default.^[raw/articles/pmc-10793994-gdf11-aging-biology-controversies.md]
+- Route plasma-factor, exerkine, and "young blood" extrapolations through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating them as nootropic leads. Apheresis burden, central access, albumin/IVIG replacement, coagulation/platelet biology, inflammatory mediator shifts, recombinant-protein quality, EV/exosome sourcing, BBB/vascular mechanisms, and mouse-transfer evidence can all dominate the interpretation.
 
 ## Responder Phenotypes
 

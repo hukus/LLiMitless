@@ -1,7 +1,7 @@
 ---
 title: SHLP2
 created: 2026-04-30
-updated: 2026-05-06
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, peptides, metabolism, neuroscience, mechanism, biomarker, preclinical, safety]
 sources: [raw/articles/pubmed-30310092-shlp2-macular-degeneration.md, raw/articles/pubmed-37468558-shlp2-energy-homeostasis.md, raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md, raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md, raw/articles/pubmed-40715951-mdp-neurodegeneration-review.md]
@@ -18,15 +18,19 @@ The 2024 Parkinson's disease paper added a brain-relevant genetic/translational 
 
 The older macular-degeneration paper is the third anchor in the current set. It supports SHLP2 as a tissue-protective mitochondrial peptide in retinal models, which strengthens the family-level translational story without creating a direct cognition claim.^[raw/articles/pubmed-30310092-shlp2-macular-degeneration.md]
 
+June 2026 attribution gate: SHLP2 stays a metabolic / Parkinson's / retinal translational node, not a cognition enhancer. Future reports need exact SHLP2, K4R, or SHLP-family identity, source/COA, route/formulation, dose timing, stack order, washout, metabolic/PD/retinal phenotype, endogenous-variant-versus-administered exposure split, adverse events, and objective cognition or disease-state endpoints before any ranking upgrade or comparison with [[humanin]], [[mots-c]], [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+
 ## Frontier Read
 
 SHLP2 is important less because it is a cognition peptide today and more because it makes the mitochondrial peptide family look structurally deeper. A peptide with circulating-human detection, hypothalamic/metabolic signaling, and a distinct PD-protective variant story is no longer just abstract family biology. It is an emerging translational node with plausible future CNS relevance.
 
 I did not surface a visible SHLP2 intervention program in the current pass, so the branch still reads as biologically serious but clinically early.
 
+Route any SHLP2, SHLP-family, or K4R-variant nootropic claim through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before ranking. The key gates are metabolic or PD-risk biology versus cognition, endogenous variant versus exogenous peptide exposure, hypothalamic energy-state confounding, source identity, route, and whether the claim is borrowing from [[humanin]] or [[elamipretide]].
+
 Related raw notes: `raw/articles/pubmed-30310092-shlp2-macular-degeneration.md`, `raw/articles/pubmed-37468558-shlp2-energy-homeostasis.md`, `raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md`.
 
-SHLP2 links naturally to [[mitochondria-derived-peptides]], [[humanin]], [[elamipretide]], and [[medicine-cognition-summary]].
+SHLP2 links naturally to [[mitochondria-derived-peptides]], [[humanin]], [[elamipretide]], [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[medicine-cognition-summary]].
 
 Open questions:
 

@@ -1,7 +1,7 @@
 ---
 title: Muscarinic Agent Cognition Watchlist
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-06-12
 type: comparison
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, biomarker, comparison, anecdote, mechanism, controversy]
 sources: [raw/articles/fda-cobenfy-approval-2024.md, raw/articles/pubmed-38691387-xanomeline-trospium-schizophrenia-rct.md, raw/articles/pubmed-39488504-xanomeline-trospium-pooled-emergent.md, raw/articles/pubmed-41418563-xanomeline-trospium-cognitive-impairment-review.md, raw/articles/pubmed-40598606-vu0467319-m1-pam-healthy-participants.md, raw/articles/pubmed-36528376-emraclidine-m4-phase1b.md, raw/articles/clinicaltrials-nct05227690-emraclidine-phase2-results.md, raw/articles/pubmed-9109749-xanomeline-alzheimer-cognitive-behavior.md, raw/articles/pubmed-9876958-xanomeline-ad-cntb.md]
@@ -41,4 +41,6 @@ The strongest direct cognition signal in this watchlist is still older [[xanomel
 
 ## Current Read
 
-The muscarinic branch is important but not yet an enhancer lane. It belongs beside [[cholinergic-state-restoration-and-cognition]], [[cholinergic-and-nicotinic-agents-2026-scan]], [[choline-donor-cognition-signal-map]], [[pharmacology-comparator-map]], and [[cognitive-improvement-molecule-signal-atlas]].
+The muscarinic branch is important but not yet an enhancer lane. It belongs beside [[cholinergic-state-restoration-and-cognition]], [[cholinergic-and-nicotinic-agents-2026-scan]], [[choline-donor-cognition-signal-map]], [[pharmacology-comparator-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[cognitive-improvement-molecule-signal-atlas]].
+
+Safety route: send muscarinic-agent anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before ranking. The main confounds are cholinergic/anticholinergic balance, GI tolerability, syncope/bradycardia, BP/HR changes, urinary retention, schizophrenia symptom improvement, AD impairment-state effects, and target engagement without behavioral transfer.

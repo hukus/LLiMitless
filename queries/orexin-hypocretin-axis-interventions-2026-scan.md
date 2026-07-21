@@ -1,7 +1,7 @@
 ---
 title: Orexin/Hypocretin Axis Interventions - 2026 Scan
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-06-15
 type: query
 tags: [sleep, cognition, performance, mechanism, clinical-trial, safety, controversy, dosage]
 sources: [raw/articles/pubmed-40367374-oveporexton-narcolepsy-type-1.md, raw/articles/pubmed-40087982-suvorexant-fear-extinction-recall-healthy-individuals.md, raw/articles/pubmed-39641404-daridorexant-nighttime-safety-cognitive-function.md, raw/articles/pubmed-41359331-orexin-agonist-cognition-narcolepsy-secondary-analysis.md, raw/articles/pubmed-37494485-oral-orexin-receptor-2-agonist-narcolepsy-type-1.md, raw/articles/pubmed-39804333-danavorexton-opioid-induced-respiratory-depression-sedation-healthy-men.md, raw/articles/pubmed-40233754-orexin-agonist-wakefulness-cataplexy-distinct-brain-regions.md, raw/articles/pubmed-40847765-vornorexant-driving-performance-simulator.md, raw/articles/pubmed-30597112-lemborexant-driving-healthy-adult-elderly-volunteers.md, raw/articles/pubmed-40374039-daridorexant-delirium-feasibility-trial.md, raw/articles/pubmed-41401488-dora-delirium-meta-analysis.md, raw/articles/pubmed-40552089-fazamorexant-first-in-human-study.md, raw/articles/pubmed-41622624-vornorexant-orexin-receptor-occupancy-human-pk.md, raw/articles/pubmed-41610582-dora-sleep-pairwise-meta-analysis.md, raw/articles/pubmed-39788123-norepinephrine-mediated-slow-vasomotion-glymphatic-clearance-during-sleep.md, raw/articles/clinicaltrials-nct07267559-dorea-daridorexant-executive-function.md, raw/articles/pubmed-41704392-cyclopentapyrrole-orexin-agonists.md, raw/articles/pubmed-23552372-orexin-receptor-antagonists-cognition-margin.md, raw/articles/clinicaltrials-nct01243060-hypocretin-orexin-antagonist-neurocognitive-performance.md]
@@ -29,6 +29,7 @@ What changed since 2024:
 - The Oxford DOREA study is still recruiting and currently lists estimated primary completion for 2026-09-01 and final study completion for 2026-10-01, so the live healthy-volunteer DORA readout is still pending.^[raw/articles/clinicaltrials-nct07267559-dorea-daridorexant-executive-function.md]
 - A 2026 chemistry disclosure added new cyclopentapyrrole orexin agonists for narcolepsy and hypersomnia, which keeps the agonist pipeline active but does not add a human cognition signal.^[raw/articles/pubmed-41704392-cyclopentapyrrole-orexin-agonists.md]
 - The field still lacks a clean healthy sleep-deprivation cognition trial showing that an orexin agonist beats standard wake-promoting comparators on PVT or transfer tasks.
+- June 2026 routing update: orexin-axis reports must separate disease-context state restoration, sleep-debt rescue, sedation reversal, sleep-restoration/non-impairment, and healthy enhancement before they affect rankings.
 
 ## Top Sources
 
@@ -84,6 +85,7 @@ What changed since 2024:
 - Vornorexant's human receptor-occupancy model shows that the class can hit strong target engagement in healthy phase I subjects; that helps explain sleep efficacy, but it does not convert the class into a daytime enhancer.^[raw/articles/pubmed-41622624-vornorexant-orexin-receptor-occupancy-human-pk.md]
 - Sleep-architecture effects may matter beyond symptom control: the norepinephrine/glymphatic paper suggests that drugs that blunt NREM oscillations can change clearance physiology, so "good sleep latency" is not the same as "restorative sleep architecture."^[raw/articles/pubmed-39788123-norepinephrine-mediated-slow-vasomotion-glymphatic-clearance-during-sleep.md]
 - The old assumption that all orexin antagonists must disrupt cognition is too broad; the actual data are more nuanced and dose/timing dependent.^[raw/articles/pubmed-23552372-orexin-receptor-antagonists-cognition-margin.md]
+- Wakefulness-state attribution gate: capture diagnosis or state challenge, baseline sleepiness, prior sleep and sleep debt, circadian timing, dose and administration time, trial/prescription/gray-market status, liver monitoring for agonists, insomnia or next-day somnolence for antagonists and H3 agents, stimulant/sedative/caffeine/nicotine co-use, washout, and objective endpoints before treating a report as nootropic evidence. Route informal claims through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 ## Responder Phenotypes
 
@@ -118,5 +120,6 @@ What changed since 2024:
 - Link this scan from [[pharmacology-comparator-map]] and [[medicine-cognition-summary]].
 - Keep the orexin row in [[pharmacology-comparator-map]] framed as a frontier comparator, not a mature healthy-adult enhancer.
 - Keep [[oveporexton]] and [[daridorexant]] synchronized with future readouts, but require replication or non-NT1/non-insomnia cognition results before upgrading either route.
+- Keep [[samelisant]] and the H3 inverse-agonist branch wakefulness-first unless a trial separates sleepiness scales from objective cognition.
 - Add a future concept split if the wiki later needs separate pages for orexin agonists and DORAs under the same axis.
 - Revisit after the Oxford DOREA study posts results; it is the cleanest healthy-volunteer cognition readout currently registered.

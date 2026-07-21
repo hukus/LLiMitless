@@ -1,7 +1,7 @@
 ---
 title: Naftidrofuryl
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, mechanism, anecdote, comparison, controversy]
 sources: [raw/articles/pubchem-2026-naftidrofuryl-identity.md, raw/articles/pubmed-22161372-naftidrofuryl-dementia-cochrane-expanded.md, raw/articles/pubmed-22161372-naftidrofuryl-dementia-cochrane.md, raw/articles/pubmed-10945510-naftidrofuryl-vascular-mixed-dementia-rct.md, raw/articles/cochrane-2022-naftidrofuryl-intermittent-claudication.md, raw/articles/nice-2011-ta223-naftidrofuryl-pad-recommendation.md, raw/articles/ansm-2025-naftilux-naftidrofuryl-smpc.md, raw/articles/reddit-2023-naftidrofuryl-old-nootropics-mention.md]
@@ -48,7 +48,7 @@ PubChem's toxicology summary is consistent with a risk-first posture: overdose m
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Naftidrofuryl appears in old nootropic lists, but no direct effect report was captured | `anecdote` | raw/articles/reddit-2023-naftidrofuryl-old-nootropics-mention.md; Reddit /r/Nootropics | one list thread with no direct use report; `absent-to-weak` | old smart-drug / nootropic-literature curiosity | low | No dose, user experience, cognitive endpoint, adverse event, or denominator |
 
@@ -56,4 +56,6 @@ PubChem's toxicology summary is consistent with a risk-first posture: overdose m
 
 Naftidrofuryl deserves standalone coverage because it is the remaining legacy vasoactive comparator with formal dementia and PAD evidence plus current prescription-drug safety constraints. It remains low-confidence for cognitive improvement: the cognition evidence is old and dementia-bound, the stronger current evidence is a leg-walking PAD endpoint, and the anecdotal layer does not currently add a usable signal.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[nicergoline]], [[propentofylline]], [[hydergine-ergoloid-mesylates]], [[pramiracetam]], [[nefiracetam]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[molecule-intake-triage-table]].
+Use [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting naftidrofuryl as a nootropic, especially when PAD walking-distance benefit, hydration, oxalate stone risk, hepatic symptoms, bedtime/esophagitis risk, or old nootropic-list mentions are the main signal.
+
+Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[nicergoline]], [[propentofylline]], [[hydergine-ergoloid-mesylates]], [[pramiracetam]], [[nefiracetam]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[molecule-intake-triage-table]].

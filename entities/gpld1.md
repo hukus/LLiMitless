@@ -1,7 +1,7 @@
 ---
 title: GPLD1
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, metabolism, mechanism, biomarker, preclinical, safety, anecdote, comparison, controversy]
 sources: [raw/articles/pubmed-32646997-gpld1-exercise-neurogenesis-cognition.md, raw/articles/sciencedirect-2026-gpld1-tnap-memory-loss-vasculature.md]
@@ -24,6 +24,7 @@ Mechanistic update: `preclinical / vasculature-mediated`. The 2026 Cell paper id
 - GPLD1 itself did not need to enter the brain in the 2026 model, which makes the pathway interesting but also harder to translate into simple dosing claims.
 - Human evidence is activity-linked correlation, not exogenous GPLD1 treatment.
 - Any future TNAP or BBB-targeting translation needs explicit vascular, bone/mineral, inflammatory, and cognitive safety monitoring before it can be compared with ordinary exercise.
+- Route GPLD1, TNAP-inhibition, and BBB-transport claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mouse liver-expression or vascular-mechanism results as nootropic evidence.
 
 ## Anecdote Ledger
 
@@ -31,4 +32,4 @@ Mechanistic update: `preclinical / vasculature-mediated`. The 2026 Cell paper id
 |---|---|---|---|---|---|---|
 | GPLD1 cognitive enhancement | anecdote | no structured direct-use anecdotal source captured | `absent` | liver-derived exercise factor | low | No consumer corpus or human GPLD1 dosing corpus is captured |
 
-Related pages: [[exerkine-myokine-cognition-2026-scan]], [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]], [[pf4]], [[clusterin]], [[irisin]], [[osteocalcin]], and [[apelin]].
+Related pages: [[exerkine-myokine-cognition-2026-scan]], [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]], [[pf4]], [[clusterin]], [[irisin]], [[osteocalcin]], [[apelin]], and [[safety-interaction-matrix-for-multi-modal-stacks]].

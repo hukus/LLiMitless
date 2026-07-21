@@ -1,7 +1,7 @@
 ---
 title: Rasagiline
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/dailymed-2025-rasagiline-label.md, raw/articles/pubmed-41524120-maob-inhibitors-pd-cognition-network-meta.md, raw/articles/pubmed-21500280-rasagiline-pd-cognition-rct.md, raw/articles/pubmed-28956175-rasagiline-dysexecutive-wearing-off-pilot.md, raw/articles/pubmed-33614888-rasagiline-ad-fdg-pet-cognition.md, raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md]
@@ -24,7 +24,7 @@ Alzheimer signal: `biomarker-positive but cognition-not-proven`. A 50-person pha
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Rasagiline is a cleaner dopamine / MAO-B nootropic than [[selegiline]] | `forum anecdote` / mechanism discussion | raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md; Reddit /r/NooTopics and /r/MAOIs | several checked threads; `weak-moderate` | Self-medication, anhedonia, stimulant-combination, and neuroprotection framing | low | Mostly mechanistic speculation; product, diagnosis, dose, and concurrent-medication context are uncontrolled |
 | Rasagiline may do little subjectively | `forum counterreport` | raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md | isolated direct no-effect reports; `weak` | MAO-B / anhedonia / dopamine expectations | low | No objective cognition data, no denominator, and no product verification |
@@ -34,6 +34,8 @@ Alzheimer signal: `biomarker-positive but cognition-not-proven`. A 50-person pha
 DailyMed lists rasagiline as a Parkinson disease drug, not a supplement. Contraindications include several opioids, dextromethorphan, St. John's wort, cyclobenzaprine, and other MAO inhibitors; warnings include hypertension, serotonin syndrome, sleep attacks, orthostatic hypotension, dyskinesia, hallucinations, impulse-control behaviors, and withdrawal-emergent hyperpyrexia/confusion.^[raw/articles/dailymed-2025-rasagiline-label.md]
 
 The label also caps dosing with CYP1A2 inhibitors such as ciprofloxacin and warns against very high tyramine exposure. That safety profile makes rasagiline a prescription-interaction comparator, not a casual brain-fog tool.^[raw/articles/dailymed-2025-rasagiline-label.md]
+
+Route rasagiline anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when stimulants, phenethylamine, serotonergic drugs, dextromethorphan/AUVELITY, [[methylene-blue]], tyramine exposure, sleep disruption, Parkinson-state fluctuations, or antidepressant switching are present.
 
 ## Current Route
 

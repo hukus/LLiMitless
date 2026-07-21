@@ -1,7 +1,7 @@
 ---
 title: Kava / Kavalactones
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, traditional-medicine, clinical-trial, safety, dosage, anecdote, controversy]
 sources: [raw/articles/nccih-2025-kava-usefulness-safety.md, raw/articles/sage-2020-kava-gad-rct.md, raw/articles/reddit-2021-kava-natural-nootropics-thread.md]
@@ -28,6 +28,8 @@ NCCIH states that kava has human anxiety research, little evidence for other con
 
 The captured nootropic thread gives `weak-moderate` salience for calm, social ease, and focus-like effects. These are likely mood/anxiety-mediated and should not be interpreted as direct cognition improvement.^[raw/articles/reddit-2021-kava-natural-nootropics-thread.md]
 
+June 2026 calm-focus routing: kava anecdotes need product and preparation details before they can be interpreted. Capture cultivar or product, plant part where known, extract versus traditional aqueous preparation, kavalactone dose, frequency, alcohol/sedative/cannabinoid/kratom co-use, baseline anxiety or insomnia, liver risk, adverse events, next-day sedation, washout/dechallenge, and objective task or social-function endpoints. Missing product, liver, or sedative co-use fields keep the report in `risk-first calm-state anecdote`, not nootropic evidence.
+
 ## Anecdote Ledger
 
 | Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
@@ -36,7 +38,7 @@ The captured nootropic thread gives `weak-moderate` salience for calm, social ea
 
 ## Safety And Status
 
-Kava should be treated as liver- and sedative-interaction-sensitive. Product identity, cultivar, plant part, extraction method, co-use with alcohol/sedatives, and chronic high intake all matter.
+Kava should be treated as liver- and sedative-interaction-sensitive. Product identity, cultivar, plant part, extraction method, co-use with alcohol/sedatives, and chronic high intake all matter. Route calm-focus reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparing them with [[cannabidiol-cbd]], [[kratom-mitragynine]], [[l-theanine]], [[phenibut]], or peptide/nootropic downshift stacks.
 
 ## Signal Judgment
 
@@ -52,3 +54,5 @@ Practical route: anxiolytic botanical with liver/product gates, not a cognition 
 - [[traditional-medicine-cognition-2026-scan]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[molecule-intake-triage-table]]
+- [[self-experimentation-stop-rules]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

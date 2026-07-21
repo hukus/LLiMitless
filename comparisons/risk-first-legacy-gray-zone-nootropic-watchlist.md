@@ -1,7 +1,7 @@
 ---
 title: Risk-First Legacy Gray-Zone Nootropic Watchlist
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-06-15
 type: comparison
 tags: [domain-medicine, cognition, comparison, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pubmed-17117395-memantine-age-associated-memory-impairment.md, raw/articles/dailymed-2021-memantine-hydrochloride-label.md, raw/articles/pubmed-36625844-cbd-healthy-adults-cognition-rct.md, raw/articles/pubmed-37792394-cbd-cognition-systematic-review.md, raw/articles/epidiolex-2018-cannabidiol-prescribing-information.md, raw/articles/nccih-2025-kava-usefulness-safety.md, raw/articles/sage-2020-kava-gad-rct.md, raw/articles/fda-2024-opms-black-liquid-kratom-warning.md, raw/articles/fda-2025-7oh-kratom-warning-letters.md, raw/articles/pubmed-25262913-mitragynine-cognitive-impairment-abuse-potential.md, raw/articles/pmc-3990080-agmatine-stz-alzheimer-rat-model.md, raw/articles/pubmed-9327985-agmatine-novel-neurotransmitter-review.md, raw/articles/alzdiscovery-2017-centrophenoxine-cognitive-vitality.md, raw/articles/pubmed-9267856-idebenone-alzheimer-dose-rct.md, raw/articles/pubmed-14663031-idebenone-ad-fails-trial.md, raw/articles/reddit-2020-memantine-one-month-thread.md, raw/articles/reddit-2023-agmatine-experience-thread.md, raw/articles/reddit-2026-cbd-nootropics-experience-thread.md, raw/articles/reddit-2021-kava-natural-nootropics-thread.md, raw/articles/reddit-2024-kratom-memory-focus-thread.md, raw/articles/reddit-2019-centrophenoxine-experience-thread.md, raw/articles/reddit-2021-idebenone-experience-thread.md]
@@ -13,6 +13,8 @@ contradictions: []
 # Risk-First Legacy Gray-Zone Nootropic Watchlist
 
 This watchlist closes a residual gap after [[common-nootropic-gray-zone-molecule-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], and [[racetam-long-tail-watchlist]]. These molecules show up in nootropic communities, old memory-drug literature, or calm-focus stacks, but most should be routed as prescription clinical-state, preclinical-only, legacy/inconclusive, or risk-first rather than as general cognitive enhancers.
+
+June 2026 boundary: do not let calm, pain relief, withdrawal relief, tolerance-reset, or sedative-downshift anecdotes from this page compete directly with the strongest peptide/nootropic monitoring nodes. Reports need product/source identity, dose, route or preparation, stack order, dependence or withdrawal context, washout/dechallenge, adverse events, and objective endpoints before they can affect rankings in [[anecdote-led-chemical-heat-map]] or [[anecdote-to-trial-mismatch-bucketed-map]].
 
 ## Current Read
 
@@ -38,7 +40,7 @@ This watchlist closes a residual gap after [[common-nootropic-gray-zone-molecule
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Memantine can transiently improve anhedonia, focus, and tolerance-like states | `anecdote` | raw/articles/reddit-2020-memantine-one-month-thread.md; Reddit /r/Nootropics | one high-visibility thread with mixed replies; `moderate` | low-dose daily memantine, mood/focus claims, dose escalation | low | Long half-life, accumulation, migraine, dissociation, psychiatric confounding |
 | Agmatine can reduce anxiety/pain or change stimulant/tolerance response | `anecdote` | raw/articles/reddit-2023-agmatine-experience-thread.md; Reddit /r/Nootropics | one detailed thread with multiple replies; `moderate` | 500 mg to 1 g/day, pre-workout, sciatica, mood/anxiety | low | Palpitations, sleepiness, fog, dose-response and interaction reports |
@@ -54,9 +56,10 @@ This watchlist closes a residual gap after [[common-nootropic-gray-zone-molecule
 - [[cannabidiol-cbd]], [[kava-kavalactones]], and [[kratom-mitragynine]] should not be collapsed into one "calm focus" category. CBD is cannabinoid/antiepileptic-safety; kava is kavalactone/product/liver-safety; kratom is opioid-like dependence and serious-adverse-event safety.
 - [[agmatine]] looks more like a tolerance/pain/mood-state molecule than a cognition molecule until human cognitive endpoints exist.
 - [[dmae-centrophenoxine]] and [[idebenone]] are legacy candidates. Old positive dementia or memory findings are useful history, but they are not enough to outrank better-supported modern branches in [[cognitive-improvement-molecule-signal-atlas]].
+- Use [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] for gray-zone anecdotes that mix calm-focus, arousal, sleep, tolerance, pain, dependence, withdrawal, and adverse-event variables before treating any report as molecule-specific cognition evidence.
 
 ## Verdict
 
 These molecules are relevant enough to include as standalone entities, but they mostly lower the wiki's hype gradient. [[memantine]] is a clinical-state comparator; [[agmatine]] is preclinical/tolerance lore; [[cannabidiol-cbd]] and [[kava-kavalactones]] are calm/sleep/anxiety branches with safety gates; [[kratom-mitragynine]] is risk-first; [[dmae-centrophenoxine]] and [[idebenone]] are legacy gray-zone. None should be ranked above cleaner state-support or clinical-signal branches without new controlled cognition evidence.
 
-Related pages: [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[anecdote-led-chemical-heat-map]], [[common-nootropic-gray-zone-molecule-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[cholinergic-state-restoration-and-cognition]], and [[negative-evidence-watchlist-for-cognition-interventions]].
+Related pages: [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[anecdote-led-chemical-heat-map]], [[anecdote-to-trial-mismatch-bucketed-map]], [[common-nootropic-gray-zone-molecule-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[cholinergic-state-restoration-and-cognition]], and [[negative-evidence-watchlist-for-cognition-interventions]].

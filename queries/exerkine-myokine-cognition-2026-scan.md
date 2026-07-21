@@ -1,7 +1,7 @@
 ---
 title: Exerkine and Myokine Cognition Scan
 created: 2026-04-29
-updated: 2026-05-04
+updated: 2026-06-12
 type: query
 tags: [comparison, cognition, clinical-trial, mechanism, biomarker, safety, protocol, controversy]
 sources: [raw/articles/pubmed-40560607-correlation-between-irisin-and-cognitive-functions-in-alzheimer-dementia.md, raw/articles/pmc-12315660-irisin-emerging-therapeutic-targets-for-cognitive-impairment-related-diseases.md, raw/articles/pmc-12284321-association-between-irisin-level-and-cognitive-function-systematic-review-meta-analysis.md, raw/articles/pmc-7261628-cathepsin-b-in-neurodegeneration-of-alzheimers-disease-traumatic-brain-injury-and-related-brain-disorders.md, raw/articles/nature-platelet-derived-exerkine-cxcl4-platelet-factor-4-rejuvenates-hippocampal-neurogenesis-and-restores-cognitive-function-in-aged-mice.md, raw/articles/pubmed-40749766-pf4-cognition-review.md, raw/articles/nature-exercise-plasma-boosts-memory-and-dampens-brain-inflammation-via-clusterin.md, raw/articles/pubmed-32646997-gpld1-exercise-neurogenesis-cognition.md, raw/articles/sciencedirect-2026-gpld1-tnap-memory-loss-vasculature.md, raw/articles/pubmed-36094482-undercarboxylated-osteocalcin-cognition-women-hiv.md, raw/articles/pubmed-28851741-gpr158-osteocalcin-cognition.md, raw/articles/pubmed-40337551-osteocalcin-gpr158-bone-brain-review.md, raw/articles/pubmed-35305406-apelin-emotional-behavior-age-metabolic-state.md, raw/articles/pubmed-39681256-apelin-cns-diseases-review.md]
@@ -81,6 +81,7 @@ None used. This branch is being kept on formal evidence only.
 - Exogenous [[pf4]], [[clusterin]], [[gpld1]], [[irisin]], [[osteocalcin]], or [[apelin]] should be treated as research biology, not consumer nootropics.
 - Plasma/exosome commercialization needs the separate regulatory and sourcing checks in the blood-factor branch.
 - [[cathepsin-b]] and [[pf4]] also sit close to inflammation/coagulation biology, so any future translational work needs explicit safety monitoring rather than enthusiasm-driven escalation.
+- Use [[safety-interaction-matrix-for-multi-modal-stacks]] for direct-factor, expression-vector, TNAP-inhibition, plasma-derived, EV/exosome, or vendor peptide/protein extrapolations. The validated intervention is still exercise; [[pf4]], [[clusterin]], [[gpld1]], [[irisin]], [[cathepsin-b]], [[osteocalcin]], and [[apelin]] remain mediator hypotheses unless human intervention endpoints appear.
 
 ## Responder Phenotypes
 

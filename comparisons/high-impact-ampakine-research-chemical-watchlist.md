@@ -1,7 +1,7 @@
 ---
 title: High-Impact AMPAkine Research-Chemical Watchlist
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-15
 type: comparison
 tags: [comparison, cognition, neuroscience, mechanism, preclinical, anecdote, safety, controversy]
 sources: [raw/articles/pubmed-7815345-idra21-rat-cognition-ampa-desensitization.md, raw/articles/sciencedirect-2004-idra21-rhesus-delayed-matching.md, raw/articles/pmc-3073152-huperzine-a-idra21-young-macaques.md, raw/articles/pubmed-9192690-idra21-partial-modulator-neurotoxicity.md, raw/articles/pmc-6774091-cx614-neurotrophin-expression.md, raw/articles/pmc-2761758-cx614-bdnf-release-mrna-translation.md, raw/articles/pmc-2746455-cx614-bdnf-signaling-ampa-downregulation.md, raw/articles/pubmed-39304968-high-impact-ampakines-toxic-calcium-release.md, raw/articles/sciencedirect-2024-smart-drugs-japan-idra21.md, raw/articles/edqm-2025-mssip007-nootropics-idra21.md, raw/articles/reddit-2020-2026-idra21-ampakine-experience-threads.md, raw/articles/reddit-2020-ampakine-experience-reports-scarce.md]
@@ -41,5 +41,7 @@ This page catches the older/high-impact AMPAkine branch that is visible in nootr
 ## Routing Rule
 
 Use this page when a source talks about IDRA-21, CX614, CX546, cyclothiazide, or other older/high-impact AMPA receptor potentiators as nootropics, plasticity boosters, or memory enhancers. Use [[ampakines-and-glutamatergic-plasticity-2026-scan]] for the broader low-impact and clinical-translation story, and use [[emerging-synaptic-plasticity-stack-chemicals-watchlist]] when the source is a mixed stack involving [[acd856]], [[tak-653]], [[tropisetron]], [[bpn14770]], or [[nsi-189]].
+
+June 2026 excitatory-ceiling gate: high-impact AMPAkine reports require source/COA or surveillance context, exact compound identity, dose, route, timing, acute versus repeated exposure, sleep state, seizure/head-injury/migraine/psychiatric risk, AMPA/glutamate/racetam/stimulant/caffeine/nicotine co-use, washout, dechallenge/rechallenge, adverse events, and objective endpoint tier before any cognition-ranking change. If these fields are missing, keep the report as low-confidence anecdote or market-risk evidence. Route it through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparing with [[tak-653]], [[cx717]], [[sunifiram]], [[bromantane]], [[semax]], or [[selank]].
 
 Related pages: [[idra-21]], [[cx614]], [[ampakines-and-glutamatergic-plasticity-2026-scan]], [[tak-653]], [[cx717]], [[cx516]], [[cx1739]], [[cx691-farampator]], [[anecdote-led-chemical-heat-map]], and [[target-specificity-gate-for-plasticity-molecules]].

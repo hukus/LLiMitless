@@ -1,7 +1,7 @@
 ---
 title: Alpha-GPC
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubmed-39300341-choline-alphoscerate-amnestic-mci.md, raw/articles/pubmed-40353278-choline-alfoscerate-mtbi-recovery.md, raw/articles/pubmed-39896163-lysolecithin-cognition-choline.md, raw/articles/reddit-2023-06-03-aniracetam-any-experiences-youd-like-to-share.md]
@@ -35,12 +35,15 @@ Medicinal signal: `low-moderate`. The strongest current captured source is a 100
 
 Alpha-GPC should be routed through [[choline-donor-cognition-signal-map]] and [[cholinergic-state-restoration-and-cognition]]. It is weaker than [[nicotine]] for acute attention, but it has a cleaner impairment-context signal than generic choline claims. Keep [[citicoline]] separate because CDP-choline has a different source packet and should not borrow Alpha-GPC's evidence.
 
+Route Alpha-GPC / choline alphoscerate anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating racetam support, memory, focus, or recovery reports as direct cognition. The first gates are MCI or mTBI recovery phenotype, dose, acute versus chronic timing, uridine/DHA co-use, racetam co-use, nicotine/caffeine/cholinergic overlap, headache dechallenge, GI effects, and whether generic choline claims are being imported.
+
 ## Related Pages
 
 - [[choline-donor-cognition-signal-map]]
 - [[cholinergic-state-restoration-and-cognition]]
 - [[nicotine]]
 - [[citicoline]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 
 ## Sources

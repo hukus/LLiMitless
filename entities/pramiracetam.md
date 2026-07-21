@@ -1,7 +1,7 @@
 ---
 title: Pramiracetam
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, mechanism, anecdote, controversy]
 sources: [raw/articles/pubchem-2026-pramiracetam-identity.md, raw/articles/pubmed-15374306-pramiracetam-scopolamine-amnesia-expanded.md, raw/articles/pubmed-15374306-pramiracetam-scopolamine-amnesia.md, raw/articles/pubmed-1786500-pramiracetam-head-injury-anoxia-rct.md, raw/articles/pubmed-14965012-pramistar-cerebrovascular-memory.md, raw/articles/reddit-2020-pramiracetam-review-thread.md]
@@ -38,7 +38,7 @@ Community use often involves gray-market sourcing, powder/capsule identity uncer
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Pramiracetam improves focus, memory, or motivation | `anecdote` | raw/articles/reddit-2020-pramiracetam-review-thread.md; Reddit /r/Nootropics | one review thread; `moderate` | racetam-style focus/memory self-report | low | No objective testing, sourcing uncertainty, and stack context |
 | Pramiracetam can alter emotional tone | `anecdote` | raw/articles/reddit-2020-pramiracetam-review-thread.md; Reddit /r/Nootropics | one review thread; `moderate` adverse/tone salience | blunted or irritable experiences in replies | low | Subjective, dose and co-supplement confounds |
@@ -47,4 +47,6 @@ Community use often involves gray-market sourcing, powder/capsule identity uncer
 
 Pramiracetam deserves standalone coverage because it has a better human cognition bridge than many racetam names: an anticholinergic-challenge study and a recovery-state memory study. It still remains low-confidence for general nootropic use because the direct evidence is old, small, and state-bound.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[racetam-long-tail-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[nicergoline]], [[citicoline]], [[huperzine-a]], and [[anecdotal-evidence-in-cognitive-intervention-research]].
+Route pramiracetam reports through [[safety-interaction-matrix-for-multi-modal-stacks]] when choline donors, stimulant co-use, recovery from injury/anoxia, anticholinergic challenge logic, emotional blunting, irritability, or gray-market sourcing shape the perceived effect.
+
+Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[racetam-long-tail-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[nicergoline]], [[citicoline]], [[huperzine-a]], and [[anecdotal-evidence-in-cognitive-intervention-research]].

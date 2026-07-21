@@ -1,7 +1,7 @@
 ---
 title: Anecdote-To-Trial Mismatch Bucketed Map
 created: 2026-04-28
-updated: 2026-05-12
+updated: 2026-06-15
 type: comparison
 tags: [comparison, anecdote, cognition, safety, controversy, performance, protocol]
 sources: [https://troof.blog/posts/nootropics/, https://www.astralcodexten.com/p/nootropics-survey-2020-results, https://www.wada-ama.org/en/prohibited-list, raw/articles/pubmed-418433-prl-8-53-human-trial.md, raw/articles/pubchem-prl-8-53-identity.md, raw/articles/prl-8-53-braintropic-review.md, raw/articles/reddit-2021-prl-8-53-language-learning-thread.md, raw/articles/reddit-2022-prl-8-53-experiences-thread.md, raw/articles/reddit-2026-05-08-prl-8-53-nootopics-opinion-thread.md, raw/articles/pubmed-10998997-bromantane-human-volunteers.md, https://pubmed.ncbi.nlm.nih.gov/27528461/, https://pubmed.ncbi.nlm.nih.gov/32285253/, https://pubmed.ncbi.nlm.nih.gov/12596521/, https://pubmed.ncbi.nlm.nih.gov/33119829/, raw/articles/pubmed-37453966-tianeptine-abuse-review.md, raw/articles/pubmed-23391959-phenibut-dependence.md, raw/articles/pubmed-27351678-methylene-blue-human-brain-fmri.md, raw/articles/pubmed-26961091-methylene-blue-functional-connectivity-human-brain.md, raw/articles/pubmed-28686823-methylene-blue-ptsd-exposure-rct.md, raw/articles/dailymed-methylene-blue-injection-label-2026.md, raw/articles/pubmed-8665548-selegiline-cognition-early-pd.md, raw/articles/pubmed-11813282-selegiline-alzheimers-meta-analysis.md, raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md, https://www.fda.gov/drugs/drug-alerts-and-statements/fda-warns-consumers-not-purchase-or-use-any-tianeptine-product-due-serious-risks, https://www.fda.gov/food/information-select-dietary-supplement-ingredients-and-other-substances/phenibut-dietary-supplements, raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md, raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md, raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md, raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md]
@@ -29,6 +29,7 @@ What changed since 2024:
 - Selegiline is now easier to classify: older PD and AD data show transient rescue, but the effect does not hold up as durable healthy enhancement.^[raw/articles/pubmed-8665548-selegiline-cognition-early-pd.md]^[raw/articles/pubmed-11813282-selegiline-alzheimers-meta-analysis.md]
 - Noopept is still the classic transportability problem: one human impairment-context trial, some stronger animal antiamnesic work, and a market story that is more heterogeneous than the molecule story.^[raw/articles/pubmed-19008801-noopept-mci-vascular.md]^[raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md]
 - Classic psychedelic microdosing now belongs in the mismatch map: community productivity and creativity claims remain strong, but the controlled evidence is weak-to-negative for broad cognition and only narrow for creativity.^[raw/articles/reddit-2022-2026-psychedelic-microdosing-productivity-threads.md]^[raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md]^[raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md]
+- The June 2026 peptide/nootropic pass adds a separate mismatch lane: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] are the strongest monitoring nodes, but their community heat still routes through provenance, route, stack, washout, recovery-state, and stop-rule gates before any ranking upgrade. [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] remain visible but de-ranked or state-bound unless source/COA, route/formulation, human cognition, adverse-event, and objective-endpoint evidence improves.
 
 ## Decision Rules
 
@@ -37,6 +38,7 @@ What changed since 2024:
 - `risk-first`: the dependency, toxicity, adulteration, or regulatory burden changes the practical interpretation more than the effect size does.
 - `sourcing-confounded`: product identity, vendor QA, or class heterogeneity is so messy that the community signal does not transport cleanly.
 - `deprioritize`: the human bridge is too thin to justify ranking the compound as a near-term cognition candidate.
+- `high-priority monitoring`: repeated salience is strong enough to justify active tracking, but not confidence upgrade, because the effect may be state-bound, recovery-mediated, route-dependent, or sourcing-confounded.
 
 ## Top Sources
 
@@ -73,6 +75,12 @@ What changed since 2024:
 | Classic psychedelic microdosing | Productivity, creativity, clarity, morning energy, flow, and anxiety / rumination relief narratives. | The 2026 meta-analysis found lower cognitive control and null broad cognition; psilocybin microdosing trials were null/mixed, while creativity evidence stayed narrow.^[raw/articles/pubmed-41314362-effects-of-psychedelic-microdosing-on-cognitive-functions.md]^[raw/articles/pubmed-41110634-psilocybin-microdosing-cognitive-subjective-effects.md]^[raw/articles/pubmed-41187880-psilocybin-microdosing-creativity-trials.md] | Mood, novelty, expectancy, ritual, and state change get mistaken for objective cognition. | `deprioritize` |
 | PRL-8-53 | Memory-stack curiosity, language-learning reports, and a durable "one weird study" reputation. | One double-blind human learning / retention study with a positive verbal-retention signal, plus modern review pages and forum reports that still do not add controlled replication.^[raw/articles/pubmed-418433-prl-8-53-human-trial.md]^[raw/articles/prl-8-53-braintropic-review.md]^[raw/articles/reddit-2021-prl-8-53-language-learning-thread.md]^[raw/articles/reddit-2022-prl-8-53-experiences-thread.md] | One clean signal, no modern replication, identity / salt-form ambiguity, route irritation, no-effect reports, and adverse daily-use anecdotes.^[raw/articles/pubchem-prl-8-53-identity.md]^[raw/articles/reddit-2026-05-08-prl-8-53-nootopics-opinion-thread.md] | `replication-worthy` |
 | Bromantane | Motivation / fatigue / exam-stack chatter that feels more useful than generic nootropics. | Small healthy-volunteer psychophysiology study, not a robust healthy-adult cognition program.^[raw/articles/pubmed-10998997-bromantane-human-volunteers.md] | Actoprotective arousal is easy to misread as cognition. | `state-bound` |
+| [[semax]] | Focus, study pressure, workload, and strain-state reports; strong peptide-cluster salience in community datasets. | Older regional/recovery literature and newer preclinical support keep it worth tracking, but the current wiki does not have modern healthy-adult cognition proof. | Route, source/COA, intranasal delivery, stimulant/caffeine co-use, recovery-state, and strain-state confounds can explain much of the perceived benefit. | `high-priority monitoring` |
+| [[selank]] | Calm focus, anxiety control, emotional steadiness, and exam/recovery-state reports. | More plausible as stress/anxiety-state restoration than as a direct cognition enhancer; formal cognition bridge remains thin. | Anxiolysis, sleep, medication co-use, route/source uncertainty, and Semax-family name borrowing can masquerade as nootropic effect. | `high-priority monitoring` |
+| [[cerebrolysin]] | Brain-fog, mood, recovery, sleep, social fluidity, and neurorecovery reports; unusually persistent despite injection-route burden. | Strongest formal packet among the peptide nodes, but mostly disease/recovery-context and not casual healthy-adult enhancement. | IM/IV route, medical-supervision status, source quality, hypersensitivity/adverse reports, course length, and recovery phenotype dominate transportability. | `high-priority monitoring` |
+| [[bpc-157]] / TB-500 recovery lane | Injury repair, pain reduction, rehab continuity, training throughput, and secondary clarity reports. | Direct cognition proof is weak; the more coherent signal is recovery/pain/function. | Recovery trajectory, rehab/training changes, TB-500 co-use, route/source uncertainty, and activity-level changes can create secondary mental-clarity reports. | `state-bound` |
+| [[dihexa]] / [[pe-22-28]] / [[adamax]] | Frontier peptide lore, vendor/offshoot labels, and mechanism-first excitement. | Current wiki keeps these searchable but below Semax/Selank/Cerebrolysin/BPC-157/Bromantane because human cognition and identity evidence are too thin. | Source/COA, route/formulation, vendor naming, no human exposure or no indexed human evidence, and stack confounding dominate. | `deprioritize` |
+| [[epithalon]] / [[pinealon]] | Sleep, circadian, TBI/recovery, subtle alertness, and bioregulator anecdotes. | State-bound sleep/recovery hypotheses rather than direct nootropic leads. | Cycle timing, route, baseline insomnia/circadian state, recovery phenotype, and adverse sleep/HRV/mood counterreports block broad enhancement claims. | `state-bound` |
 | NSI-189 | Neurogenesis and antidepressant hype, sometimes with "brain repair" framing. | Phase 1b / 2 depression data include some cognitive subtests, but the primary outcome did not establish a broad enhancer signal.^[https://pubmed.ncbi.nlm.nih.gov/27528461/] | Translational antidepressant signal overinterpreted as nootropic proof. | `deprioritize` |
 | 9-Me-BC | Dopamine restoration and Parkinson-style rescue stories. | Preclinical astrocyte / neurotrophic work only in this sweep; no human cognition trial surfaced.^[https://pubmed.ncbi.nlm.nih.gov/32285253/] | Mechanism leapfrogged straight into enhancer talk. | `deprioritize` |
 | [[noopept]] / racetams | Legacy nootropic lore plus vendor-visible "cognitive enhancer" branding. | One human impairment-context trial plus animal antiamnesic / neurotrophin work, but the class is still transportability-poor because product QA and formulation vary.^[raw/articles/pubmed-19008801-noopept-mci-vascular.md]^[raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md] | Class heterogeneity and product QA make the market signal non-portable. | `sourcing-confounded` |
@@ -87,6 +95,7 @@ What changed since 2024:
 - High-salience Reddit/forum signal: classic psychedelic microdosing is useful as an anecdote-to-trial mismatch case, not as a broad enhancer.
 - Single-study human cognition: PRL-8-53 remains the clearest "replication-worthy" curiosity in this cluster, but the modern review layer still looks like citation recycling rather than replication.
 - Narrow state rescue: bromantane, selegiline, and methylene blue look more like phenotype- or context-bound tools than baseline enhancers.
+- High-priority peptide/nootropic monitoring: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] deserve active tracking, but the gate is provenance and phenotype depth, not anecdote enthusiasm.
 - Translational / preclinical only: NSI-189 and 9-Me-BC are still ahead of their human evidence.
 - Risk-dominated branches: tianeptine and phenibut should stay in risk-first buckets even when user reports are enthusiastic.
 - Supply-chain confounding: noopept / racetams need product identity and QA before they can be compared to cleaner branches.
@@ -98,6 +107,7 @@ What changed since 2024:
 - Phenylpiracetam / bromantane / selegiline: fatigue, sleep loss, or actoprotective rescue states rather than rested baseline.
 - NSI-189: depressed outpatients and symptom-focused contexts, not healthy enhancement.
 - Tianeptine / phenibut: prior anxiety, insomnia, or substance-use vulnerability increases the risk that perceived benefit is really relief or reversal.
+- Semax / Selank / Cerebrolysin / BPC-157: strain, anxiety, recovery, injury, neurologic impairment, or post-viral brain-fog phenotypes should be separated before comparing effect reports.
 
 ## Protocol Parameters
 
@@ -106,12 +116,14 @@ What changed since 2024:
 - Methylene blue: most positive human studies used about 260-282 mg oral doses and often paired the drug with a successful learning or exposure session.^[raw/articles/pubmed-27351678-methylene-blue-human-brain-fmri.md]^[raw/articles/pubmed-28686823-methylene-blue-ptsd-exposure-rct.md]
 - Selegiline: older dementia and Parkinson's studies used prescription dosing, not consumer microdosing, and the benefit was short-lived.^[https://pubmed.ncbi.nlm.nih.gov/11813282/]^[https://pubmed.ncbi.nlm.nih.gov/12535396/]
 - Tianeptine / phenibut: no cognition-enhancement protocol should be inferred from the risk literature.
+- Peptide/nootropic monitoring nodes: no protocol should be inferred from community reports unless source/COA, route/formulation, dose timing, stack order, washout, adverse events, recovery state, and objective endpoints are recorded through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]].
 
 ## Open Contradictions
 
 - Community rankings often treat "felt effect" as evidence of cognition benefit, but the same signal can reflect arousal, anxiolysis, or withdrawal reversal.
 - Phenylpiracetam and bromantane can look like nootropics online while functioning more like stimulant-adjacent rescue tools in practice.
 - [[noopept]] / racetams are not a single pharmacologic object, so class-level anecdote is not transportable without product QA.
+- Peptide/nootropic anecdote heat is not class-wide evidence: Semax, Selank, Cerebrolysin, BPC-157, Dihexa, PE-22-28, Adamax, Epithalon, Pinealon, TB-500, and MOTS-c do not share one route, evidence layer, or risk profile.
 - Methylene blue is the outlier where the anecdote is not the main reason to care; the controlled human data are.
 - NSI-189 and 9-Me-BC still look more like mechanism-first hypotheses than validated enhancement branches.
 
@@ -120,6 +132,7 @@ What changed since 2024:
 - Keep this page linked from [[anecdote-led-chemical-heat-map]] and [[anecdotal-evidence-in-cognitive-intervention-research]].
 - Use [[biohacker-anecdote-methodology]] as the scoring rubric for community signal strength, duplicate handling, and vendor-influence downweighting.
 - Cross-link risk-dominated branches to [[negative-evidence-watchlist-for-cognition-interventions]] and [[regulatory-and-sports-visibility-map]].
+- Keep peptide/nootropic mismatch rows synchronized with [[nootropic-peptide-anecdote-frontier-2026-scan]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[gray-zone-nootropic-community-signal-ledger]], and [[community-nootropic-rating-datasets-2026-scan]].
 - If a cleaner phenylpiracetam or noopept human cognition trial appears, split those branches out of the current mismatch bucket.
 
 ## Related Pages
@@ -130,3 +143,6 @@ What changed since 2024:
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[regulatory-and-sports-visibility-map]]
 - [[methylene-blue-2026-scan]]
+- [[nootropic-peptide-anecdote-frontier-2026-scan]]
+- [[peptide-stack-topology-ledger]]
+- [[molecule-triage-worksheet-for-online-scans]]

@@ -1,7 +1,7 @@
 ---
 title: Adrafinil
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-11
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/sage-2020-modafinil-adrafinil-review.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/fda-2024-modafinil-analog-dietary-supplement-lchrms.md, raw/articles/pubmed-27928893-modafinil-analog-thermal-degradation.md, raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
@@ -13,6 +13,8 @@ contradictions: []
 # Adrafinil
 
 Adrafinil is best handled as a gray-market wakefulness-promoter prodrug for [[modafinil]], not as a separate validated cognitive enhancer. The formal evidence packet in this wiki is not an adrafinil cognition trial; it is a modafinil / armodafinil / adrafinil pharmacology and safety review plus community salience.
+
+June 2026 anecdote read: `moderate-strong focus salience, risk-first formal routing`. The 2017 /r/Nootropics survey keeps adrafinil near the loud focus-positive eugeroic cluster, but that does not make it a cleaner nootropic than [[modafinil]]. It makes adrafinil a sourcing, sports-status, liver/interaction-monitoring, and analog-adulteration branch that should stay visible in [[anecdote-signal-ledger]] without inheriting prescription-modafinil confidence.^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]^[raw/articles/sage-2020-modafinil-adrafinil-review.md]
 
 The newer [[unapproved-modafinil-analog-eugeroic-watchlist]] now keeps adrafinil separate from flmodafinil / CRL-40,940, fladrafinil / CRL-40,941, N-methyl-difluoromodafinil, hydrafinil / fluorenol, and [[ce-123]]. FDA/ORA analytical work places these modafinil analogs in a dietary-supplement hidden-API / adulteration context, forensic analytical literature shows that CRL-40,940 and CRL-40,941 have their own identity and degradation issues, and the 2026 WADA stimulant list names adrafinil in S6.A with fladrafinil, flmodafinil, hydrafinil / fluorenol, and modafinil.^[raw/articles/fda-2024-modafinil-analog-dietary-supplement-lchrms.md]^[raw/articles/pubmed-27928893-modafinil-analog-thermal-degradation.md]^[raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
 
@@ -33,6 +35,7 @@ Medicinal signal: `risk-first/low`. The 2020 review explicitly includes adrafini
 | Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Adrafinil improves focus | community survey | raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md; /r/Nootropics survey mirror | 380 respondents / 63 substances; `moderate-strong` salience | Study / work focus | low | Open-label, unblinded, and no safety monitoring; may simply reflect modafinil-like wakefulness |
+| Adrafinil is a broad healthy-adult nootropic alternative to modafinil | anecdote-to-formal mismatch | [[anecdote-signal-ledger]], [[common-nootropic-gray-zone-molecule-watchlist]], and [[unapproved-modafinil-analog-eugeroic-watchlist]] | `weak` as an efficacy upgrade despite visible focus salience | Gray-market eugeroic and prodrug use | low | No adrafinil-specific modern cognition packet; prodrug conversion, gray-market sourcing, WADA S6.A status, hidden-API analogs, and safety monitoring dominate |
 
 ## Practical Interpretation
 

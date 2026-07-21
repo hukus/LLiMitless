@@ -1,7 +1,7 @@
 ---
 title: Fisetin
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, inflammation, longevity, preclinical, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/alzdiscovery-2016-fisetin-cognitive-vitality.md, raw/articles/pmc-3954948-fisetin-ad-mouse-cognition.md, raw/articles/pubmed-30279143-fisetin-senotherapeutic-health-lifespan.md, raw/articles/clinicaltrials-nct03675724-fisetin-frailty-inflammation-older-adults.md, raw/articles/pubmed-40103928-sex-senescence-senolytics-cognition.md, raw/articles/reddit-2023-fisetin-brain-fog-adverse-thread.md, raw/articles/reddit-2025-fisetin-quercetin-senolytics-adverse-thread.md, raw/articles/troof-nootropics-ratings-analysis.md]
@@ -46,10 +46,13 @@ Fisetin clears a standalone page threshold because it is highly visible in senol
 
 A confidence upgrade requires completed human fisetin trials with cognition endpoints, not just inflammatory markers, plus product assay, dose-cycle safety, medication interaction handling, and objective cognitive measures.
 
+Route fisetin and fisetin-plus-quercetin reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating dosing troughs, inflammation shifts, frailty changes, or brain-fog anecdotes as cognition. High-dose intermittent protocols, CYP/QT/liver/infection exclusions, caffeine changes, NMN or other co-supplements, product identity, and adverse-skewed reports should remain visible.
+
 ## Related Pages
 
 - [[quercetin]]
 - [[senolytic-cognition-2026-scan]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[polyphenol-nrf2-cognition-watchlist]]
 - [[resveratrol]]
 - [[sulforaphane]]

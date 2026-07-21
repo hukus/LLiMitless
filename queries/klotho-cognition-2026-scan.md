@@ -1,7 +1,7 @@
 ---
 title: Klotho cognition 2026 scan
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-12
 type: query
 tags: [cognition, longevity, biomarker, mechanism, performance, comparison, clinical-trial, safety, anecdote, controversy]
 sources: [raw/articles/pmc-4176932-klotho-cognition-enhancement.md, raw/articles/pubmed-28539162-klotho-dementia-older-men.md, raw/articles/pubmed-29768278-klotho-vascular-dementia-memory-clinic.md, raw/articles/pmc-9932504-klotho-cognitive-performance-us-adults.md, raw/articles/nature-s41398-023-02632-x-klotho-cognition-dementia-mr.md, raw/articles/pubmed-40048920-klotho-cognition-meta-analysis.md, raw/articles/pubmed-41983942-klotho-neuroprotective-roles-review.md, raw/articles/pubmed-37400721-klotho-nonhuman-primates-cognition.md, raw/articles/pubmed-41163083-klotho-vs-cognitive-performance-ad.md, raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy.md, raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md, raw/articles/minicircle-2026-klotho-gene-therapy-marketing-page.md, raw/articles/reddit-2025-03-07-klotho-follistatin-gene-therapy-interest-thread.md]
@@ -17,7 +17,7 @@ Klotho is a plausible cognitive-resilience biomarker, but not a settled interven
 
 Current run note: the 2026-05-04 scan did not surface a newer primary human Klotho cognition intervention result beyond the existing 2025 meta-analysis, 2025 AD/aMCI genotype-stage paper, 2026 review, and active Klotho plus follistatin gene-therapy registry. The current update adds registry-design detail, sponsor/waitlist status, and a weak community-interest thread; none upgrades efficacy confidence.
 
-Related pages: [[klotho]], [[biomarker-enriched-enrollment-and-cognition-effect-sizes]], and [[molecule-intake-triage-table]].
+Related pages: [[klotho]], [[biomarker-enriched-enrollment-and-cognition-effect-sizes]], [[molecule-intake-triage-table]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 ## What Changed Since 2024
 
@@ -73,13 +73,15 @@ The registry does at least define measurable endpoints for a future signal: patt
 The cognitive readouts are secondary and sit alongside serum Klotho/follistatin, adverse events, epigenetic age, inflammatory markers, renal/mineral markers, PF4/coagulation markers, metabolic markers, physical performance, and safety labs; if results post, those will tell us whether the intervention moved cognition specifically or only changed general health markers.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md]
 The biggest attribution problem is that the intervention combines Klotho and follistatin. Any future improvement in strength, body composition, mood, energy, or cognition should be treated as a combination-gene-therapy result unless a Klotho-only comparator exists.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md]
 
+Safety-matrix routing should happen before benefit scoring. Klotho/follistatin claims can be pulled by soluble-Klotho biomarkers, KL-VS/genotype stories, anti-aging framing, exercise/metabolic changes, renal/mineral-axis shifts, FGF23/phosphate/calcium biology, immune or vector-delivery effects, private-clinic access, and combination-gene-therapy attribution rather than direct cognition.
+
 ## Anecdote And Market Ledger
 
-| Claim or signal | Evidence layer | Source and source type | Strength | Interpretation | Caveat |
-|---|---|---|---|---|---|
-| Klotho gene therapy may improve cognition and longevity | `marketing / waitlist` | raw/articles/minicircle-2026-klotho-gene-therapy-marketing-page.md; sponsor page | `weak` market salience | Shows consumer-facing demand and access claims | Not FDA-reviewed, no posted efficacy results, sponsor framing |
-| Biohackers are interested in Klotho/follistatin gene therapy | `forum interest` | raw/articles/reddit-2025-03-07-klotho-follistatin-gene-therapy-interest-thread.md; Reddit thread | `weak` prospective salience | Useful for surveillance only | No direct user outcome or objective cognition report |
-| Direct Klotho self-experiment improves cognition | `direct anecdote` | Not captured in current corpus | absent | Do not include in benefit scoring | Absence may reflect limited access rather than absence of use |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Klotho gene therapy may improve cognition and longevity | `marketing / waitlist` | raw/articles/minicircle-2026-klotho-gene-therapy-marketing-page.md; sponsor page | `weak` market salience | Consumer-facing demand and access claims | low | Not FDA-reviewed, no posted efficacy results, sponsor framing |
+| Biohackers are interested in Klotho/follistatin gene therapy | `forum interest` | raw/articles/reddit-2025-03-07-klotho-follistatin-gene-therapy-interest-thread.md; Reddit thread | `weak` prospective salience | Surveillance only | low | No direct user outcome or objective cognition report |
+| Direct Klotho self-experiment improves cognition | `direct anecdote` | Not captured in current corpus | absent | Do not include in benefit scoring | low | Absence may reflect limited access rather than absence of use |
 
 ## Open Contradictions
 
@@ -98,3 +100,4 @@ The biggest attribution problem is that the intervention combines Klotho and fol
 - Use Klotho as a candidate moderator when building responder atlases or biomarker-enrichment hypotheses.
 - Route any future intervention claims through the new raw captures and the 2026 trial record before upgrading confidence.
 - Keep the gene-therapy trial in the watchlist until a posted human readout exists; do not treat the open-label registry, sponsor waitlist, or Reddit interest as an efficacy signal.
+- Route future Klotho/follistatin user reports through [[safety-interaction-matrix-for-multi-modal-stacks]] so vector/delivery, immune response, mineral-axis biology, private-clinic access, and combination attribution are separated before any nootropic interpretation.

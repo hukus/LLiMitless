@@ -1,7 +1,7 @@
 ---
 title: Methylliberine
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-10650428-methylliberine-cognition-affect-rct.md, raw/articles/pubmed-35103121-caffeine-theacrine-dynamine-egamers.md, raw/articles/tandfonline-2022-caffeine-methylliberine-theacrine-tactical-rct.md, raw/articles/pmc-6930730-methylliberine-dynamine-toxicology.md, raw/articles/compoundsolutions-2026-dynamine-product-identity.md, raw/articles/nutritionaloutlook-2019-dynamine-self-affirmed-gras.md, raw/articles/reddit-2020-dynamine-experience-thread.md]
@@ -35,9 +35,9 @@ Anecdote signal: `moderate for subjective energy/euphoria/focus salience, weak f
 
 ## Anecdote Ledger
 
-| Claim | Anecdote type | Source | Reported effect | Direction | Confidence | Why it does or does not matter |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Dynamine feels euphoric, uplifting, focus-positive, and stress-buffering | subjective energy/focus self-report | raw/articles/reddit-2020-dynamine-experience-thread.md; Reddit /r/Nootropics | euphoria, uplift, focus, mood, stress-response effects | positive/mixed | low | Same thread includes rough comedown, headache, lethargy, short-lived benefit, and no-response reports |
+| Dynamine feels euphoric, uplifting, focus-positive, and stress-buffering | `anecdote` | raw/articles/reddit-2020-dynamine-experience-thread.md; Reddit /r/Nootropics | one vivid thread; `moderate` subjective salience | euphoria, uplift, focus, mood, stress-response effects | low | Same thread includes rough comedown, headache, lethargy, short-lived benefit, and no-response reports |
 
 ## Identity Gates
 
@@ -51,7 +51,9 @@ Anecdote signal: `moderate for subjective energy/euphoria/focus salience, weak f
 
 Methylliberine deserves standalone coverage because it is common in stimulant/nootropic stacks and has a direct monotherapy RCT. It should not be ranked as a cognitive enhancer on current evidence. The current route is `subjective energy / affect modifier and caffeine-stack candidate`, with objective cognition confidence held at low until a blinded methylliberine-alone trial moves cognitive endpoints.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[paraxanthine]], [[theacrine]], [[theobromine]], [[caffeine]], [[cognitive-improvement-molecule-signal-atlas]], [[regulatory-and-sports-visibility-map]], and [[biohacker-anecdote-methodology]].
+Route methylliberine / Dynamine anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating euphoria, rapid energy, focus, stress-buffering, gaming, tactical, preworkout, or caffeine-stack reports as cognition. The first gates are methylliberine-alone versus caffeine/TeaCrine stack, dose, short half-life or comedown, headache/lethargy, BP/HR/anxiety, sleep timing, stimulant medication, cardiovascular context, product identity, and whether the objective cognition null is being ignored.
+
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[paraxanthine]], [[theacrine]], [[theobromine]], [[caffeine]], [[cognitive-improvement-molecule-signal-atlas]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

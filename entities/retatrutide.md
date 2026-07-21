@@ -1,7 +1,7 @@
 ---
 title: Retatrutide
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/lilly-2026-retatrutide-triumph1-phase3-topline.md, raw/articles/lilly-2026-retatrutide-transcend-t2d1-phase3-topline.md, raw/articles/lilly-2025-retatrutide-triumph4-phase3-osteoarthritis.md, raw/articles/nejm-2023-retatrutide-obesity-phase2.md, raw/articles/addf-2024-retatrutide-cognitive-vitality.md, raw/articles/reddit-2025-2026-retatrutide-cognition-fatigue-brainfog.md]
@@ -38,7 +38,7 @@ The Reddit layer is visibly mixed. Positive reports cluster around "mental clari
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Retatrutide improves mental clarity, focus, recall, or brain fog | anecdote | raw/articles/reddit-2025-2026-retatrutide-cognition-fatigue-brainfog.md; Reddit r/Retatrutide threads | repeated thread replies; weak-moderate | Low-dose starts, ADHD, tirzepatide switches/stacks, tadalafil co-use, early appetite change | low | Placebo, diet, reduced simple carbs, weight loss, glucose stability, sleep, inflammation, pain relief, and co-medications can mimic direct cognition |
 | Retatrutide causes fatigue, brain fog, anhedonia, low motivation, or memory/word-finding issues | anecdote | raw/articles/reddit-2025-2026-retatrutide-cognition-fatigue-brainfog.md; Reddit r/Retatrutide threads | repeated independent threads; moderate adverse salience | Early titration, higher doses, cosmetic cutting, heavy exercise, low calories/carbs, gray-market use | low | Underfueling, dehydration, electrolytes, depression, other meds, hypoglycemia-like symptoms, and product identity dominate attribution |
@@ -54,7 +54,9 @@ A direct CNS effect is plausible but unproven. Related incretin biology has brai
 
 Retatrutide is investigational and not approved for public use. Lilly's official FAQ warns that products claiming to be retatrutide outside Lilly-sponsored trials may contain unknown ingredients, contaminants, too much or too little active ingredient, or the wrong ingredient entirely.
 
-For cognition-watch purposes, the main practical safety issue is interpretability: rapid weight loss, appetite suppression, glucose shifts, GI symptoms, dysesthesia, dehydration risk, fatigue, sleep changes, and pain reduction can all change subjective cognition without proving a direct brain effect.
+For cognition-watch purposes, the main practical safety issue is interpretability: rapid weight loss, appetite suppression, glucose shifts, GI symptoms, dysesthesia, dehydration risk, fatigue, sleep changes, and pain reduction can all change subjective cognition without proving a direct brain effect. Route retatrutide clarity/fatigue/brain-fog anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] so underfueling, dehydration, electrolytes, titration speed, training load, co-medications, and product identity are separated from direct cognition claims.
+
+June 2026 metabolic-peptide attribution gate: retatrutide anecdotes are high-salience but should not outrank formal cognition-negative or cognition-absent evidence unless they capture trial participation versus gray-market source, COA/lot where applicable, dose and titration week, route/formulation, baseline BMI and metabolic phenotype, diabetes status, weight-loss speed, calorie and carbohydrate availability, hydration/electrolytes, training load, pain or osteoarthritis status, sleep apnea and sleep changes, mood/anhedonia baseline, GI and dysesthesia adverse events, co-medications and stacks, washout/dechallenge/rechallenge, and objective cognition or work-output endpoints. Route future reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before comparing retatrutide with [[semaglutide]], [[exenatide]], [[mazdutide]], or the stronger peptide/nootropic monitoring cluster.
 
 ## Signal Judgment
 
@@ -71,4 +73,7 @@ Practical route: monitor as a metabolic-brain comparator and anecdote-visible ri
 - [[exenatide]]
 - [[mazdutide]]
 - [[anecdotal-evidence-in-cognitive-intervention-research]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]

@@ -1,7 +1,7 @@
 ---
 title: Bacopa
 created: 2026-05-03
-updated: 2026-05-11
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, traditional-medicine, clinical-trial, dosage, safety, comparison]
 sources: [raw/articles/pubmed-20703343-bacopa-aami-rct.md, raw/articles/pubmed-40507208-bacopa-monnieri-preclinical-clinical-bioavailability.md, raw/articles/ctgov-nct04927338-bacopa-gwi.md, raw/articles/pmc-12864429-plant-active-substances-healthy-older-adults-nma.md, raw/articles/pubmed-41091332-bacumen-bacopa-healthy-adults-rct.md]
@@ -26,4 +26,6 @@ Bacopa monnieri is a standardized botanical cognition candidate with older contr
 
 Bacopa is a memory-oriented standardized-extract candidate, but the newest healthy-adult trial makes the practical read more state-specific: possible memory support in selected older/impaired contexts and possible stress/fatigue buffering, not reliable broad attention or working-memory enhancement. It should be tracked beside [[grape-extract]], [[ginkgo]], [[ginseng]], [[ashwagandha]], and [[saffron]], with product identity treated as part of the evidence rather than a nuisance variable.
 
-Related pages: [[standardized-herbal-extracts-for-cognition]], [[adaptogen-cognition-and-brain-fog-watchlist]], [[botanical-standardization-gate]], [[supplement-identity-evidence-map]], and [[cognitive-improvement-molecule-signal-atlas]].
+Route Bacopa reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating memory, stress resilience, fatigue, attention, or brain-fog claims as direct cognition. The first gates are extract identity, bacoside profile, dose and duration, AAMI/Gulf-War-Illness/older-adult phenotype, GI/sedation burden, sleep timing, stimulant co-use, and whether secondary stress/fatigue outcomes are being mistaken for primary cognition.
+
+Related pages: [[standardized-herbal-extracts-for-cognition]], [[adaptogen-cognition-and-brain-fog-watchlist]], [[botanical-standardization-gate]], [[supplement-identity-evidence-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[cognitive-improvement-molecule-signal-atlas]].

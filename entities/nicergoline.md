@@ -1,7 +1,7 @@
 ---
 title: Nicergoline
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, mechanism, anecdote, controversy]
 sources: [raw/articles/pubchem-2026-nicergoline-identity.md, raw/articles/pmc-7025776-nicergoline-dementia-cochrane.md, raw/articles/pubmed-2646350-nicergoline-dementia-rct.md, raw/articles/pubmed-8997547-nicergoline-multi-infarct-dementia-rct.md, raw/articles/pubmed-27519492-nicergoline-long-term-senile-dementia.md, raw/articles/ema-2013-ergot-derivatives-restrictions.md, raw/articles/reddit-2019-hydergine-nicergoline-thread.md, raw/articles/reddit-2022-nicergoline-postprandial-brain-fog-thread.md]
@@ -38,7 +38,7 @@ Any current use claim needs country, product, prescription status, dose, blood p
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Nicergoline may help postprandial brain fog | `anecdote` | raw/articles/reddit-2022-nicergoline-postprandial-brain-fog-thread.md; Reddit /r/Nootropics | one vivid report; `moderate` | meal-related brain fog, blood-flow/glucose hypotheses | low | Single-subject, meal, BP, glucose, and expectancy confounds |
 | Nicergoline remains historically interesting as an ergot smart drug | `anecdote` | raw/articles/reddit-2019-hydergine-nicergoline-thread.md; Reddit /r/Nootropics | one sparse discussion; `weak-moderate` | Hydergine/nicergoline old nootropic lore | low | Sourcing/history more than efficacy |
@@ -47,4 +47,6 @@ Any current use claim needs country, product, prescription status, dose, blood p
 
 Nicergoline deserves standalone coverage because the formal old evidence is deeper than the watchlist row implied and because EMA's ergot-derivative restriction makes safety context essential. It should not be upgraded into the top tier: the evidence is dementia/vascular-state rather than healthy enhancement, and modern anecdote is narrow.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[hydergine-ergoloid-mesylates]], [[cognitive-improvement-molecule-signal-atlas]], [[citicoline]], [[roflumilast]], [[sodium-benzoate]], and [[molecule-intake-triage-table]].
+Route nicergoline anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when postprandial fog, glucose/BP shifts, vascular symptoms, ergot-derived fibrosis/ergotism cautions, country status, or stimulant/caffeine context could explain the perceived effect.
+
+Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[hydergine-ergoloid-mesylates]], [[cognitive-improvement-molecule-signal-atlas]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[citicoline]], [[roflumilast]], [[sodium-benzoate]], and [[molecule-intake-triage-table]].

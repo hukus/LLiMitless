@@ -1,7 +1,7 @@
 ---
 title: Oxytocin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, peptides, clinical-trial, preclinical, mechanism, safety, protocol, anecdote, controversy]
 sources: [raw/articles/pubmed-39862881-oxytocin-foxy-ftd-apathy.md, raw/articles/pubmed-25503617-oxytocin-ftd-dose-finding-safety-tolerability.md, raw/articles/pubmed-31128568-oxytocin-vasopressin-null-social-paradigms.md, raw/articles/pubmed-41554388-oxytocin-social-brain-review-2026.md, raw/articles/pubmed-41876708-oxytocin-dynamic-brain-connectivity-2026.md, raw/articles/pubmed-41249098-oxytocin-v1a-social-communication-hamster.md, raw/articles/pubmed-41660638-oxytocin-sleep-deprivation-social-memory-deficits.md]
@@ -32,19 +32,23 @@ The newer human neuroimaging layer supports context-dependence. A 2026 PRISMA re
 
 The preclinical layer is mechanistically useful but not directly translational. A hamster study suggests oxytocin can regulate social communication through vasopressin V1a receptors, and a mouse sleep-deprivation study tied reduced oxytocin release to social-memory deficits. These papers support receptor cross-talk and state-dependent social-memory biology, not human enhancement.^[raw/articles/pubmed-41249098-oxytocin-v1a-social-communication-hamster.md]^[raw/articles/pubmed-41660638-oxytocin-sleep-deprivation-social-memory-deficits.md]
 
+June 2026 attribution gate: oxytocin should stay a social-behavior / apathy-domain peptide, not a general nootropic. Future reports need source/product identity, route/formulation and device, dose schedule, sex/context, diagnosis or baseline social phenotype, sleep state, co-interventions, social task or apathy endpoint, adverse behavioral effects, and objective cognition or functional endpoints before any ranking comparison with [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], [[vasopressin]], or [[desmopressin]].
+
 ## Anecdote Signal
 
 No oxytocin-specific nootropic anecdote raw note is currently indexed. Public claims about bonding, trust, empathy, libido, attachment, or social confidence should be separated from objective cognition and social-memory endpoints. Anecdotal cognition signal is therefore `absent-to-weak`.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Oxytocin improves social cognition or empathy | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | social-confidence, bonding, and empathy discourse | low | Formal evidence is phenotype- and task-dependent; FTD apathy is not broad cognition |
 
 ## Safety And Status
 
 For cognition purposes, the main issue is overgeneralization. Intranasal dose, context, sex, baseline traits, diagnosis, and behavioral target can change direction or magnitude. FTD trial tolerability does not create a general self-experimentation protocol, and receptor cross-talk with vasopressin pathways makes peptide-label reasoning brittle.
+
+Route any social-confidence, empathy, libido, bonding, sleep-deprivation, or stack anecdote through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpretation. The main attribution gates are route/formulation, dose schedule, sex/context, diagnosis, social task, sleep state, co-peptides, serotonergic or dopaminergic co-interventions, and whether the outcome is apathy/social behavior rather than cognition.
 
 ## Signal Judgment
 
@@ -59,5 +63,9 @@ Practical route: social/apathy-domain comparator; require task, phenotype, and d
 - [[oxytocin-vasopressin-desmopressin-social-memory-2026-scan]]
 - [[vasopressin]]
 - [[desmopressin]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
+- [[self-experimentation-stop-rules]]
 - [[peptide-safety-and-sourcing-risk-map]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

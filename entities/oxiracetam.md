@@ -1,7 +1,7 @@
 ---
 title: Oxiracetam
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, dosage, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-1414239-oxiracetam-dementia-placebo-study.md, raw/articles/pubmed-1603291-oxiracetam-dementia-follow-up.md, raw/articles/troof-nootropic-ratings-2022.md]
@@ -34,13 +34,13 @@ Oxiracetam has long-tail forum and vendor visibility, but the current captured c
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Oxiracetam improves mental energy or memory | anecdote | No dedicated oxiracetam anecdote raw note located in the current wiki corpus | unknown; weak-moderate by long-tail racetam salience | nootropic-market use, often stacked with choline or stimulants | low | Product identity, stacking, sleep, and expectancy confound attribution |
 
 ## Safety And Status
 
-The captured human studies are too old and small to define a modern safety profile for self-directed enhancement. Treat the trial adverse-event imbalance and old study designs as caution flags, not dosing guidance.
+The captured human studies are too old and small to define a modern safety profile for self-directed enhancement. Treat the trial adverse-event imbalance and old study designs as caution flags, not dosing guidance. Route oxiracetam self-experiment reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating them as molecule-specific cognition evidence, especially when choline co-use, stimulants, sleep loss, tolerance, or source identity are active.
 
 ## Signal Judgment
 

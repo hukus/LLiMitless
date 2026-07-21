@@ -1,7 +1,7 @@
 ---
 title: Fasoracetam
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pmc-5770454-fasoracetam-adhd-mglur-trial.md, raw/articles/troof-nootropic-ratings-2022.md]
@@ -32,13 +32,13 @@ Fasoracetam has research-chemical and ADHD-interest salience, but no dedicated c
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Fasoracetam improves focus, anxiety, or ADHD-like symptoms | anecdote | No dedicated fasoracetam anecdote raw note located in the current wiki corpus | unknown; weak-moderate by research-chemical salience | ADHD, anxiety, glutamate/racetam self-experimentation | low | Symptom improvement, diagnosis, CNV enrichment, stimulant use, and product identity can all confound attribution |
 
 ## Safety And Status
 
-The small ADHD study is not enough to define broad safety for nootropic use. The practical route is trial/precision-psychiatry monitoring rather than consumer ranking.
+The small ADHD study is not enough to define broad safety for nootropic use. The practical route is trial/precision-psychiatry monitoring rather than consumer ranking. Route fasoracetam anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating focus, anxiety, or ADHD-like symptom reports as molecule-specific, especially when stimulant exposure, diagnosis, genotype status, sleep, or research-chemical source identity are unclear.
 
 ## Signal Judgment
 
@@ -52,5 +52,6 @@ Practical route: mGluR / ADHD precision-medicine hypothesis.
 
 - [[racetam-long-tail-watchlist]]
 - [[racetam-comparison-2026-scan]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[molecule-intake-triage-table]]
 - [[anecdote-led-chemical-heat-map]]

@@ -1,7 +1,7 @@
 ---
 title: Ketamine / Esketamine
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, safety, dosage, clinical-trial, anecdote, mechanism, recovery, controversy]
 sources: [raw/articles/dailymed-2026-spravato-esketamine-label.md, raw/articles/pubmed-35416105-ketamine-esketamine-long-term-safety.md, raw/articles/frontiers-2022-ketamine-cognition-anxiety-social-function-meta.md, raw/articles/pubmed-41873584-esketamine-cognition-systematic-review.md, raw/articles/reddit-2024-2026-ketamine-auvelity-cognition-brainfog-threads.md]
@@ -31,7 +31,7 @@ Anecdote signal: `moderate but polarized`. Threads contain improved memory, focu
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Ketamine / Spravato improves brain fog, focus, task initiation, or memory | forum anecdote | raw/articles/reddit-2024-2026-ketamine-auvelity-cognition-brainfog-threads.md; Reddit /r/TherapeuticKetamine and /r/Spravato | multiple visible 2024-2026 threads; `moderate` | TRD, anxiety/PTSD, ADHD, long-COVID brain fog, supervised and at-home routes | low | Depression/anxiety relief, sleep, route, dose, psychotherapy, other meds, long COVID trajectory, and responder bias confound attribution |
 | Ketamine / Spravato worsens cognition, word finding, or short-term memory | forum adverse/counterreport | same raw note | repeated visible counterreports; `moderate` | post-session effects, maintenance dosing, long-term concern, supervised and nonmedical exposure | low | High-dose abuse and protocolized medical dosing are mixed in public discourse; timing after treatment is often unclear |
@@ -41,9 +41,10 @@ Anecdote signal: `moderate but polarized`. Threads contain improved memory, focu
 - SPRAVATO is a REMS-restricted Schedule III drug, not a take-home casual nootropic. Sedation, dissociation, respiratory depression, abuse/misuse, BP increases, cystitis/lower urinary symptoms, fetal risk, driving restriction, and session monitoring are first-order variables.^[raw/articles/dailymed-2026-spravato-esketamine-label.md]
 - Do not compare same-day postdose performance with long-term mood-state recovery. The wiki should ask whether cognition was measured predose, outside the dissociative window, and with practice effects controlled.
 - Do not borrow recreational high-dose cognitive-harm data to condemn protocolized medical use, but do not borrow protocolized esketamine cognitive-safety data to validate unsupervised or escalating use.
+- Route any stack or self-experiment report through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting cognition. Acute dissociation, sedation, sleep rebound, psychotherapy/session timing, BP changes, other psychoactive drugs, and recovery from depression/anxiety can dominate the subjective "clarity" signal.
 
 ## Current Route
 
-Route ketamine/esketamine through [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[cognitive-fidelity-split]], and [[self-experimentation-stop-rules]].
+Route ketamine/esketamine through [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[cognitive-fidelity-split]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[self-experimentation-stop-rules]].
 
 Current verdict: important to track for depression-linked brain fog and polarized anecdotes, but not a broad cognition enhancer.

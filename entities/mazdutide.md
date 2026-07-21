@@ -1,7 +1,7 @@
 ---
 title: Mazdutide
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, preclinical, protocol, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md, raw/articles/pmc-12205698-mazdutide-diabetes-associated-cognitive-dysfunction.md]
@@ -32,13 +32,15 @@ No mazdutide-specific cognition anecdote raw note is indexed. Signal is `absent-
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Mazdutide improves cognition in people | anecdote | No dedicated anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | Investigational metabolic therapy; cognition-primary trial still unread | low | Preclinical cognition and an active protocol are not patient-reported efficacy |
 
 ## Safety And Status
 
-Mazdutide should stay in the protocol-watch bucket. The key safety and interpretation gates are GLP-1/glucagon metabolic effects, weight and glucose changes, GI tolerability, trial dropout, and whether cognition changes exceed metabolic-state improvement.
+Mazdutide should stay in the protocol-watch bucket. The key safety and interpretation gates are GLP-1/glucagon metabolic effects, weight and glucose changes, GI tolerability, trial dropout, and whether cognition changes exceed metabolic-state improvement. Route future mazdutide anecdotes or protocol-adjacent reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading the branch.
+
+June 2026 metabolic-peptide attribution gate: mazdutide should not be treated as a nootropic lead until human cognition results separate drug effect from diabetes control, weight loss, appetite change, sleep change, and trial-care effects. Future reports need exact IBI362/mazdutide identity, prescription or trial status, route/formulation, dose escalation, indication, baseline T2D/early-dementia phenotype, glucose and weight trajectory, appetite and underfueling risk, hydration/electrolytes, GI adverse events, mood and sleep state, co-interventions, washout or stable-dose period, dropout/adherence context, and objective cognition/function endpoints such as iADRS or comparable measures. Route claims through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before any ranking upgrade.
 
 ## Signal Judgment
 
@@ -53,5 +55,8 @@ Practical route: high-priority surveillance item. Upgrade only after LIGHT-COG o
 - [[incretin-therapies-brain-health]]
 - [[incretin-therapies-brain-health-2026-scan]]
 - [[semaglutide]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
 - [[online-evidence-freshness-dashboard]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]

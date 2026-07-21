@@ -1,9 +1,9 @@
 ---
 title: Intranasal Insulin and Cognition
 created: 2026-04-26
-updated: 2026-05-12
+updated: 2026-06-15
 type: concept
-tags: [metabolism, cognition, clinical-trial, mechanism, controversy, safety]
+tags: [metabolism, cognition, peptides, clinical-trial, mechanism, controversy, safety]
 sources: [raw/articles/pubmed-36219990-intranasal-insulin-cbf-cognition-adults-systematic-review.md, raw/articles/pubmed-41436338-intranasal-insulin-mci-ad-systematic-review-meta-analysis.md, raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md, raw/articles/pubmed-37564252-safety-efficacy-intranasal-insulin-ad.md, raw/articles/pubmed-37379265-intranasal-insulin-cognition-humans.md, raw/articles/pubmed-23507773-intranasal-insulin-sex-apoe-differences.md, raw/articles/pubmed-25374101-intranasal-insulin-detemir-mci-ad.md, raw/articles/pubmed-24101698-intranasal-insulin-type2-diabetes-vasoreactivity-cognition.md, raw/articles/pubmed-35482079-memaid-intranasal-insulin-type2-diabetes-control-rct.md, raw/articles/pubmed-39216470-intranasal-insulin-perioperative-cognitive-function-older-adults.md, raw/articles/pubmed-39911448-intranasal-insulin-postoperative-delirium-older-joint-replacement.md, raw/articles/pubmed-40359848-intranasal-insulin-postop-sleep-cardiac-surgery.md, raw/articles/pubmed-41146035-intranasal-insulin-hip-fracture-delirium.md, raw/articles/pubmed-41720686-intranasal-insulin-perioperative-delirium-meta.md, raw/articles/sage-2026-intranasal-insulin-postoperative-delirium-meta.md, raw/articles/pubmed-40392946-intranasal-insulin-t2d-rsfc.md, raw/articles/pubmed-41091693-long-acting-intranasal-insulin-delirium-rct.md, raw/articles/pubmed-40253245-intranasal-insulin-multiple-sclerosis-cognition.md, raw/articles/pubmed-40703476-intranasal-insulin-pet-aging-mci.md, raw/articles/pubmed-41057918-intranasal-insulin-empagliflozin-mci-early-ad.md, raw/articles/pubmed-39558506-high-dose-intranasal-insulin-healthy-human-participants.md, raw/articles/pubmed-36530613-hypoglycemic-drugs-ad-mci-network-meta-analysis.md]
 confidence: medium
 ---
@@ -11,6 +11,8 @@ confidence: medium
 # Intranasal Insulin and Cognition
 
 Intranasal insulin is one of the clearest examples of a metabolic-brain intervention: it is designed to boost central insulin signaling without the peripheral hypoglycemia risk that would make systemic insulin impractical for cognition. That makes it conceptually adjacent to [[incretin-therapies-brain-health]] and more broadly to [[peptide-neuroprotection]], because all three track the idea that brain function can be nudged by metabolic signaling.^[raw/articles/pubmed-41436338-intranasal-insulin-mci-ad-systematic-review-meta-analysis.md]^[raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md]
+
+June 2026 attribution gate: intranasal insulin should be treated as a peptide-hormone delivery intervention, not a general nootropic. Future reports need insulin type/analog, delivery device, dose per nostril and total dose, timing relative to meals/surgery/stimulation/cognitive testing, metabolic phenotype, glucose or hypoglycemia monitoring, nasal status, APOE/sex/cognitive-status context where relevant, co-interventions, adverse events, and objective cognition or delirium endpoints before ranking changes.
 
 The main raw evidence anchors now include the 2025 AD/MCI meta-analysis, the 2023 human cognition meta-analysis, and the 2023 CBF/cognition systematic review, plus the older stratifier and phenotype-trial papers that explain why the signal is not uniform.^[raw/articles/pubmed-40195962-intranasal-insulin-ad-systematic-review-meta-analysis.md]^[raw/articles/pubmed-37379265-intranasal-insulin-cognition-humans.md]^[raw/articles/pubmed-36219990-intranasal-insulin-cbf-cognition-adults-systematic-review.md]
 
@@ -39,3 +41,5 @@ I did not find a direct human intranasal-insulin plus brain-stimulation cognitio
 For the wiki, the right framing is “biologically plausible, clinically interesting, not yet settled.” It belongs in [[adjunctive-interventions-for-cognition]] because it may help a subset of patients, but it is not established as a disease-modifying treatment for Alzheimer's disease or mild cognitive impairment.^[raw/articles/pubmed-36530613-hypoglycemic-drugs-ad-mci-network-meta-analysis.md]
 
 Anecdotal reports of improved clarity on insulin-related therapies should be captured through [[anecdotal-evidence-in-cognitive-intervention-research]] rather than treated as proof of efficacy. For navigation, it also belongs with [[medicine-cognition-summary]] and [[most-promising-methods-for-cognition]].
+
+Route self-study, perioperative, metabolic-combo, or device-swap claims through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[device-parameter-worksheet-for-self-study-and-protocol-review]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]]. The default wiki read is `perioperative/metabolic-state candidate`, not rested healthy-adult enhancement.

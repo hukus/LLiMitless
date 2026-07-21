@@ -1,7 +1,7 @@
 ---
 title: Centella asiatica / Gotu Kola
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, traditional-medicine, herbal-medicine, clinical-trial, preclinical, mechanism, safety, dosage, anecdote, controversy]
 sources: [raw/articles/alzdiscovery-2026-centella-asiatica-cognitive-vitality.md, raw/articles/pmc-5587720-centella-cognition-meta-analysis.md, raw/articles/sciencedirect-2008-centella-healthy-elderly-cognition-mood-rct.md, raw/articles/pmc-4908235-gotu-kola-poststroke-vci.md, raw/articles/pubmed-33767223-centella-eca233-pk-healthy-volunteers.md, raw/articles/sage-2024-centella-aged-tg2576-metabolome.md, raw/articles/ncbi-bookshelf-2024-livertox-centella-asiatica.md, raw/articles/reddit-2020-gotu-kola-experiences-thread.md]
@@ -44,7 +44,7 @@ This makes Centella different from a benign culinary-herb assumption. Users with
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Gotu kola is mildly calming or sleep-supportive | `anecdote` | raw/articles/reddit-2020-gotu-kola-experiences-thread.md; Reddit /r/Nootropics | one technical thread; `weak-moderate` | enteric coating, triterpenoids, mild subjective effects | low | More product/delivery discussion than objective cognition |
 | Gotu kola may support cognition through triterpenoid products | `anecdote` | raw/articles/reddit-2020-gotu-kola-experiences-thread.md; Reddit /r/Nootropics | one thread; `weak` cognition signal | active-constituent and stability discussion | low | No denominator, no testing, and product identities unclear |
@@ -54,4 +54,6 @@ This makes Centella different from a benign culinary-herb assumption. Users with
 
 Centella belongs in the molecule graph because it has human cognition trials, a meta-analysis, a current ADDF review, exposure/PK work, mechanistic preclinical support, and recognizable community use. It does not belong in the top tier: the controlled evidence is small, mixed, and product-dependent, and the strongest formal synthesis says cognitive-domain benefit is not significant versus placebo.
 
-Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[standardized-herbal-extracts-for-cognition]], [[plant-active-substance-product-watchlist]], [[polygala-bt11]], [[lemon-balm]], [[nigella-sativa]], [[bacopa]], and [[supplement-identity-evidence-map]].
+Route Centella / gotu-kola reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting calm, sleep, alertness, vascular recovery, wound-healing, or memory claims as cognition. The first gates are extract identity, triterpenoid marker profile, dose, post-stroke versus healthy context, liver enzymes or liver symptoms, multi-herb formula use, sedative/stimulant co-use, and whether the report is really mood or sleep mediated.
+
+Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[standardized-herbal-extracts-for-cognition]], [[plant-active-substance-product-watchlist]], [[polygala-bt11]], [[lemon-balm]], [[nigella-sativa]], [[bacopa]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[supplement-identity-evidence-map]].

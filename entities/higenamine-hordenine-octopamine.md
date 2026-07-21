@@ -1,7 +1,7 @@
 ---
 title: Higenamine / Hordenine / Octopamine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/fda-2026-dietary-supplement-ingredient-directory-higenamine-hordenine-octopamine.md, raw/articles/fda-2022-higenamine-hordenine-octopamine-warning-letters.md, raw/articles/wada-2026-higenamine-octopamine-prohibited-list.md, raw/articles/pubmed-30188222-higenamine-supplement-quantity.md, raw/articles/frontiers-2021-higenamine-exercise-rct.md, raw/articles/pubmed-31984737-hordenine-human-beer-biokinetics.md, raw/articles/pubmed-24654910-octopamine-pharmacology-review.md, raw/articles/reddit-2020-hordenine-focus-thread.md, raw/articles/reddit-2022-hordenine-leg-day-thread.md, raw/articles/reddit-2025-higenamine-preworkout-tachycardia-thread.md]
@@ -36,11 +36,11 @@ Anecdote signal: `weak-moderate subjective focus/euphoria, strong confounding an
 
 ## Anecdote Ledger
 
-| Claim | Anecdote type | Source | Reported effect | Direction | Confidence | Why it does or does not matter |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Hordenine can produce focus, multitasking, and energy after an initial stimulant body load | subjective focus self-report | raw/articles/reddit-2020-hordenine-focus-thread.md; Reddit /r/Nootropics | focus, multitasking, energy after heart/pressure-like stimulation | positive/adverse | low | Tracks nootropic salience, but the body-load signal argues against casual cognitive ranking |
-| Hordenine can feel euphoric and mentally strong in a preworkout context | subjective preworkout self-report | raw/articles/reddit-2022-hordenine-leg-day-thread.md; Reddit /r/Supplements | 100 mg before leg day, euphoria and mental capacity; later no-effect reply | positive/mixed | very low-to-low | Single thread, exercise context, and no objective task data |
-| Higenamine-containing high-stim blends can be suspected in prolonged racing-heart reactions | adverse attribution self-report | raw/articles/reddit-2025-higenamine-preworkout-tachycardia-thread.md; Reddit /r/Preworkoutsupplements | prolonged high resting heart rate, anxiety/body-load discussion, competing attributions | negative/confounded | very low | Cannot isolate higenamine, but matches the need to evaluate the whole stimulant stack and label accuracy |
+| Hordenine can produce focus, multitasking, and energy after an initial stimulant body load | anecdote / subjective focus self-report | raw/articles/reddit-2020-hordenine-focus-thread.md; Reddit /r/Nootropics | one thread; `weak-moderate` | Focus, multitasking, energy after heart/pressure-like stimulation | low | Tracks nootropic salience, but the body-load signal argues against casual cognitive ranking |
+| Hordenine can feel euphoric and mentally strong in a preworkout context | anecdote / subjective preworkout self-report | raw/articles/reddit-2022-hordenine-leg-day-thread.md; Reddit /r/Supplements | one thread; `weak` | 100 mg before leg day, euphoria and mental capacity; later no-effect reply | very low-to-low | Single thread, exercise context, and no objective task data |
+| Higenamine-containing high-stim blends can be suspected in prolonged racing-heart reactions | anecdote / adverse attribution self-report | raw/articles/reddit-2025-higenamine-preworkout-tachycardia-thread.md; Reddit /r/Preworkoutsupplements | one thread; `weak` but safety-relevant | Prolonged high resting heart rate, anxiety/body-load discussion, competing attributions | very low | Cannot isolate higenamine, but matches the need to evaluate the whole stimulant stack and label accuracy |
 
 ## Identity Gates
 
@@ -49,12 +49,13 @@ Anecdote signal: `weak-moderate subjective focus/euphoria, strong confounding an
 - For octopamine, check WADA in-competition status and bitter-orange contamination/product identity before treating it as an ordinary supplement ingredient.
 - For hordenine, avoid assuming WADA named-list status from this pass; still treat it as high-risk in athlete-facing products because FDA warning status and stimulant product overlap are enough to trigger caution.
 - Track assayed milligrams, salt form, botanical source, serving size, number of scoops/capsules, caffeine load, yohimbine/rauwolscine, DMHA/DMAA-like ingredients, stimulant medication, MAOI/antidepressant exposure, blood pressure, heart rhythm, anxiety/panic vulnerability, sleep timing, and product-lot identity.
+- Route higenamine, hordenine, octopamine, and high-stim blend anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting focus, euphoria, workout intensity, or energy as cognition.
 
 ## Practical Ranking
 
 This cluster deserves standalone coverage because it is common enough in preworkout and fat-loss contexts, and because the regulatory/sports consequences are stronger than the cognition evidence. It should not be ranked as a cognitive enhancer. The current route is `preworkout stimulant-amine risk comparator`, with anecdotal focus treated as arousal and product-stack salience until objective cognition data appears.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], [[p-synephrine]], [[yohimbine]], [[caffeine]], and [[biohacker-anecdote-methodology]].
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], [[p-synephrine]], [[yohimbine]], [[caffeine]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

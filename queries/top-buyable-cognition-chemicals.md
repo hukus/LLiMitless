@@ -1,7 +1,7 @@
 ---
 title: Top Buyable Cognition Chemicals
 created: 2026-05-15
-updated: 2026-05-18
+updated: 2026-06-15
 type: query
 tags: [domain-medicine, cognition, comparison, safety, dosage, clinical-trial, performance]
 sources: [OUTCOME.md, comparisons/cognitive-improvement-molecule-signal-atlas.md, comparisons/molecule-intake-triage-table.md, comparisons/energy-substrate-comparator-map.md, comparisons/bile-acid-neuroprotection-cognition-watchlist.md, comparisons/redox-mitochondrial-cofactor-cognition-watchlist.md, comparisons/one-carbon-methyl-donor-cognition-watchlist.md, queries/healthy-adult-cognition-signals.md, entities/creatine.md, entities/caffeine.md, entities/ketone-ester.md, entities/citicoline.md, entities/l-theanine.md, entities/tudca-ursodiol.md, entities/nadh.md, entities/nad-plus-products.md, entities/glutathione-products.md, entities/methylsulfonylmethane-msm.md, entities/d-ribose.md, entities/berberine-dihydroberberine.md, entities/s-adenosyl-l-methionine.md, entities/betaine-tmg.md, entities/dimethylglycine-dmg.md, entities/sarcosine.md, entities/glycine.md, entities/myo-inositol.md, entities/phenethylamine.md, entities/nn-dimethylphenethylamine-eria-jarensis.md]
@@ -11,7 +11,13 @@ contested: true
 
 # Top Buyable Cognition Chemicals
 
-Assumption: "buyable" means non-prescription, consumer-available oral chemicals or molecule-like products. This excludes prescription drugs, injected peptides, research chemicals, and device/procedure interventions even when their efficacy signal is stronger in the broader wiki. It also excludes stronger-but-riskier candidates such as nicotine and methylene blue from the top five because dependency, interaction, and safety friction dominate practical use.
+Assumption: "buyable" means non-prescription, consumer-available oral chemicals or molecule-like products. This excludes prescription drugs, injected peptides, research chemicals, gray-market analogs, and device/procedure interventions even when their efficacy signal is stronger in the broader wiki. It also excludes stronger-but-riskier candidates such as nicotine and methylene blue from the top five because dependency, interaction, and safety friction dominate practical use.
+
+## Peptide / Gray-Market Boundary
+
+June 2026 peptide/nootropic frontier nodes stay outside this query even when gray-market vendors make them easy to buy. [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] can be high-priority monitoring nodes in [[nootropic-peptide-anecdote-frontier-2026-scan]], [[anecdote-led-chemical-heat-map]], and [[anecdote-to-trial-mismatch-bucketed-map]], but source/COA, route/formulation, legal/sports status, adverse-event capture, recovery-state confounding, and stack attribution make them different from ordinary buyable chemicals such as [[creatine]], [[caffeine]], [[ketone-ester]], [[citicoline]], and [[l-theanine]].
+
+Keep [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels de-ranked, metabolism-first, recovery-bound, or state-bound until source/COA, exact route, formulation, washout, adverse events, and objective endpoints improve. Any future promotion has to pass through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before changing this practical shortlist.
 
 | Rank | Candidate | Best-fit use case | Why it makes the top five | Main caveat |
 |---|---|---|---|---|
@@ -47,4 +53,4 @@ Assumption: "buyable" means non-prescription, consumer-available oral chemicals 
 
 For a conservative buyable-chemical shortlist, start with [[creatine]] and [[caffeine]]. Treat [[ketone-ester]], [[citicoline]], and [[l-theanine]] as context-specific second-tier candidates rather than general enhancers. If "widely available" is interpreted as ordinary retail access and low cost, swap [[ketone-ester]] for [[dha-epa]] or a phenotype-matched standardized botanical.
 
-Related pages: `OUTCOME.md`, [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[energy-substrate-comparator-map]], [[bile-acid-neuroprotection-cognition-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[one-carbon-methyl-donor-cognition-watchlist]], and [[healthy-adult-cognition-signals]].
+Related pages: `OUTCOME.md`, [[cognitive-improvement-molecule-signal-atlas]], [[molecule-intake-triage-table]], [[energy-substrate-comparator-map]], [[bile-acid-neuroprotection-cognition-watchlist]], [[redox-mitochondrial-cofactor-cognition-watchlist]], [[one-carbon-methyl-donor-cognition-watchlist]], [[healthy-adult-cognition-signals]], [[nootropic-peptide-anecdote-frontier-2026-scan]], and [[anecdote-to-trial-mismatch-bucketed-map]].

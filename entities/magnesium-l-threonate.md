@@ -1,7 +1,7 @@
 ---
 title: Magnesium L-Threonate
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, sleep, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/frontiers-2026-magnesium-l-threonate-cognition-sleep-rct.md, raw/articles/reddit-2021-magnesium-l-threonate-magtein-experience-thread.md]
@@ -35,6 +35,8 @@ Medicinal signal: `low-moderate`. The 2026 randomized double-blind placebo-contr
 
 Route magnesium L-threonate through [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-zone-nootropic-community-signal-ledger]], [[supplement-identity-evidence-map]], [[sleep-and-circadian-interventions-for-cognition]], and [[state-challenge-matrix-for-cognition-interventions]]. It is a product-specific sleep/cognition lead, not a generic magnesium endorsement.
 
+Route Magtein / magnesium L-threonate anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before counting sleep, morning mood, calm focus, wired sleep, memory, study endurance, or fluid-thinking reports as direct cognition. The first gates are product identity, elemental magnesium dose, baseline magnesium status, kidney function, bowel tolerance, sleep dissatisfaction, timing, sedatives/stimulants, migraine/anxiety context, and whether cognition changes are sleep-mediated.
+
 ## Related Pages
 
 - [[common-nootropic-gray-zone-molecule-watchlist]]
@@ -42,6 +44,7 @@ Route magnesium L-threonate through [[common-nootropic-gray-zone-molecule-watchl
 - [[supplement-identity-evidence-map]]
 - [[sleep-and-circadian-interventions-for-cognition]]
 - [[state-challenge-matrix-for-cognition-interventions]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 
 ## Sources

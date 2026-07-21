@@ -1,9 +1,9 @@
 ---
 title: Perineuronal-Net and Extracellular-Matrix Plasticity Gate
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: query
-tags: [domain-medicine, cognition, neuroscience, mechanism, preclinical, safety, controversy, comparison]
+tags: [domain-medicine, cognition, neuroscience, mechanism, preclinical, safety, anecdote, controversy, comparison]
 sources: [raw/articles/pubmed-41748275-perineuronal-nets-old-structures-new-functions.md, raw/articles/pubmed-38158878-pnn-remodeling-learning-memory-review.md, raw/articles/pubmed-25890139-ecm-plasticity-regeneration-cns-disease-review.md, raw/articles/pubmed-23595763-chabc-pnn-depletion-recognition-memory.md, raw/articles/pubmed-32414940-chabc-mpfc-tunl-working-memory.md, raw/articles/pubmed-34272488-chondroitin-6-sulphate-aging-memory.md, raw/articles/pubmed-28890301-c4s-antibody-tauopathy-memory.md]
 confidence: low
 contested: true
@@ -52,7 +52,7 @@ The gate should therefore separate structural plasticity, critical-period reopen
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | PNN/ChABC manipulation improves cognition in self-experimenters | anecdote | No direct-use anecdote source captured for this slice | `absent` | Experimental extracellular-matrix manipulation | low | Absence of anecdote does not prove absence of use, but it prevents any community-signal upgrade. |
 
@@ -62,6 +62,7 @@ The gate should therefore separate structural plasticity, critical-period reopen
 - Disease-associated PNN disruption can be interpreted as either target opportunity or circuit pathology; the direction is not stable across epilepsy, glioma, Alzheimer disease, injury, and aging contexts.
 - ChABC, C6S restoration, and C4S antibody targeting point to different ECM chemistries, so the branch should not collapse into one generic "PNN degradation" intervention.
 - Local infusion and antibody studies cannot be translated into supplement, oral, intranasal, or casual self-experiment protocols.
+- Route any PNN/ECM self-experiment, delivery proposal, or plasticity-stack extrapolation through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpretation. The main gates are local-vs-systemic delivery, enzyme/antibody/sulfation chemistry, region and task, mature-circuit stability, seizure or maladaptive-plasticity risk, disease/injury context, and reversibility.
 
 ## Actionable Wiki Updates
 
@@ -78,5 +79,5 @@ The gate should therefore separate structural plasticity, critical-period reopen
 - [[non-hallucinogenic-psychoplastogens]]
 - [[7-8-dihydroxyflavone]]
 - [[isrib]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[translational-gap-table]]
-

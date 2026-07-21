@@ -1,7 +1,7 @@
 ---
 title: FOXO4-DRI
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, peptides, longevity, inflammation, preclinical, mechanism, safety, dosage, anecdote, clinical-trial, controversy]
 sources: [raw/articles/sciencedirect-2017-foxo4-dri-targeted-apoptosis-senescent-cells.md, raw/articles/nature-2025-foxo4-dri-p53-tad2-mechanism.md, raw/articles/pmc-7053614-foxo4-dri-leydig-cells-testosterone-aged-mice.md, raw/articles/frontiers-2021-foxo4-dri-human-chondrocytes.md, raw/articles/pubmed-37074394-foxo4-dri-pulmonary-fibrosis-mice.md, raw/articles/pmc-11850796-foxo4-dri-keloid-senescent-fibroblasts.md, raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md, raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md, raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md]
@@ -51,12 +51,15 @@ FOXO4-DRI clears a standalone page threshold because it has a strong mechanistic
 
 The first confidence upgrade would require controlled human safety and pharmacokinetic data, senescent-cell/SASP biomarker readouts, product identity controls, and functional endpoints. A cognition upgrade would require actual cognitive endpoints, not just longevity or tissue-repair narratives.
 
+Route FOXO4-DRI anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating pain relief, brain-fog changes, skin/scar/hair reports, hormone-state effects, or "senescent-cell clearing" narratives as cognition. The FOXO4-p53 apoptosis axis, lack of human PK/dose-ranging, product identity, route, biomarker absence, co-interventions, and adverse mood/sleep/GI reports dominate interpretation.
+
 ## Related Pages
 
 - [[senolytic-cognition-2026-scan]]
 - [[dasatinib-quercetin]]
 - [[fisetin]]
 - [[quercetin]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[peptide-neuroprotection]]
 - [[nootropic-peptide-anecdote-frontier-2026-scan]]
 - [[translational-gap-table]]

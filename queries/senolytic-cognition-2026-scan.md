@@ -1,9 +1,9 @@
 ---
 title: Senolytic Cognition 2026 Scan
 created: 2026-04-28
-updated: 2026-05-06
+updated: 2026-06-12
 type: query
-tags: [cognition, inflammation, longevity, metabolism, recovery, safety, comparison, clinical-trial]
+tags: [cognition, inflammation, longevity, metabolism, recovery, safety, comparison, clinical-trial, peptides, anecdote]
 sources: [raw/articles/pubmed-40010154-senolytics-cognition-mobility-at-risk.md, raw/articles/pubmed-40274471-dasatinib-quercetin-phase1-mild-alzheimer-biomarkers.md, raw/articles/pubmed-40103928-sex-senescence-senolytics-cognition.md, raw/articles/pubmed-37261678-dasatinib-quercetin-nonhuman-primates-aging-inflammation.md, raw/articles/pubmed-35042834-dasatinib-quercetin-aged-rats-cognition.md, raw/articles/pubmed-41895394-senolytic-therapy-hfd-hippocampal-senescence-cognitive-decline-mice.md, raw/articles/dailymed-dasatinib-tablet-label.md, raw/articles/clinicaltrials-nct05422885-dasatinib-quercetin-stamina.md, raw/articles/clinicaltrials-nct04785300-alsenlite-senolytics-alzheimers.md, raw/articles/clinicaltrials-nct05838560-dasatinib-quercetin-accelerated-aging-mental-disorders.md, raw/articles/clinicaltrials-nct03675724-fisetin-frailty-inflammation-older-adults.md, raw/articles/pubmed-40443429-dasatinib-quercetin-cognitive-decline-mental-disorders-protocol.md, raw/articles/sciencedirect-2017-foxo4-dri-targeted-apoptosis-senescent-cells.md, raw/articles/nature-2025-foxo4-dri-p53-tad2-mechanism.md, raw/articles/clinicaltrials-2026-foxo4-dri-search-no-record.md, raw/articles/reddit-2026-05-06-immortalists-foxo4-dri-self-experiment-thread.md, raw/articles/reddit-2026-05-06-bodyhackguide-foxo4-dri-protocol-thread.md]
 confidence: low
 contested: true
@@ -75,6 +75,7 @@ contested: true
 - Dasatinib carries label warnings for myelosuppression, bleeding, fluid retention, cardiovascular toxicity, pulmonary arterial hypertension, QT prolongation, severe dermatologic reactions, tumor lysis syndrome, and hepatotoxicity.^[raw/articles/dailymed-dasatinib-tablet-label.md]
 - STAMINA used heavy screening exclusions for cardiac, hematologic, renal, hepatic, and interacting-drug risk, which is a practical reminder that this is not a casual self-experiment candidate.^[raw/articles/clinicaltrials-nct05422885-dasatinib-quercetin-stamina.md]
 - The STAMINA pilot reported no serious adverse events related to the intervention, but that is only small-study reassurance.^[raw/articles/pubmed-40010154-senolytics-cognition-mobility-at-risk.md]
+- Route senolytic cognition and longevity-nootropic anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mental clarity, inflammation, skin/tissue, pain, or vitality changes as cognition. The first gates are oncology-drug exposure for [[dasatinib-quercetin]], high-dose intermittent supplement protocols for [[fisetin]], FOXO4-p53 apoptosis-axis uncertainty for [[foxo4-dri]], immunosuppression and wound-healing risk for [[rapamycin-sirolimus]], sex/hormone status, disease stage, biomarker direction, infection/bleeding/QT/liver monitoring, and practice-effect or expectancy noise.
 
 ## Responder Phenotypes
 
@@ -113,4 +114,4 @@ contested: true
 - Standalone [[dasatinib-quercetin]] now exists and is linked from [[cognitive-improvement-molecule-signal-atlas]].
 - Standalone [[foxo4-dri]] now exists as a low-confidence peptide-senolytic page with raw research and first-hand anecdote captures.
 - Consider a future row in `comparisons/cognition-intervention-master-table.md` once controlled human cognition data appear.
-- Keep senolytics linked to [[neuroinflammation-and-cognition]], [[clinical-recovery-vs-healthy-enhancement-translation-map]], and [[molecule-intake-triage-table]].
+- Keep senolytics linked to [[neuroinflammation-and-cognition]], [[clinical-recovery-vs-healthy-enhancement-translation-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[molecule-intake-triage-table]].

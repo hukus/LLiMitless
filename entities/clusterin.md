@@ -1,7 +1,7 @@
 ---
 title: Clusterin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, inflammation, metabolism, biomarker, mechanism, preclinical, safety, controversy]
 sources: [raw/articles/nature-exercise-plasma-boosts-memory-and-dampens-brain-inflammation-via-clusterin.md]
@@ -30,13 +30,15 @@ No clusterin-specific cognition anecdote or self-use raw note is indexed.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Clusterin improves cognition if administered directly | anecdote | No dedicated anecdote raw note located in the current wiki corpus | none; absent | exercise-plasma transfer speculation | low | Human arm is exercise biomarker support, not direct clusterin administration |
 
 ## Safety And Status
 
 Clusterin should stay in the blood-factor mediator lane. Its relationship to complement, inflammation, and vascular/endothelial biology means direct administration claims require dedicated safety data before any practical interpretation.
+
+Route clusterin claims through [[safety-interaction-matrix-for-multi-modal-stacks]] when runner-plasma, complement inhibition, endothelial binding, neuroinflammation, cognitive-impairment exercise response, or direct-protein delivery is being used as a cognition proxy.
 
 ## Signal Judgment
 
@@ -52,4 +54,4 @@ Practical route: exercise-plasma mediator and inflammation comparator, not a sta
 - [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]]
 - [[pf4]]
 - [[irisin]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

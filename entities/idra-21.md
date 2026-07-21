@@ -1,7 +1,7 @@
 ---
 title: IDRA-21
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, mechanism, preclinical, anecdote, safety, dosage, comparison, controversy]
 sources: [raw/articles/pubmed-7815345-idra21-rat-cognition-ampa-desensitization.md, raw/articles/sciencedirect-2004-idra21-rhesus-delayed-matching.md, raw/articles/pmc-3073152-huperzine-a-idra21-young-macaques.md, raw/articles/pubmed-9192690-idra21-partial-modulator-neurotoxicity.md, raw/articles/pubmed-39304968-high-impact-ampakines-toxic-calcium-release.md, raw/articles/sciencedirect-2024-smart-drugs-japan-idra21.md, raw/articles/edqm-2025-mssip007-nootropics-idra21.md, raw/articles/reddit-2020-2026-idra21-ampakine-experience-threads.md]
@@ -19,6 +19,8 @@ Medicinal cognition signal: `preclinical / nonhuman-primate only`. In rats, oral
 Safety signal: `unresolved`. An early culture study argued that IDRA-21 had lower intrinsic activity and less neurotoxicity than cyclothiazide in neonatal rat granule neurons, but that does not establish human safety, chronic dosing safety, seizure safety, ischemia safety, or safety in stimulant/glutamate-active stacks.^[raw/articles/pubmed-9192690-idra21-partial-modulator-neurotoxicity.md] The broader AMPAkine branch now has a clear excitatory-ceiling caution: high-impact compounds such as [[cx614]] and cyclothiazide can produce Gq-linked ER calcium release and hyperexcitability, while newer low-impact compounds were developed partly to avoid that liability.^[raw/articles/pubmed-39304968-high-impact-ampakines-toxic-calcium-release.md]
 
 Market / sourcing signal: `visible but risky`. IDRA-21 was one of nine "smart drug" compounds identified in online Japanese products from 2020-2022, and EDQM's 2025 nootropics surveillance summary also detected IDRA-21 once among suspected illegal nootropic products.^[raw/articles/sciencedirect-2024-smart-drugs-japan-idra21.md]^[raw/articles/edqm-2025-mssip007-nootropics-idra21.md] That supports a market-presence and identity-risk lane, not a dosing or efficacy recommendation.
+
+June 2026 high-impact AMPAkine gate: IDRA-21 reports should remain anecdote/hazard material unless they capture source, label, COA or independent testing where available, stereoisomer/identity assumptions, dose, route, timing, acute versus repeated use, sleep state, seizure/head-injury/migraine/psychiatric risk, stimulant/caffeine/nicotine/racetam/AMPA/glutamate stack, washout, dechallenge/rechallenge, adverse events including headache, irritability, dysphoria, tinnitus, insomnia, emotional instability, or no-effect, and objective memory or attention endpoints. Route self-experiment reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparing IDRA-21 with [[tak-653]], [[cx717]], [[cx614]], [[sunifiram]], or peptide/nootropic watchlist nodes.
 
 ## Anecdote Ledger
 

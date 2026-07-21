@@ -1,7 +1,7 @@
 ---
 title: Sulbutiamine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, performance, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/drugbank-1999-sulbutiamine-pharmacologic-therapeutic-features.md, raw/articles/popline-2000-sulbutiamine-psychobehavioral-inhibition-mde.md, raw/articles/fda-2025-sulbutiamine-plus-warning-letter.md, raw/articles/pubmed-16861144-sulbutiamine-bipolar-addiction-case.md, raw/articles/pmc-7210561-sulbutiamine-health-review.md, raw/articles/pmc-7880246-benfotiamine-ad-cognitive-decline-phase2a.md, raw/articles/nature-2018-ttfd-voluntary-activity-dopamine-mpfc.md, raw/articles/reddit-2026-sulbutiamine-availability-thread.md, raw/articles/reddit-2025-sulbutiamine-experience-thread.md, raw/articles/reddit-2022-sulbutiamine-tolerance-thread.md]
@@ -20,7 +20,7 @@ Healthy enhancement signal: `uncataloged/weak`. The captured formal sources supp
 
 Thiamine-derivative comparator signal: `mixed`. [[benfotiamine-ttfd]] now separates benfotiamine's small randomized phase IIa AD/aMCI trial and pending BenfoTeam registry from TTFD / fursultiamine's rodent medial-prefrontal dopamine and voluntary-activity evidence. These support the thiamine-derivative branch, but they should not be collapsed into sulbutiamine efficacy.^[raw/articles/pmc-7880246-benfotiamine-ad-cognitive-decline-phase2a.md]^[raw/articles/nature-2018-ttfd-voluntary-activity-dopamine-mpfc.md]
 
-Regulatory and psychiatric risk signal: `risk-first`. FDA issued a 2025 warning letter for a "Sulbutiamine Plus Brain Support" product, stating that sulbutiamine does not qualify as a dietary ingredient and that declaring it as one made the product misbranded. A bipolar-disorder case report describes escalating sulbutiamine use that compromised psychiatric care. Treat sourcing, psychiatric vulnerability, dose escalation, and jurisdiction as first-order interpretation variables.^[raw/articles/fda-2025-sulbutiamine-plus-warning-letter.md]^[raw/articles/pubmed-16861144-sulbutiamine-bipolar-addiction-case.md]
+Regulatory and psychiatric risk signal: `risk-first`. FDA issued a 2025 warning letter for a "Sulbutiamine Plus Brain Support" product, stating that sulbutiamine does not qualify as a dietary ingredient and that declaring it as one made the product misbranded. A bipolar-disorder case report describes escalating sulbutiamine use that compromised psychiatric care. Treat sourcing, psychiatric vulnerability, dose escalation, and jurisdiction as first-order interpretation variables.^[raw/articles/fda-2025-sulbutiamine-plus-warning-letter.md]^[raw/articles/pubmed-16861144-sulbutiamine-bipolar-addiction-case.md] Route stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating motivation or fatigue relief as cognition.
 
 ## Signal Split
 
@@ -44,7 +44,7 @@ Regulatory and psychiatric risk signal: `risk-first`. FDA issued a 2025 warning 
 
 ## Practical Interpretation
 
-Sulbutiamine is inclusion-worthy because community salience is high and formal literature exists, but its best use-case hypothesis is fatigue / motivational inhibition, not general intelligence, memory, or durable cognitive enhancement. Route it through [[molecule-intake-triage-table]] as `state-restoration / risk-first gray-zone`, cross-check with [[regulatory-and-sports-visibility-map]], and use [[benfotiamine-ttfd]] for neighboring thiamine-derivative evidence rather than importing those claims into sulbutiamine.
+Sulbutiamine is inclusion-worthy because community salience is high and formal literature exists, but its best use-case hypothesis is fatigue / motivational inhibition, not general intelligence, memory, or durable cognitive enhancement. Route it through [[molecule-intake-triage-table]] as `state-restoration / risk-first gray-zone`, cross-check with [[regulatory-and-sports-visibility-map]] and [[safety-interaction-matrix-for-multi-modal-stacks]], and use [[benfotiamine-ttfd]] for neighboring thiamine-derivative evidence rather than importing those claims into sulbutiamine. The main attribution gates are sleep loss, alcohol or thiamine-status correction, stimulant/caffeine co-use, high-dose tolerance, withdrawal-like rebound, product identity, and mood/bipolar vulnerability.
 
 ## Related Pages
 
@@ -53,6 +53,7 @@ Sulbutiamine is inclusion-worthy because community salience is high and formal l
 - [[molecule-intake-triage-table]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 - [[regulatory-and-sports-visibility-map]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[anecdote-led-chemical-heat-map]]
 
 ## Sources

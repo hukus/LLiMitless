@@ -1,7 +1,7 @@
 ---
 title: Kratom / Mitragynine / 7-OH
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, safety, dosage, mechanism, preclinical, anecdote, controversy]
 sources: [raw/articles/fda-2024-opms-black-liquid-kratom-warning.md, raw/articles/fda-2025-7oh-kratom-warning-letters.md, raw/articles/pubmed-25262913-mitragynine-cognitive-impairment-abuse-potential.md, raw/articles/reddit-2024-kratom-memory-focus-thread.md]
@@ -30,6 +30,8 @@ The captured mitragynine animal paper reported abuse-potential and adverse learn
 
 The captured kratom thread gives `moderate` salience for subjective memory, focus, creativity, mood, pain, and energy claims. This is not clean cognition evidence because opioid-like mood/analgesia, dependence, withdrawal management, and comedication confounding are central.^[raw/articles/reddit-2024-kratom-memory-focus-thread.md]
 
+June 2026 nootropic routing: kratom / mitragynine / 7-OH reports should not be compared with high-priority nootropic or peptide monitoring nodes. Require exact product identity, leaf versus extract versus added/enhanced 7-OH status, dose, frequency, duration, dependence or withdrawal context, pain/mood baseline, opioid/sedative/stimulant/antidepressant co-use, liver or seizure history, adverse events, washout/dechallenge, and objective cognition endpoints before treating any focus or creativity claim as molecule-specific. Missing product or dependence-state fields keep the report in the `risk-first anecdote` bucket.
+
 ## Anecdote Ledger
 
 | Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
@@ -38,7 +40,7 @@ The captured kratom thread gives `moderate` salience for subjective memory, focu
 
 ## Safety And Status
 
-This branch should stay risk-first. Dependence, withdrawal, liver toxicity, seizures, contamination/adulteration, product alkaloid variability, and 7-OH concentration all matter more than subjective focus claims.
+This branch should stay risk-first. Dependence, withdrawal, liver toxicity, seizures, contamination/adulteration, product alkaloid variability, and 7-OH concentration all matter more than subjective focus claims. Route reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] before any ranking change.
 
 ## Signal Judgment
 
@@ -54,3 +56,5 @@ Practical route: deprioritize as a cognition intervention; track for safety and 
 - [[anecdote-led-chemical-heat-map]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[regulatory-and-sports-visibility-map]]
+- [[self-experimentation-stop-rules]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

@@ -1,9 +1,9 @@
 ---
 title: Oxytocin, Vasopressin, and Desmopressin Social-Memory Scan
 created: 2026-04-29
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [comparison, cognition, clinical-trial, safety, protocol, mechanism, anecdote, controversy]
+tags: [comparison, cognition, peptides, clinical-trial, safety, protocol, mechanism, anecdote, controversy]
 sources: [raw/articles/pubmed-39862881-oxytocin-foxy-ftd-apathy.md, raw/articles/pubmed-25503617-oxytocin-ftd-dose-finding-safety-tolerability.md, raw/articles/pubmed-3762902-vasopressin-desmopressin-memory-healthy-volunteers.md, raw/articles/pubmed-6494028-vasopressin-analog-ddavp-improves-memory-human-males.md, raw/articles/pubmed-3602225-vasopressin-memory-short-term-recall-alcohol-amnesia.md, raw/articles/pubmed-9364618-vasopressin-memory-older-humans.md, raw/articles/pubmed-20447617-arginine-vasopressin-social-memory-faces.md, raw/articles/pubmed-31128568-oxytocin-vasopressin-null-social-paradigms.md, raw/articles/pubmed-35214056-oxytocin-vasopressin-social-cognition-review.md, raw/articles/pubmed-41554388-oxytocin-social-brain-review-2026.md, raw/articles/pubmed-41765123-vasopressin-social-comparison-2026.md, raw/articles/pubmed-41734211-vasopressin-fear-response-dynamics-2026.md, raw/articles/pubmed-41862144-oxytocin-vasopressin-crosstalk-sexually-dimorphic-psychiatric-conditions.md, raw/articles/pubmed-39304743-vasopressin-social-play-sex-specific-glutamate-lateral-septum.md, raw/articles/pubmed-41249098-oxytocin-v1a-social-communication-hamster.md, raw/articles/pubmed-41876708-oxytocin-dynamic-brain-connectivity-2026.md, raw/articles/pubmed-41660638-oxytocin-sleep-deprivation-social-memory-deficits.md, raw/articles/dailymed-desmopressin-acetate-spray-label.md, raw/articles/reddit-2026-04-29-desmopressin-memory-enhancement-thread.md, raw/articles/reddit-2026-04-29-desmopressin-source-thread.md, raw/articles/reddit-2026-04-29-desmopressin-hypovolemic-pots-thread.md]
 confidence: low
 ---
@@ -12,7 +12,9 @@ confidence: low
 
 ## Summary
 
-This branch is best read as a **social-behavior / social-memory / apathy** story, not a broad cognition story. Intranasal [[oxytocin]] now has its strongest human signal in frontotemporal dementia apathy, where the 2025 FOXY trial found a small but statistically significant apathy improvement with intermittent dosing, while the older FTD dose-finding study mainly established short-term tolerability. Human social-cognition work outside FTD remains inconsistent and often context-bound, with broad-battery nulls and task-specific effects rather than a stable enhancer signal.^[raw/articles/pubmed-39862881-oxytocin-foxy-ftd-apathy.md]^[raw/articles/pubmed-25503617-oxytocin-ftd-dose-finding-safety-tolerability.md]^[raw/articles/pubmed-31128568-oxytocin-vasopressin-null-social-paradigms.md]^[raw/articles/pubmed-35214056-oxytocin-vasopressin-social-cognition-review.md]
+This branch is best read as a **social-behavior / social-memory / apathy** story, not a broad cognition story. Intranasal [[oxytocin]] now has its strongest human signal in frontotemporal dementia apathy, where the 2025 FOXY trial found a small but statistically significant apathy improvement with intermittent dosing, while the older FTD dose-finding study mainly established short-term tolerability. Human social-cognition work outside FTD remains inconsistent and often context-bound, with broad-battery nulls and task-specific effects rather than a stable enhancer signal.^[raw/articles/pubmed-39862881-oxytocin-foxy-ftd-apathy.md]^[raw/articles/pubmed-25503617-oxytocin-ftd-dose-finding-safety-tolerability.md]^[raw/articles/pubmed-31128568-oxytocin-vasopressin-null-social-paradigms.md]^[raw/articles/pubmed-35214056-oxytocin-vasopressin-social-cognition-review.md] Use [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting any self-experiment or sourcing anecdote.
+
+June 2026 attribution gate: minimum fields are exact peptide/analog identity, source or prescription status, route/formulation/device, dose schedule, sex/context, diagnosis or social phenotype, sleep state, hydration/BP/sodium context where relevant, co-interventions, adverse behavioral or fluid/electrolyte events, and objective cognition or functional endpoints.
 
 The newest 2026 human papers sharpen the same frame instead of broadening it: [[vasopressin]] now has direct evidence for social-comparison threat, looming-threat timing, and sex/context-sensitive arousal dynamics, [[oxytocin]] has a human fMRI study showing age- and state-dependent network flexibility, and the latest oxytocin review again argues for individual-difference and context dependence at the amygdala-network level.^[raw/articles/pubmed-41765123-vasopressin-social-comparison-2026.md]^[raw/articles/pubmed-41734211-vasopressin-fear-response-dynamics-2026.md]^[raw/articles/pubmed-41876708-oxytocin-dynamic-brain-connectivity-2026.md]^[raw/articles/pubmed-41554388-oxytocin-social-brain-review-2026.md]
 
@@ -31,6 +33,7 @@ What changed since 2024:
 - New 2025-2026 animal work adds a receptor-level wrinkle: oxytocin can act via V1a receptors, and vasopressin social behavior depends on sex-specific glutamate signaling in the lateral septum.^[raw/articles/pubmed-41249098-oxytocin-v1a-social-communication-hamster.md]^[raw/articles/pubmed-39304743-vasopressin-social-play-sex-specific-glutamate-lateral-septum.md]
 - [[desmopressin]] remains an old-literature curiosity, not a modern enhancer category.
 - Safety concerns are clearer than the efficacy story for self-experimentation, especially for desmopressin nasal use.
+- Stack attribution is now explicit: social-confidence, threat, attachment, libido, empathy, POTS/fluid-balance, or sleep-deprivation stories should not be counted as direct cognition unless route, dose, sodium/fluid status, sleep, social task, sex/context, and co-interventions are captured.
 
 ## Top Sources
 
@@ -94,6 +97,8 @@ What changed since 2024:
 - [[desmopressin]] nasal spray can interact with other drugs that increase hyponatremia risk and with vasoconstrictors that may raise blood pressure.^[raw/articles/dailymed-desmopressin-acetate-spray-label.md]
 - In the FTD oxytocin trials, no oxytocin-attributed serious adverse events were reported, but behavioral shifts such as hypersexuality were monitored and should stay on the radar.
 - For vasopressin, the practical safety question is less acute toxicity than phenotype-dependent behavioral effects and the risk of overreading social-memory tasks as general enhancement.
+- For stack interpretation, route oxytocin/vasopressin/desmopressin anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]]. Desmopressin also routes through [[self-experimentation-stop-rules]] because hyponatremia, fluid restriction, nasal absorption, and rapid weight/fluid changes are safety variables, not nootropic tuning details.
+- Fixed social-peptide or hormone/nootropic stacks should be de-ranked by default unless they identify the peptide/analog, route/device, dose schedule, social task, sex/context, hydration/BP/sodium state, sleep state, co-interventions, adverse effects, and dechallenge/rechallenge.
 
 ## Responder Phenotypes
 
@@ -124,6 +129,7 @@ What changed since 2024:
 ## Actionable Wiki Updates
 
 - Standalone entity pages now exist for [[oxytocin]], [[vasopressin]], and [[desmopressin]].
+- Keep the June 2026 routing gate synchronized with [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]].
 - Update `[[anecdotal-evidence-in-cognitive-intervention-research]]` with the [[desmopressin]] nootropic lead-only rule if the anecdote ledger grows.
 - Update `[[biohacker-anecdote-methodology]]` if more community reports appear for [[desmopressin]] or [[vasopressin]].
-- Update `[[self-experimentation-stop-rules]]` to keep hyponatremia and fluid-restriction stops explicit for [[desmopressin]] self-use.
+- Continue linking [[self-experimentation-stop-rules]] from desmopressin-related pages so hyponatremia and fluid-restriction stops stay close to nootropic self-use discussions.

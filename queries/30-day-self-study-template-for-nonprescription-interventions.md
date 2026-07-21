@@ -1,10 +1,10 @@
 ---
 title: 30-Day Self-Study Template for Nonprescription Interventions
 created: 2026-04-27
-updated: 2026-05-03
+updated: 2026-06-15
 type: query
-tags: [cognition, performance, protocol, safety, comparison]
-sources: [raw/articles/pubmed-2297206-n-of-1-randomized-controlled-trial-clinical-usefulness.md, raw/articles/pubmed-30124759-n-of-1-randomized-intervention-trials-health-psychology-review-critique.md, raw/articles/pubmed-38622638-methodological-review-randomized-n-of-1-trials.md, raw/articles/pubmed-40071868-two-arm-crossover-rct-vs-meta-analysis-of-n-of-1-studies.md, raw/articles/pubmed-40016097-n-of-1-tests-general-practice-pharmacological-considerations.md, raw/articles/pubmed-40585136-practice-effects-persist-over-two-decades-cognitive-testing.md, raw/articles/pubmed-20846444-practice-effects-frequent-repetitive-cognitive-testing.md, raw/articles/pubmed-16840238-practice-effects-cogstate-battery-test-retest-intervals.md, raw/articles/pubmed-25994156-written-symbol-digit-modalities-test-alternate-forms-practice-effects.md, raw/articles/pubmed-29126328-repeated-administration-effects-psychomotor-vigilance-test.md, raw/articles/pubmed-40844017-short-term-practice-effects-cognition-daily-functioning-older-adults.md, raw/articles/pubmed-40911708-practice-effects-digital-cognitive-assessment-tools.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-35791877-repeated-low-dose-caffeine-sleep-deprivation-cognition.md, raw/articles/pubmed-38830861-repeated-caffeine-intake-sleep-restriction-gm.md, raw/articles/pubmed-15319017-weekend-holidays-methylphenidate-adhd.md, raw/articles/pubmed-15354700-validity-pvt-less-than-10-min.md, raw/articles/pubmed-17190720-shorter-pvt-substitute.md, raw/articles/pubmed-39749768-smart-ema-completion-meta-analysis.md, raw/articles/pubmed-40087245-wakeful-rest-memory-consolidation-meta-analysis.md, raw/articles/pubmed-21073136-delayed-recall-screening-mci.md, raw/articles/pubmed-41142043-blinding-indices-comparison-and-application.md, raw/articles/pubmed-34861421-blinding-assessment-antidepressant-rcts-meta-analysis.md, raw/articles/pubmed-35053802-blinding-in-tdcs-studies-end-of-study-guess-working-memory.md, raw/articles/pubmed-31228880-time-course-ineffective-sham-blinding-low-intensity-tdcs.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-11502230-placebo-expectancy-glucose-cognition.md, raw/articles/pubmed-39579950-breaking-up-sitting-postprandial-glucose-regulation.md, raw/articles/pubmed-41522270-glucose-extremes-cognitive-function-type1-diabetes.md, raw/articles/pubmed-38733772-nocebo-expectations-topical-pain-relief.md, raw/articles/pubmed-41008346-auricular-ultrasonic-vagus-nerve-stimulation-blinding-effectiveness.md]
+tags: [cognition, peptides, performance, protocol, safety, comparison, anecdote]
+sources: [raw/articles/pubmed-2297206-n-of-1-randomized-controlled-trial-clinical-usefulness.md, raw/articles/pubmed-30124759-n-of-1-randomized-intervention-trials-health-psychology-review-critique.md, raw/articles/pubmed-38622638-methodological-review-randomized-n-of-1-trials.md, raw/articles/pubmed-40071868-two-arm-crossover-rct-vs-meta-analysis-of-n-of-1-studies.md, raw/articles/pubmed-40016097-n-of-1-tests-general-practice-pharmacological-considerations.md, raw/articles/pubmed-40585136-practice-effects-persist-over-two-decades-cognitive-testing.md, raw/articles/pubmed-20846444-practice-effects-frequent-repetitive-cognitive-testing.md, raw/articles/pubmed-16840238-practice-effects-cogstate-battery-test-retest-intervals.md, raw/articles/pubmed-25994156-written-symbol-digit-modalities-test-alternate-forms-practice-effects.md, raw/articles/pubmed-29126328-repeated-administration-effects-psychomotor-vigilance-test.md, raw/articles/pubmed-40844017-short-term-practice-effects-cognition-daily-functioning-older-adults.md, raw/articles/pubmed-40911708-practice-effects-digital-cognitive-assessment-tools.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-35791877-repeated-low-dose-caffeine-sleep-deprivation-cognition.md, raw/articles/pubmed-38830861-repeated-caffeine-intake-sleep-restriction-gm.md, raw/articles/pubmed-15319017-weekend-holidays-methylphenidate-adhd.md, raw/articles/pubmed-15354700-validity-pvt-less-than-10-min.md, raw/articles/pubmed-17190720-shorter-pvt-substitute.md, raw/articles/pubmed-39749768-smart-ema-completion-meta-analysis.md, raw/articles/pubmed-40087245-wakeful-rest-memory-consolidation-meta-analysis.md, raw/articles/pubmed-21073136-delayed-recall-screening-mci.md, raw/articles/pubmed-41142043-blinding-indices-comparison-and-application.md, raw/articles/pubmed-34861421-blinding-assessment-antidepressant-rcts-meta-analysis.md, raw/articles/pubmed-35053802-blinding-in-tdcs-studies-end-of-study-guess-working-memory.md, raw/articles/pubmed-31228880-time-course-ineffective-sham-blinding-low-intensity-tdcs.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-11502230-placebo-expectancy-glucose-cognition.md, raw/articles/pubmed-39579950-breaking-up-sitting-postprandial-glucose-regulation.md, raw/articles/pubmed-41522270-glucose-extremes-cognitive-function-type1-diabetes.md, raw/articles/pubmed-38733772-nocebo-expectations-topical-pain-relief.md, raw/articles/pubmed-41008346-auricular-ultrasonic-vagus-nerve-stimulation-blinding-effectiveness.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md, raw/articles/reddit-2026-bromantane-thread-trail.md, raw/articles/pubmed-40131143-bpc157-human-safety-pilot.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 confidence: medium
 ---
 
@@ -28,6 +28,8 @@ The default design is deliberately boring:
 The goal is not to prove a universal enhancer. The goal is to make a small self-study interpretable enough that a future decision is based on evidence instead of vibes.
 
 For device-adjacent studies, pair this template with [[device-parameter-worksheet-for-self-study-and-protocol-review]] so the protocol header is explicit before the daily log starts.
+
+June 2026 peptide/nootropic addendum: this template can host hypothesis-generating self-study for gray-market nootropics and peptides only when it is treated as an attribution protocol, not a recommendation protocol. [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] reports should use the peptide/nootropic workbook fields before being compared with ranking pages. De-ranked, metabolism-first, or state-bound nodes such as [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis peptides, and TB-500-style labels need an explicit `de_rank_flag` unless source/COA, route/formulation, dose timing, washout, monotherapy, mediator path, regulatory/sports status, adverse events, and objective endpoints are captured.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]^[raw/articles/reddit-2026-bromantane-thread-trail.md]^[raw/articles/pubmed-40131143-bpc157-human-safety-pilot.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 ## Design Selection
 
@@ -74,6 +76,8 @@ If the intervention has obvious carryover or slow onset, extend the study rather
 10. Before interpreting the result, run [[blinding-failure-detector-for-self-study-and-sham-capable-protocols]] and inspect the guess/confidence/sensory-leakage fields.
 11. Record blinding and expectancy data at block end so guess rate, sensory leakage, activation, and withdrawal confounds are visible before analysis.
 12. Build in a warm-up or familiarization phase for any repeated cognitive task that is prone to practice effects, and do not count those sessions as efficacy data.
+13. For peptide or gray-market nootropic candidates, complete [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[30-day-self-study-workbook-schema]], and [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]] fields before the first analytic block.
+14. If the product is a fixed blend, unverified source, unclear route, missing sports/regulatory status, missing objective endpoint, or multi-change stack, treat the result as safety/attribution evidence only.
 
 ## Endpoint Selection
 
@@ -87,6 +91,7 @@ Pick the primary endpoint before starting.
 | Delayed memory | Consolidation |
 | Untrained-task benefit | Transfer |
 | Resistance to sleep, stress, or metabolic strain | Resilience |
+| Recovery-state peptide or nootropic hypothesis | Resilience, consolidation, or throughput only after the recovery state is declared |
 
 If the intervention is only expected to make you feel better, do not upgrade that to a cognition claim unless the objective endpoint moves too.
 
@@ -121,6 +126,7 @@ Use [[30-day-self-study-validity-controls]] for the full checklist. The short ru
 5. Ask whether any apparent gain could be driven by caffeine timing, meal timing, nicotine abstinence, or active-comparator carryover.
 6. If the study cannot survive a sensitivity analysis that removes the worst-sleep days, the result is fragile.
 7. If the endpoint still drifts after warm-up or alternate forms, set `unstable_for_short_block = yes` and move the study to a longer design or a different endpoint.
+8. For peptide or gray-market nootropic studies, do not interpret the active block as molecule efficacy when source, route, formulation, lot, dose timing, washout, stack order, mediator path, regulatory/sports status, objective endpoint, or recovery-state fields are missing.
 
 ## Spreadsheet Schema
 
@@ -145,6 +151,12 @@ The workbook schema now lives in [[30-day-self-study-workbook-schema]] so this t
 - [[device-parameter-worksheet-for-self-study-and-protocol-review]]
 - [[30-day-self-study-validity-controls]]
 - [[30-day-self-study-workbook-schema]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[peptide-stack-topology-ledger]]
+- [[peptide-safety-and-sourcing-risk-map]]
+- [[peptide-regulatory-live-watch-board]]
+- [[regulatory-and-sports-visibility-map]]
 - [[healthy-adult-cognition-signals]]
 - [[washout-durability-for-cognition-interventions]]
 - `IDEAS.md`
@@ -152,12 +164,11 @@ The workbook schema now lives in [[30-day-self-study-workbook-schema]] so this t
 
 ## Actionable Wiki Updates
 
-- Add this page to `index.md` under Queries.
-- Cross-link this page from [[practical-cognitive-measurement-stack]] and [[endpoint-dictionary-for-cognition-interventions]] so the measurement language stays synced.
-- Cross-link this page from [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]] so adverse-event attribution has its own review layer.
+- Maintenance status: this page is already indexed and cross-linked from the main measurement and attribution pages.
 - Use this as the default template reference for `PR-01` and the logging schema reference for `PR-05` in `TODO.md`.
 - Keep [[30-day-self-study-workbook-schema]] aligned with [[practical-cognitive-measurement-stack]] so every field maps to an actual measure or state marker.
 - Route device-adjacent protocols through [[device-parameter-worksheet-for-self-study-and-protocol-review]] before the daily log begins.
+- Route peptide and gray-market nootropic protocols through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[30-day-self-study-workbook-schema]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], and [[regulatory-and-sports-visibility-map]] before any ranking update.
 - When a future intervention page needs an n-of-1 example, link back here instead of rewriting the protocol from scratch.
 
 ## Sources

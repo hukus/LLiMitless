@@ -1,7 +1,7 @@
 ---
 title: Selegiline
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/dailymed-selegiline-hydrochloride-tablet.md, raw/articles/pubmed-11813282-selegiline-alzheimers-meta-analysis.md, raw/articles/pubmed-8665548-selegiline-cognition-early-pd.md, raw/articles/pubmed-41524120-maob-inhibitors-pd-cognition-network-meta.md, raw/articles/pubmed-30906861-kds2010-reversible-maob-ad-mice.md, raw/articles/reddit-selegiline-deprenyl-experiences-2023.md, raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md]
@@ -33,4 +33,6 @@ Selegiline, also called deprenyl, is a prescription MAO-B inhibitor with a state
 
 Selegiline belongs in [[mao-b-propargylamine-cognition-watchlist]], [[anecdote-led-chemical-heat-map]], and [[pharmacology-comparator-map]] as a prescription-bound dopamine-state comparator. The anecdotal signal should stay hypothesis-generating and safety-first.
 
-Related pages: [[rasagiline]], [[safinamide]], [[kds2010-tisolagiline]], [[dopamine-state-precision-pharmacology-2026-scan]], [[regulatory-and-sports-visibility-map]], [[self-experimentation-stop-rules]], and [[cognitive-improvement-molecule-signal-atlas]].
+Route selegiline anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting drive or clarity reports. The main gates are tyramine/BP, dose-selectivity loss, insomnia, stimulant or phenethylamine potentiation, serotonergic/opioid/dextromethorphan interactions, washout timing, and whether the report is dopamine-state restoration rather than cognition enhancement.
+
+Related pages: [[rasagiline]], [[safinamide]], [[kds2010-tisolagiline]], [[dopamine-state-precision-pharmacology-2026-scan]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[self-experimentation-stop-rules]], and [[cognitive-improvement-molecule-signal-atlas]].

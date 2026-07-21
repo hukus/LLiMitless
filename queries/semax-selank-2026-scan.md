@@ -1,10 +1,10 @@
 ---
 title: Semax and Selank 2026 Scan
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [peptides, cognition, clinical-trial, safety, controversy, mechanism, comparison, preclinical]
-sources: [raw/articles/pubmed-10741256-semax-optic-nerve-disease.md, raw/articles/pubmed-15792140-semax-cerebrovascular-insufficiency.md, raw/articles/pubmed-10199046-semax-posthypoxic-encephalopathy.md, raw/articles/pubmed-18454096-selank-gad-neurasthenia.md, raw/articles/pubmed-39442746-semax-antistress-rats.md, raw/articles/pubmed-31625062-selank-ethanol-memory-impairment-rats.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, raw/articles/pubmed-32342318-selank-semax-functional-connectomics.md, raw/articles/pubmed-24738258-neuroprotective-peptides-age.md, raw/articles/pubmed-30383932-semax-transthyretin-neuroprotection.md, raw/articles/pubmed-41171324-semax-intracellular-calcium-dynamics-rat-brain-neurons.md, raw/articles/actanaturae-2025-semax-derivative-app-ps1-alzheimers-model.md, raw/articles/pmc-12151629-semax-copper-ros-abeta-cell.md, raw/articles/fda-2026-advisory-epitalon-semax.md]
+tags: [peptides, cognition, clinical-trial, safety, controversy, mechanism, comparison, preclinical, anecdote]
+sources: [raw/articles/pubmed-10741256-semax-optic-nerve-disease.md, raw/articles/pubmed-15792140-semax-cerebrovascular-insufficiency.md, raw/articles/pubmed-10199046-semax-posthypoxic-encephalopathy.md, raw/articles/pubmed-18454096-selank-gad-neurasthenia.md, raw/articles/pubmed-39442746-semax-antistress-rats.md, raw/articles/pubmed-31625062-selank-ethanol-memory-impairment-rats.md, raw/articles/pubmed-16634437-semax-selank-oligopeptides.md, raw/articles/pubmed-32342318-selank-semax-functional-connectomics.md, raw/articles/pubmed-24738258-neuroprotective-peptides-age.md, raw/articles/pubmed-30383932-semax-transthyretin-neuroprotection.md, raw/articles/pubmed-41171324-semax-intracellular-calcium-dynamics-rat-brain-neurons.md, raw/articles/actanaturae-2025-semax-derivative-app-ps1-alzheimers-model.md, raw/articles/pmc-12151629-semax-copper-ros-abeta-cell.md, raw/articles/fda-2026-advisory-epitalon-semax.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]
 confidence: low
 ---
 
@@ -12,7 +12,9 @@ confidence: low
 
 ## Summary
 
-Semax and Selank still look like regional, older-literature peptide candidates with plausible neuroprotective / anxiolytic stories, but the modern evidence base remains thin. The 2025-2026 additions strengthen Semax's preclinical and mechanism lane rather than its human efficacy lane: a rat slice-calcium paper, an APP/PS1 Alzheimer's-model paper, and an Abeta-copper / oxidative-stress cell-model paper now sit beside FDA's 2026 PCAC Semax agenda. Selank still has one older human randomized anxiety/asthenia study and a small preclinical branch; I did not surface a new modern human cognition RCT in this pass.
+Semax and Selank still look like regional, older-literature peptide candidates with plausible neuroprotective / anxiolytic stories, but the modern evidence base remains thin. The 2025-2026 additions strengthen Semax's preclinical and mechanism lane rather than its human efficacy lane: a rat slice-calcium paper, an APP/PS1 Alzheimer's-model paper, and an Abeta-copper / oxidative-stress cell-model paper now sit beside FDA's 2026 PCAC Semax agenda. Selank still has one older human randomized anxiety/asthenia study and a small preclinical branch.
+
+June 2026 routing: Semax/Selank belong in the strongest current nootropic-peptide anecdote-priority cluster, but only as `strong salience / low confidence` state-restoration nodes. They sit above [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] for monitoring priority because the community signal is denser and the human-history layer is less empty; they still sit below a proven healthy-adult nootropic claim because route, source, dose, stack, and phenotype confounds dominate.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]
 
 ## What Changed Since 2024
 
@@ -20,6 +22,7 @@ Semax and Selank still look like regional, older-literature peptide candidates w
 - Semax also gained a 2025 APP/PS1 mouse Alzheimer's-model paper in Acta Naturae. The study reports that intranasal Semax or a related derivative improved novel-object / Barnes-maze-style behavioral measures and reduced amyloid inclusions in cortex and hippocampus after a treatment-and-washout design. This is modern preclinical cognition support, not human proof.^[raw/articles/actanaturae-2025-semax-derivative-app-ps1-alzheimers-model.md]
 - A 2025 Abeta-copper cell / bioinorganic chemistry paper adds a narrower mechanism lane: Semax reduced copper-linked redox cycling and ROS production in Abeta model systems and protected SH-SY5Y cells from copper-catalyzed Abeta oxidative stress. This is cell-level plausibility only.^[raw/articles/pmc-12151629-semax-copper-ros-abeta-cell.md]
 - FDA's July 23-24, 2026 PCAC agenda lists Semax (free base)/Semax acetate for 503A bulks-list discussion and says FDA reviewed cerebral ischemia, migraine, and trigeminal neuralgia as the uses evaluated. That is a current compounding/regulatory signal only.^[raw/articles/fda-2026-advisory-epitalon-semax.md]
+- June 2026 routing update: the broader nootropic anecdote ledger now treats the Semax/Selank/Cerebrolysin cluster as `strong` peptide-community salience. On this page, that only changes prioritization and safety monitoring; it does not change the formal evidence tier.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]
 - I did not surface a new 2024-2026 human Selank cognition RCT in this pass; that is a search-pass inference, not proof of absence.
 - The older human anchors still dominate: Semax remains tied to optic-nerve disease, cerebrovascular insufficiency, and posthypoxic encephalopathy, while Selank still rests on one older randomized study in generalized anxiety disorder/neurasthenia.^[raw/articles/pubmed-10741256-semax-optic-nerve-disease.md]^[raw/articles/pubmed-15792140-semax-cerebrovascular-insufficiency.md]^[raw/articles/pubmed-10199046-semax-posthypoxic-encephalopathy.md]^[raw/articles/pubmed-18454096-selank-gad-neurasthenia.md]
 
@@ -37,6 +40,7 @@ Semax and Selank still look like regional, older-literature peptide candidates w
 10. [PubMed 39442746](https://pubmed.ncbi.nlm.nih.gov/39442746/) - recent Semax antistress rat study.
 11. [PubMed 32342318](https://pubmed.ncbi.nlm.nih.gov/32342318/) - connectomics framing for Semax/Selank.
 12. [PubMed 30383932](https://pubmed.ncbi.nlm.nih.gov/30383932/) - Semax / transthyretin mechanism review.
+13. Troof nootropics ratings analysis and the 2017 /r/Nootropics survey - community-salience context, not efficacy proof.
 
 ## Evidence Tiering
 
@@ -59,6 +63,14 @@ Semax and Selank still look like regional, older-literature peptide candidates w
 | FDA PCAC / bulk-risk material | Regulatory / sourcing | Active status visibility, not efficacy | `high` for status; `none` for efficacy | Changes sourcing and compounding interpretation, not medicinal effect size |
 | Forum and survey heat | Anecdote | Stronger for Semax/Selank salience than for objective cognition | `strong` anecdote, `low` confidence | Route, dose, stack, source, and phenotype confounds route through [[peptide-stack-topology-ledger]] |
 
+## Anecdote Ledger
+
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| Semax feels cognitively active for focus, workload, or study pressure | `anecdote` / `community survey` | raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, and raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md; ratings dataset, survey, Reddit thread | Troof 2,802-person / 36,163-rating layer plus older 380-person survey and one recent peptide advice thread; `strong` salience | Focus, exams, workload, stress, recovery-state use | low | Open-label ratings, route/sourcing variability, dose drift, sleep/stimulant confounding, and recovery-state bias prevent efficacy inference |
+| Selank feels useful for calm, anxiety control, and stress-state performance | `anecdote` / `community survey` | raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, and raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md; ratings dataset, survey, Reddit thread | Same peptide-cluster evidence base; `strong` salience for calming/anxiety-control use | Anxiety, exam stress, emotional steadiness, rehab/recovery context | low | Effect may be stress-state normalization rather than cognition; stack, medication, route, sleep, and source confounds dominate |
+| Semax/Selank stack advice can guide experiment design questions | `anecdote` / stack topology | raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md and [[peptide-stack-topology-ledger]] | one explicit advice thread plus broader peptide chatter; `moderate` attribution signal | Comparison with Cerebrolysin and other recovery/nootropic peptides | low | Multi-peptide planning prevents molecule attribution; use for safety/source/washout questions, not protocol advice |
+
 ## Effect Size Snapshot
 
 - Selank: the 2008 randomized study reports anxiolysis similar to medazepam and additional antiasthenic / psychostimulant signals, but the PubMed abstract does not provide a modern effect-size extract.
@@ -71,6 +83,8 @@ Semax and Selank still look like regional, older-literature peptide candidates w
 - The main safety issue in this branch is not a clean toxicity signal from the papers I found; it is the combination of sparse modern human data, opaque sourcing, and limited comparability of the old regional studies.
 - Because these agents are often discussed as intranasal or otherwise nonstandard peptides, product quality and route-specific risk deserve separate treatment from efficacy claims. FDA's 2026 PCAC agenda is the current regulatory marker to watch for Semax sourcing and compounding status.^[raw/articles/fda-2026-advisory-epitalon-semax.md]
 - Regulatory and stack-attribution overlays now live at [[peptide-regulatory-live-watch-board]] and [[peptide-stack-topology-ledger]]. Use them before interpreting community Semax/Selank reports as molecule-specific cognition evidence.
+- The multi-modal stack safety layer now treats Semax/Selank as state-shifting peptides that should not be introduced with caffeine, nicotine, wake-promoters, bright-light timing shifts, or stimulation blocks when clean cognition attribution is the goal; see [[safety-interaction-matrix-for-multi-modal-stacks]].
+- Treat Semax/Selank plus [[bromantane]] as a high-attribution-risk nootropic stack rather than a clean synergy claim. Both branches carry strong subjective signals but weak direct healthy-adult cognition proof, and the combined report can be driven by sleep debt, activation, calmness, route/source changes, fatigue rescue, or expectation.
 - For wiki purposes, both remain in the "promising but not mature" bucket rather than the casual supplement bucket.
 
 ## Responder Phenotypes
@@ -91,10 +105,10 @@ Semax and Selank still look like regional, older-literature peptide candidates w
 - Semax is framed as nootropic and neuroprotective in older Russian clinical literature, but the newest evidence I found is still preclinical. That creates a time gap between reputation and current evidence.
 - Selank has a more direct anxiety-related human signal, yet its cognition relevance still looks indirect and phenotype-dependent.
 - The literature is too regionally concentrated to know how portable these results are to modern multicenter, blinded, registered trials.
+- The June 2026 anecdote split intentionally elevates Semax/Selank for monitoring priority while refusing to upgrade efficacy confidence. That can feel inconsistent unless the wiki keeps `anecdote-priority` separate from `formal cognition proof`.
 
-## Actionable Wiki Updates
+## Maintenance Status
 
-- Update [[semax]] with the 2025 neuronal-calcium paper and the 2026 FDA PCAC agenda signal.
-- Update [[selank]] with the older randomized anxiety study and the recent preclinical memory/stress work.
-- Link this scan from [[peptide-neuroprotection]], [[peptide-regulatory-live-watch-board]], [[peptide-stack-topology-ledger]], and [[neurocognitive-interventions-under-study]] so the branch is easier to reach from the main peptide hub.
-- Keep the branch in the caution-first lane until a modern blinded human study appears.
+- [[semax]] and [[selank]] now carry the June 2026 entity-level anecdote ledgers and stack-safety language.
+- [[peptide-neuroprotection]], [[peptide-regulatory-live-watch-board]], [[peptide-stack-topology-ledger]], [[neurocognitive-interventions-under-study]], [[gray-zone-nootropic-community-signal-ledger]], and [[cognitive-improvement-molecule-signal-atlas]] now route this branch as high-salience but low-confidence.
+- Keep the branch in the caution-first lane until a modern blinded human cognition study appears, and do not let Semax/Selank reports inherit confidence from [[bromantane]], [[bpc-157]], [[cerebrolysin]], or de-ranked peptide lore.

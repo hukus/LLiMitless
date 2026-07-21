@@ -1,9 +1,9 @@
 ---
 title: MOTS-c 2026 Scan
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [cognition, performance, protocol, biomarker, safety, comparison, anecdote]
+tags: [cognition, peptides, metabolism, performance, protocol, biomarker, safety, comparison, anecdote]
 sources: [raw/articles/pubmed-25738459-mots-c-metabolic-homeostasis.md, raw/articles/pubmed-36677050-mots-c-prevents-metabolic-disorders.md, raw/articles/pubmed-34351816-mdp-exercise-humans.md, raw/articles/pubmed-36761202-mots-c-therapeutic-exploitation.md, raw/articles/pubmed-32052315-mots-c-beta-amyloid-cad.md, raw/articles/pubmed-39160573-mdp-metabolic-states-meta-analysis.md, raw/articles/pubmed-39559755-mots-c-ck2-muscle.md, raw/articles/pubmed-39827923-mots-c-lung-ischemia-reperfusion.md, raw/articles/pubmed-41520850-mots-c-muscle-bioenergetics.md, raw/articles/pmc-12411631-mots-c-pancreatic-islet-senescence-diabetes.md, raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes.md, raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md, raw/articles/reddit-2025-12-13-have-anyone-tried-mots-c-thread.md, raw/articles/reddit-2026-04-13-no-more-mots-c-anaphylaxis-thread.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md]
 confidence: low
 ---
@@ -75,7 +75,7 @@ MOTS-c still looks like a metabolism-first mitochondrial peptide rather than a d
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | MOTS-c improves energy, workout capacity, or fat-loss support | `anecdote` | raw/articles/reddit-2025-12-13-have-anyone-tried-mots-c-thread.md; Reddit experience thread | one mixed thread with multiple visible replies; `moderate-strong` salience | calorie deficit, exercise, GLP-1/retatrutide/tirzepatide stacks, SS-31 sequencing, self-injection | low | no controls, product/source uncertainty, training and diet confounds, placebo, no cognition endpoint |
 | MOTS-c non-response | `anecdote` | same Reddit thread | repeated visible non-response reports; `moderate` | SS-31 plus MOTS-c cycles, daily or weekly self-reports | low | dose/product quality/responder status unknown |
@@ -93,6 +93,6 @@ MOTS-c still looks like a metabolism-first mitochondrial peptide rather than a d
 ## Current Wiki Routing
 
 - Keep [[mots-c]] as a low-confidence metabolism-to-brain bridge.
-- Route safety and anti-doping status through [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], and [[regulatory-and-sports-visibility-map]].
-- Route performance anecdotes through [[peptide-stack-topology-ledger]] or a future MOTS-c-specific community ledger; do not upgrade cognition confidence.
+- Route safety and anti-doping status through [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+- Route performance, fat-loss, energy, non-response, and allergic/adverse-event anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[peptide-stack-topology-ledger]]; do not upgrade cognition confidence.
 - Link against [[exercise-creatine-metabolic-peptide-triad]] for the exercise/metabolic-state interpretation.

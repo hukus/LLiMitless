@@ -1,16 +1,18 @@
 ---
 title: 30-Day Self-Study Workbook Schema
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-15
 type: query
-tags: [cognition, performance, protocol, safety, comparison]
-sources: [raw/articles/pubmed-38622638-methodological-review-randomized-n-of-1-trials.md, raw/articles/pubmed-40016097-n-of-1-tests-general-practice-pharmacological-considerations.md, raw/articles/pubmed-40585136-practice-effects-persist-over-two-decades-cognitive-testing.md, raw/articles/pubmed-20846444-practice-effects-frequent-repetitive-cognitive-testing.md, raw/articles/pubmed-29126328-repeated-administration-effects-psychomotor-vigilance-test.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-41142043-blinding-indices-comparison-and-application.md, raw/articles/pubmed-41008346-auricular-ultrasonic-vagus-nerve-stimulation-blinding-effectiveness.md]
+tags: [cognition, peptides, performance, protocol, safety, comparison, anecdote]
+sources: [raw/articles/pubmed-38622638-methodological-review-randomized-n-of-1-trials.md, raw/articles/pubmed-40016097-n-of-1-tests-general-practice-pharmacological-considerations.md, raw/articles/pubmed-40585136-practice-effects-persist-over-two-decades-cognitive-testing.md, raw/articles/pubmed-20846444-practice-effects-frequent-repetitive-cognitive-testing.md, raw/articles/pubmed-29126328-repeated-administration-effects-psychomotor-vigilance-test.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-41142043-blinding-indices-comparison-and-application.md, raw/articles/pubmed-41008346-auricular-ultrasonic-vagus-nerve-stimulation-blinding-effectiveness.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md, raw/articles/reddit-2026-bromantane-thread-trail.md, raw/articles/pubmed-40131143-bpc157-human-safety-pilot.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 confidence: medium
 ---
 
 # 30-Day Self-Study Workbook Schema
 
-This page holds the spreadsheet schema for [[30-day-self-study-template-for-nonprescription-interventions]]. Keep it aligned with [[practical-cognitive-measurement-stack]], [[endpoint-dictionary-for-cognition-interventions]], [[30-day-self-study-validity-controls]], and [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]].
+This page holds the spreadsheet schema for [[30-day-self-study-template-for-nonprescription-interventions]]. Keep it aligned with [[practical-cognitive-measurement-stack]], [[endpoint-dictionary-for-cognition-interventions]], [[30-day-self-study-validity-controls]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[peptide-stack-topology-ledger]].
+
+June 2026 peptide/nootropic update: gray-market nootropic and peptide studies need provenance fields in the sheet itself. A [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis, or TB-500-style row without exact identity, source/COA, route/formulation, dose timing, stack order, washout, mediator path, adverse-event linkage, regulatory/sports status, and objective endpoint evidence should be treated as attribution debt rather than evidence of efficacy.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]^[raw/articles/reddit-2026-bromantane-thread-trail.md]^[raw/articles/pubmed-40131143-bpc157-human-safety-pilot.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 ## Sheet 1: `Protocol`
 
@@ -42,6 +44,12 @@ One row only. Treat this as the immutable study header.
 | `balanced_placebo_note` | text | Separate told-condition from actual condition when used. |
 | `meal_glucose_rule` | text | Fixed fasting, first-meal, and postprandial timing rule. |
 | `stop_flags` | text | Short list of stop conditions from the safety page. |
+| `candidate_class` | text | Supplement, device, peptide, gray-market nootropic, behavioral, or other. |
+| `exact_molecule_label` | text | Required for peptide/nootropic candidates; do not collapse analogs or salts. |
+| `route_formulation_plan` | text | Planned route, salt/formulation, delivery method, and dose-timing pattern. |
+| `source_or_coa_plan` | text | Supplier, COA/lot plan, compounding pharmacy, or source-quality note. |
+| `regulatory_or_sports_plan` | text | Prescription, research-chemical, WADA/sports, or unchecked status. |
+| `de_rank_flag` | 0/1 | Mark `1` when the candidate is de-ranked/state-bound or lacks clean human cognition evidence. |
 
 ## Sheet 2: `Daily_Log`
 
@@ -60,6 +68,17 @@ One row per calendar day. Keep this sheet flat and complete; avoid free-text whe
 | `dose_end_time` | time | End time if the intervention has duration. |
 | `device_name` | text | Device or product identifier. |
 | `device_settings` | text | Short coded summary of the active settings. |
+| `source_or_coa` | text | Supplier, COA, lot, or verification note for products where identity matters. |
+| `route` | text | Oral, intranasal, subcutaneous, transdermal, device route, behavioral route, etc. |
+| `formulation` | text | Salt, analog, spray, fixed blend, capsule, vial, solvent, or other product form. |
+| `fixed_blend` | 0/1 | Mark `1` if attribution is blend-confounded. |
+| `stack_order` | text | Sequence relative to caffeine, nicotine, exercise, sleep tools, devices, or other interventions. |
+| `cycle_day` | integer | Day within cycle/course when relevant. |
+| `washout_days_before_start` | integer | Days since last exposure or related intervention. |
+| `recovery_or_stress_state` | text | Injury, exam stress, post-drug recovery, sleep debt, illness, rested baseline, etc. |
+| `mediator_path` | text | Pain, training continuity, sleep, metabolic, mood/anxiety, activation, or direct-cognition claim. |
+| `caffeine_nicotine_wake_promoter_exposure` | text | Same-day exposure that could mimic or mask nootropic effects. |
+| `regulatory_or_sports_status` | text | WADA/FDA/prescription/research-chemical status or unchecked. |
 | `sleep_duration_h` | number | Total sleep in hours. |
 | `sleep_onset` | time | Optional if available. |
 | `wake_time` | time | Optional if available. |
@@ -110,6 +129,8 @@ One row per event. This is where the safety detail belongs, not in the daily log
 | `severity` | integer | Use a fixed ordinal scale, usually 0-3 or 0-4. |
 | `duration_h` | number | Approximate duration. |
 | `relation_to_dose` | text | After dose, during wear-off, unrelated, unknown. |
+| `relation_to_route_or_application` | text | After nasal use, injection, solvent/application, device session, or route change. |
+| `product_lot_or_source` | text | Source/lot when an event could be identity- or contamination-linked. |
 | `action_taken` | text | None, dose reduced, paused, stopped, clinician contacted. |
 | `resolved` | 0/1 | Whether the event cleared. |
 | `comment` | text | Short note only. |
@@ -136,6 +157,9 @@ One row per adverse event or attribution question. This is the causal diary laye
 | `hr_bpm` | number | Post-event or next-morning heart rate. |
 | `other_new_variables_changed_count` | integer | How many other variables changed around the same time. |
 | `alternative_causes` | text | Sleep debt, caffeine withdrawal, illness, alcohol, stress, meals, etc. |
+| `mediator_path` | text | Pain, training, sleep, metabolic, anxiety, activation, or other path explaining the effect. |
+| `objective_endpoint_changed` | text | Whether the objective endpoint changed, not just the subjective report. |
+| `source_route_stack_attribution_debt` | text | Missing source, route, formulation, fixed-blend, washout, recovery-state, or stack-order data. |
 | `causality_tier` | text | Possible, probable, doubtful, or custom note. |
 | `attribution_note` | text | Short causal summary without overexplaining. |
 
@@ -165,20 +189,11 @@ Optional, but useful if you want formulas separated from raw logging.
 | Field | Type | Notes |
 |---|---|---|
 | `block_mean_primary` | formula | Block-level average for the primary endpoint. |
-| `rolling_sleep_7d` | formula | Short rolling sleep summary. |
 | `adherence_pct` | formula | Share of planned doses actually taken. |
 | `ae_rate` | formula | Adverse events per day or per block. |
 | `guess_rate` | formula | Share of blocks guessed correctly. |
-| `mean_guess_confidence` | formula | Average confidence in the guess. |
-| `leakage_flag_count` | formula | Count of blocks with sensory leakage or activation. |
 | `z_primary` | formula | Normalized endpoint score if you standardize within-person. |
 
 ## Coding Rules
 
-- Use ISO dates and 24-hour times.
-- Keep units in separate columns, not inside the numeric field.
-- Prefer blank cells over `0` for missing data.
-- Use `0/1` for stop flags and other binary fields.
-- Keep raw values and derived values on separate sheets.
-- Treat the blinding sheet as a measurement layer, not a verdict. A correct guess, wrong guess, or high confidence can all be informative.
-- If a scale changes mid-study, restart the study or treat the run as non-comparable.
+Use ISO dates, 24-hour times, separate unit columns, blank cells for missing data, `0/1` for binary flags, and separate raw versus derived sheets. Treat the blinding sheet as measurement rather than verdict; if a scale changes mid-study, restart or treat the run as non-comparable.

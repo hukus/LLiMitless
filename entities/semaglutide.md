@@ -1,7 +1,7 @@
 ---
 title: Semaglutide
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md, raw/articles/pubmed-41173224-semaglutide-nlrp3-ad-model-progression.md, raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md]
@@ -36,13 +36,15 @@ No semaglutide-specific cognition anecdote raw note is currently indexed. The br
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Semaglutide improves cognition or brain fog | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; weak | GLP-1RA weight/metabolic discourse, possible mood/sleep/glucose confounds | low | Weight loss, glycemic control, appetite, sleep, and mood can mimic direct cognitive benefit |
 
 ## Safety And Status
 
-For cognition users, the main practical safety issue is not a new neurological signal in the captured cognition trials; it is interpretability plus prescription/metabolic-drug risk. GI effects, appetite suppression, weight loss, glycemic change, and mood or sleep shifts can change perceived cognition without proving a direct nootropic effect.
+For cognition users, the main practical safety issue is not a new neurological signal in the captured cognition trials; it is interpretability plus prescription/metabolic-drug risk. GI effects, appetite suppression, weight loss, glycemic change, and mood or sleep shifts can change perceived cognition without proving a direct nootropic effect. Route semaglutide brain-fog or clarity anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting them as direct cognition evidence.
+
+June 2026 metabolic-peptide attribution gate: semaglutide reports should not update cognition rankings unless they capture exact product and prescription status, oral versus injectable formulation, dose and titration stage, indication, baseline diabetes/obesity/insulin-resistance phenotype, weight-loss trajectory, appetite and calorie/carbohydrate intake, hydration/electrolytes, sleep apnea or sleep changes, mood/depression state, GI adverse events, hypoglycemia risk from co-medications, co-interventions such as diet, exercise, metformin, SGLT2 inhibitors, stimulants, or sleep drugs, washout or stable-dose period, and an objective cognition endpoint. Route informal reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before comparing semaglutide with stronger anecdotal nootropic nodes such as [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
 
 ## Signal Judgment
 
@@ -58,5 +60,8 @@ Practical route: clinical metabolic-brain comparator and negative-evidence ancho
 - [[incretin-therapies-brain-health-2026-scan]]
 - [[exenatide]]
 - [[mazdutide]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
 - [[neuroinflammation-and-cognition]]

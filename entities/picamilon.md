@@ -1,7 +1,7 @@
 ---
 title: Picamilon / Nicotinoyl-GABA
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubchem-2026-picamilon-sodium-identity.md, raw/articles/fda-picamilon-dietary-supplements.md, raw/articles/pubmed-26426301-vinpocetine-picamilon-supplement-labeling.md, raw/articles/pubmed-39113452-picamilon-chronic-cerebral-ischemia-open-rct.md, raw/articles/pubmed-36168693-picamilon-ginkgo-chronic-cerebral-ischemia.md, raw/articles/reddit-2022-picamilon-wonder-nootropic-thread.md]
@@ -39,7 +39,7 @@ The label-accuracy problem is not theoretical. In the 2016 Drug Testing and Anal
 
 ## Anecdote Ledger
 
-| Claim | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Picamilon can provide calm alertness or stress-job usefulness | `anecdote` | raw/articles/reddit-2022-picamilon-wonder-nootropic-thread.md; Reddit /r/Nootropics | one active thread; `moderate` salience | occasional use, stress, energy, alertness, anxiety | low | Mixed responders, no objective testing, legality and sourcing dominate |
 | Picamilon may be underwhelming or tolerance-sensitive | `anecdote` | raw/articles/reddit-2022-picamilon-wonder-nootropic-thread.md; Reddit /r/Nootropics | same thread; `weak-moderate` adverse/null counter-signal | no effect, tolerance, sourcing concerns | low | Cannot separate product quality from pharmacology |
@@ -48,4 +48,6 @@ The label-accuracy problem is not theoretical. In the 2016 Drug Testing and Anal
 
 [[picamilon]] earns standalone coverage because it is a common nootropic-market name with formal regional clinical-state evidence and unusually clear U.S. regulatory/product-quality problems. It should be ranked risk-first: anecdotal calm-focus reports do not overcome unapproved-drug status, label inaccuracy, and the absence of clean healthy-adult cognition trials.
 
-Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[risk-first-legacy-gray-zone-nootropic-watchlist]], [[common-nootropic-gray-zone-molecule-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[ginkgo]], [[phenibut]], [[vinpocetine]], and [[biohacker-anecdote-methodology]].
+Route picamilon anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when anxiety relief, GABA/niacin assumptions, tolerance, stimulant or phenibut co-use, vascular-state claims, or product-label uncertainty appear.
+
+Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[risk-first-legacy-gray-zone-nootropic-watchlist]], [[common-nootropic-gray-zone-molecule-watchlist]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], [[ginkgo]], [[phenibut]], [[vinpocetine]], and [[biohacker-anecdote-methodology]].

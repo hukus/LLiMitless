@@ -1,7 +1,7 @@
 ---
 title: NMDA Co-Agonist / GlyT1 / DAAO Cognition - 2026 Scan
 created: 2026-04-28
-updated: 2026-05-03
+updated: 2026-06-12
 type: query
 tags: [cognition, mechanism, clinical-trial, comparison, controversy, safety, dosage, biomarker, neuroscience]
 sources: [raw/articles/pubmed-41233083-iclepertin-connex-phase3-schizophrenia.md, raw/articles/pubmed-39759424-iclepertin-cct-schizophrenia-phase2.md, raw/articles/pubmed-40328785-daao-inhibitors-schizophrenia-meta-analysis.md, raw/articles/pubmed-38943928-luvadaxistat-interact-schizophrenia.md, raw/articles/pubmed-36928351-luvadaxistat-mmn-biomarker-schizophrenia.md, raw/articles/pubmed-39315325-sodium-benzoate-neuropsychiatric-meta-analysis.md, raw/articles/pubmed-41858175-sodium-benzoate-mci-pooled-trials.md, raw/articles/pubmed-32122256-sarcosine-schizophrenia-meta-analysis.md, raw/articles/pubmed-26691576-sarcosine-plus-benzoate-schizophrenia-rct.md, raw/articles/pubmed-22795211-d-serine-schizophrenia-rct.md]
@@ -14,7 +14,7 @@ contradictions: [negative-evidence-watchlist-for-cognition-interventions, pharma
 
 This branch now reads like a phenotype-sensitive glutamatergic state-restoration lane, not a general-purpose nootropic class. [[iclepertin|Iclepertin]] is effectively a double-null here: the adjunctive computerized cognitive training phase 2 paper was null on its efficacy endpoint, and CONNEX phase 3 was also negative. The broader DAOI pool still looks positive because [[sodium-benzoate]] keeps showing up in early AD and MCI, especially in women. [[luvadaxistat|Luvadaxistat]] is more of a target-engagement / secondary-endpoint story than a clean efficacy win. [[sarcosine|Sarcosine]] and [[d-serine]] are weaker still: useful as mechanistic comparators and combination clues, but not as broad enhancer evidence.
 
-For comparison framing, see [[pharmacology-comparator-map]] and [[ampakines-and-glutamatergic-plasticity-2026-scan]]. For the failure ledger, see [[negative-evidence-watchlist-for-cognition-interventions]].
+For comparison framing, see [[pharmacology-comparator-map]] and [[ampakines-and-glutamatergic-plasticity-2026-scan]]. For stack safety and attribution, see [[safety-interaction-matrix-for-multi-modal-stacks]]. For the failure ledger, see [[negative-evidence-watchlist-for-cognition-interventions]].
 
 ## What Changed Since 2024
 
@@ -69,6 +69,7 @@ For comparison framing, see [[pharmacology-comparator-map]] and [[ampakines-and-
 - `luvadaxistat` was also well tolerated, which keeps it alive as a mechanistic candidate even after the primary endpoint miss.
 - Sodium benzoate looked tolerable in the pooled aMCI analysis and in older AD work; the main practical issues are dose, duration, and whether the tested product is the same product the user can actually source.
 - Sarcosine and d-serine are generally described as tolerable in the schizophrenia literature, but the evidence base is small and the supplement / compound source quality problem is real.
+- Any self-experiment report that combines [[sarcosine]], [[d-serine]], [[sodium-benzoate]], [[glycine]], methyl donors, stimulants, antidepressants, or sleep interventions should be routed through [[safety-interaction-matrix-for-multi-modal-stacks]] before being counted as molecule-specific cognition evidence.
 
 ## Responder Phenotypes
 

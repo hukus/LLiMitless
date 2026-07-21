@@ -1,7 +1,7 @@
 ---
 title: Safinamide
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/dailymed-2025-xadago-safinamide-label.md, raw/articles/pubmed-41524120-maob-inhibitors-pd-cognition-network-meta.md, raw/articles/pubmed-36065929-maob-cognitive-functions-pd-review.md, raw/articles/pubmed-34031800-safinamide-nonmotor-cognition-pd.md, raw/articles/pubmed-33068177-safinamide-executive-functions-pd.md, raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md]
@@ -24,7 +24,7 @@ Mechanism read: safinamide is often discussed as more than MAO-B because of non-
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Safinamide may be a reversible MAO-B / glutamate nootropic alternative | `forum anecdote` / mechanism discussion | raw/articles/reddit-2021-2026-maob-rasagiline-safinamide-kds2010-threads.md; Reddit /r/MAOIs, /r/anhedonia, /r/depressionregimens | several checked threads; `weak` direct-use signal, `weak-moderate` mechanism interest | Anhedonia, MAO-B, reversible-inhibitor, and KDS2010 comparisons | low | Direct self-reports are sparse and include no-effect reports; most discussion is extrapolation |
 
@@ -33,6 +33,8 @@ Mechanism read: safinamide is often discussed as more than MAO-B because of non-
 DailyMed frames safinamide as an adjunct PD drug at 50 to 100 mg/day with levodopa/carbidopa. Contraindications include other MAOIs or linezolid, opioids, SNRIs, tricyclic/tetracyclic/triazolopyridine antidepressants, cyclobenzaprine, methylphenidate, amphetamine derivatives, St. John's wort, dextromethorphan, and severe hepatic impairment.^[raw/articles/dailymed-2025-xadago-safinamide-label.md]
 
 Warnings include hypertension, serotonin syndrome, sleep attacks, dyskinesia, hallucinations/psychotic behavior, impulse-control behaviors, withdrawal-emergent hyperpyrexia/confusion, and retinal pathology. The label says MAO-B selectivity decreases above recommended doses and advises avoiding very high tyramine exposures above 150 mg.^[raw/articles/dailymed-2025-xadago-safinamide-label.md]
+
+Route safinamide anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting any clarity, motivation, or executive-function report. The key gates are levodopa/off-state timing, glutamatergic mechanism speculation, stimulant or methylphenidate/amphetamine exposure, serotonergic drugs, dextromethorphan, tyramine/BP, sleep attacks, hallucinations, and hepatic/retinal exclusions.
 
 ## Current Route
 

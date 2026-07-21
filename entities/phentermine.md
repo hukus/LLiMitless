@@ -1,7 +1,7 @@
 ---
 title: Phentermine
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/dailymed-2024-phentermine-label.md, raw/articles/pubmed-12887140-phentermine-sleep-deprivation-performance.md, raw/articles/pubmed-6471970-phentermine-ephedrine-fenfluramine-prolintane-mental-effects.md, raw/articles/dailymed-2025-qsymia-cognitive-impairment-label.md, raw/articles/pubmed-9271479-fenfluramine-phentermine-valvular-disease.md, raw/articles/reddit-2021-2026-phentermine-focus-brainfog-threads.md]
@@ -33,7 +33,7 @@ Anecdote signal: `moderate but highly confounded`. Current Reddit reports includ
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Phentermine improves focus, motivation, task initiation, clear mind, or brain fog | `forum anecdote` | raw/articles/reddit-2021-2026-phentermine-focus-brainfog-threads.md; Reddit ADHD, BED, psychiatry, and phentermine communities | several checked threads; `moderate` salience | Weight-loss, BED, suspected ADHD, medication-access context | low | ADHD baseline, appetite suppression, food intake, weight loss, sleep, caffeine/stimulant changes, BP/HR, and controlled-substance framing dominate attribution |
 | Phentermine worsens focus, energy, or brain fog | `forum adverse/counterreport` | same raw thread cluster | repeated counterreports; `weak-moderate` | Early treatment, 37.5 mg-style dosing, neurodivergent baseline speculation, combo-product confusion | low | Fatigue/crash, caloric deficit, insomnia, topiramate exposure, and adverse-selection bias may drive reports |
@@ -44,9 +44,10 @@ Anecdote signal: `moderate but highly confounded`. Current Reddit reports includ
 - Separate phentermine from old fen-phen. Fenfluramine/phentermine history is a safety precedent, but fenfluramine's 5-HT2B-linked valvulopathy mechanism should not be casually assigned to phentermine alone.^[raw/articles/pubmed-9271479-fenfluramine-phentermine-valvular-disease.md]
 - Watch insomnia, HR/BP, palpitations, anxiety, irritability, appetite/nutrient reduction, dehydration, crash, hazardous-task impairment, tolerance, dependence, alcohol, MAOIs, serotonergic or stimulant stacking, cardiovascular history, pregnancy, and eating-disorder context.
 - Do not treat "less food noise" or binge-eating control as direct cognition. It can feel cognitively liberating while being appetite, reward, mood, or caloric-state driven.
+- Route phentermine anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] so calorie deficit, sleep, caffeine, BP/HR, stimulant access, and phentermine/topiramate confusion stay separate from cognition claims.
 
 ## Current Route
 
 Phentermine belongs in [[sympathomimetic-anorectic-stimulant-cognition-watchlist]] and [[pharmacology-comparator-map]] as the main modern prescription comparator in the classic anorectic-stimulant class. The evidence makes it relevant for sleep-loss rescue and ADHD-like anecdotal focus signals, but not enough to rank it as a healthy-adult cognition enhancer.
 
-Related pages: [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[tesofensine]], [[sibutramine]], [[mazindol]], [[solriamfetol]], [[methylphenidate]], [[d-amphetamine]], [[p-synephrine]], [[yohimbine]], [[anecdote-led-chemical-heat-map]], [[pharmacology-comparator-map]], and [[regulatory-and-sports-visibility-map]].
+Related pages: [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[tesofensine]], [[sibutramine]], [[mazindol]], [[solriamfetol]], [[methylphenidate]], [[d-amphetamine]], [[p-synephrine]], [[yohimbine]], [[anecdote-led-chemical-heat-map]], [[pharmacology-comparator-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].

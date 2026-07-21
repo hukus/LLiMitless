@@ -1,7 +1,7 @@
 ---
 title: Wild Green Oat Extract
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, herbal-medicine, performance, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-8517335-green-oat-herb-extract-cognition-eeg-rct.md, raw/articles/pmc-3367260-wild-green-oat-chronic-cognition-rct.md, raw/articles/pmc-7352613-cognitaven-green-oat-stressor-rct.md, raw/articles/pubmed-26618715-neuravena-acute-middle-aged-rct.md, raw/articles/pubmed-21563962-neuravena-eeg-spectral-frequencies.md, raw/articles/pubmed-23221935-neuravena-vascular-responsiveness.md, raw/articles/reddit-2023-oat-straw-cognitive-health-thread.md, raw/articles/reddit-2023-oatstraw-tranquilizer-thread.md]
@@ -47,6 +47,8 @@ Wild green oat extract now clears a low-confidence standalone threshold because 
 
 Future updates must keep these exposures separate: Neuravena, Cognitaven, generic green-oat extract, oat straw tea, milky oat tincture, oat seed extract, and ordinary oats. Do not merge this page with [[guarana]], [[sage-salvia-extract]], [[caffeine]], or [[cocoa-flavanols]] just because all can appear in plant-product cognition discussions.
 
+Route wild-green-oat, oat-straw, milky-oat, Neuravena, and Cognitaven reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before counting speed, stressor-state, calming, sedation, or motivation changes as cognition; keep product part/extract, dose, acute vs chronic timing, caffeine/stimulant co-use, sleep timing, vascular response, and stressor-state mediation separate.
+
 ## Related Pages
 
 - [[polyphenol-nrf2-cognition-watchlist]]
@@ -57,6 +59,7 @@ Future updates must keep these exposures separate: Neuravena, Cognitaven, generi
 - [[caffeine]]
 - [[roflumilast]]
 - [[molecule-intake-triage-table]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]
 
 ## Sources

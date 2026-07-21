@@ -1,7 +1,7 @@
 ---
 title: Peptide Regulatory Live-Watch Board
 created: 2026-05-04
-updated: 2026-05-06
+updated: 2026-06-15
 type: query
 tags: [domain-medicine, cognition, peptides, safety, comparison, controversy, timeline, performance, anecdote]
 sources: [raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/fda-bulk-drug-substances-epitalon-2026.md, raw/articles/fda-2026-advisory-epitalon-semax.md, raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md, raw/articles/fda-compounder-supplier-quality-warning-2026.md, raw/articles/fda-warning-letter-genogenix-epithalon-2026.md, raw/articles/fda-2026-glp1-503b-bulks-proposal.md, raw/articles/wada-2026-prohibited-list-general.md, raw/articles/wada-prohibited-list-peptide-entries-2026.md, raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md, raw/articles/wada-internet-surveillance-epitalon-2026.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/finnrick-2026-products-dashboard.md, raw/articles/reddit-2026-04-29-years-of-testing-brain-peptides-full-breakdown-my-top-3.md, raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md, raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md, raw/articles/reddit-bodyhackguide-cjc1295-no-dac-ipamorelin-guide-2025.md, raw/articles/reddit-peptideguide-tesamorelin-cjc1295-mod-grf-129-ipamorelin-blend-2025.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/reddit-2026-04-13-no-more-mots-c-anaphylaxis-thread.md, raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md, raw/articles/reddit-2026-01-12-bpc157-tb500-three-months-mixed-thread.md, raw/articles/reddit-2026-05-06-bpc157-tb500-shoulder-recovery-update-thread.md]
@@ -14,7 +14,25 @@ contradictions: [peptide-safety-and-sourcing-risk-map, regulatory-and-sports-vis
 
 This board is the status layer for cognition-adjacent peptides. It does not rank efficacy. It asks whether a peptide branch is regulator-visible, anti-doping visible, human-exposure supported, community-hot, or mainly a research-chemical / vendor-label problem.
 
-As of 2026-05-06, the central official sources are FDA's significant-safety-risk bulk-substance page, current as of 2026-04-22; FDA's 2026-04-30 proposal to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list; FDA's July 23-24, 2026 PCAC agenda for BPC-157, KPV, TB-500, MOTS-c, Semax, Epitalon, and emideltide/DSIP-related bulk substances; and WADA's 2026 prohibited-list pages. The practical interpretation is stricter than the forum layer: a peptide can have visible anecdotes and still remain low-confidence, unapproved, sourcing-sensitive, and sports-risky. At the same time, the peptide scene is now large enough to generate a public third-party testing ecosystem rather than only forum chatter: Finnrick's dashboard reports 7,164 samples from 205 vendors across 15 products. That does not relax the regulatory caution, but it does make the category too large and structured to treat as fringe noise. The BPC-157 branch now also has a recruiting randomized hamstring-repair registry in the current corpus, which raises its translational seriousness without changing the regulatory caution.^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]^[raw/articles/fda-bulk-drug-substances-epitalon-2026.md]^[raw/articles/fda-2026-advisory-epitalon-semax.md]^[raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md]^[raw/articles/fda-2026-glp1-503b-bulks-proposal.md]^[raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md]^[raw/articles/finnrick-2026-products-dashboard.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]
+As of 2026-06-15, the central official sources remain FDA's significant-safety-risk bulk-substance page, current as of 2026-04-22; FDA's 2026-04-30 proposal to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list; FDA's July 23-24, 2026 PCAC agenda for BPC-157, KPV, TB-500, MOTS-c, Semax, Epitalon, and emideltide/DSIP-related bulk substances; and WADA's 2026 prohibited-list pages. A fresh public-status check on 2026-06-15 did not surface a newer official FDA or WADA disposition for those PCAC peptide items. The practical interpretation is stricter than the forum layer: a peptide can have visible anecdotes and still remain low-confidence, unapproved, sourcing-sensitive, and sports-risky. At the same time, the peptide scene is now large enough to generate a public third-party testing ecosystem rather than only forum chatter: Finnrick's dashboard reports 7,164 samples from 205 vendors across 15 products. That does not relax the regulatory caution, but it does make the category too large and structured to treat as fringe noise. The BPC-157 branch now also has a recruiting randomized hamstring-repair registry in the current corpus, which raises its translational seriousness without changing the regulatory caution.^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]^[raw/articles/fda-bulk-drug-substances-epitalon-2026.md]^[raw/articles/fda-2026-advisory-epitalon-semax.md]^[raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md]^[raw/articles/fda-2026-glp1-503b-bulks-proposal.md]^[raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md]^[raw/articles/finnrick-2026-products-dashboard.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]
+
+## June 2026 Freshness Check
+
+The current read is `pending`, not `reversed`, `cleared`, or `validated`. FDA's July 23-24, 2026 PCAC meeting is the next live regulatory event for several high-heat peptides, including BPC-157, KPV, TB-500, MOTS-c, Semax, Epitalon, and emideltide/DSIP-related substances. Until FDA posts briefing packets, votes, transcripts, minutes, or final status changes, this board should not upgrade compounding access, safety confidence, or cognition evidence from the existence of the agenda alone.^[raw/articles/fda-2026-advisory-epitalon-semax.md]^[raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md]
+
+Keep the GLP-1 compounding track separate from the nootropic-peptide track. The 2026 GLP-1 503B bulks proposal has a distinct 2026-06-29 comment deadline in the current corpus; it affects semaglutide, tirzepatide, and liraglutide outsourcing-facility policy, not whether Semax, Selank, BPC-157, TB-500, or Epitalon work as cognitive enhancers.^[raw/articles/fda-2026-glp1-503b-bulks-proposal.md]
+
+Current media, clinic, and influencer discussion should be treated as market visibility unless it points to a primary regulatory document, trial record, adverse-event cluster, recall, warning letter, or testing dataset. A claim that the FDA "may reverse" a peptide compounding restriction is not a status change until the official FDA record changes. Likewise, a sports or wellness clinic claim does not override WADA S0/S2/S4 status, FDA bulk-risk language, product-identity uncertainty, or the absence of direct cognition endpoints.
+
+## Status-Change Evidence Gate
+
+| Potential update | Counts as status-changing evidence | Does not count |
+|---|---|---|
+| FDA PCAC / 503A peptide item | FDA briefing packet, meeting vote, transcript, minutes, final rule, or updated bulk-substance page | Media prediction, clinician quote, vendor announcement, or agenda existence alone |
+| GLP-1 503B bulks proposal | FDA finalizes, revises, withdraws, or extends the proposal after the 2026-06-29 comment deadline | General GLP-1 market growth or compounded-product advertising |
+| WADA / sports status | New WADA prohibited list, monitoring program, technical document, or molecule-specific surveillance update | Athlete rumor, bodybuilding forum norm, or clinic availability |
+| Human-evidence upgrade | Posted trial result, peer-reviewed human cognition endpoint, or registry status change with cognition-relevant endpoints | Recovery, body-composition, sleep, libido, or mood anecdotes without objective cognition |
+| Sourcing / safety signal | FDA warning letter, recall, sterility alert, COA failure cluster, adverse-event cluster, or public testing-dashboard shift | Single vendor purity claim or uncited "third-party tested" label |
 
 ## Live-Watch Matrix
 
@@ -35,14 +53,16 @@ As of 2026-05-06, the central official sources are FDA's significant-safety-risk
 
 - `FDA risk listing`: treat as a route, impurity, immunogenicity, and supplier-quality warning, not as proof of intrinsic toxicity or proof of no effect.
 - `Withdrawn nomination`: do not read as clearance. It means the current FDA page still preserves a safety-risk rationale even though the nominators withdrew the substance from the relevant track.
-- `PCAC agenda`: treat as active regulatory visibility, not efficacy validation. Add the packet, transcript, and minutes when FDA posts them.
+- `PCAC agenda`: treat as active regulatory visibility, not efficacy validation. Add the packet, vote, transcript, minutes, and final status change when FDA posts them.
+- `Regulatory rumor`: do not update molecule status from media or clinic commentary unless it resolves to a primary FDA, WADA, ClinicalTrials.gov, warning-letter, recall, or testing-dashboard artifact.
 - `WADA listing`: treat as a sports-rule constraint independent of whether the cognition evidence is positive, negative, or absent.
 - `Community heat`: use it to prioritize safety monitoring, source capture, and trial-design questions. Large repeated peptide signal does not by itself upgrade medicinal confidence, but it does upgrade attention priority and translational seriousness.
 - `Stack topology`: route multi-peptide anecdotes through [[peptide-stack-topology-ledger]] before assigning a report to one molecule.
+- `Non-peptide comparator`: keep [[bromantane]] in the adjacent nootropic/regulatory lane, not in the peptide board. It is useful for activation-stack comparisons with [[semax]] and [[selank]], but sports and source interpretation should route through [[regulatory-and-sports-visibility-map]] and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Semax and Selank feel cognitively active | `anecdote` / `community survey` | raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md and raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md | survey dose signal plus multiple threads; `strong` for salience | focus, exams, anxiety control, recovery-state use | low | route, dose, sleep, stimulant, and sourcing confounds dominate |
 | BPC-157 is community-hot | `community survey` | raw/articles/troof-nootropics-ratings-analysis.md | 2,802-person model; `strong` for salience | injury, recovery, gut, and repair narratives | low | not a cognition endpoint; WADA S0 and FDA risk context matter |
@@ -55,7 +75,7 @@ As of 2026-05-06, the central official sources are FDA's significant-safety-risk
 ## Watch Triggers
 
 - FDA changes the content-current date on the significant-safety-risk bulk-substance page or moves a peptide between category-2, withdrawn-nomination, 503A, and 503B statuses.
-- FDA posts July 23-24, 2026 PCAC briefing packets, votes, transcripts, minutes, or final decisions for BPC-157, KPV, TB-500, MOTS-c, emideltide/DSIP, Semax, Epitalon, or related peptides.
+- FDA posts July 23-24, 2026 PCAC briefing packets, votes, transcripts, minutes, or final decisions for BPC-157, KPV, TB-500, MOTS-c, emideltide/DSIP, Semax, Epitalon, or related peptides. This is the top June/July 2026 watch item.
 - ClinicalTrials.gov changes the status, enrollment, estimated completion, or posted results state for `NCT07437547`.
 - FDA finalizes, revises, or withdraws the 2026 GLP-1 503B bulks proposal after the 2026-06-29 comment deadline.
 - WADA publishes the 2027 prohibited list, modifies S0/S2/S4 peptide examples, or posts molecule-specific surveillance updates.
@@ -65,4 +85,4 @@ As of 2026-05-06, the central official sources are FDA's significant-safety-risk
 
 ## Cross-Link Targets
 
-Use this board as the regulatory overlay for [[peptide-safety-and-sourcing-risk-map]], [[peptide-stack-topology-ledger]], [[regulatory-and-sports-visibility-map]], [[nootropic-peptide-anecdote-frontier-2026-scan]], [[growth-hormone-secretagogue-cognition-2026-scan]], [[incretin-therapies-brain-health-2026-scan]], [[semax-selank-2026-scan]], [[dihexa-2026-scan]], [[mots-c-2026-scan]], and [[thymosin-beta-4-2026-scan]].
+Use this board as the regulatory overlay for [[peptide-safety-and-sourcing-risk-map]], [[peptide-stack-topology-ledger]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[regulatory-and-sports-visibility-map]], [[nootropic-peptide-anecdote-frontier-2026-scan]], [[growth-hormone-secretagogue-cognition-2026-scan]], [[incretin-therapies-brain-health-2026-scan]], [[semax-selank-2026-scan]], [[dihexa-2026-scan]], [[mots-c-2026-scan]], and [[thymosin-beta-4-2026-scan]].

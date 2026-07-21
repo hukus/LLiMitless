@@ -1,9 +1,9 @@
 ---
 title: GHRH / Growth-Hormone Secretagogue Cognition 2026 Scan
 created: 2026-04-29
-updated: 2026-05-06
+updated: 2026-06-15
 type: query
-tags: [cognition, peptides, metabolism, sleep, longevity, recovery, performance, safety, dosage, clinical-trial, comparison, biomarker, mechanism, controversy]
+tags: [cognition, peptides, metabolism, sleep, longevity, recovery, performance, safety, dosage, clinical-trial, comparison, biomarker, mechanism, controversy, anecdote]
 sources: [raw/articles/pubmed-16399214-ghrh-healthy-older-adults.md, raw/articles/clinicaltrials-nct00000380-ghrh-age-related-sleep-disturbances.md, raw/articles/pubmed-22869065-ghrh-mci-healthy-older-adults-controlled-trial.md, raw/articles/pubmed-39813152-tesamorelin-hiv-abdominal-obesity-neurocognitive-impairment.md, raw/articles/clinicaltrials-nct02572323-tesamorelin-cognition-aging-hiv.md, raw/articles/clinicaltrials-nct03150511-tesamorelin-peripheral-nerve-injury-record-2026-05-06.md, raw/articles/clinicaltrials-nct06554717-tesamorelin-exercise-hiv-record-2026-05-06.md, raw/articles/dailymed-egrifta-wr-tesamorelin-label.md, raw/articles/pubmed-8954023-mk677-gh-igf1-axis-healthy-elderly.md, raw/articles/pubmed-18981485-mk677-body-composition-clinical-outcomes-healthy-older-adults.md, raw/articles/pubmed-9349662-mk677-sleep-quality-man.md, raw/articles/pubmed-19015485-mk677-alzheimers-randomized-trial.md, raw/articles/pubmed-16352683-cjc1295-gh-igf1-healthy-adults.md, raw/articles/pubmed-7957536-hexarelin-dose-response-humans.md, raw/articles/pubmed-9849822-ipamorelin-selective-gh-secretagogue.md, raw/articles/reddit-bodyhackguide-cjc1295-no-dac-ipamorelin-guide-2025.md, raw/articles/reddit-bodyhackguide-cjc1295-ipamorelin-2025.md, raw/articles/reddit-peptideguide-tesamorelin-cjc1295-mod-grf-129-ipamorelin-blend-2025.md]
 confidence: low
 ---
@@ -19,6 +19,8 @@ The more important 2026 update is that tesamorelin remains formally active outsi
 [[ibutamoren]] / MK-677, [[cjc-1295]], [[hexarelin]], and [[ipamorelin]] mostly add target-engagement, sleep, or physiology context. MK-677 improved sleep architecture in healthy young and older adults, increased GH/IGF-1 in healthy elderly, and increased fat-free mass in healthy older adults, but a much larger AD trial found no clinical cognitive benefit and the body-composition trial did not improve strength or function despite target engagement. [[cjc-1295]] and [[hexarelin]] show GH/IGF-1 release in humans, and [[ipamorelin]] is still mostly pharmacology/preclinical scaffolding. None of those agents has a modern human cognition package that justifies broad nootropic language.
 
 Safety is not trivial. Tesamorelin's current label includes elevated IGF-1, fluid retention, glucose intolerance/diabetes, hypersensitivity, injection-site reactions, and increased neoplasm risk warnings. That makes the branch more suitable for medically supervised metabolic or rescue contexts than for casual self-experimentation. The peptide-forum signal is strong enough to merit an anecdote ledger, but it clusters around sleep, recovery, physique, and subjective energy rather than objective cognition.
+
+June 2026 attribution gate: route GH-axis peptide reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], [[peptide-stack-topology-ledger]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting sleep, recovery, lean-mass, libido, mood, energy, or "clear head" claims as cognition. Minimum fields are exact GH-axis agent identity, regulated product versus gray-market source, COA/lot, route/formulation, dose timing, stack order, washout, fasted/training/caloric-deficit phase, sleep measurement, glucose/edema/BP/HR and IGF-1 context where medically available, neoplasm-risk screening context for tesamorelin-like use, adverse events, and objective cognitive endpoints.
 
 ## What Changed Since 2024
 
@@ -88,7 +90,9 @@ Safety is not trivial. Tesamorelin's current label includes elevated IGF-1, flui
 - The 1996 and 2008 MK-677 trials add glucose and insulin-sensitivity concerns, plus edema and appetite increases.
 - The Reddit blend thread adds a sourcing/safety outlier with a severe flushing/tachycardia/chest-tightness event.
 - MK-677 sleep and AD studies point to a class that meaningfully shifts somatotropic physiology, so glucose and edema monitoring matter even when the intended goal is cognition.
+- Route GH-axis peptide stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating them as cognition evidence; sleep, recovery, glucose/edema, training phase, stimulant use, and peptide-blend identity can all explain subjective focus or energy changes.
 - For self-experimentation, this is not a low-risk, over-the-counter class.
+- Fixed GH-axis blends should be de-ranked by default: severe symptoms, subjective benefits, or no-effect reports cannot be assigned to [[tesamorelin]], [[cjc-1295]], [[ipamorelin]], [[ibutamoren]], or [[hexarelin]] unless the blend identity, dosing, timing, and single-variable changes are clean.
 
 ## Responder Phenotypes
 
@@ -123,4 +127,5 @@ Safety is not trivial. Tesamorelin's current label includes elevated IGF-1, flui
 - Keep this page as the source hub for the GH-axis peptide branch.
 - Standalone entity pages now exist for [[ghrh]], [[tesamorelin]], [[ibutamoren]], [[cjc-1295]], [[ipamorelin]], and [[hexarelin]].
 - Cross-link the branch into [[peptide-neuroprotection]], [[peptide-safety-and-sourcing-risk-map]], [[sleep-and-circadian-interventions-for-cognition]], [[endpoint-dictionary-for-cognition-interventions]], and [[molecule-intake-triage-table]].
+- Keep the June 2026 routing gate synchronized with [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[peptide-stack-topology-ledger]].
 - Use this scan as the canonical place to separate cognition, sleep, metabolism, and anecdote claims in future GH-secretagogue work.

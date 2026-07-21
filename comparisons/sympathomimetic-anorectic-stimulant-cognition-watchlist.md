@@ -1,7 +1,7 @@
 ---
 title: Sympathomimetic Anorectic Stimulant Cognition Watchlist
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: comparison
 tags: [domain-medicine, cognition, comparison, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/dailymed-2024-phentermine-label.md, raw/articles/pubmed-12887140-phentermine-sleep-deprivation-performance.md, raw/articles/pubmed-6471970-phentermine-ephedrine-fenfluramine-prolintane-mental-effects.md, raw/articles/dailymed-2025-qsymia-cognitive-impairment-label.md, raw/articles/dailymed-2026-sympathomimetic-anorectic-labels.md, raw/articles/pubmed-9271479-fenfluramine-phentermine-valvular-disease.md, raw/articles/dailymed-2026-fenfluramine-fintepla-rems.md, raw/articles/reddit-2021-2026-phentermine-focus-brainfog-threads.md]
@@ -35,7 +35,7 @@ The prescription-label layer is stronger than the cognition layer. Phentermine i
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | [[phentermine]] improves focus, motivation, clear mind, task initiation, or brain fog | `forum anecdote` | raw/articles/reddit-2021-2026-phentermine-focus-brainfog-threads.md; Reddit ADHD/BED/phentermine/psychiatry threads | several checked threads; `moderate` salience | Weight-loss prescription, BED, suspected ADHD, stimulant access context | low | Baseline ADHD, caloric intake, appetite suppression, weight loss, sleep, caffeine, cardiovascular effects, and expectation confound |
 | [[phentermine]] worsens focus, fatigue, or brain fog | `forum adverse/counterreport` | same raw thread cluster | repeated counterreports; `weak-moderate` | Early treatment, 37.5 mg reports, phentermine/topiramate confusion | low | Sleep debt, caloric deficit, crash, anxiety, and topiramate exposure can drive adverse cognition reports |
@@ -46,9 +46,10 @@ The prescription-label layer is stronger than the cognition layer. Phentermine i
 - Do not merge phentermine with phentermine/topiramate. Qsymia's label explicitly includes cognitive impairment, attention/memory/language problems, and word-finding events.^[raw/articles/dailymed-2025-qsymia-cognitive-impairment-label.md]
 - Do not use fen-phen history loosely. [[fenfluramine]]'s current label still carries VHD/PAH and REMS monitoring, and old fenfluramine-phentermine reports are a safety precedent, not a clean phentermine-alone cognition argument.^[raw/articles/pubmed-9271479-fenfluramine-phentermine-valvular-disease.md]^[raw/articles/dailymed-2026-fenfluramine-fintepla-rems.md]
 - For [[diethylpropion]], [[phendimetrazine]], and [[benzphetamine]], keep the current route risk-first until direct cognition, modern clinical, or strong specific anecdote evidence is captured.^[raw/articles/dailymed-2026-sympathomimetic-anorectic-labels.md]
+- Route sympathomimetic anorectic anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] so appetite suppression, caloric deficit, sleep, caffeine, HR/BP, tolerance, controlled-substance context, and combo-product confusion stay separate from cognition claims.
 
 ## Current Route
 
 This branch should be used when a user asks about prescription diet-pill stimulants, phentermine focus, ADHD-like response to anorectics, or "similar to tesofensine" stimulant/anorectic chemicals. It sits below [[modafinil]], [[methylphenidate]], [[solriamfetol]], and [[caffeine]] as a cognition comparator because the practical evidence is mostly sleep-loss rescue, old acute tasks, and confounded anecdotes.
 
-Related pages: [[phentermine]], [[diethylpropion]], [[phendimetrazine]], [[benzphetamine]], [[fenfluramine]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[tesofensine]], [[sibutramine]], [[mazindol]], [[solriamfetol]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[p-synephrine]], [[yohimbine]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[cognitive-improvement-molecule-signal-atlas]], and [[regulatory-and-sports-visibility-map]].
+Related pages: [[phentermine]], [[diethylpropion]], [[phendimetrazine]], [[benzphetamine]], [[fenfluramine]], [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[tesofensine]], [[sibutramine]], [[mazindol]], [[solriamfetol]], [[stimulant-adjacent-dopamine-precursor-watchlist]], [[p-synephrine]], [[yohimbine]], [[pharmacology-comparator-map]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], and [[regulatory-and-sports-visibility-map]].

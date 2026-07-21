@@ -1,7 +1,7 @@
 ---
 title: Triple Reuptake Inhibitor Cognition Watchlist
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-12
 type: comparison
 tags: [domain-medicine, cognition, comparison, performance, safety, dosage, clinical-trial, anecdote, mechanism, controversy]
 sources: [raw/articles/nature-2023-ansofaxine-phase3-mdd.md, raw/articles/pmc-8929756-ansofaxine-phase2-mdd.md, raw/articles/luye-2019-ly03005-phase3-endpoints.md, raw/articles/luye-2022-ruoxinlin-approval-china.md, raw/articles/jama-2025-liafensine-enlighten-ank3-trd.md, raw/articles/prnewswire-2024-liafensine-fast-track-trd.md, raw/articles/sciencedirect-2012-amitifadine-mdd-rct.md, raw/articles/biospace-2013-amitifadine-triade-topline.md, raw/articles/sage-2012-gsk372475-mdd-negative-trials.md, raw/articles/pmc-12979414-csti500-first-in-human-tri.md, raw/articles/pubmed-1980-nefopam-review.md, raw/articles/pmc-4273008-nefopam-status-epilepticus.md, raw/articles/sage-2002-nefopam-abuse.md, raw/articles/reddit-2022-2026-triple-reuptake-threads.md]
@@ -41,7 +41,7 @@ The key discipline: depression-scale concentration, anhedonia, and fatigue impro
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | SNDRI / triple-reuptake drugs may relieve brain fog through energy, motivation, concentration, or anhedonia relief | `forum anticipation / sparse first-person reports` | raw/articles/reddit-2022-2026-triple-reuptake-threads.md; Reddit search scan | weak overall; nefopam has weak-moderate psychoactive salience but low cognition signal | Depression-regimen, TRD, import/access, pain, and mechanism discussion | low | No robust denominator, no objective cognition, mood/pain-state confounding, source access uncertainty, co-medication, and adverse-effect selection dominate |
 | Nefopam can feel psychoactive or cognitively disruptive | `forum adverse/drug-use reports` | same raw note | weak-moderate psychoactive salience | Pain and recreational/drug-use context | low | Anticholinergic, seizure, delirium, and abuse context outweigh nootropic interpretation |
@@ -53,6 +53,7 @@ The key discipline: depression-scale concentration, anhedonia, and fatigue impro
 3. For brain-fog claims, ask whether the effect is depression remission, anxiety relief, anhedonia relief, pain relief, stimulant masking, sleep disruption, appetite change, or medication-withdrawal reversal.
 4. Safety gates include BP/HR, insomnia, anxiety/activation, nausea/GI effects, dry mouth, appetite/weight change, serotonergic stacking, dopaminergic/noradrenergic stacking, seizure threshold, anticholinergic burden, abuse liability, and washout.
 5. Use [[glutamatergic-rapid-antidepressant-cognition-watchlist]] for ketamine/esketamine and dextromethorphan-bupropion rather than mixing rapid-antidepressant claims into this reuptake class.
+6. Route SNDRI / triple-reuptake brain-fog anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mood, pain, anhedonia, stimulation, or withdrawal reversal as direct cognition.
 
 Current verdict: track the class for mood-state cognitive symptoms and future biomarker/TRD readouts, but keep healthy-adult cognition confidence low.
 

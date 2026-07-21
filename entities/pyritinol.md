@@ -1,7 +1,7 @@
 ---
 title: Pyritinol / Encephabol
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pubchem-2026-pyritinol-identity.md, raw/articles/pubmed-2135070-pyritinol-healthy-volunteers.md, raw/articles/pubmed-7001490-pyritinol-encephabol-dementia-placebo-trial.md, raw/articles/pubmed-2687355-pyritinol-sdat-trial.md, raw/articles/pubmed-577444-pyritinol-brain-glucose-metabolism-dementia.md, raw/articles/pubmed-9679051-pyritinol-pancreatitis-case.md, raw/articles/reddit-2022-pyritinol-out-of-stock-thread.md]
@@ -34,7 +34,7 @@ The mechanism bridge is mostly historical physiology. In 87 patients with organi
 
 ## Anecdote Ledger
 
-| Claim | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Pyritinol can feel energizing, wakeful, mood-brightening, or brain-fog reducing | `anecdote` | raw/articles/reddit-2022-pyritinol-out-of-stock-thread.md; Reddit /r/Nootropics | one sourcing thread with several positive comments; `weak-moderate` | Encephabol availability, old nootropic lore, energy/mood/confidence reports | low | Sourcing and nostalgia bias; no objective testing |
 
@@ -44,8 +44,10 @@ The safety floor is not vitamin-like. The strongest captured adverse source is a
 
 That case does not quantify incidence, but it changes routing. Pyritinol should be interpreted as a legacy drug with rare serious idiosyncratic-risk potential, not as a harmless B-vitamin derivative. The old dementia trial's normal lab tests do not rule out rare immune-mediated reactions.^[raw/articles/pubmed-7001490-pyritinol-encephabol-dementia-placebo-trial.md]^[raw/articles/pubmed-9679051-pyritinol-pancreatitis-case.md]
 
+Use [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting pyritinol anecdotes, especially when wakefulness, stimulant co-use, liver/pancreatic symptoms, sourcing gaps, or nostalgia-driven old-nootropic comparisons are part of the report.
+
 ## Practical Interpretation
 
 [[pyritinol]] earns standalone coverage because it has direct human cognition and dementia-era clinical evidence plus a real safety signal. The medicinal rating is `low-moderate` only for old, endpoint-specific arousal/processing-speed and clinical-state evidence. It should not be ranked with modern high-confidence comparators, and anecdotal sourcing enthusiasm should not upgrade the medicinal signal.
 
-Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[legacy-vasoactive-racetam-nootropic-watchlist]], [[racetam-comparison-2026-scan]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], and [[biohacker-anecdote-methodology]].
+Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[legacy-vasoactive-racetam-nootropic-watchlist]], [[racetam-comparison-2026-scan]], [[pharmacology-comparator-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], and [[biohacker-anecdote-methodology]].

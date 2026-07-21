@@ -1,7 +1,7 @@
 ---
 title: Testosterone / TRT
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-27377542-testosterone-teaam-cognition.md, raw/articles/pubmed-34375393-testosterone-lifestyle-hypogonadism-cognition.md, raw/articles/pubmed-40818499-testosterone-harm-avoidance-learning.md]
@@ -34,13 +34,15 @@ TRT and testosterone communities are high-salience for motivation, drive, libido
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | TRT improves brain fog, drive, or focus | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; weak | low-T, sleep, libido, mood, training, and metabolic-state discourse | low | Motivation, sleep apnea, depression, anemia, body composition, and expectation effects can be misread as direct cognition |
 
 ## Safety And Status
 
 The practical gate is medical indication and monitoring. Hematocrit, prostate, cardiovascular, fertility, sleep-apnea, mood/irritability, and endocrine-axis suppression concerns matter when interpreting cognitive claims. Acute learning effects do not remove ordinary TRT risk management.
+
+Route TRT anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating drive, focus, or brain-fog changes as cognition. Lab-defined low-T status, sleep apnea, depression, anemia, training load, weight loss, estradiol, hematocrit, fertility-axis suppression, and mood/libido changes can dominate the subjective signal.
 
 ## Signal Judgment
 
@@ -55,5 +57,5 @@ Practical route: phenotype-gated endocrine-state comparator; require lab-defined
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]]
 - [[allopregnanolone]]
 - [[dhea]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-fidelity-split]]
-

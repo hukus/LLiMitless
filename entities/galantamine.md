@@ -1,7 +1,7 @@
 ---
 title: Galantamine
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-31686175-nicotine-galantamine-healthy-never-smokers-cognition.md, raw/articles/pubmed-33842683-galantamine-basal-forebrain-predictor.md, raw/articles/pubmed-34964149-galantamine-cholinergic-challenge-response-predictor.md, raw/articles/pubmed-39359162-galantamine-post-stroke-cognitive-rehab.md, raw/articles/pubmed-40877496-galantamine-sah-safety-trial.md, raw/articles/pubmed-41427614-galantamine-hiv-no-cognition.md, raw/articles/pubmed-29926988-galantamine-smoking-cognitive-performance-prequit.md]
@@ -36,13 +36,21 @@ No dedicated galantamine cognition anecdote raw note is indexed. Anecdote signal
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Galantamine improves attention or memory outside clinical use | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | cholinergic nootropic / recovery / lucid-dreaming-adjacent discourse | low | Clinical indication, sleep/dream effects, nicotine interaction, and cholinergic adverse effects confound reports |
 
 ## Safety And Status
 
 The captured SAH pilot makes the safety ceiling concrete: galantamine 8 mg or 12 mg every 12 hours for 90 days had discontinuation and mortality similar to placebo, but bradycardia was the most common adverse event. Cholinergic GI and cardiovascular tolerability remain practical gates before any cognition framing.^[raw/articles/pubmed-40877496-galantamine-sah-safety-trial.md]
+
+Route galantamine anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when nicotine, lucid-dreaming/sleep effects, choline donors, AChE inhibitors, bradycardia, GI burden, basal-forebrain enrichment, or clinical-state recovery are involved. Nicotine synergy and responder enrichment are not standalone nootropic proof.
+
+## June 2026 Attribution Gate
+
+Future galantamine reports need the use-context first: clinical prescription, off-label nootropic, recovery-state, or lucid-dreaming/sleep experiment. Capture dose, formulation, timing, titration, baseline heart rate/BP, bradycardia or syncope history, GI burden, sleep and dream changes, nicotine co-use, choline-donor co-use, other AChE inhibitors or anticholinergics, and whether a basal-forebrain/responder biomarker or clinical phenotype is being claimed.
+
+For ranking, route reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]]. Require washout or stable-dose windows, dechallenge/rechallenge where feasible, adverse-event tracking, and objective attention, memory, or recovery endpoints before treating a vivid subjective memory or dream report as cognition evidence.
 
 ## Signal Judgment
 
@@ -59,3 +67,4 @@ Practical route: enrichment-gated cholinergic comparator, not a general nootropi
 - [[nicotine]]
 - [[varenicline]]
 - [[digital-phenotype-and-biomarker-responder-atlas]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

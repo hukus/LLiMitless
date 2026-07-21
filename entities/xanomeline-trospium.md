@@ -1,9 +1,9 @@
 ---
 title: Xanomeline-Trospium
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
-tags: [domain-medicine, cognition, neuroscience, clinical-trial, dosage, mechanism, safety, controversy]
+tags: [domain-medicine, cognition, neuroscience, clinical-trial, dosage, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/fda-cobenfy-approval-2024.md, raw/articles/pubmed-38691387-xanomeline-trospium-schizophrenia-rct.md, raw/articles/pubmed-39488504-xanomeline-trospium-pooled-emergent.md, raw/articles/pubmed-41418563-xanomeline-trospium-cognitive-impairment-review.md]
 confidence: low
 contested: true
@@ -36,13 +36,15 @@ No molecule-specific Cobenfy / KarXT cognition anecdote raw note is indexed. Sig
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Xanomeline-trospium improves cognition | anecdote | No dedicated anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | Approved schizophrenia drug; cognition claim is secondary | low | Symptom improvement, antipsychotic comparison, disease state, and expectancy can masquerade as cognitive benefit |
 
 ## Safety And Status
 
 Cobenfy is an approved prescription drug for adult schizophrenia. The label-relevant safety gates are not trivial: cholinergic and anticholinergic effects, cardiovascular changes, urinary retention, motility issues, and hepatic/renal restrictions matter before any cognition-focused interpretation.
+
+Route xanomeline-trospium reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating clarity or cognition claims as direct effects. The key gates are schizophrenia symptom improvement, antipsychotic comparator changes, cholinergic/anticholinergic balance, GI tolerability, BP/HR, urinary retention, hepatic/renal restrictions, and expectation after regulatory approval.
 
 ## Signal Judgment
 
@@ -58,3 +60,4 @@ Practical route: disease-first muscarinic comparator and regulatory anchor. Do n
 - [[muscarinic-agent-cognition-watchlist]]
 - [[cholinergic-and-nicotinic-agents-2026-scan]]
 - [[pharmacology-comparator-map]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

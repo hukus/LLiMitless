@@ -1,7 +1,7 @@
 ---
 title: Fosigotifator / ABBV-CLS-7262
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, mechanism, clinical-trial, biomarker, safety, dosage, anecdote, comparison, controversy]
 sources: [raw/articles/als-eu-2025-fosigotifator-healey-als-topline.md, raw/articles/molecular-neurodegeneration-2025-integrated-stress-response-neurodegenerative-diseases.md, raw/articles/nature-2025-plasticity-mammalian-integrated-stress-response.md]
@@ -20,10 +20,12 @@ Clinical translation signal: `mixed but not cognition-positive`. The exploratory
 
 Mechanism caveat: `shared eIF2B/ISR uncertainty`. Like [[dnl343]] and [[isrib]], fosigotifator sits in a pathway where acute stress adaptation, chronic stress pathology, and eIF2B-specific translation-control biology can point in different directions.^[raw/articles/molecular-neurodegeneration-2025-integrated-stress-response-neurodegenerative-diseases.md]^[raw/articles/nature-2025-plasticity-mammalian-integrated-stress-response.md]
 
+Safety route: treat fosigotifator through [[safety-interaction-matrix-for-multi-modal-stacks]] as an investigational eIF2B comparator with negative/mixed ALS functional translation, not as a cognition lead. Any future anecdote or access report needs trial status, dose/source legitimacy, disease context, sleep/mood state, and objective cognition endpoints.
+
 ## Anecdote Ledger
 
 | Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Fosigotifator cognitive enhancement | anecdote | no structured direct-use anecdotal source captured | `absent` | investigational eIF2B activator | low | No consumer corpus or cognition endpoint is captured |
 
-Related pages: [[integrated-stress-response-cognition-2026-scan]], [[dnl343]], [[isrib]], [[dp71l]], [[translational-gap-table]], and [[negative-evidence-watchlist-for-cognition-interventions]].
+Related pages: [[integrated-stress-response-cognition-2026-scan]], [[dnl343]], [[isrib]], [[dp71l]], [[translational-gap-table]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[negative-evidence-watchlist-for-cognition-interventions]].

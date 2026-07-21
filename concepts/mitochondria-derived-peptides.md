@@ -1,7 +1,7 @@
 ---
 title: Mitochondria-Derived Peptides
 created: 2026-04-29
-updated: 2026-05-06
+updated: 2026-06-12
 type: concept
 tags: [cognition, metabolism, peptides, neuroscience, mechanism, biomarker, preclinical, safety, comparison, clinical-trial]
 sources: [raw/articles/pubmed-35499074-mdp-aging-healthspan-review.md, raw/articles/pubmed-40715951-mdp-neurodegeneration-review.md, raw/articles/pmc-7343442-humanin-lifespan-healthspan.md, raw/articles/pubmed-30242290-humanin-age-related-cognitive-decline.md, raw/articles/pubmed-38520065-humanin-p3s-apoe4-brain-pathology.md, raw/articles/pubmed-37926362-humanin-tbi-related-cognitive-impairment.md, raw/articles/pubmed-30310092-shlp2-macular-degeneration.md, raw/articles/pubmed-37468558-shlp2-energy-homeostasis.md, raw/articles/pubmed-38167865-shlp2-parkinson-protective-factor.md, raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md, raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md, raw/articles/fda-forzinity-elamipretide-approval.md, raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md, raw/articles/clinicaltrials-nct06373731-elamipretide-dry-amd.md, raw/articles/pubmed-25738459-mots-c-metabolic-homeostasis.md, raw/articles/pubmed-36677050-mots-c-prevents-metabolic-disorders.md, raw/articles/pubmed-36761202-mots-c-therapeutic-exploitation.md, raw/articles/pmc-12411631-mots-c-pancreatic-islet-senescence-diabetes.md, raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md]
@@ -39,6 +39,8 @@ SHLP6 adds a family-level preclinical anchor: a 2025 zebrafish toxicity paper fo
 
 A 2026 approval review keeps the elamipretide efficacy story calibrated: the randomized crossover program did not significantly improve 6-minute walk or fatigue, with longer-term benefits mainly in the open-label extension.^[raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
 
+Safety routing: use [[safety-interaction-matrix-for-multi-modal-stacks]] for MDP claims before upgrading cognition. The family needs a hard split between endogenous biomarker/genotype signals ([[humanin]], [[shlp2]]), disease-specific therapeutic exposure ([[elamipretide]] / SS-31), metabolic-performance anecdotes ([[mots-c]]), and vendor or gray-market peptide claims. Energy, anti-aging clarity, fatigue, exercise tolerance, or brain-fog reports can reflect mitochondrial-disease phenotype, metabolic state, aerobic capacity, sleep/training changes, injection route, product identity, or open-label expectation rather than direct cognition.
+
 Open questions:
 
 - Do humanin levels or variants function as a durable cognitive-resilience biomarker, or are they mostly a correlative age signal?
@@ -47,4 +49,4 @@ Open questions:
 - Can elamipretide's mitochondrial membrane effects ever translate into human CNS benefit, or are the brain papers limited to preclinical inflammatory models?
 - Does the healthy-aging elamipretide pilot generate any meaningful cognitive signal, or only safety and biomarker movement?
 
-Related pages: [[humanin]], [[mots-c]], [[shlp2]], [[elamipretide]], [[peptide-neuroprotection]], [[neuroinflammation-and-cognition]], and [[medicine-cognition-summary]].
+Related pages: [[humanin]], [[mots-c]], [[shlp2]], [[elamipretide]], [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[peptide-neuroprotection]], [[neuroinflammation-and-cognition]], and [[medicine-cognition-summary]].

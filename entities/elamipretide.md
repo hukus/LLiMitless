@@ -1,7 +1,7 @@
 ---
 title: Elamipretide
 created: 2026-04-29
-updated: 2026-05-06
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, peptides, metabolism, neuroscience, mechanism, clinical-trial, preclinical, safety]
 sources: [raw/articles/pubmed-40294492-elamipretide-mitochondrial-mechanism-review.md, raw/articles/fda-forzinity-elamipretide-approval.md, raw/articles/pmc-6865061-elamipretide-ss31-lps-memory-neuroinflammation.md, raw/articles/clinicaltrials-nct06373731-elamipretide-dry-amd.md, raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md, raw/articles/pubmed-41260682-elamipretide-first-approval-review.md]
@@ -26,4 +26,6 @@ Safety remains relevant because elamipretide is a real drug, not a research-only
 
 Elamipretide is one of the cleaner "upcoming" peptide stories in the whole wiki, with an important caveat: it is upcoming for healthy-aging and possible cognition-adjacent translation, not because it has already shown cognitive efficacy. The approved-drug status makes the branch much more serious than most gray-market peptide chatter, while SHAPE keeps it relevant to the cognition map without overstating the evidence.^[raw/articles/fda-forzinity-elamipretide-approval.md]^[raw/articles/clinicaltrials-nct07275424-elamipretide-shape.md]
 
-Elamipretide links naturally to [[mitochondria-derived-peptides]], [[shlp2]], [[peptide-neuroprotection]], [[neuroinflammation-and-cognition]], [[medicine-cognition-summary]], and [[mots-c]].
+Route SS-31 / elamipretide self-experiment, clinic, or healthy-aging claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating energy, exercise tolerance, brain fog, or cognitive-function secondary endpoints as nootropic evidence. The main gates are Barth syndrome versus healthy-aging context, subcutaneous drug exposure, injection-site or serious reactions, open-label trial design, mitochondrial-disease phenotype, product legitimacy, and whether any subjective change is mediated by fatigue, muscle function, or aerobic capacity.
+
+Elamipretide links naturally to [[mitochondria-derived-peptides]], [[humanin]], [[shlp2]], [[peptide-neuroprotection]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[neuroinflammation-and-cognition]], [[medicine-cognition-summary]], and [[mots-c]].

@@ -1,7 +1,7 @@
 ---
 title: Yohimbine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/jpri-2015-yohimbine-cognition-rct.md, raw/articles/pubmed-10949101-yohimbine-cbf-humans.md, raw/articles/nccih-2025-yohimbe-usefulness-safety.md, raw/articles/reddit-2025-yohimbine-morning-energy-focus-thread.md, raw/articles/reddit-2023-yohimbine-fat-loss-mental-adverse-thread.md]
@@ -32,10 +32,10 @@ Anecdote signal: `moderate alertness/focus/fat-loss salience, strong adverse cou
 
 ## Anecdote Ledger
 
-| Claim | Anecdote type | Source | Reported effect | Direction | Confidence | Why it does or does not matter |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Yohimbine can cut through morning brain fog and improve focus/energy | subjective alertness self-report | raw/articles/reddit-2025-yohimbine-morning-energy-focus-thread.md; Reddit /r/Supplements | morning brain-fog relief, intense fight-or-flight response, desensitization, sleep interference with later dosing | positive/mixed | low | Tracks real salience but is caffeine/preworkout-confounded and does not measure objective cognition |
-| Yohimbine can trigger panic-like mental effects, nausea, dizziness, and racing heart in fat-loss use | adverse/fat-loss self-report | raw/articles/reddit-2023-yohimbine-fat-loss-mental-adverse-thread.md; Reddit /r/bikinitalk | mental disruption, panic, nausea, dizziness, heart racing, stimulant stacking | negative/mixed | low | Multi-context thread, but adverse direction matches formal adrenergic safety evidence |
+| Yohimbine can cut through morning brain fog and improve focus/energy | anecdote / subjective alertness self-report | raw/articles/reddit-2025-yohimbine-morning-energy-focus-thread.md; Reddit /r/Supplements | one thread; `weak-moderate` | Morning brain-fog relief, intense fight-or-flight response, desensitization, sleep interference with later dosing | low | Tracks real salience but is caffeine/preworkout-confounded and does not measure objective cognition |
+| Yohimbine can trigger panic-like mental effects, nausea, dizziness, and racing heart in fat-loss use | anecdote / adverse fat-loss self-report | raw/articles/reddit-2023-yohimbine-fat-loss-mental-adverse-thread.md; Reddit /r/bikinitalk | one multi-context thread; `weak-moderate` adverse salience | Mental disruption, panic, nausea, dizziness, heart racing, stimulant stacking | low | Multi-context thread, but adverse direction matches formal adrenergic safety evidence |
 
 ## Identity Gates
 
@@ -43,12 +43,13 @@ Anecdote signal: `moderate alertness/focus/fat-loss salience, strong adverse cou
 - Do not equate fat-loss or libido use with cognition improvement.
 - Track dose, fasted state, caffeine/preworkout use, stimulant medications, antidepressants, blood pressure, heart rhythm, panic/anxiety/PTSD vulnerability, bipolar/psychosis vulnerability, sleep timing, nausea, pregnancy/breastfeeding, and age under 18.
 - Treat "focus" reports as arousal-state changes unless task accuracy, working memory, learning, or executive-control outcomes are measured.
+- Route yohimbine/yohimbe reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating alertness, fat-loss drive, fasted-cardio energy, libido, or morning brain-fog relief as cognition.
 
 ## Practical Ranking
 
 Yohimbine deserves standalone coverage because it is common, pharmacologically strong, and safety-relevant. It should not be ranked as a practical cognitive enhancer. The current route is `adrenergic stress-probe / risk-first stimulant-adjacent comparator`, with any short-term alertness report counterweighted by anxiety, cardiovascular, interaction, and product-label risks.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[p-synephrine]], [[regulatory-and-sports-visibility-map]], [[cognitive-improvement-molecule-signal-atlas]], [[caffeine]], and [[biohacker-anecdote-methodology]].
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[p-synephrine]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], [[caffeine]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

@@ -1,7 +1,7 @@
 ---
 title: Nefiracetam
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, preclinical, safety, dosage, mechanism, anecdote, controversy]
 sources: [raw/articles/pubchem-2026-nefiracetam-identity.md, raw/articles/clinicaltrials-2026-nct00001933-nefiracetam-ad-no-results.md, raw/articles/pubmed-9062681-nefiracetam-cellular-mechanisms-expanded.md, raw/articles/pubmed-9062681-nefiracetam-cellular-mechanisms.md, raw/articles/pubmed-11462769-nefiracetam-nachr-expanded.md, raw/articles/pubmed-11462769-nefiracetam-poststroke-nachr.md, raw/articles/pubmed-26915605-nefiracetam-poststroke-apathy-rct.md, raw/articles/reddit-2025-nefiracetam-apathy-experience-thread.md]
@@ -38,11 +38,11 @@ The 2001 nicotinic receptor paper reports alpha4beta2 receptor potentiation in r
 
 PubChem identity data keep nefiracetam separate from other racetams and list chemical hazard classifications including harmful-if-swallowed and eye-irritation warnings. The Alzheimer registry's exclusions also flag renal/hepatic/cardiovascular/hematological screening, cholinergic contraindications, hypersensitivity, interacting centrally acting drugs, and male conception concerns tied to potential adverse effects on spermatogenesis. These are safety and development-context signals, not a clean consumer dosing guide.^[raw/articles/pubchem-2026-nefiracetam-identity.md]^[raw/articles/clinicaltrials-2026-nct00001933-nefiracetam-ad-no-results.md]
 
-The practical consumer problem is evidence asymmetry: community interest is renewed, but current sourcing, powder identity, dose, solvent/route, and cessation mood effects remain anecdotal.
+The practical consumer problem is evidence asymmetry: community interest is renewed, but current sourcing, powder identity, dose, solvent/route, and cessation mood effects remain anecdotal. Route nefiracetam reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating anti-apathy, brain-fog, or anxiety changes as molecule-specific, especially when cannabis aftereffects, stimulants, sleep, or withdrawal mood are part of the report.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Nefiracetam reduces apathy, brain fog, or anxiety | `anecdote` | raw/articles/reddit-2025-nefiracetam-apathy-experience-thread.md; Reddit /r/Nootropics | one small 2025 thread with several comments; `weak-moderate` to `moderate` | apathy interest, cannabis-aftereffect fog/anxiety, brain fog | low | Single-thread, subjective, cannabis confounding, and sourcing uncertainty |
 | Nefiracetam can have unpleasant after-effects after stopping | `anecdote` | raw/articles/reddit-2025-nefiracetam-apathy-experience-thread.md; Reddit /r/Nootropics | one reply; `weak` | melancholy/depressed mood for two to three days after cessation | low | Single report; no objective mood scale or dose control |
@@ -52,4 +52,4 @@ The practical consumer problem is evidence asymmetry: community interest is rene
 
 Nefiracetam belongs in the wiki because it is a named racetam-adjacent molecule with formal trial and mechanism anchors plus renewed community interest. The signal should remain low: the modern human apathy trial did not show superiority to placebo, the Alzheimer phase 2 record has no posted results, and the positive story is mostly preclinical mechanism plus subjective apathy/brain-fog anecdotes.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[pramiracetam]], [[racetam-long-tail-watchlist]], [[cholinergic-state-restoration-and-cognition]], [[huperzine-a]], [[nicotine]], and [[anecdotal-evidence-in-cognitive-intervention-research]].
+Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[pramiracetam]], [[racetam-long-tail-watchlist]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cholinergic-state-restoration-and-cognition]], [[huperzine-a]], [[nicotine]], and [[anecdotal-evidence-in-cognitive-intervention-research]].

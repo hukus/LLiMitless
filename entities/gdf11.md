@@ -1,7 +1,7 @@
 ---
 title: GDF11
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, longevity, mechanism, biomarker, preclinical, safety, anecdote, comparison, controversy]
 sources: [raw/articles/pubmed-30470794-gdf11-hippocampus-aged-mice.md, raw/articles/pubmed-29480172-gdf11-ad-cerebrovascular-cognition.md, raw/articles/nature-aging-2023-systemic-gdf11-memory-mood-autophagy.md, raw/articles/pubmed-37978295-gdf11-neuronal-senescence-brain-aging-p21.md, raw/articles/pmc-10793994-gdf11-aging-biology-controversies.md]
@@ -28,6 +28,7 @@ Endogenous brain-aging signal: `mechanistic`. A 2023 Nature Communications study
 - GDF11 is closely related to GDF8 / myostatin, and the aging literature has been contested because of assay specificity, recombinant-protein quality, dose, and experimental-design differences.
 - High-dose GDF11 has caused cachexia and premature death in mice in the broader aging-biology literature.
 - The simple "GDF11 declines with aging and should be replaced" story is not supported by the controversy review.^[raw/articles/pmc-10793994-gdf11-aging-biology-controversies.md]
+- Route GDF11 rejuvenation or cognition claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mouse memory, vascular, autophagy, or mood findings as human enhancement evidence. GDF8/myostatin separation, assay specificity, recombinant-protein quality, dose, cachexia risk, disease model, and delivery route are all first-order interpretation gates.
 
 ## Anecdote Ledger
 
@@ -35,4 +36,4 @@ Endogenous brain-aging signal: `mechanistic`. A 2023 Nature Communications study
 |---|---|---|---|---|---|---|
 | GDF11 cognitive enhancement | anecdote | no structured direct-use anecdotal source captured | `absent` | plasma-factor / rejuvenation protein | low | No consumer corpus or objective human self-use cognition source is captured |
 
-Related pages: [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]], [[gpld1]], [[pf4]], [[clusterin]], [[klotho]], [[msc-exosome-secretome-cognition-2026-scan]], and [[negative-evidence-watchlist-for-cognition-interventions]].
+Related pages: [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]], [[gpld1]], [[pf4]], [[clusterin]], [[klotho]], [[msc-exosome-secretome-cognition-2026-scan]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[negative-evidence-watchlist-for-cognition-interventions]].

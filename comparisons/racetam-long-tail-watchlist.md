@@ -1,7 +1,7 @@
 ---
 title: Racetam Long Tail Watchlist
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-15
 type: comparison
 tags: [domain-medicine, cognition, comparison, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-12016011-piracetam-dementia-cognitive-impairment-cochrane.md, raw/articles/pubmed-1414239-oxiracetam-dementia-placebo-study.md, raw/articles/pubmed-1603291-oxiracetam-dementia-follow-up.md, raw/articles/pmc-5770454-fasoracetam-adhd-mglur-trial.md, raw/articles/clinicaltrials-nct00621270-coluracetam-bci540-mdd-anxiety.md, raw/articles/pubmed-18461272-coluracetam-mkc231-af64a-rats.md, raw/articles/pmc-6741768-sunifiram-unifiram-pharmacological-characterization.md, raw/articles/troof-nootropic-ratings-2022.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
@@ -33,6 +33,8 @@ This page keeps [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]],
 
 ## Practical Interpretation
 
-Use [[racetam-comparison-2026-scan]] for the better-covered racetam / actoprotector set: [[aniracetam]], [[phenylpiracetam]], [[noopept]], [[bromantane]], and [[prl-8-53]]. Use this page for the long tail. [[piracetam]] is mainly a negative / historical comparator; [[oxiracetam]] is an old disease-context branch; [[fasoracetam]] is a genotype-enriched ADHD hypothesis; [[coluracetam]] is preclinical cognition plus mood-trial exposure; [[sunifiram]] is preclinical potency plus safety uncertainty.
+Use [[racetam-comparison-2026-scan]] for the better-covered racetam / actoprotector set: [[aniracetam]], [[phenylpiracetam]], [[noopept]], [[bromantane]], and [[prl-8-53]]. Use this page for the long tail. [[piracetam]] is mainly a negative / historical comparator; [[oxiracetam]] is an old disease-context branch; [[fasoracetam]] is a genotype-enriched ADHD hypothesis; [[coluracetam]] is preclinical cognition plus mood-trial exposure; [[sunifiram]] is preclinical potency plus safety uncertainty. Route the whole long-tail racetam lane through [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading anecdotes, because choline co-use, stimulant history, sleep, tolerance, task practice, cannabis aftereffects, and research-chemical source identity can dominate subjective cognition reports.
 
-Related pages: [[cognitive-improvement-molecule-signal-atlas]], [[molecule-coverage-semantic-audit-2026-05-03]], [[molecule-intake-triage-table]], [[anecdote-led-chemical-heat-map]], and [[regulatory-and-sports-visibility-map]].
+June 2026 long-tail gate: piracetam, oxiracetam, fasoracetam, coluracetam, sunifiram, and nearby racetam-adjacent reports should capture exact compound, source/COA or trial status, route/formulation, dose and timing, acute versus repeated use, tolerance/cycling, choline/fat/meal co-use, baseline dementia/ADHD/mood/cannabis-aftereffect/sleep-loss state, stimulant/caffeine/nicotine/racetam/AMPA-stack co-use, adverse events, washout/dechallenge/rechallenge, and objective endpoint tier before ranking changes. If these fields are missing, keep the report as low-confidence monitoring evidence and route it through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]].
+
+Related pages: [[cognitive-improvement-molecule-signal-atlas]], [[molecule-coverage-semantic-audit-2026-05-03]], [[molecule-intake-triage-table]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[regulatory-and-sports-visibility-map]], [[molecule-triage-worksheet-for-online-scans]], and [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]].

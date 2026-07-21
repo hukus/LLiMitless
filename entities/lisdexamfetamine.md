@@ -1,7 +1,7 @@
 ---
 title: Lisdexamfetamine
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, clinical-trial, anecdote, comparison, mechanism, controversy]
 sources: [raw/articles/dailymed-2026-vyvanse-lisdexamfetamine-label.md, raw/articles/pubmed-29511807-lisdexamfetamine-damphetamine-healthy-cognition.md, raw/articles/pubmed-23945447-lisdexamfetamine-adult-adhd-executive-function.md, raw/articles/pubmed-39146756-lisdexamfetamine-rrso-cognitive-complaints.md, raw/articles/reddit-2020-2026-vyvanse-focus-brainfog-threads.md]
@@ -33,7 +33,7 @@ Regulatory / safety signal: `Schedule II / risk-first`. The label identifies Vyv
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Vyvanse improves motivation, focus, task initiation, routine formation, mood, or brain fog | `forum anecdote` | raw/articles/reddit-2020-2026-vyvanse-focus-brainfog-threads.md; Reddit ADHD, Vyvanse, and stack-discussion threads | several checked threads; `strong` ADHD-state salience | Diagnosed ADHD / ADD, dose titration, work and daily-function reports | low | Diagnosis, prescription titration, sleep, protein/food timing, hydration, caffeine, SSRI/SNRI co-medication, tolerance, and expectation confound attribution |
 | Vyvanse worsens brain fog, fatigue, overfocus, crash, or motivation | `forum adverse/counterreport` | same raw thread cluster | repeated counterreports; `moderate` | Dose changes, sleep disruption, stimulant switching, supplement stacks | low | Appetite suppression, caloric deficit, insomnia, afternoon rebound, anxiety, co-medications, and dose mismatch can drive the counter-signal |
@@ -45,9 +45,10 @@ Regulatory / safety signal: `Schedule II / risk-first`. The label identifies Vyv
 - The label's abuse-liability section is useful for interpretation: oral 100 mg lisdexamfetamine produced lower drug-liking than 40 mg immediate-release d-amphetamine, but 150 mg lisdexamfetamine produced similar drug-liking to 40 mg d-amphetamine and 200 mg diethylpropion in a drug-abuse-history study.^[raw/articles/dailymed-2026-vyvanse-lisdexamfetamine-label.md]
 - Do not borrow weight-loss logic from [[phentermine]] or [[tesofensine]]. Vyvanse has a BED indication, but the label says it is not for weight loss.
 - For stack interpretation, watch caffeine, tyrosine, phenylalanine, alpha-GPC, rhodiola, NAC, taurine, omega-3, protein timing, sleep, hydration, and antidepressant co-medication because these repeatedly appear in community explanations for benefit or brain fog.^[raw/articles/reddit-2020-2026-vyvanse-focus-brainfog-threads.md]
+- Route lisdexamfetamine self-report clusters through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating motivation, task-initiation, or brain-fog changes as durable cognition evidence.
 
 ## Current Route
 
 Lisdexamfetamine should be used as the prodrug-amphetamine comparator when a claim is about smooth onset, ADHD-state task initiation, long work blocks, or stimulant response with less immediate-release volatility. It sits below [[methylphenidate]] and [[modafinil]] as a healthy-adult cognition benchmark because its direct healthy evidence is acute and high-dose, while its practical signal is mostly clinical ADHD / BED use and confounded self-report.
 
-Related pages: [[d-amphetamine]], [[methylphenidate]], [[modafinil]], [[phentermine]], [[tesofensine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], and [[regulatory-and-sports-visibility-map]].
+Related pages: [[d-amphetamine]], [[methylphenidate]], [[modafinil]], [[phentermine]], [[tesofensine]], [[nonstimulant-noradrenergic-attention-agent-watchlist]], [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].

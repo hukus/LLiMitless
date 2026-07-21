@@ -1,7 +1,7 @@
 ---
 title: OUTCOME - Cognitive Intervention Signal Synthesis
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: summary
 tags: [cognition, comparison, performance, protocol, safety, clinical-trial, anecdote, peptides, metabolism, sleep, device, domain-medicine]
 sources:
@@ -20,21 +20,29 @@ sources:
   - queries/autophagy-mitophagy-nutraceutical-2026-scan.md
   - comparisons/redox-mitochondrial-cofactor-cognition-watchlist.md
   - comparisons/anecdote-led-chemical-heat-map.md
+  - comparisons/gray-zone-nootropic-community-signal-ledger.md
+  - queries/community-nootropic-rating-datasets-2026-scan.md
   - queries/nootropic-peptide-anecdote-frontier-2026-scan.md
   - comparisons/peptide-safety-and-sourcing-risk-map.md
   - queries/peptide-regulatory-live-watch-board.md
   - queries/peptide-stack-topology-ledger.md
+  - queries/molecule-triage-worksheet-for-online-scans.md
+  - comparisons/delivery-validation-checklist-for-cognition-interventions.md
+  - queries/stack-attribution-diary-for-self-study-and-n-of-1-protocols.md
+  - queries/self-experimentation-stop-rules.md
 confidence: medium
 contested: true
 ---
 
 # OUTCOME - Current Cognitive-Intervention Signals
 
-Date: 2026-05-04
+Date: 2026-06-15
 
 This is a synthesis of the local wiki, not medical advice. "Signal" means the best current evidence pattern in the wiki, weighted roughly as: direct controlled human cognitive outcomes > clinical or state-specific human outcomes > biomarker or mechanistic human outcomes > preclinical work > anecdote. Safety, sourcing, regulatory status, and product identity can downgrade a candidate even when the efficacy signal is interesting.
 
-The wiki's strongest lesson is that "cognitive enhancement" is usually state repair, not a universal IQ boost. The most defensible branches fix sleep, circadian timing, arousal, metabolic strain, recovery state, or a defined clinical impairment. The loudest anecdotal branches are mostly peptides, nootropic research chemicals, and device-like protocols; they are useful for hypothesis generation, but they do not outrank controlled human evidence.
+The wiki's strongest lesson is that "cognitive enhancement" is usually state repair, not a universal IQ boost. The most defensible branches fix sleep, circadian timing, arousal, metabolic strain, recovery state, or a defined clinical impairment. The loudest anecdotal branches are mostly peptides, nootropic research chemicals, and device-like protocols; they are useful for hypothesis generation, but they do not outrank controlled human evidence. The June 2026 nootropic cleanup makes one further split explicit: [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and [[bromantane]] now deserve stronger top-level anecdote tracking, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] stay de-ranked frontier or state-bound nodes until cleaner human, source, route, stack, washout, and objective-endpoint attribution appears.^[comparisons/gray-zone-nootropic-community-signal-ledger.md]^[queries/nootropic-peptide-anecdote-frontier-2026-scan.md]^[queries/community-nootropic-rating-datasets-2026-scan.md]^[queries/molecule-triage-worksheet-for-online-scans.md]^[comparisons/delivery-validation-checklist-for-cognition-interventions.md]^[queries/stack-attribution-diary-for-self-study-and-n-of-1-protocols.md]^[queries/self-experimentation-stop-rules.md]
+
+Top-level peptide/nootropic rule: the strongest anecdote cluster is a watchlist, not a protocol menu. Before a Semax, Selank, Cerebrolysin, BPC-157, Bromantane, Dihexa, PE-22-28, Adamax, Epithalon, or Pinealon report changes any ranking, the wiki now requires source/COA, route/formulation, stack order, washout/dechallenge, recovery state, adverse-event handling, and objective endpoint logging through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]].
 
 ## Overall Top Signals
 
@@ -157,8 +165,8 @@ Negative-class caution: 5-HT6 antagonists, PDE9/PDE10/cGMP agents, many GlyT1/DA
 |---|---|---|---|
 | 1 | [[cerebrolysin]] | Strongest human peptide exception for AD/aMCI/recovery contexts. | Medical intervention, not a casual enhancer. |
 | 2 | [[ghrh]] / [[tesamorelin]] | Older controlled GH-axis cognition signal and phenotype-specific human work. | Glucose/IGF-1/neoplasm/edema/sleep safety gates. |
-| 3 | [[semax]] / [[selank]] | Legacy/regional human exposure plus strong community signal. | Modern controlled cognition evidence is weak; FDA bulk-risk/sourcing. |
-| 4 | [[thymosin-beta-4]], [[bpc-157]], [[mots-c]], [[humanin]], [[elamipretide]] | Repair, metabolic, mitochondrial, or preclinical memory biology. | Human cognition endpoints mostly absent; gray-market safety friction. |
+| 3 | [[semax]] / [[selank]] | Legacy/regional human exposure plus strong community signal. | Modern controlled cognition evidence is weak; FDA bulk-risk, source/COA, route/formulation, and stack attribution dominate. |
+| 4 | [[bpc-157]] / TB-500-style recovery stacks, [[thymosin-beta-4]], [[mots-c]], [[humanin]], [[elamipretide]] | Repair, metabolic, mitochondrial, or preclinical memory biology; BPC-157 has the strongest recovery-community salience in this row. | Human cognition endpoints mostly absent; recovery-state, gray-market safety friction, and stack attribution dominate. |
 | 5 | [[klotho]], [[pf4]], [[clusterin]], [[gpld1]], [[irisin]], [[gdf11]] | Exercise/blood-factor biology is compelling mechanistically. | Mostly biomarker/preclinical transfer biology, not injectable nootropic evidence. |
 
 ### Risk-First and Deprioritize Signals
@@ -182,18 +190,18 @@ This table intentionally weights anecdotal evidence more heavily than the rest o
 | 3 | [[bpc-157]] + TB-500 / [[thymosin-beta-4]] recovery stacks | Very strong injury, tendon, gut, pain, and recovery anecdotes. | BPC-157 has tiny human exposure; full-length thymosin beta-4 has non-cognition human repair/safety exposure; cognition evidence weak/absent. | Not direct cognition; WADA/FDA/sourcing, stack attribution, injection risks. |
 | 4 | [[transcranial-photobiomodulation]] / LLLT | High self-experimenter visibility and perceived energy/clarity reports. | Small but improving human MCI, older-adult, mTBI, fNIRS/metabolic/BDNF signals. | Device parameters, sham leakage, target exposure, and durability unresolved. |
 | 5 | [[methylene-blue]] | Strong biohacker reports for focus, energy, brain fog, and endurance. | Small human memory/fMRI and exposure-consolidation signal; registry and AD branches remain mixed. | Serotonergic interaction, G6PD, dosing/product-quality, photodynamic/light interaction risks. |
-| 6 | [[dihexa]] | Loud "rewiring" and memory-repair lore. | Preclinical APP/PS1 memory/synaptogenesis evidence; no human cognition trial. | Research chemical; no credible human safety package. |
+| 6 | [[bromantane]] | Moderate-strong motivation/fatigue/community heat; cleaner state-bound activation signal than most frontier peptides. | Small healthy-volunteer and Russian asthenia/neurasthenia data. | WADA visibility, product identity, sleep debt, stimulant history, and fatigue-rescue confounding. |
 | 7 | [[phenylpiracetam]] | Strong study/work/activation anecdotes and survey heat. | Phenotype-bound Russian asthenia/recovery literature, not broad healthy cognition proof. | WADA stimulant visibility, tolerance, sourcing, stimulant-like tradeoffs. |
-| 8 | [[bromantane]] | Moderate-strong motivation/fatigue/community heat. | Small healthy-volunteer and Russian asthenia/neurasthenia data. | WADA visibility, product identity, stimulant-state confounding. |
+| 8 | [[dihexa]] | Loud "rewiring" and memory-repair lore, now de-ranked below stronger peptide/community nodes. | Preclinical APP/PS1 memory/synaptogenesis evidence; no human cognition trial. | Research chemical; no credible human safety package; route/source and single-user anecdote quality dominate. |
 | 9 | [[prl-8-53]] | Persistent memory-stack lore with 2017 Reddit dose anchor. | One old double-blind human retention study; no modern replication. | Research-chemical sourcing and single-study fragility. |
 | 10 | [[noopept]] / racetam cluster / [[pramiracetam]] | Strong legacy nootropic lore and repeated focus/memory anecdotes. | Mostly older disease, recovery, scopolamine-challenge, or low-quality human evidence; not modern healthy enhancement proof. | Product identity, tolerability, emotional-tone effects, and weak replication. |
 
-Anecdotal runners-up: [[pinealon]], [[epithalon]], [[pe-22-28]], [[adamax]], [[magnesium-l-threonate]], [[phosphatidylserine]], [[uridine]], [[sulbutiamine]], [[nicergoline]], [[emoxypine-mexidol]], [[shilajit]], [[mucuna-pruriens]], and [[yohimbine]]. High-heat but risk-first candidates such as [[phenibut]], [[tianeptine]], and [[kratom-mitragynine]] should be tracked mainly as safety exemplars because dependence, withdrawal, adulteration, or mood/pain relief can masquerade as cognitive benefit.
+Anecdotal runners-up: [[pinealon]], [[epithalon]], [[pe-22-28]], [[adamax]], [[magnesium-l-threonate]], [[phosphatidylserine]], [[uridine]], [[sulbutiamine]], [[nicergoline]], [[emoxypine-mexidol]], [[shilajit]], [[mucuna-pruriens]], and [[yohimbine]]. The peptide runners-up are deliberately not promoted by loudness alone: Pinealon is mostly sleep/TBI/circadian-state chatter, Epithalon is sleep/clarity/no-effect mixed, PE-22-28 is mood/anhedonia curiosity, and Adamax is still a vendor-defined Semax-family identity-risk label. High-heat but risk-first candidates such as [[phenibut]], [[tianeptine]], and [[kratom-mitragynine]] should be tracked mainly as safety exemplars because dependence, withdrawal, adulteration, or mood/pain relief can masquerade as cognitive benefit.
 
 ## Cross-Cutting Lessons
 
 - State definition is the main variable. Sleep debt, insomnia, circadian phase, glucose swings, fatigue, withdrawal, and baseline impairment often explain why a "nootropic" works in one setting and fails in another.
-- Product identity is evidence identity. Botanicals, peptides, ketones, choline donors, NAD boosters, plasmalogens, and polyphenols should not be merged across formulations.
+- Product identity is evidence identity. Botanicals, peptides, ketones, choline donors, NAD boosters, plasmalogens, and polyphenols should not be merged across formulations; for gray-market peptides and nootropics, source/COA, route/formulation, fixed-blend status, and lot identity are part of the claim.
 - Biomarkers are not behavior. NAD+, BDNF, CBF, fNIRS, EEG, pTau217, inflammatory markers, or glucose can move without durable cognitive improvement.
 - Acute arousal is not learning. Caffeine, nicotine, modafinil-class drugs, solriamfetol, pitolisant, orexin agonists, and stimulants can improve wakefulness or speed while leaving retention, transfer, and precision unresolved.
 - Recovery is not enhancement. Stroke, TBI, MCI, AD, delirium, narcolepsy, OSA, and post-injury signals need downgrade rules before being generalized to healthy adults.
@@ -213,4 +221,4 @@ The current web check did not change the wiki's ranking. It reinforced five live
 
 The strongest current route is not a peptide or a gray-market nootropic. It is disciplined state repair: sleep/circadian stabilization, low-risk energy support such as creatine when strain is present, carefully protocolized stimulation, and phenotype-bound medical interventions when the clinical context matches the evidence.
 
-The strongest anecdotal route is different: Cerebrolysin, Semax/Selank, BPC-157/TB-500-style recovery stacks, tPBM, methylene blue, Dihexa, and study-stack nootropics. Those are the right candidates for safety-first, blinded, state-controlled trial designs, not for confidence upgrades.
+The strongest anecdotal route is different: Cerebrolysin, Semax/Selank, BPC-157/TB-500-style recovery stacks, Bromantane-style activation/fatigue-rescue, tPBM, methylene blue, and study-stack nootropics. Dihexa, PE-22-28, Adamax, Epithalon, and Pinealon remain worth watching, but the current wiki now treats them as de-ranked frontier or state-bound hypotheses rather than top-tier anecdotal leads. Those are the right candidates for safety-first, blinded, state-controlled trial designs with provenance and stop-rule logging, not for confidence upgrades.

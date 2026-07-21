@@ -1,7 +1,7 @@
 ---
 title: Piracetam
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pmc-12016011-piracetam-dementia-cognitive-impairment-cochrane.md, raw/articles/troof-nootropic-ratings-2022.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]
@@ -30,13 +30,13 @@ Piracetam has strong historical nootropic visibility, but the captured structure
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Piracetam-style racetam use improves focus or memory | anecdote / community survey | raw/articles/troof-nootropic-ratings-2022.md and raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md; broad nootropic rating/survey layers | broad racetam salience; `moderate` for piracetam-specific inference | legacy nootropic use, memory/focus/study stacks | low | The captured signal is not piracetam-specific enough to upgrade medicinal confidence |
 
 ## Safety And Status
 
-The main risk in this wiki is interpretive rather than a single captured toxicity signal: piracetam's reputation can cause users to import class-level anecdotes into a negative / insufficient dementia evidence base. Product identity and jurisdictional status should be checked before any practical use discussion.
+The main risk in this wiki is interpretive rather than a single captured toxicity signal: piracetam's reputation can cause users to import class-level anecdotes into a negative / insufficient dementia evidence base. Product identity and jurisdictional status should be checked before any practical use discussion. Route piracetam stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] when choline, caffeine, stimulant history, sleep, or task-practice effects could explain the perceived result.
 
 ## Signal Judgment
 
@@ -53,4 +53,5 @@ Practical route: historical class anchor and negative comparator.
 - [[aniracetam]]
 - [[noopept]]
 - [[oxiracetam]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[cognitive-improvement-molecule-signal-atlas]]

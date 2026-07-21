@@ -1,7 +1,7 @@
 ---
 title: Luvadaxistat
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, mechanism, clinical-trial, biomarker, safety, dosage, anecdote, comparison, controversy]
 sources: [raw/articles/pubmed-38943928-luvadaxistat-interact-schizophrenia.md, raw/articles/pubmed-36928351-luvadaxistat-mmn-biomarker-schizophrenia.md, raw/articles/pubmed-40328785-daao-inhibitors-schizophrenia-meta-analysis.md]
@@ -36,8 +36,10 @@ Luvadaxistat should remain low-confidence and contested. It is a useful comparat
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Luvadaxistat cognitive enhancement | `anecdote` | no structured anecdotal source captured | `absent` | nootropic / self-experimenter evidence | low | No community packet, dose reports, or cognitive outcomes captured |
 
-Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[sodium-benzoate]], [[iclepertin]], [[sarcosine]], [[d-serine]], [[pharmacology-comparator-map]], and [[failed-mechanism-atlas-for-cognition-interventions]].
+Route luvadaxistat and DAAO-inhibitor reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating biomarker movement, schizophrenia-state change, or NMDA-coagonist stack effects as general cognition evidence.
+
+Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[sodium-benzoate]], [[iclepertin]], [[sarcosine]], [[d-serine]], [[pharmacology-comparator-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[failed-mechanism-atlas-for-cognition-interventions]].

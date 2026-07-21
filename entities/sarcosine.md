@@ -1,7 +1,7 @@
 ---
 title: Sarcosine
 created: 2026-05-03
-updated: 2026-05-17
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, mechanism, clinical-trial, safety, dosage, anecdote, comparison, controversy]
 sources: [raw/articles/pubchem-2026-sarcosine-identity.md, raw/articles/pubmed-32122256-sarcosine-schizophrenia-meta-analysis.md, raw/articles/pubmed-26691576-sarcosine-plus-benzoate-schizophrenia-rct.md, raw/articles/reddit-2019-2026-sarcosine-nootropic-threads.md]
@@ -34,7 +34,7 @@ The captured sources describe sarcosine as generally tolerable in the schizophre
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Sarcosine can improve clarity, sociability, mood, or verbal flow | `anecdote` | raw/articles/reddit-2019-2026-sarcosine-nootropic-threads.md; Reddit /r/Nootropics and adjacent thread search | several visible search results; `weak-moderate` salience, weak direct cognition | N-methylglycine, NMDA/glycine-site framing, sometimes schizophrenia-adjacent use | low | Self-selected, unblinded, no objective cognition, clinical baseline, mood/anxiety shift, sleep, stimulants, and expectancy dominate |
 | Sarcosine direct focus or memory enhancement is uncertain | `anecdote` / counterreports | raw/articles/reddit-2019-2026-sarcosine-nootropic-threads.md; Reddit thread search | scattered no-effect/adverse/caution reports; `weak` | Sarcosine alone or with [[sodium-benzoate]], glycine, D-serine, stimulants, or methylation stacks | low | Dose, product identity, NMDA-stack attribution, and sarcosine/glycine/DMG/TMG name confusion dominate |
@@ -43,4 +43,6 @@ The captured sources describe sarcosine as generally tolerable in the schizophre
 
 Sarcosine deserves standalone coverage because it is one of the few consumer-buyable GlyT1/NMDA-adjacent chemicals with clinical cognition-adjacent literature and visible nootropic-community discussion. It should not be ranked as a broad healthy-adult cognition enhancer. The current read is `low-confidence, phenotype/combination-gated`: more relevant as a glutamatergic comparator and methylated-glycine boundary than as a top buyable nootropic.
 
-Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[one-carbon-methyl-donor-cognition-watchlist]], [[sodium-benzoate]], [[glycine]], [[dimethylglycine-dmg]], [[betaine-tmg]], [[s-adenosyl-l-methionine]], [[d-serine]], [[luvadaxistat]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], and [[top-buyable-cognition-chemicals]].
+Safety route: use [[safety-interaction-matrix-for-multi-modal-stacks]] when sarcosine anecdotes involve [[sodium-benzoate]], [[glycine]], [[d-serine]], methyl-donor stacks, stimulants, antidepressants, or psychosis-spectrum baselines. A positive clarity report can be NMDA-state, mood/social-anxiety, methylation, sleep, or combination-specific rather than sarcosine monotherapy.
+
+Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[one-carbon-methyl-donor-cognition-watchlist]], [[sodium-benzoate]], [[glycine]], [[dimethylglycine-dmg]], [[betaine-tmg]], [[s-adenosyl-l-methionine]], [[d-serine]], [[luvadaxistat]], [[pharmacology-comparator-map]], [[cognitive-improvement-molecule-signal-atlas]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[top-buyable-cognition-chemicals]].

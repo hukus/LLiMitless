@@ -1,7 +1,7 @@
 ---
 title: Incretin Therapies Brain Health 2026 Scan
 created: 2026-04-27
-updated: 2026-04-28
+updated: 2026-06-15
 type: query
 tags: [comparison, cognition, metabolism, clinical-trial, mechanism, safety, controversy, protocol]
 sources: [raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-41865758-semaglutide-evoke-evokeplus-ad-phase3.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md, raw/articles/pmc-12205698-mazdutide-diabetes-associated-cognitive-dysfunction.md, raw/articles/pubmed-41862354-glp1-neuropsychiatric-outcomes.md, raw/articles/pubmed-41684077-glp1-autophagy-neurodegenerative-disorders.md, raw/articles/pubmed-41710720-gip-metabolic-neurodegenerative-disorders.md]
@@ -11,6 +11,8 @@ confidence: medium
 # Incretin Therapies Brain Health 2026 Scan
 
 Entity coverage note: the main molecule-level branches now have standalone pages for [[semaglutide]], [[exenatide]], and [[mazdutide]]. These pages preserve the branch split: semaglutide is mixed and endpoint-contested, exenatide is the MCI negative anchor, and mazdutide is preclinical-plus-protocol pending LIGHT-COG results.
+
+June 2026 attribution note: [[retatrutide]] is now included as the anecdote-visible triple-agonist watch item, but the branch remains metabolic-state gated. Any claimed clarity, fatigue relief, brain-fog change, or work-output change needs agent identity, prescription/trial/gray-market status, route/formulation, dose and titration stage, metabolic phenotype, weight-loss trajectory, appetite and calorie/carbohydrate intake, hydration/electrolytes, sleep apnea and sleep change, mood/anhedonia state, GI/dysesthesia adverse events, hypoglycemia-relevant co-medications, co-interventions, washout or stable-dose period, and objective cognition endpoints before it alters rankings.
 
 ## Summary
 
@@ -23,6 +25,7 @@ What changed since 2024:
 - I did not find a human cognition-outcome trial for a GIP-based agent in the primary-source set for this pass; the only cognition-primary registry lead I found was mazdutide, which is GLP-1/glucagon rather than GIP.^[raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md]
 - Mazdutide now has a 2025 preclinical cognition paper in db/db mice, so the branch is no longer just a registry lead; it has a mechanistic animal layer that points in the positive direction, while the LIGHT-COG human study still has no posted results and remains the real readout gate.^[raw/articles/pmc-12205698-mazdutide-diabetes-associated-cognitive-dysfunction.md]^[raw/articles/clinicaltrials-nct07083154-light-cog-mazdutide-early-dementia.md]
 - The main interpretive risk is still confounding by glycemic improvement, weight loss, sleep, and mood, which can mimic a direct neurocognitive effect.
+- Incretin peptides should be routed through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparison with stronger anecdotal nootropic nodes.
 
 ## Top Sources
 
@@ -87,8 +90,8 @@ The cognition trials do not reveal a new neurologic safety signal. The recurring
 
 ## Actionable Wiki Updates
 
-- Keep [[semaglutide]], [[exenatide]], and [[mazdutide]] synchronized with new readouts so molecule-level pages do not collapse back into class-level claims.
-- Update [[incretin-therapies-brain-health]] with the new mixed 2024-2026 evidence layer and explicit contradiction language.
+- Keep [[semaglutide]], [[exenatide]], [[mazdutide]], and [[retatrutide]] synchronized with new readouts so molecule-level pages do not collapse back into class-level claims or generic nootropic anecdotes.
+- Keep [[incretin-therapies-brain-health]] aligned with the mixed 2024-2026 evidence layer and explicit metabolic-peptide attribution gate.
 - Update [[adjunctive-interventions-for-cognition]] so incretins are no longer described as only indirect brain-health candidates.
 - Use [[semaglutide]] and [[exenatide]] as the negative-evidence nodes so the AD/MCI nulls remain visible.
 - Keep the mazdutide trial under watch as the next protocol-level signal for cognition-primary incretin research, but do not upgrade confidence until a human readout posts.

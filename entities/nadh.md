@@ -1,7 +1,7 @@
 ---
 title: NADH
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, recovery, clinical-trial, biomarker, safety, dosage, mechanism, anecdote, comparison, controversy]
 sources: [raw/articles/pubchem-2026-nadh-identity.md, raw/articles/pubmed-10071523-nadh-cfs-crossover.md, raw/articles/pubmed-20447621-nadh-cfs-rct.md, raw/articles/pmc-4346380-coq10-nadh-cfs-rct.md, raw/articles/pmc-8399248-coq10-nadh-mecfs-rct.md, raw/articles/pubmed-15134388-nadh-ad-rct.md, raw/articles/pubmed-11459000-nadh-dementia-null.md, raw/articles/ejmed-2025-nadh-healthy-endurance-rct.md, raw/articles/reddit-2024-2026-nadh-brainfog-cfs-threads.md]
@@ -36,7 +36,7 @@ The current cognition read is `low/illness-state and contested`. NADH is relevan
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | NADH can reduce brain fog or cognitive fatigue in CFS / post-viral states | `anecdote` | raw/articles/reddit-2024-2026-nadh-brainfog-cfs-threads.md; Reddit /r/cfs and long-COVID-adjacent threads | several checked threads; `moderate illness-state salience`, `weak-moderate` direct brain-fog signal | Sublingual NADH, ME/CFS, long COVID, PEM, cognitive fatigue, brain fog | low | Self-selected, unblinded, illness-state reports; sleep, PEM, product form, and concurrent interventions confound attribution |
 | NADH with D-ribose, CoQ10, or tVNS can improve cognitive baseline or fatigue | `anecdote` / `study-sharing` | raw/articles/reddit-2024-2026-nadh-brainfog-cfs-threads.md; Reddit threads discussing combinations and the CoQ10 plus NADH study | small repeated cluster; `weak-moderate` | CoQ10 plus NADH, D-ribose, tVNS, ME/CFS or long COVID | low | Combination and device confounding are severe; cannot isolate NADH |
@@ -47,5 +47,6 @@ The current cognition read is `low/illness-state and contested`. NADH is relevan
 - Treat insomnia, activation, anxiety, tachycardia-like symptoms, crash/fatigue, and paradoxical fog as stop-rule-relevant signals in self-report contexts.
 - Do not borrow NAD+ precursor logic from [[nicotinamide-riboside]] or [[nicotinamide-mononucleotide]]; reduced NADH has a different identity and evidence packet.
 - Do not rank NADH inside [[top-buyable-cognition-chemicals]] unless the use case is specifically illness-state cognitive fatigue and the caveats remain visible.
+- Route NADH anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating fatigue or brain-fog changes as molecule-specific cognition evidence. The main gates are product stabilization, sublingual/oral route, dose timing, insomnia/activation, PEM cycles, CoQ10/D-ribose/tVNS co-use, and NADH versus NAD+ / NR / NMN naming confusion.
 
-Related pages: [[redox-mitochondrial-cofactor-cognition-watchlist]], [[coenzyme-q10]], [[nicotinamide-riboside]], [[nicotinamide-mononucleotide]], [[autophagy-mitophagy-nutraceutical-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], and [[top-buyable-cognition-chemicals]].
+Related pages: [[redox-mitochondrial-cofactor-cognition-watchlist]], [[coenzyme-q10]], [[nicotinamide-riboside]], [[nicotinamide-mononucleotide]], [[autophagy-mitophagy-nutraceutical-watchlist]], [[post-viral-brain-fog-chemical-watchlist]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[cognitive-improvement-molecule-signal-atlas]], and [[top-buyable-cognition-chemicals]].

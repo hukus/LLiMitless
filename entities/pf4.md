@@ -1,7 +1,7 @@
 ---
 title: PF4 / Platelet Factor 4
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, metabolism, inflammation, preclinical, biomarker, mechanism, safety, controversy]
 sources: [raw/articles/nature-platelet-derived-exerkine-cxcl4-platelet-factor-4-rejuvenates-hippocampal-neurogenesis-and-restores-cognitive-function-in-aged-mice.md, raw/articles/pubmed-40749766-pf4-cognition-review.md]
@@ -32,13 +32,15 @@ No PF4-specific cognition anecdote or self-use raw note is indexed.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | PF4 improves cognition if administered directly | anecdote | No dedicated anecdote raw note located in the current wiki corpus | none; absent | exercise-transfer and rejuvenation discourse | low | Mouse transfer does not validate human injection, dosing, or safety |
 
 ## Safety And Status
 
 PF4 sits near platelet, chemokine, coagulation, and inflammatory biology. That makes direct administration an explicitly research-only idea. It should not be collapsed into general exercise benefits or plasma-factor marketing.
+
+Route PF4 or CXCL4 extrapolations through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting mouse exercise-transfer effects as human cognition claims. Platelet activation, coagulation context, inflammatory signaling, dose/route, species translation, and source identity are core gates.
 
 ## Signal Judgment
 
@@ -54,4 +56,4 @@ Practical route: mouse exercise-transfer benchmark and translational caution nod
 - [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]]
 - [[clusterin]]
 - [[irisin]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

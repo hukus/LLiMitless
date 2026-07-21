@@ -1,7 +1,7 @@
 ---
 title: Coluracetam
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, preclinical, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/clinicaltrials-nct00621270-coluracetam-bci540-mdd-anxiety.md, raw/articles/pubmed-18461272-coluracetam-mkc231-af64a-rats.md, raw/articles/troof-nootropic-ratings-2022.md]
@@ -32,13 +32,13 @@ Coluracetam has visual, mood, and focus lore in nootropic communities, but no de
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Coluracetam improves focus, mood, or visual clarity | anecdote | No dedicated coluracetam anecdote raw note located in the current wiki corpus | unknown; moderate lore salience | racetam-adjacent self-experimentation, choline stacks, visual claims | low | Product identity, stacking, mood effects, and expectancy dominate the current anecdote layer |
 
 ## Safety And Status
 
-The practical safety problem is thin human evidence. A mood/anxiety trial registry proves human exposure was studied, but absent posted results and absent cognition outcomes leave the nootropic-use risk/benefit unresolved.
+The practical safety problem is thin human evidence. A mood/anxiety trial registry proves human exposure was studied, but absent posted results and absent cognition outcomes leave the nootropic-use risk/benefit unresolved. Route coluracetam reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating visual, mood, focus, or choline-stack claims as molecule-specific cognition evidence.
 
 ## Signal Judgment
 
@@ -53,4 +53,5 @@ Practical route: cholinergic-rescue research-chemical watch item.
 - [[racetam-long-tail-watchlist]]
 - [[choline-donor-cognition-signal-map]]
 - [[racetam-comparison-2026-scan]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[molecule-intake-triage-table]]

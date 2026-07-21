@@ -1,7 +1,7 @@
 ---
 title: Glutamatergic Rapid-Antidepressant Cognition Watchlist
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: comparison
 tags: [domain-medicine, cognition, comparison, safety, dosage, clinical-trial, anecdote, mechanism, recovery, controversy]
 sources: [raw/articles/dailymed-2026-spravato-esketamine-label.md, raw/articles/pubmed-35416105-ketamine-esketamine-long-term-safety.md, raw/articles/frontiers-2022-ketamine-cognition-anxiety-social-function-meta.md, raw/articles/pubmed-41873584-esketamine-cognition-systematic-review.md, raw/articles/dailymed-2026-auvelity-dextromethorphan-bupropion-label.md, raw/articles/jcp-2022-axs05-gemini-phase3-mdd.md, raw/articles/reddit-2024-2026-ketamine-auvelity-cognition-brainfog-threads.md]
@@ -12,7 +12,7 @@ contradictions: []
 
 # Glutamatergic Rapid-Antidepressant Cognition Watchlist
 
-This page routes ketamine/esketamine, AUVELITY-style dextromethorphan-bupropion, and nearby NMDA/glutamate-adjacent psychiatric-state chemicals when people report brain-fog relief, mental clarity, task initiation, or cognitive recovery. It complements [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[ampakines-and-glutamatergic-plasticity-2026-scan]], [[post-viral-brain-fog-chemical-watchlist]], and [[pharmacology-comparator-map]].
+This page routes ketamine/esketamine, AUVELITY-style dextromethorphan-bupropion, and nearby NMDA/glutamate-adjacent psychiatric-state chemicals when people report brain-fog relief, mental clarity, task initiation, or cognitive recovery. It complements [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[ampakines-and-glutamatergic-plasticity-2026-scan]], [[post-viral-brain-fog-chemical-watchlist]], [[pharmacology-comparator-map]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 ## Category Verdict
 
@@ -51,6 +51,7 @@ The main split:
 3. Do not collapse all NMDA/glutamate chemicals. [[memantine]], [[ketamine-esketamine]], [[dextromethorphan-bupropion]], [[amantadine]], [[methylene-blue]], [[sodium-benzoate]], and AMPAkines have different mechanisms, indications, and safety constraints.
 4. Treat serotonergic and MAOI interactions as hard gates for dextromethorphan-bupropion, especially with [[methylene-blue]], serotonergic antidepressants, [[5-htp-tryptophan]], and MAO-B discussions.^[raw/articles/dailymed-2026-auvelity-dextromethorphan-bupropion-label.md]
 5. If the user story is long-COVID, POTS, MCAS, or ME/CFS brain fog, route through [[post-viral-brain-fog-chemical-watchlist]], [[autonomic-pots-brain-fog-chemical-watchlist]], and [[mast-cell-histamine-brain-fog-chemical-watchlist]] before assuming depression-state pharmacology is the main lever.
+6. Route any self-experiment stack through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpretation. Dissociation, same-day impairment, seizure risk, serotonin/MAOI interactions, long half-life accumulation, sleep debt, and NMDA co-agonist stacking can all mimic or erase cognitive benefit.
 
 ## Research Watch
 

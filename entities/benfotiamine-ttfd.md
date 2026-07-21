@@ -1,7 +1,7 @@
 ---
 title: Benfotiamine / TTFD
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, metabolism, performance, clinical-trial, preclinical, safety, dosage, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-7880246-benfotiamine-ad-cognitive-decline-phase2a.md, raw/articles/clinicaltrials-2026-nct06223360-benfoteam-benfotiamine-early-ad.md, raw/articles/ods-2026-thiamin-health-professional-fact-sheet.md, raw/articles/nature-2018-ttfd-voluntary-activity-dopamine-mpfc.md, raw/articles/pubchem-2026-fursultiamine-ttfd-identity.md, raw/articles/reddit-2024-ttfd-nootropics-top-list-thread.md, raw/articles/reddit-2025-ttfd-changed-my-life-thread.md, raw/articles/reddit-2026-ttfd-pots-er-adverse-thread.md, raw/articles/reddit-2025-benfotiamine-no-effect-brain-fog-thread.md]
@@ -20,7 +20,7 @@ Healthy enhancement signal: `uncataloged/weak`. NIH ODS supports thiamin's essen
 
 TTFD / fursultiamine signal: `preclinical-only`. PubChem normalizes fursultiamine with TTFD and thiamine tetrahydrofurfuryl disulfide. The key captured study is a rat Scientific Reports paper where acute TTFD increased locomotor activity, synchronized with dopamine release in medial prefrontal cortex, was blocked by D1 but not D2 antagonism in mPFC, and increased voluntary wheel running. This supports a motivation/activity hypothesis, not a human cognition claim.^[raw/articles/pubchem-2026-fursultiamine-ttfd-identity.md]^[raw/articles/nature-2018-ttfd-voluntary-activity-dopamine-mpfc.md]
 
-Safety and phenotype signal: `status-first, self-experimentation-cautious`. The basic B1 safety frame is relatively benign compared with stimulant or prescription-risk pages, but the relevant hazards for this wiki are misattribution, deficiency masking, autonomic/anxiety-like adverse narratives, cofactor/electrolyte stacking, diabetes/alcohol/bariatric/malabsorption context, and product-form confusion. Benfotiamine, TTFD/fursultiamine, ordinary thiamine HCl, allithiamine-labeled products, and [[sulbutiamine]] should remain separate product identities.
+Safety and phenotype signal: `status-first, self-experimentation-cautious`. The basic B1 safety frame is relatively benign compared with stimulant or prescription-risk pages, but the relevant hazards for this wiki are misattribution, deficiency masking, autonomic/anxiety-like adverse narratives, cofactor/electrolyte stacking, diabetes/alcohol/bariatric/malabsorption context, and product-form confusion. Benfotiamine, TTFD/fursultiamine, ordinary thiamine HCl, allithiamine-labeled products, and [[sulbutiamine]] should remain separate product identities. Route any B1-form stack report through [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading cognition confidence.
 
 ## Signal Split
 
@@ -46,7 +46,7 @@ Safety and phenotype signal: `status-first, self-experimentation-cautious`. The 
 
 ## Practical Interpretation
 
-Benfotiamine / TTFD is inclusion-worthy because it has both formal benfotiamine disease-context data and direct TTFD community salience, but the practical route is narrow. Treat it as a `thiamine-status / early-AD metabolic hypothesis / symptom-state nootropic lore` page. For ranking, keep benfotiamine below established state-restoration comparators until BenfoTeam reports; keep TTFD below human-tested molecules until there is direct human cognition evidence; and route any self-experiment claim through baseline B1 status, alcohol/glycemic/gut/bariatric risk, dose, product form, cofactor/electrolyte stack, sleep, and adverse autonomic symptoms.
+Benfotiamine / TTFD is inclusion-worthy because it has both formal benfotiamine disease-context data and direct TTFD community salience, but the practical route is narrow. Treat it as a `thiamine-status / early-AD metabolic hypothesis / symptom-state nootropic lore` page. For ranking, keep benfotiamine below established state-restoration comparators until BenfoTeam reports; keep TTFD below human-tested molecules until there is direct human cognition evidence; and route any self-experiment claim through baseline B1 status, alcohol/glycemic/gut/bariatric risk, dose, product form, cofactor/electrolyte stack, sleep, and adverse autonomic symptoms. Use the safety matrix to keep gut, autonomic, deficiency-correction, and stimulant-stack narratives from being counted as direct cognition.
 
 ## Related Pages
 
@@ -55,6 +55,7 @@ Benfotiamine / TTFD is inclusion-worthy because it has both formal benfotiamine 
 - [[nutrient-supplement-cognition-signal-map]]
 - [[molecule-intake-triage-table]]
 - [[cognitive-improvement-molecule-signal-atlas]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[anecdote-led-chemical-heat-map]]
 
 ## Sources

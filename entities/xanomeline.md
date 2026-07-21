@@ -1,9 +1,9 @@
 ---
 title: Xanomeline
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
-tags: [domain-medicine, cognition, neuroscience, clinical-trial, dosage, mechanism, safety, controversy]
+tags: [domain-medicine, cognition, neuroscience, clinical-trial, dosage, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-9109749-xanomeline-alzheimer-cognitive-behavior.md, raw/articles/pubmed-9876958-xanomeline-ad-cntb.md, raw/articles/pubmed-41418563-xanomeline-trospium-cognitive-impairment-review.md]
 confidence: low
 contested: true
@@ -34,13 +34,15 @@ No dedicated xanomeline nootropic, patient-community, or self-experiment raw not
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Xanomeline improves cognition | anecdote | No dedicated anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | Historical AD muscarinic agonist | low | Formal AD trials dominate; adverse effects and discontinuation are central |
 
 ## Safety And Status
 
 Xanomeline's main lesson is that muscarinic cognition can be real and still impractical. The high-dose AD signal came with heavy cholinergic toxicity, including GI events, high discontinuation, and syncope. This is why the modern branch shifted toward [[xanomeline-trospium]] and receptor-selective PAMs such as [[vu0467319-vu319]] and [[emraclidine]].
+
+Route xanomeline claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting them as nootropic evidence. The key gates are AD impairment-state effects, dose/tolerability, syncope, GI burden, washout effects, and whether modern xanomeline-trospium or PAM data are being incorrectly borrowed.
 
 ## Signal Judgment
 
@@ -56,3 +58,4 @@ Practical route: historical clinical comparator and proof that muscarinic activa
 - [[muscarinic-agent-cognition-watchlist]]
 - [[cholinergic-and-nicotinic-agents-2026-scan]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

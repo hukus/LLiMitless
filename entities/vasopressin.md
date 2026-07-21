@@ -1,7 +1,7 @@
 ---
 title: Vasopressin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, neuroscience, peptides, clinical-trial, preclinical, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-20447617-arginine-vasopressin-social-memory-faces.md, raw/articles/pubmed-31128568-oxytocin-vasopressin-null-social-paradigms.md, raw/articles/pubmed-41765123-vasopressin-social-comparison-2026.md, raw/articles/pubmed-41734211-vasopressin-fear-response-dynamics-2026.md, raw/articles/pubmed-41862144-oxytocin-vasopressin-crosstalk-sexually-dimorphic-psychiatric-conditions.md, raw/articles/pubmed-39304743-vasopressin-social-play-sex-specific-glutamate-lateral-septum.md]
@@ -30,19 +30,23 @@ The newer 2026 human studies sharpen the phenotype rather than broadening it. In
 
 The review and animal layers make interpretation more conditional. A 2026 review frames oxytocin/vasopressin crosstalk as sexually dimorphic and diagnosis-dependent, while a preclinical social-play paper points to sex-specific glutamate signaling in the lateral septum. That supports a moderator-heavy model rather than a universal enhancer model.^[raw/articles/pubmed-41862144-oxytocin-vasopressin-crosstalk-sexually-dimorphic-psychiatric-conditions.md]^[raw/articles/pubmed-39304743-vasopressin-social-play-sex-specific-glutamate-lateral-septum.md]
 
+June 2026 attribution gate: vasopressin should stay a narrow social-memory / threat-processing peptide, not a broad memory or executive-function enhancer. Future reports need product identity, route/formulation and device, dose schedule, sex/context, threat or social-comparison state, hydration/BP context, receptor-cross-talk assumptions, social-memory task, adverse behavioral or cardiovascular effects, and objective transfer endpoints before any ranking comparison with [[oxytocin]], [[desmopressin]], [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+
 ## Anecdote Signal
 
 No vasopressin-specific cognition anecdote raw note is currently indexed. Some desmopressin threads borrow the vasopressin-memory reputation, but that should stay on [[desmopressin]] and should not upgrade vasopressin efficacy.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Vasopressin improves social memory or social cognition | anecdote | No dedicated vasopressin cognition anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | social-memory / threat-processing discourse | low | Formal signal is task-specific and broader social-cognition testing is null |
 
 ## Safety And Status
 
 The practical cognition risk is behavioral directionality. Vasopressin can plausibly sharpen threat, social comparison, or self-protective processing, which may not be desirable and may not improve performance. Hydration, blood pressure, sex/context dependence, and receptor cross-talk with oxytocin pathways matter for interpretation.
+
+Route vasopressin anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before treating them as cognition evidence. The main gates are threat/arousal state, social-comparison context, sex/context, hydration/BP, nasal route, receptor cross-talk with [[oxytocin]], and whether a "memory" effect is specific to emotional faces or broader transfer.
 
 ## Signal Judgment
 
@@ -57,5 +61,8 @@ Practical route: social-memory and threat-processing comparator, not a broad enh
 - [[oxytocin-vasopressin-desmopressin-social-memory-2026-scan]]
 - [[oxytocin]]
 - [[desmopressin]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[delivery-validation-checklist-for-cognition-interventions]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]
 - [[self-experimentation-stop-rules]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

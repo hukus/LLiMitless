@@ -1,7 +1,7 @@
 ---
 title: Uridine
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, preclinical, clinical-trial, dosage, safety, anecdote, mechanism, comparison, controversy]
 sources: [raw/articles/pmc-2574024-uridine-dha-gerbil-learning-memory.md, raw/articles/pubmed-20129316-souvenaid-mild-ad-rct.md, raw/articles/pubmed-24280255-sconnect-souvenaid-mild-moderate-ad-null.md, raw/articles/pmc-7821311-lipididiet-fortasyn-36mo-prodromal-ad.md, raw/articles/pubmed-28222577-agpc-uridine-dha-acute-null.md, raw/articles/pmc-3040752-triacetyluridine-bioavailability.md, raw/articles/pmc-9873946-ump-food-intake-healthy-humans.md, raw/articles/dailymed-vistogard-uridine-triacetate-label.md, raw/articles/cochrane-2020-souvenaid-ad-review.md, raw/articles/reddit-2025-uridine-nootropics-must-thread.md]
@@ -43,6 +43,8 @@ Route uridine through [[common-nootropic-gray-zone-molecule-watchlist]], [[gray-
 
 Do not interchange [[uridine]], [[dietary-nucleotides]], [[dha-epa]], [[alpha-gpc]], [[citicoline]], Fortasyn/Souvenaid, and prescription uridine triacetate. DailyMed labels prescription Vistogard as uridine triacetate 10,000 mg oral granules for fluorouracil/capecitabine overdose or early severe toxicity, which is a drug-identity anchor rather than a nootropic rationale.^[raw/articles/dailymed-vistogard-uridine-triacetate-label.md] The useful current role is boundary control: identify whether a claim is a disease-context multinutrient formula, an acute healthy-adult stack, a PK/form claim, or an anecdote.
 
+Route uridine / UMP / triacetyluridine stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mood, executive-function, sleep-inertia, or "normal function" claims as cognition. The first gates are form identity, choline donor, DHA/omega-3 status, caffeine/stimulants, sleep timing, disease-formula versus supplement-stack context, and whether dechallenge separates uridine from the rest of the stack.
+
 ## Related Pages
 
 - [[common-nootropic-gray-zone-molecule-watchlist]]
@@ -50,6 +52,7 @@ Do not interchange [[uridine]], [[dietary-nucleotides]], [[dha-epa]], [[alpha-gp
 - [[choline-donor-cognition-signal-map]]
 - [[nutrient-supplement-cognition-signal-map]]
 - [[food-derived-cognition-leads-2026-scan]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[dietary-nucleotides]]
 - [[dha-epa]]
 - [[alpha-gpc]]

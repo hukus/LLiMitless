@@ -1,10 +1,10 @@
 ---
 title: Anti-Tolerance and Periodization in Cognitive Enhancement
 created: 2026-04-27
-updated: 2026-04-30
+updated: 2026-06-15
 type: query
-tags: [comparison, cognition, protocol, safety, controversy, dosage, timeline]
-sources: [raw/articles/pubmed-15319017-weekend-holidays-methylphenidate-adhd.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-35791877-repeated-low-dose-caffeine-sleep-deprivation-cognition.md, raw/articles/pubmed-38830861-repeated-caffeine-intake-sleep-restriction-gm.md, raw/articles/pubmed-39377163-caffeine-dose-timing-subsequent-sleep.md, raw/articles/pubmed-41124973-age-dose-specific-effects-caffeine-sleep-meta-analysis.md, raw/articles/pubmed-10767651-modafinil-long-term-narcolepsy.md, raw/articles/pubmed-38790126-modafinil-aviators-sleep.md, raw/articles/pubmed-38823543-caffeine-modafinil-avl3288-cx516-sleep-deprivation.md, raw/articles/pubmed-33735707-methylphenidate-cognitive-performance-washout.md, raw/articles/pubmed-39629771-methylphenidate-drug-holidays-adhd-emotion-regulation.md, raw/articles/pubmed-39601808-methylphenidate-discontinuation-n1-pilot.md]
+tags: [comparison, cognition, peptides, protocol, safety, controversy, dosage, timeline, anecdote]
+sources: [raw/articles/pubmed-15319017-weekend-holidays-methylphenidate-adhd.md, raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md, raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md, raw/articles/pubmed-35791877-repeated-low-dose-caffeine-sleep-deprivation-cognition.md, raw/articles/pubmed-38830861-repeated-caffeine-intake-sleep-restriction-gm.md, raw/articles/pubmed-39377163-caffeine-dose-timing-subsequent-sleep.md, raw/articles/pubmed-41124973-age-dose-specific-effects-caffeine-sleep-meta-analysis.md, raw/articles/pubmed-10767651-modafinil-long-term-narcolepsy.md, raw/articles/pubmed-38790126-modafinil-aviators-sleep.md, raw/articles/pubmed-38823543-caffeine-modafinil-avl3288-cx516-sleep-deprivation.md, raw/articles/pubmed-33735707-methylphenidate-cognitive-performance-washout.md, raw/articles/pubmed-39629771-methylphenidate-drug-holidays-adhd-emotion-regulation.md, raw/articles/pubmed-39601808-methylphenidate-discontinuation-n1-pilot.md, raw/articles/troof-nootropics-ratings-analysis.md, raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md, raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md, raw/articles/reddit-2026-bromantane-thread-trail.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 confidence: medium
 ---
 
@@ -13,6 +13,8 @@ confidence: medium
 ## Summary
 
 Direct evidence for "periodization" as a general cognitive-enhancement strategy is thin. The current human evidence is mostly indirect: stimulant discontinuation studies, caffeine timing studies, and repeated wake-promoter work showing that the measured state can change faster than people usually admit.
+
+June 2026 peptide/nootropic update: periodization language should be even stricter for gray-market peptides and high-salience nootropics. For [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]], cycling or washout should be treated first as an attribution and safety tool, not as evidence that "anti-tolerance" works. For de-ranked or state-bound nodes such as [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]], a cycle report is incomplete unless it records source/COA, route/formulation, stack order, washout length, recovery state, sleep, caffeine, adverse events, and dechallenge/rechallenge.^[raw/articles/troof-nootropics-ratings-analysis.md]^[raw/articles/darktka-2017-nootropics-survey-on-r-nootropics.md]^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]^[raw/articles/reddit-2026-bromantane-thread-trail.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 What changed since 2024:
 
@@ -25,10 +27,11 @@ What changed since 2024:
 - Modafinil still has durability signals, but not a general anti-tolerance proof. It retained wakefulness benefit after 16 weeks in narcolepsy, and a 2024 aviation trial found no clear objective post-test sleep penalty after a midnight 200 mg dose.^[raw/articles/pubmed-10767651-modafinil-long-term-narcolepsy.md]^[raw/articles/pubmed-38790126-modafinil-aviators-sleep.md]
 - In the animal literature, repeated caffeine and modafinil can produce time-dependent changes rather than stable first-dose effects, and the authors explicitly described tolerance to the caffeine anxiolytic effect and to AVL-3288 memory effects over time.^[raw/articles/pubmed-38823543-caffeine-modafinil-avl3288-cx516-sleep-deprivation.md]
 - Caffeine withdrawal remains a confound: a caffeine challenge in withdrawn consumers still improved cognition, while the balanced-placebo design showed pharmacology dominated over expectancy for withdrawal and cognitive performance.^[raw/articles/pubmed-22992376-caffeine-attention-withdrawn-consumers.md]^[raw/articles/pubmed-30861208-expectancy-caffeine-withdrawal-balanced-placebo-design.md]
+- Peptide and gray-market nootropic cycles now have to separate tolerance from attribution. A "Semax cycle," "Selank cycle," "Bromantane break," "BPC-157 recovery block," or "Dihexa / Pinealon / Epithalon run" can reflect route, source, stack order, sleep, injury recovery, stimulant co-use, expectation, or adverse-event avoidance rather than true pharmacologic tolerance management.^[raw/articles/reddit-2026-04-29-semax-selank-cerebrolysin-advice-thread.md]^[raw/articles/reddit-2026-bromantane-thread-trail.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 The working conclusion is narrower than the idea name suggests: schedule changes currently look more defensible as a tolerability, sleep-protection, and withdrawal-management tool than as a proven way to increase long-run cognitive gains. For healthy-enhancement claims, the burden of proof is still on the person arguing that cycling beats stable dosing.
 
-For nearby context, see [[pharmacology-comparator-map]], [[sleep-and-circadian-interventions-for-cognition]], [[cbt-i-and-cognition]], and [[practical-cognitive-measurement-stack]].
+For nearby context, see [[pharmacology-comparator-map]], [[sleep-and-circadian-interventions-for-cognition]], [[cbt-i-and-cognition]], [[practical-cognitive-measurement-stack]], [[molecule-triage-worksheet-for-online-scans]], and [[peptide-stack-topology-ledger]].
 For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-enhancement]].
 
 ## Top Sources
@@ -55,6 +58,7 @@ For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-e
 - Mechanistic state-shift evidence: repeated caffeine with chronic sleep restriction and grey-matter response.
 - Sleep-carryover evidence: caffeine dose/timing effects on subsequent sleep.
 - Interpretive confound evidence: caffeine challenge after withdrawal.
+- Peptide/nootropic cycle evidence: mostly anecdote and protocol lore; use it for washout, adverse-event, and attribution design, not efficacy or anti-tolerance proof.
 
 ## Effect Size Snapshot
 
@@ -74,6 +78,7 @@ For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-e
 - Caffeine timing can directly worsen subsequent sleep, especially at 400 mg close to bedtime.
 - Modafinil continuation in narcolepsy had no significant signal for nocturnal sleep, BP, HR, ECG, weight, or mood in the abstracted window.
 - The animal tolerance signal is a reminder that repeated dosing can flip from acute benefit to blunted benefit without warning.
+- For peptides, the safety question is often not classic tolerance but whether repeated exposure, route, source, fixed blends, injection/nasal technique, hypersensitivity, sleep disruption, or recovery-state co-interventions are being hidden by cycle language.
 
 ## Responder Phenotypes
 
@@ -96,6 +101,7 @@ For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-e
 - Repeated low-dose caffeine sleep deprivation study: 6 mg/kg baseline night or three 2 mg/kg doses during total sleep deprivation.
 - Chronic sleep restriction study: repeated daily caffeine versus decaf during a 5-day restricted-sleep protocol.
 - Chronic sleep-deprivation animal model: daily caffeine 5 mg/kg and modafinil 40 mg/kg, with cognition tested every six days.
+- Peptide/nootropic cycle reports: record source/COA, route/formulation, dose, stack order, cycle length, washout length, dechallenge/rechallenge, recovery state, sleep, caffeine/nicotine/wake-promoter exposure, and adverse events before interpreting a "reset" or "tolerance break."
 
 ## Open Contradictions
 
@@ -104,6 +110,7 @@ For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-e
 - Repeated caffeine does not necessarily preserve the same brain-state response over days.
 - Methylphenidate holidays can reduce side effects, but they can also remove some benefits.
 - Drug holidays and washouts look useful for interpretability, but the evidence base is disorder-specific.
+- Peptide cycling can improve interpretability while still being weak evidence: a positive cycle, tolerance break, or washout story can be source-, route-, stack-, sleep-, injury-, or expectation-mediated rather than pharmacologic tolerance.
 
 ## Actionable Wiki Updates
 
@@ -111,3 +118,4 @@ For the broader scheduling heuristic, see [[plasticity-budgeting-for-cognitive-e
 - Keep this page linked from [[most-promising-methods-for-cognition]] and [[healthy-adult-cognition-signals]] as the cautionary protocol layer.
 - Cross-link this page with [[active-comparator-and-caffeine-scheduling-confound-audit]] so schedule, withdrawal, and practice effects stay separate.
 - Add a short note in [[practical-cognitive-measurement-stack]] that any self-experiment on caffeine or stimulants should include off-days or washout days to separate benefit from withdrawal.
+- Route peptide and gray-market nootropic cycles through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[delivery-validation-checklist-for-cognition-interventions]], and [[peptide-stack-topology-ledger]] before treating cycle reports as evidence of tolerance, durability, or efficacy.

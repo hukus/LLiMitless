@@ -1,7 +1,7 @@
 ---
 title: Emoxypine / Mexidol
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubchem-2026-emoxypine-mexidol-identity.md, raw/articles/fda-gsrs-2026-emoxypine-succinate-identity.md, raw/articles/openfda-2026-emoxypine-mexidol-drugsfda-no-match.md, raw/articles/clinicaltrials-2026-nct06834490-mexidol-memo-results.md, raw/articles/pubmed-36412160-mexidol-memo-age-subanalysis.md, raw/articles/clinicaltrials-2026-nct06221826-mexidol-acute-cerebral-failure-rehab-results.md, raw/articles/clinicaltrials-2026-nct06437626-mexidol-mir-stroke-results.md, raw/articles/pmc-9389226-emoxypine-review.md, raw/articles/pubmed-38004395-emhps-transporter-interaction.md, raw/articles/reddit-2023-emoxypine-thread.md]
@@ -50,7 +50,7 @@ Sourcing is not a footnote. The formal evidence is for named Mexidol regimens, i
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Emoxypine can reduce anxiety, help hangovers/alcohol recovery, or clear brain fog | `anecdote` | raw/articles/reddit-2023-emoxypine-thread.md; Reddit /r/Nootropics | many mixed replies in one thread; `strong` salience | 125-250 mg-style community use, alcohol/hangover and anxiety contexts | low | Mood/recovery confounding; not objective cognition; sourcing and chronic-use uncertainty |
 | Emoxypine can feel relaxing or "oxygenating" | `anecdote` | raw/articles/reddit-2023-emoxypine-thread.md; Reddit /r/Nootropics | repeated subjective language; `moderate` for cognition attribution | relaxation, blood-flow/oxygenation feelings, brain fog | low | Could be anxiolysis, expectancy, hangover recovery, or nonspecific state change |
@@ -60,4 +60,6 @@ Sourcing is not a footnote. The formal evidence is for named Mexidol regimens, i
 
 For the molecule atlas, [[emoxypine-mexidol]] deserves standalone inclusion because the MEMO record is stronger than a generic watchlist mention. The signal should still be routed as `clinical-state/regional`, not `healthy-adult nootropic`: CCI and stroke-recovery data do not establish benefit in rested healthy adults, and Reddit salience mostly tracks anxiety, alcohol recovery, and subjective clarity.
 
-Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[picamilon]], [[pyritinol]], [[bromantane]], [[selegiline]], and [[pharmacology-comparator-map]].
+Use [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading emoxypine anecdotes, especially when alcohol/hangover recovery, anxiety relief, vascular disease, IV-to-oral Mexidol protocols, transporter-interaction concerns, or gray-market salt/form identity are part of the story.
+
+Related pages: [[legacy-regional-botanical-nootropic-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[picamilon]], [[pyritinol]], [[bromantane]], [[selegiline]], and [[pharmacology-comparator-map]].

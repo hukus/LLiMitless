@@ -1,7 +1,7 @@
 ---
 title: N-Methyl-Cyclazodone
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, safety, dosage, case-report, anecdote, mechanism, controversy]
 sources: [raw/articles/pubchem-2026-cyclazodone-nmethylcyclazodone-identity.md, raw/articles/clinical-toxicology-2022-n-methyl-cyclazodone-toxicity.md, raw/articles/acg-2022-n-methylcyclazodone-online-hormones-dili.md, raw/articles/reddit-2020-2026-cyclazodone-nmc-threads.md, raw/articles/wada-2026-stimulant-list-afinils-pemoline-tesofensine.md]
@@ -26,7 +26,7 @@ Anecdote signal: `moderate, polarized`. Forum users describe NMC as cleaner, lon
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | NMC feels cleaner, stronger, or longer-lasting than cyclazodone | `anecdote` | raw/articles/reddit-2020-2026-cyclazodone-nmc-threads.md; Reddit comments | recurring comments; `weak-moderate` | Research-chemical stimulant comparisons, focus/work use | low | No objective testing, uncertain identity/dose, stimulant tolerance, legal/source confounds, and body-load counterreports |
 | NMC has liver/body-load risk despite some users reporting normal labs | `anecdote` plus `case-report` | raw/articles/reddit-2020-2026-cyclazodone-nmc-threads.md and raw/articles/clinical-toxicology-2022-n-methyl-cyclazodone-toxicity.md | mixed forum debate plus one lab-confirmed toxicity case; `moderate` salience | Pemoline-derivative risk debate | low | Forum lab claims are unverifiable; formal case was high-dose/misuse and medication-confounded, but still clinically important |
@@ -37,8 +37,8 @@ Anecdote signal: `moderate, polarized`. Forum users describe NMC as cleaner, lon
 - Do not infer safety from normal self-reported liver labs in forum comments; pemoline's liver-risk history and NMC case reports make idiosyncratic and high-dose risk central.
 - Watch ECG/QRS/QTc, autonomic activation, movement disorder, CK/rhabdomyolysis, liver markers, psychiatric medications, serotonergic agents, and product identity.
 - For cognition claims, benchmark against [[modafinil]], [[methylphenidate]], [[solriamfetol]], and [[bupropion]] before calling NMC unusually useful.
+- Route NMC reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before using focus, body-load, or lab-anecdote claims for ranking.
 
 ## Current Route
 
-NMC belongs in [[pemoline-adjacent-gray-market-stimulant-watchlist]], [[cyclazodone]], [[pemoline]], [[anecdote-led-chemical-heat-map]], and [[regulatory-and-sports-visibility-map]]. Current verdict: community-salient, but too safety- and source-constrained to enter any cognition-positive tier.
-
+NMC belongs in [[pemoline-adjacent-gray-market-stimulant-watchlist]], [[cyclazodone]], [[pemoline]], [[anecdote-led-chemical-heat-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]]. Current verdict: community-salient, but too safety- and source-constrained to enter any cognition-positive tier.

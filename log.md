@@ -1,3 +1,27 @@
+## [2026-06-15] entity | Social-memory peptide attribution gates tightened
+
+- Updated [[oxytocin]], [[vasopressin]], [[desmopressin]], [[oxytocin-vasopressin-desmopressin-social-memory-2026-scan]], and [[index]] so social/apathy, threat-processing, old memory, and fluid-balance signals do not drift into broad nootropic ranking.
+- Kept [[oxytocin]] as an FTD-apathy and social-behavior node requiring product identity, route/device, dose schedule, sex/context, diagnosis or baseline social phenotype, sleep state, co-interventions, social task or apathy endpoint, adverse behavioral effects, and objective endpoints before ranking changes.
+- Kept [[vasopressin]] and [[desmopressin]] safety- and context-gated: vasopressin needs threat/social-comparison, hydration/BP, sex/context, and transfer-endpoint detail; desmopressin needs prescription identity, sodium/fluid restriction, renal/hyponatremia, nasal absorption, POTS/hypovolemia, BP, adverse-event, and objective memory detail before nootropic interpretation.
+
+## [2026-06-15] comparison | Peptide delivery gate added
+
+- Updated [[delivery-validation-checklist-for-cognition-interventions]] and [[index]] so the delivery gate now covers peptide nootropic and recovery reports, not only devices and intranasal insulin.
+- Added the June 2026 peptide route/formulation rule: route, salt/formulation, source/COA, washout, stack order, recovery state, and co-interventions must be explicit before Semax/Selank, Pinealon/Epithalon, Dihexa, BPC-157, PE-22-28, or Adamax anecdotes count as delivered exposure.
+- Routed peptide delivery claims back through [[peptide-stack-topology-ledger]] and [[oral-vs-subq-epithalon-pinealon-dihexa]] to keep route lore, fixed blends, and sourcing uncertainty from inflating cognition signal.
+
+## [2026-06-15] ideas | Peptide anecdote frontier planning split refreshed
+
+- Updated `IDEAS.md` so the nootropic peptide anecdote frontier no longer treats [[semax]], [[selank]], [[cerebrolysin]], [[bpc-157]], [[dihexa]], [[pinealon]], [[adamax]], and [[pe-22-28]] as one flat hot-list.
+- Reframed the idea and study sketch around the current hierarchy: strongest monitoring nodes first, de-ranked/state-bound/vendor-label/frontier nodes separately, with COA, route/timing, washout, stack-attribution, sleep/caffeine, and recovery-state controls.
+- Added the main community-dataset and Semax/Selank/Cerebrolysin thread sources to the `IDEAS.md` source spine.
+
+## [2026-06-15] comparison | Pinealon bioregulator comparison aligned
+
+- Updated [[pineal-peptide-bioregulator-comparison]] and [[index]] so Pinealon is no longer described as a preclinical-only leaf node after the newer entity and scan pages added indirect human, human-cell, and forum-anecdote layers.
+- Kept the de-ranking intact: [[pinealon]] now routes as a state-bound recovery/sleep hypothesis below [[semax]], [[selank]], [[cerebrolysin]], and recovery-bound [[bpc-157]], not as a broad healthy-adult nootropic candidate.
+- Added the Pinealon geroprotective-comparison, induced-neuron, short-peptide mechanism, and sleep/TBI/brain-fog anecdote sources to the comparison spine.
+
 ## [2026-04-28] query | caffeine comparator module expanded
 
 - Marked `PR-07` in `TODO.md` as in progress, then expanded `queries/30-day-self-study-template-for-nonprescription-interventions.md` with a dedicated caffeine/comparator scheduling module.
@@ -3024,3 +3048,829 @@
 - Created [[retatrutide]] as a GIP/GLP-1/glucagon triple-agonist entity with formal cognition signal separated from anecdote. The current read is low-confidence and bidirectional: no Phase 3 cognition endpoint yet; anecdotal reports include mental clarity/brain-fog relief as well as fatigue, anhedonia, brain fog, memory/recall issues, and low motivation.
 - Updated [[incretin-therapies-brain-health]] and `index.md`.
 - Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,810 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-06-11] coverage | Strongest anecdotal nootropic signals surfaced in cross-domain ledger
+
+- Updated [[anecdote-signal-ledger]] with a `Strongest Nootropic Anecdote Signals` prioritization table so the cross-domain ledger now surfaces the loudest captured molecule/nootropic anecdote branches instead of leaving them scattered across entity pages and [[anecdote-led-chemical-heat-map]].
+- Added explicit ledger rows for [[modafinil]], [[lisdexamfetamine]], and [[mucuna-pruriens]] beside the existing [[phenylpiracetam]] row, with signal size/strength, context, confidence, and caveats kept anecdote-only.
+- Current read: strongest anecdotal signals remain useful for prioritization, source/safety audits, and study design, not efficacy upgrading. Phenylpiracetam has the largest structured-community heat; modafinil is the strongest subjective-use prescription benchmark; lisdexamfetamine is strong but ADHD-state and Schedule-II bound; Mucuna is strong for dopaminergic motivation salience but risk-first; phenibut and tianeptine stay de-ranking safety exemplars.
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,810 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-06-11] ideas | New frontier directions added to IDEAS.md after ingesting wiki conventions
+
+- Re-read the wiki's operating instructions (`SCHEMA.md`, existing `IDEAS.md` sections 1-14, `TODO.md`, `index.md`) to learn the conventions, evidence-layer separation, anecdote rules, and current coverage before proposing anything.
+- Appended two new sections to `IDEAS.md` and bumped `updated` to 2026-06-11. Section 15 (`Structural Directions`) proposes evolving the wiki from a catalog into a decision engine: a reproducible composite-score rubric, a living machine-readable effect-size database, a calibrated forecast layer on [[registry-result-status-watchlist]]/[[online-evidence-freshness-dashboard]], evidence half-life/staleness decay, a standing Mendelian-randomization causal-triage lane, an adversarial red-team of the wiki's own top claims, and a cross-page interaction/contraindication graph.
+- Section 16 (`Missing Content Lanes`) flags non-biological gaps confirmed absent from index/TODO/IDEAS: behavioral/learning-science levers, exposome/environmental degraders, sensory (hearing/vision) correction, a vascular/cardiorespiratory "biggest levers" reframe, whole-diet patterns, a pharmacogenomics responder gate, human-AI cognitive augmentation/offloading, closed-loop neurofeedback/consumer BCI, and hormonal-cycle/sex-difference moderation.
+- Highlighted two highest-leverage bets relative to the "limitless" goal: the behavioral/learning-science cluster and human-AI cognitive augmentation, both to be scanned on the shared [[endpoint-dictionary-for-cognition-interventions]] axes.
+- All new items kept as `confidence: low` hypothesis-generation prompts, not recommendations. No new pages created, so `index.md` needs no new entries; coverage of proposed gap topics was verified by grep against `index.md`, `TODO.md`, and `IDEAS.md`.
+
+## [2026-06-11] ideas | Deep nootropics-specific frontier section added to IDEAS.md
+
+- Probed the index/TODO for nootropic-specific depth and confirmed absent or single-mention gaps: no Giurgea definitional gate, no oral stack-design framework (`stacking`/`cycling`/`synergy` near-absent), tolerance coverage is stimulant/caffeine-centric in [[anti-tolerance-periodization-in-cognitive-enhancement]], `COA`/`adulterant`/`sublingual`/`dose-response`/`microdose` each appear 0-1 times.
+- Appended Section 17 to `IDEAS.md` ("Going Deeper Into Nootropics — From a Compound List Into a Nootropics Science") with six lanes: (A) Giurgea-type definitional gate keyed to [[endpoint-dictionary-for-cognition-interventions]]; (B) oral stack-topology/attribution layer extending [[peptide-stack-topology-ledger]]; (C) mechanism-keyed tolerance/rebound map beyond the existing stimulant-centric periodization page; (D) independent-assay/label-accuracy product-truth gate building on [[peptide-safety-and-sourcing-risk-map]] and [[supplement-identity-evidence-map]]; (E) the felt-vs-measured dissociation as a named measurable construct; (F) route/formulation/dose-response lane extending [[delivery-validation-checklist-for-cognition-interventions]] and [[oral-vs-subq-epithalon-pinealon-dihexa]].
+- Flagged product-truth (D) and stack-as-unit (B) as the two highest-yield deepenings (they explain why community signals are loud yet hard to replicate), with the definitional gate (A) as the cheapest fix for the most common category error in the ledgers.
+- All items kept `anecdote`/`confidence: low` as hypothesis-generation prompts. No new pages created; `index.md` unchanged.
+
+## [2026-06-11] coverage | Already-covered high-signal nootropics promoted in anecdote ledger
+
+- Updated [[anecdote-signal-ledger]] to surface already-covered high-anecdote nodes rather than treating them as missing research targets.
+- Added [[bromantane]] as a `moderate-strong` state-bound activation / fatigue-rescue anecdote signal with WADA, sourcing, route, sleep, tolerance, and asthenia/rescue-state caveats.
+- Strengthened the [[semax]] / [[selank]] / [[cerebrolysin]] peptide-cluster row from generic `moderate` forum salience to `strong` survey-plus-forum salience, while keeping Semax/Selank routed as stress/recovery-state leads and Cerebrolysin as the formal-evidence peptide exception rather than a casual supplement.
+- Added both branches to the `Strongest Nootropic Anecdote Signals` table so the top-level ledger now reflects the coverage already present in entity pages, [[cognitive-improvement-molecule-signal-atlas]], and [[nootropic-peptide-anecdote-frontier-2026-scan]].
+- Validation: `wiki_lint.py` passed with 0 errors / 0 warnings, and `npm run site:validate` passed with 2,810 public pages, 0 broken links, 0 duplicates, and 0 orphans.
+
+## [2026-06-11] freshness | Peptide regulatory live-watch status tightened
+
+- Updated [[peptide-regulatory-live-watch-board]] with a June 2026 freshness check for the peptide compounding review track.
+- Current read: the July 23-24, 2026 FDA PCAC agenda is a live regulatory watch item, not a reversal, clearance, safety upgrade, or cognition-efficacy signal. Keep BPC-157, KPV, TB-500, MOTS-c, Semax, Epitalon, and emideltide/DSIP-related substances in `pending` status until FDA posts packets, votes, transcripts, minutes, or final status changes.
+- Kept the GLP-1 503B bulks proposal separate from nootropic-peptide interpretation: the semaglutide/tirzepatide/liraglutide comment deadline is a compounding-policy watch item, not evidence about Semax, Selank, BPC-157, TB-500, or Epitalon.
+
+## [2026-06-11] coverage | Cerebrolysin latest mechanism and case-report layer aligned
+
+- Updated [[cerebrolysin-2026-scan]] and [[cerebrolysin]] so the formal-evidence peptide exception now includes the latest captured aged-mouse memory/spine paper, hypertensive-rat recognition-memory paper, ketamine-model cognition/anxiety paper, and post-HSV-encephalitis / glioma recovery case-report notes.
+- Current read: the added sources broaden the recovery-state and mechanism map, but they do not upgrade Cerebrolysin into a healthy-adult nootropic. The strongest human cognition anchors remain older AD RCTs, very-low-certainty vascular-dementia evidence, open/comparative aMCI evidence, and observational stroke MoCA/recovery signals counterweighted by acute-stroke Cochrane safety/hard-outcome caution.
+- Kept community praise and adverse reports routed through [[nootropic-peptide-anecdote-frontier-2026-scan]] and [[peptide-stack-topology-ledger]] rather than merging them into medicinal confidence.
+
+## [2026-06-11] coverage | Semax/Selank anecdote routing tightened
+
+- Updated [[semax-selank-2026-scan]] with a schema-style `Anecdote Ledger` so the strong peptide-community signal is explicit but still kept separate from formal evidence.
+- Updated [[semax]] and [[selank]] with the June 2026 `strong salience, low confidence` read, pointing their entity summaries back to the scan-level split.
+- Current read: Semax remains the focus-under-strain / recovery-state candidate with older regional human recovery anchors and modern preclinical mechanism work; Selank remains the calmer anxiety/asthenia-state candidate. Survey and forum heat upgrades monitoring priority, not efficacy confidence.
+
+## [2026-06-11] coverage | Bromantane entity aligned with high-signal ledger
+
+- Updated [[bromantane]] with a June 2026 `moderate-strong anecdotal salience, low formal cognition confidence` read.
+- Added the Troof ratings and 2017 nootropics survey raw notes to the entity source list, and added a schema-style `Anecdote Ledger` separating drive/work-output/exercise-intensity reports from no-effect, haze, sleep-disruption, and tolerance-drift counterreports.
+- Current read: bromantane remains a state-bound activation / fatigue-rescue lead rather than a proven healthy-adult nootropic. The strongest formal evidence is still asthenia/rescue-state and small psychophysiology work; community heat upgrades monitoring priority, not efficacy confidence.
+
+## [2026-06-11] coverage | Phenylpiracetam entity aligned with very-high community heat
+
+- Updated [[phenylpiracetam]] with a June 2026 `very-high anecdotal salience, phenotype-bound formal evidence` read.
+- Added the Troof ratings-analysis and 2017 nootropics survey raw notes to the entity source list, and expanded the `Anecdote Ledger` so the Troof denominator, 2017 focus signal, tolerance-sensitive forum lore, and broad-enhancement mismatch are separated.
+- Current read: phenylpiracetam remains the clearest high-heat racetam-style community signal, but the best newer formal human package is still asthenia / fatigue / recovery, not rested healthy-adult cognition. WADA sports visibility stays a status constraint rather than an efficacy claim.
+
+## [2026-06-11] coverage | Mucuna risk-first anecdote ledger normalized
+
+- Updated [[mucuna-pruriens]] with a June 2026 `strong dopaminergic salience with adverse counterweight` read.
+- Normalized the entity's `Anecdote Ledger` to the current schema-style columns, separating the high-salience motivation/task-initiation thread, the adverse body-state thread, and the broad healthy-adult cognition mismatch.
+- Current read: Mucuna is worth tracking because it is pharmacologically active L-DOPA exposure with strong motivation lore, not because it is a proven nootropic. Product identity, extract percentage, levodopa amount, Parkinson's-treatment confounding, tolerance/addiction concern, dyskinesia/psychiatric/orthostatic risk, and adverse anecdotes keep it risk-first.
+
+## [2026-06-11] coverage | Adrafinil and Noopept added to nootropic anecdote routing
+
+- Updated [[adrafinil]] with a June 2026 `moderate-strong focus salience, risk-first formal routing` read and an added mismatch row separating focus-positive survey signal from broad healthy-adult nootropic claims.
+- Updated [[noopept]] with a June 2026 `moderate classic-nootropic salience, low healthy-adult confidence` read, added the 2017 /r/Nootropics survey raw note to sources, and expanded the `Anecdote Ledger` to separate survey visibility, forum route/product reports, and healthy-adult efficacy mismatch.
+- Updated [[anecdote-signal-ledger]] so adrafinil and noopept now appear beside the already-promoted phenylpiracetam, modafinil, lisdexamfetamine, mucuna, bromantane, and Semax/Selank/Cerebrolysin signals.
+- Current read: adrafinil is loud enough to track as a gray-market eugeroic/prodrug comparator, but sourcing, WADA status, hidden-API analogs, liver/interaction monitoring, and lack of adrafinil-specific modern cognition evidence keep it risk-first. Noopept remains visible classic nootropic lore, but route, product identity, mixed adverse/no-effect reports, and vascular/post-traumatic formal evidence keep it below the strongest efficacy tier.
+
+## [2026-06-11] coverage | PRL-8-53 promoted as memory-specific one-study-plus-lore signal
+
+- Updated [[prl-8-53]] with a June 2026 `moderate memory-specific salience, low replication confidence` read.
+- Updated [[anecdote-signal-ledger]] so PRL-8-53 now appears in the schema-style `Anecdote Ledger`, the `Strongest Nootropic Anecdote Signals` routing table, and the formal-anchor table.
+- Current read: PRL-8-53 is one of the cleaner memory-specific anecdote-led candidates because it has one old double-blind human verbal-retention study and source-specific language-learning / recall / memory-consolidation lore. It still should not be upgraded beyond replication priority because the current pass did not surface modern replication, and product identity, sparse exposure, route irritation, post-offset brain fog, migraine/off-feeling reports, palpitations/chest-pain caveats, and stimulant co-use remain central.
+
+## [2026-06-11] coverage | NSI-189 and 9-Me-BC de-ranked in anecdote routing
+
+- Updated [[nsi-189]] with a June 2026 `moderate mood/plasticity lore, de-ranked for cognition` read, added the 2017 /r/Nootropics survey raw note to sources, and expanded the `Anecdote Ledger` to separate survey visibility, mood/emotionality lore, and broad healthy-adult cognition mismatch.
+- Updated [[9-me-bc]] with a June 2026 `weak-moderate dopamine-recovery lore, red-flagged for human-evidence gap` read and an added mismatch row separating motivation/dopamine-reset self-experimentation from human cognition proof.
+- Updated [[anecdote-signal-ledger]] so NSI-189 and 9-Me-BC now appear as explicit de-ranked plasticity/dopamine-lore nodes rather than silently sitting in [[anecdote-led-chemical-heat-map]].
+- Current read: NSI-189 and 9-Me-BC are worth tracking because their narratives are recurrent and mechanism-rich, but they should not sit in the positive nootropic tier. NSI-189 remains mood-first and depression-context; 9-Me-BC remains preclinical-first with salient light/sourcing/sleep/cycle concerns.
+
+## [2026-06-12] coverage | Aniracetam anecdote ledger normalized
+
+- Updated [[aniracetam]] with a June 2026 `moderate calm/social racetam lore, low healthy-adult confidence` read and added the `anecdote` tag.
+- Added a schema-style `Anecdote Ledger` separating calm focus/social fluency/memory-recall positives, fat-source and stack-context attribution, no-effect/tolerance/adverse counterreports, and the broad healthy-adult enhancer mismatch.
+- Updated [[anecdote-signal-ledger]] so Aniracetam now appears in the `Strongest Nootropic Anecdote Signals` routing table as a moderate calm/social racetam-lore branch and in the formal-anchor table as old disease/recovery evidence plus modern forum trail.
+- Current read: Aniracetam is worth keeping visible because the anecdote trail is specific and the historical clinical literature is real, but it remains below positive-tier ranking because placebo-controlled evidence is mixed, the formal context is disease/recovery-bound, responder markers are unstable, fat/source/stack dependence is prominent, and the 2026 FDA hidden-ingredient recall weakens consumer-market trust.
+
+## [2026-06-12] coverage | Methylene blue promoted in strongest anecdote routing
+
+- Updated [[methylene-blue]] with a June 2026 `strong redox/nootropic salience with narrow formal anchor` read and added a mismatch row to the entity-level `Anecdote Ledger`.
+- Updated [[anecdote-signal-ledger]] so methylene blue now appears in the schema-style `Anecdote Ledger`, the `Strongest Nootropic Anecdote Signals` table, and the formal-anchor table.
+- Current read: methylene blue is one of the rare anecdote-led nootropic chemicals with small human fMRI/memory anchors, but it remains a safety-screened redox / consolidation validation target rather than a broad daily enhancer because dose/formulation identity, serotonergic-medication and G6PD gates, task timing, and MB-plus-light attribution problems dominate.
+
+## [2026-06-12] coverage | Nicotine added as risk-first attention comparator
+
+- Updated [[nicotine]] with a June 2026 `strong risk-first attention salience, not a clean nootropic` read and added a broad daily-enhancer mismatch row to the entity-level `Anecdote Ledger`.
+- Updated [[anecdote-signal-ledger]] so nicotine now appears in the schema-style `Anecdote Ledger`, the `Strongest Nootropic Anecdote Signals` table, and the formal-anchor table.
+- Current read: nicotine deserves top-level routing because it is a real acute attention/arousal comparator and a visible nootropic-community signal, but it should be de-ranked as a practical nootropic because dependence, tolerance, withdrawal cycling, cardiovascular and sleep burden, route differences, nicotine-naive risk, and post-viral overexertion confounds dominate.
+
+## [2026-06-12] coverage | Creatine routed as formal strain-state nootropic comparator
+
+- Updated [[creatine]] with a June 2026 `formal strain-state lead with weak-moderate anecdote` read and added a universal-healthy-adult-nootropic mismatch row to the entity-level `Anecdote Ledger`.
+- Updated [[anecdote-signal-ledger]] so creatine now appears as the formal-evidence contrast case beside the strongest anecdote-led nootropic signals, with separate rows in the schema-style ledger, prioritization table, and formal-anchor table.
+- Current read: creatine should stay visible because the formal human signal is practical under sleep loss, high load, older/lower-reserve contexts, and selected menopause phenotypes, but its direct forum signal is mixed and the broad daily-enhancer claim remains weaker than the strain-state evidence.
+
+## [2026-06-12] coverage | Epithalon anecdote ledger normalized
+
+- Updated [[epithalon]] with a June 2026 `moderate sleep/circadian and brain-fog salience, low cognition confidence` read and added the `anecdote` tag.
+- Added a schema-style `Anecdote Ledger` separating mental-clarity / brain-fog positives, sleep-timing reports, no-effect / brain-fog counterreports, and the broad cognition-enhancer mismatch.
+- Updated [[anecdote-signal-ledger]] to note that Epithalon now has entity-level anecdote separation. Current read: the peptide remains active in forum and regulatory/sourcing lanes, but the formal bridge is circadian, melatonin, telomere/cell, and longevity-oriented rather than cognition-primary.
+
+## [2026-06-12] coverage | Pinealon anecdote ledger normalized
+
+- Updated [[pinealon]] with a June 2026 `moderate recovery-state and sleep anecdote salience, low cognition confidence` read and added the `anecdote` tag.
+- Expanded the entity-level `Anecdote Ledger` to separate recovery-state sleep/clarity positives, mild-TBI insomnia/alertness reports, brain-fog/memory/concentration positives, no-effect / worse-sleep counterreports, and the broad healthy-adult nootropic mismatch.
+- Updated [[anecdote-signal-ledger]] to note that Pinealon now has entity-level anecdote separation. Current read: Pinealon remains worth tracking as a state-restoration peptide hypothesis, but the formal bridge is hypoxia / oxidative-stress / neural-cell rescue plus older regional geroprotective exposure rather than a Pinealon-only cognition trial.
+
+## [2026-06-12] coverage | Dihexa de-ranked in strongest peptide anecdote routing
+
+- Updated [[dihexa]] and [[dihexa-2026-scan]] with a June 2026 `moderate high-upside rewiring salience, low-to-very-low human confidence` read.
+- Normalized Dihexa anecdote ledgers to split Semax-comparison / rewiring lore, route-optimization uncertainty, long-form memory / procedural-learning self-experiment claims, and the broad protocol-ready human nootropic mismatch.
+- Updated [[anecdote-signal-ledger]] so Dihexa appears as an explicit de-ranked peptide node beside the stronger Semax / Selank / Cerebrolysin cluster. Current read: Dihexa remains a salient synaptogenic hypothesis, but no human cognition trial or human PK/safety series is captured, FDA reports no identified human-exposure data for Dihexa acetate, route lore is improvised, and the founding oral / HGF-c-Met story is integrity-caveated.
+
+## [2026-06-12] coverage | PE-22-28 emerging peptide curiosity de-ranked
+
+- Updated [[pe-22-28]] with a June 2026 `weak-to-moderate emerging curiosity, very low human cognition confidence` read.
+- Added an entity-level `Anecdote Ledger` separating mild mood/anhedonia forum reports, vendor/blog nootropic-peptide framing, and the broad cognition-enhancer mismatch.
+- Updated [[anecdote-signal-ledger]] so PE-22-28 appears as a weak-moderate, de-ranked peptide curiosity node. Current read: the TREK-1 / mini-spadin preclinical story is real enough to monitor, but the human layer is still sparse, mood-skewed, vendor-adjacent, and missing human cognition, PK, protocol, and safety validation.
+
+## [2026-06-12] coverage | Adamax vendor-label signal de-ranked
+
+- Updated [[adamax]] with a June 2026 `weak vendor-label salience, absent human cognition evidence` read.
+- Normalized the entity-level `Anecdote Ledger` to separate the vendor identity claim, the "stronger Semax" forum/vendor label reuse, and the broad protocol-ready cognition-enhancer mismatch.
+- Updated [[anecdote-signal-ledger]] so Adamax appears as a weak, de-ranked vendor-label peptide node. Current read: Adamax is useful for Semax-family sourcing and identity-risk monitoring, but no Adamax-specific indexed peer-reviewed human evidence, PK, validated dose, safety dossier, or independent product-identity chain is captured, and parent Semax evidence should not transfer automatically.
+
+## [2026-06-12] coverage | Peptide stack topology aligned with entity-level ledgers
+
+- Updated [[peptide-stack-topology-ledger]] with a June 2026 read and an `Entity-Level Normalization Status` table for Semax/Selank, Cerebrolysin, Epithalon, Pinealon, Dihexa, PE-22-28, and Adamax.
+- Updated [[nootropic-peptide-anecdote-frontier-2026-scan]] so it now points readers to the newer entity-level ledgers rather than re-holding all peptide frontier claims in the scan page.
+- Current read: the coordination pages now make stack attribution stricter. Semax/Selank/Cerebrolysin remain the strongest peptide anecdote cluster, while Epithalon/Pinealon stay state-bound and Dihexa/PE-22-28/Adamax remain de-ranked for human cognition proof, route uncertainty, or vendor-label dependence.
+
+## [2026-06-12] coverage | Molecule atlas peptide routing split
+
+- Updated [[cognitive-improvement-molecule-signal-atlas]] so the central anecdote ledger no longer collapses all peptide frontier claims into one row.
+- Split the peptide layer into four routing rows: strongest nootropic peptide cluster ([[semax]], [[selank]], [[cerebrolysin]]), state-bound pineal bioregulators ([[epithalon]], [[pinealon]]), de-ranked high-upside/vendor-label nodes ([[dihexa]], [[pe-22-28]], [[adamax]]), and GH-axis stack anecdotes ([[cjc-1295]], [[ipamorelin]], tesamorelin-style stacks).
+- Current read: the atlas now mirrors the newer entity-level ledgers. Peptide community heat remains useful for prioritization and safety monitoring, but broad cognition claims still require formal evidence, clean molecule identity, route clarity, and stack attribution.
+
+## [2026-06-12] coverage | One-SD IQ proposal peptide caveat split
+
+- Updated [[one-standard-deviation-iq-proposal]] so its anecdote ledger no longer treats the peptide frontier as one uniform IQ-support row.
+- Split peptide routing into the stronger Semax/Selank/Cerebrolysin anecdote cluster, the state-bound Epithalon/Pinealon sleep/recovery branch, and the de-ranked Dihexa/PE-22-28/Adamax high-upside/vendor-label branch.
+- Current read: peptide enthusiasm can inform separate state-restoration or safety-monitoring trials, but it should not enter the first-pass one-standard-deviation IQ protocol without held-out transfer evidence, clean molecule identity, route clarity, and stack attribution through [[peptide-stack-topology-ledger]].
+
+## [2026-06-12] safety | Multi-modal stack peptide bucket split
+
+- Updated [[safety-interaction-matrix-for-multi-modal-stacks]] so the peptide safety layer no longer treats the branch as one generic high-uncertainty bucket.
+- Split peptide stack cautions into Cerebrolysin/BPC-157/Semax/Selank, Epithalon/Pinealon sleep-recovery states, Dihexa/PE-22-28/Adamax de-ranked frontier nodes, and GH-axis fixed-blend stacks.
+- Current read: the safety matrix now mirrors the newer peptide routing pages. Peptide reports need route, dose, source, washout, and dechallenge before any molecule-specific safety or benefit inference, and de-ranked frontier peptides should not be combined with other active optimization variables.
+
+## [2026-06-12] coverage | Semax/Selank anecdote pages safety-routed
+
+- Updated [[semax]], [[selank]], and [[semax-selank-2026-scan]] with the `anecdote` tag and normalized their anecdote-ledger `Signal size / strength` header.
+- Added explicit routing from the Semax/Selank entity and scan pages into [[safety-interaction-matrix-for-multi-modal-stacks]] so focus/calm peptide reports are interpreted with route, dose, source, washout, and co-intervention controls.
+- Current read: Semax and Selank still form one of the strongest anecdote-salience peptide clusters, but the June 2026 wiki treatment keeps them in the safety/source/attribution lane rather than upgrading them into validated healthy-adult nootropics.
+
+## [2026-06-12] safety | GH-axis peptide anecdote pages safety-routed
+
+- Updated [[cjc-1295]], [[ipamorelin]], [[hexarelin]], and [[growth-hormone-secretagogue-cognition-2026-scan]] to normalize anecdote-ledger `Signal size / strength` headers and June 2026 dating.
+- Added explicit routing from the GH-axis peptide entity and scan pages into [[safety-interaction-matrix-for-multi-modal-stacks]] so sleep/recovery/body-composition reports are not misread as direct nootropic evidence.
+- Current read: GH-axis peptide anecdotes remain strong for sleep, recovery, and body-composition stack narratives, but cognition attribution needs product identity, co-peptide, sleep, training, glucose/edema, stimulant, and dechallenge controls.
+
+## [2026-06-12] safety | MOTS-c and TB-500 recovery-peptide routing normalized
+
+- Updated [[mots-c]], [[mots-c-2026-scan]], [[thymosin-beta-4]], [[thymosin-beta-4-2026-scan]], and [[peptide-regulatory-live-watch-board]] with June 2026 dating, normalized anecdote-ledger `Signal size / strength` headers, and tighter peptide/anecdote tagging where needed.
+- Brought the [[thymosin-beta-4-2026-scan]] anecdote ledger into the schema's minimum column set by adding an explicit `Context` field for TB-500/BPC-157 recovery claims.
+- Added [[safety-interaction-matrix-for-multi-modal-stacks]] routing to MOTS-c and TB-500/TB4 pages so energy, anaphylaxis, injury-recovery, and stack reports stay separated from direct cognition evidence.
+
+## [2026-06-12] safety | Bromantane and gray-zone nootropic state routing tightened
+
+- Updated [[bromantane]], [[anecdote-to-trial-mismatch-map]], and [[risk-first-legacy-gray-zone-nootropic-watchlist]] with June 2026 dating and normalized anecdote-ledger `Signal size / strength` headers where applicable.
+- Added [[safety-interaction-matrix-for-multi-modal-stacks]] routing for Bromantane and gray-zone nootropic anecdotes so arousal, sleep debt, stimulant history, route/formulation changes, exercise load, tolerance, pain, and withdrawal variables are separated from direct cognition claims.
+- Current read: Bromantane remains a moderate-strong state-bound activation signal, not a broad healthy-adult enhancer; gray-zone legacy molecules still route through risk and attribution controls before ranking.
+
+## [2026-06-12] safety | Redox and mitochondrial cofactor anecdote routing normalized
+
+- Updated [[redox-mitochondrial-cofactor-cognition-watchlist]], [[nadh]], [[methylene-blue-plus-light-redox-interaction-scan]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added explicit [[safety-interaction-matrix-for-multi-modal-stacks]] routing for redox/mitochondrial cofactor anecdotes so illness-state recovery, post-viral fluctuation, stimulant smoothing, insomnia/activation, glucose changes, sulfur/methylation narratives, NADH/NAD+/NR/NMN naming confusion, IV/sterile route, product form, dose timing, PEM cycles, and CoQ10/D-ribose/tVNS/LDN combination use are separated from direct cognition claims.
+- Current read: this lane remains high-salience for energy and brain-fog reports, but most candidates stay responder- and state-bound rather than broad healthy-adult nootropics.
+
+## [2026-06-12] safety | Senolytic and geroscience nootropic routing tightened
+
+- Updated [[senolytic-cognition-2026-scan]], [[dasatinib-quercetin]], [[foxo4-dri]], [[fisetin]], [[rapamycin-sirolimus]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing.
+- Added a senolytic / geroscience row to [[safety-interaction-matrix-for-multi-modal-stacks]] so D+Q, high-dose fisetin, FOXO4-DRI, rapamycin, quercetin, and longevity-stack anecdotes are separated from direct cognition evidence.
+- Current read: [[foxo4-dri]] remains a preclinical peptide-senolytic with protocol-chaos anecdotes, [[dasatinib-quercetin]] remains monitored clinical/translational rather than supplement-like, [[fisetin]] remains frailty/inflammation support-only for humans, and [[rapamycin-sirolimus]] remains longevity-salient but cognition-null in current human anchors.
+
+## [2026-06-12] safety | Blood-borne exerkine and plasma-factor translation gates tightened
+
+- Updated [[blood-borne-rejuvenation-and-plasma-factor-cognition-2026-scan]], [[exerkine-myokine-cognition-2026-scan]], [[pf4]], [[irisin]], [[cathepsin-b]], [[clusterin]], [[gpld1]], [[gdf11]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing.
+- Normalized stale anecdote-ledger `Signal size / strength` headers on the touched exerkine/plasma-factor entity pages.
+- Added a blood-borne / exerkine / plasma-factor row to [[safety-interaction-matrix-for-multi-modal-stacks]] so exercise-transfer, young-plasma, plasma-exchange, recombinant-protein, TNAP/BBB, coagulation/inflammation, EV/exosome, and mouse-to-human translation claims stay separated from direct nootropic evidence.
+
+## [2026-06-12] safety | Bromantane with Semax/Selank stack attribution tightened
+
+- Updated [[bromantane]], [[semax]], [[selank]], [[semax-selank-2026-scan]], [[nootropic-peptide-anecdote-frontier-2026-scan]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with a cross-class attribution warning for bromantane plus Semax/Selank or other arousal tools.
+- Added an explicit safety-matrix row so "clean motivation plus calm focus" reports are routed through sleep debt, fatigue rescue, route/formulation, stimulant history, peptide sourcing, anxiolysis, tolerance drift, and WADA-visible stimulant-status gates before being treated as cognition evidence.
+
+## [2026-06-12] safety | Neurosteroid and endocrine-state anecdote routing normalized
+
+- Updated [[neurosteroid-and-endocrine-state-cognition-2026-scan]], [[testosterone-trt]], [[allopregnanolone]], [[dhea]], [[pregnenolone]], [[ghrh]], [[gnrh]], [[kisspeptin]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing.
+- Normalized stale anecdote-ledger `Signal size / strength` headers across the touched endocrine-state entity pages.
+- Added a neurosteroid / endocrine-state row to [[safety-interaction-matrix-for-multi-modal-stacks]] so mood, libido, vitality, sleep, lab-defined deficiency, metabolic/training changes, sedation, IV or pulsatile-pump delivery, reproductive-axis effects, and disease-specific Down syndrome / AD contexts stay separated from direct cognition claims.
+
+## [2026-06-12] safety | Cholinergic and muscarinic anecdote routing normalized
+
+- Updated [[prescription-cholinesterase-inhibitor-cognition-watchlist]], [[muscarinic-agent-cognition-watchlist]], [[donepezil]], [[galantamine]], [[xanomeline]], [[xanomeline-trospium]], [[emraclidine]], [[vu0467319-vu319]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers where present.
+- Added missing `anecdote` tags to muscarinic entity pages that already carry absence-of-anecdote ledgers, and routed cholinergic/muscarinic stack reports through [[safety-interaction-matrix-for-multi-modal-stacks]].
+- Current read: cholinergic and muscarinic agents remain cognition-relevant but not casual nootropics; bradycardia/syncope, GI burden, sleep/vivid-dream effects, anticholinergic balance, nicotine/choline/huperzine co-use, schizophrenia symptom improvement, AD impairment-state effects, autonomic/POTS relief, and target engagement must be separated from direct cognition claims.
+
+## [2026-06-12] safety | Oxytocin, vasopressin, and desmopressin anecdote routing normalized
+
+- Updated [[oxytocin-vasopressin-desmopressin-social-memory-2026-scan]], [[oxytocin]], [[vasopressin]], [[desmopressin]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[self-experimentation-stop-rules]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers where present.
+- Added explicit [[safety-interaction-matrix-for-multi-modal-stacks]] routing for social-memory/neuropeptide anecdotes so route, dose, sex/context, social task, threat/arousal state, sleep deprivation, receptor cross-talk, POTS/hypovolemia, sodium/fluid status, nasal absorption, vasoconstrictor/BP, and co-interventions are separated from direct cognition claims.
+- Current read: [[oxytocin]] remains FTD-apathy/social-behavior phenotype-bound, [[vasopressin]] remains social-threat/social-memory task-bound, and [[desmopressin]] remains a risk-first old memory comparator whose hyponatremia/fluid-restriction issues dominate nootropic interpretation.
+
+## [2026-06-12] safety | MAO-B propargylamine anecdote routing normalized
+
+- Updated [[mao-b-propargylamine-cognition-watchlist]], [[selegiline]], [[rasagiline]], [[safinamide]], [[kds2010-tisolagiline]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers where present.
+- Added explicit [[safety-interaction-matrix-for-multi-modal-stacks]] routing for MAO-B/propargylamine anecdotes so serotonergic drugs, opioids, dextromethorphan/AUVELITY, [[methylene-blue]], phenethylamine, stimulants, tyramine/BP, insomnia/sleep attacks, washout timing, PD/off-state dopamine restoration, and pipeline-only KDS2010 claims are separated from direct cognition evidence.
+- Current read: [[selegiline]] remains the strongest community-lore anchor, [[rasagiline]] has the best PD-context formal signal, [[safinamide]] is PD off-state/glutamate-adjacent and interaction-heavy, and [[kds2010-tisolagiline]] stays trial-watch rather than nootropic-positive.
+
+## [2026-06-12] safety | Glutamatergic anecdote and NMDA-stack routing normalized
+
+- Updated [[glutamatergic-rapid-antidepressant-cognition-watchlist]], [[ketamine-esketamine]], [[dextromethorphan-bupropion]], [[memantine]], [[sarcosine]], [[d-serine]], [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers where present.
+- Added explicit stack-safety routing for rapid-antidepressant, NMDA-antagonist, and NMDA co-agonist anecdotes so dissociation, same-day impairment, seizure/serotonergic/MAOI gates, long half-life accumulation, BP, sleep rebound, psychotherapy timing, stimulant co-use, product identity, and co-agonist combinations are separated from direct cognition claims.
+- Current read: this remains one of the stronger subjective brain-fog/clarity anecdote lanes, but the wiki should treat it as state-bound and safety-gated rather than a healthy-adult nootropic category.
+
+## [2026-06-12] safety | Attention and wakefulness pipeline anecdote routing normalized
+
+- Updated [[nonstimulant-adhd-pipeline-attention-chemicals-watchlist]], [[oveporexton]], [[samelisant]], [[luvadaxistat]], and [[csti-500]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added or tightened [[safety-interaction-matrix-for-multi-modal-stacks]] routing for ADHD-pipeline, orexin/H3 wakefulness, DAAO/NMDA-coagonist, and transporter-occupancy claims so symptom relief, sleepiness-state restoration, biomarker movement, target engagement, insomnia, liver-safety monitoring, HR effects, and co-medication stacks are separated from direct cognition evidence.
+- Current read: these remain useful frontier attention/state-restoration comparators, but healthy-adult nootropic confidence should stay low unless objective cognition endpoints survive state, safety, and stack controls.
+
+## [2026-06-12] safety | Stimulant-anorectic comparison routing normalized
+
+- Updated [[monoamine-reuptake-anorectic-stimulants-cognition-watchlist]], [[sympathomimetic-anorectic-stimulant-cognition-watchlist]], [[triple-reuptake-inhibitor-cognition-watchlist]], and [[pemoline-adjacent-gray-market-stimulant-watchlist]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added explicit [[safety-interaction-matrix-for-multi-modal-stacks]] routing across the comparison layer so appetite suppression, wakefulness, mood-state improvement, pain relief, withdrawal reversal, liver markers, ECG/CK signals, sleep timing, stimulant tolerance, product identity, and controlled-substance/status variables are separated from direct cognition claims.
+- Current read: the stimulant/anorectic comparison layer now matches the entity pages: anecdote salience can guide monitoring, but these branches stay risk-first or state-bound without controlled cognition endpoints and clean safety/source attribution.
+
+## [2026-06-12] safety | Incretin peptide cognition-anecdote routing normalized
+
+- Updated [[semaglutide]], [[exenatide]], [[mazdutide]], and [[retatrutide]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added [[safety-interaction-matrix-for-multi-modal-stacks]] routing to the incretin peptide entities so glucose, appetite, weight loss, GI tolerability, sleep, fatigue, hydration/electrolytes, titration speed, training load, pain reduction, co-medications, and product identity stay separated from direct cognition claims.
+- Current read: incretins remain one of the most important metabolic-brain peptide-adjacent branches, but the wiki should treat cognition reports as phenotype- and state-confounded until cognition-primary endpoints or well-characterized neuropsychiatric analyses support them.
+
+## [2026-06-12] safety | Dopamine-adjacent stimulant anecdote routing normalized
+
+- Updated [[lisdexamfetamine]], [[phentermine]], [[tesofensine]], [[mucuna-pruriens]], [[cyclazodone]], [[n-methyl-cyclazodone]], and [[stimulant-adjacent-dopamine-precursor-watchlist]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added explicit [[safety-interaction-matrix-for-multi-modal-stacks]] routing for stimulant, anorectic, L-DOPA, and pemoline-adjacent anecdotes so appetite suppression, sleep debt, caffeine changes, cardiovascular activation, tolerance, product identity, long half-life, liver/ECG/CK signals, and co-medications are separated from cognition claims.
+- Current read: the activation lane contains some of the strongest subjective focus/motivation anecdotes, but it remains risk-first and state-bound unless controlled cognition endpoints and clean safety/source attribution support the same direction.
+
+## [2026-06-12] safety | Racetam long-tail anecdote routing normalized
+
+- Updated [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]], [[nefiracetam]], [[sunifiram]], and [[racetam-long-tail-watchlist]] with June 2026 dating and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added [[safety-interaction-matrix-for-multi-modal-stacks]] routing across the long-tail racetam lane so choline co-use, stimulants, sleep loss, tolerance, task practice, cannabis aftereffects, route/formulation, and research-chemical source identity are separated from molecule-specific cognition claims.
+- Current read: the long-tail racetam set remains visible for hypothesis monitoring, but it stays below stronger or cleaner cognition candidates until modern human data, structured molecule-specific anecdotes, and cleaner sourcing/stack attribution appear.
+
+## [2026-06-12] safety | Cerebrolysin and BPC-157 peptide anecdote routing normalized
+
+- Updated [[cerebrolysin]], [[cerebrolysin-2026-scan]], [[bpc-157]], and [[peptide-safety-and-sourcing-risk-map]] with June 2026 dating where needed and normalized stale anecdote-ledger `Signal size / strength` headers.
+- Added missing anecdote tagging to the Cerebrolysin entity/scan layer and routed Cerebrolysin injection/source/hypersensitivity variables plus BPC-157/TB-500 recovery-stack variables into [[safety-interaction-matrix-for-multi-modal-stacks]].
+- Current read: Cerebrolysin remains the peptide branch with the strongest formal cognition/recovery packet, while BPC-157 remains a high-salience recovery peptide; both still need safety, sourcing, route, and stack-attribution controls before any nootropic inference.
+
+## [2026-06-12] safety | PRL-8-53 and Noopept racetam-lane attribution tightened
+
+- Updated [[prl-8-53]], [[noopept]], [[racetam-comparison-2026-scan]], and [[legacy-vasoactive-racetam-nootropic-watchlist]] with June 2026 dating and normalized one stale anecdote-ledger `Signal size / strength` header.
+- Added [[safety-interaction-matrix-for-multi-modal-stacks]] routing for PRL-8-53, Noopept, and legacy racetam/vasoactive anecdotes so stimulant co-use, route, source identity, sleep, tolerance, mood, meal/glucose, vascular, and cannabis-aftereffect variables are separated from direct cognition claims.
+- Current read: PRL-8-53 remains a memory-specific replication target, Noopept remains a sourcing-sensitive impairment/rescue-context branch, and the racetam lane remains phenotype-bound rather than a broad healthy-adult class.
+## [2026-06-12] safety | Legacy regional and vasoactive nootropic anecdotes routed
+
+- Updated [[legacy-regional-botanical-nootropic-watchlist]], [[pyritinol]], [[picamilon]], [[emoxypine-mexidol]], [[hydergine-ergoloid-mesylates]], [[nicergoline]], [[naftidrofuryl]], [[pramiracetam]], [[legacy-vasoactive-racetam-nootropic-watchlist]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing where needed.
+- Normalized stale anecdote-ledger `Signal size / strength` headers on the regional-drug pages touched in this pass.
+- Added a [[safety-interaction-matrix-for-multi-modal-stacks]] row for legacy regional / vasoactive nootropic anecdotes so anxiety relief, hangover recovery, stimulant-crash smoothing, postprandial glucose/BP shifts, vascular/PAD state, ergot risk, oxalate/hepatic constraints, choline co-use, source/label drift, and old smart-drug nostalgia stay separated from direct healthy-adult cognition claims.
+## [2026-06-12] safety | ISR plasticity frontier routed into stack matrix
+
+- Updated [[integrated-stress-response-cognition-2026-scan]], [[isrib]], [[dnl343]], [[dp71l]], [[fosigotifator-abbv-cls-7262]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 safety routing.
+- Added `anecdote` tagging and normalized the ISR scan's anecdote-ledger `Signal size / strength` header.
+- Added an ISR / eIF2B row to [[safety-interaction-matrix-for-multi-modal-stacks]] so ISRIB route/solvent/source/analog confounds, sleep and mood activation, DNL343/fosigotifator target-engagement-to-behavior gaps, DP71L viral-tool delivery gates, and stress-resilience tradeoffs stay separated from direct nootropic claims.
+## [2026-06-12] safety | PNN and synaptic-plasticity stack routing tightened
+
+- Updated [[perineuronal-net-extracellular-matrix-plasticity-gate]], [[chondroitinase-abc]], [[emerging-synaptic-plasticity-stack-chemicals-watchlist]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 safety routing.
+- Added `anecdote` tagging to the PNN/ECM gate and normalized stale anecdote-ledger `Signal size / strength` headers on the touched plasticity pages.
+- Added safety-matrix rows for PNN/ECM manipulation and emerging synaptic-plasticity research-chemical stacks so local delivery, circuit stability, seizure/maladaptive-plasticity risk, AMPAR/glutamatergic load, sleep/mood confounds, source identity, and target-engagement-to-behavior gaps stay separated from direct nootropic claims.
+
+## [2026-06-12] safety | Klotho cognitive-aging gene-therapy routing tightened
+
+- Updated [[klotho]], [[klotho-cognition-2026-scan]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing.
+- Added a Klotho / gene-therapy cognitive-aging row to [[safety-interaction-matrix-for-multi-modal-stacks]] so soluble Klotho biomarkers, KL-VS/genotype stories, Klotho-plus-follistatin private-clinic claims, vector delivery, mineral-axis biology, and anti-aging clarity anecdotes stay separated from direct cognition evidence.
+- Current read: Klotho remains an important resilience/gene-therapy frontier, but the wiki should not treat biomarker movement, genotype association, or combination private-clinic exposure as nootropic efficacy without controlled cognition endpoints.
+
+## [2026-06-12] safety | Thiamine-derivative nootropic anecdotes routed
+
+- Updated [[sulbutiamine]], [[benfotiamine-ttfd]], [[amino-acid-mitochondrial-stack-watchlist]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 routing.
+- Added a thiamine-derivative / B1-status row to [[safety-interaction-matrix-for-multi-modal-stacks]] so sulbutiamine, benfotiamine, TTFD/fursultiamine, ordinary thiamine, allithiamine labels, and B-complex stacks stay separated.
+- Current read: sulbutiamine remains a moderate-strong anecdote salience / low formal cognition confidence gray-zone nootropic, while benfotiamine/TTFD remains status- and disease-context gated; energy, motivation, gut, mental-clarity, dysautonomia, and brain-fog reports should not be counted as direct cognition without status, product-form, cofactor/electrolyte, sleep, stimulant, tolerance, and psychiatric-context controls.
+
+## [2026-06-12] safety | Phenibut and tianeptine risk-first anecdote routing tightened
+
+- Updated [[phenibut]], [[tianeptine]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 dependence/withdrawal routing.
+- Added a dependence / withdrawal-driven nootropic anecdotes row to [[safety-interaction-matrix-for-multi-modal-stacks]] so phenibut, tianeptine, kratom-like opioid-risk products, and hidden-ingredient brain-function products stay de-ranked even when community salience is strong.
+- Current read: phenibut and tianeptine remain important because the anecdote signal is loud, but that loudness mostly marks anxiolysis, sedation, opioid-like reinforcement, redosing, withdrawal relief, adulteration, and product-status risk rather than cognition.
+
+## [2026-06-12] safety | Methylxanthine supplement anecdotes routed
+
+- Updated [[guarana]], [[theobromine]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 methylxanthine/caffeine-source routing.
+- Added a caffeine-source / methylxanthine supplement row to [[safety-interaction-matrix-for-multi-modal-stacks]] so guarana, theobromine, cocoa/cacao, paraxanthine, theacrine, methylliberine, energy-drink, preworkout, and caffeine-matched-control claims stay separated.
+- Current read: smooth energy, focus, calm stimulation, workout mood, and response-time reports remain useful anecdotes, but caffeine dose, withdrawal reversal, sleep debt, tolerance, label mismatch, cocoa matrix, BP/HR/anxiety sensitivity, and stimulant co-use should be ruled out before nootropic interpretation.
+
+## [2026-06-12] safety | Mitochondrial peptide frontier routing tightened
+
+- Updated [[humanin]], [[shlp2]], [[elamipretide]], [[mitochondria-derived-peptides]], [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]], [[kortagen]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 peptide-routing cleanup.
+- Added a formal anecdote ledger to [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]] for the SS-31 adverse self-report and Humanin vendor-style longevity guide, keeping both low-confidence and source-confounded.
+- Added a mitochondrial-derived / mitochondria-targeting peptide row to [[safety-interaction-matrix-for-multi-modal-stacks]] so Humanin, SHLP2, MOTS-c, Elamipretide/SS-31, SHLP-family, and vendor or gray-market peptide claims stay separate from direct nootropic evidence.
+- Current read: Humanin remains one of the more interesting endogenous brain-resilience peptide signals, SHLP2 remains biologically serious but cognition-unproven, Elamipretide is clinically real but disease-/muscle-state anchored, and Kortagen remains a legacy taxonomy node rather than a modern human cognition lead.
+
+## [2026-06-12] safety | Adrenergic preworkout amine anecdotes routed
+
+- Updated [[p-synephrine]], [[yohimbine]], [[higenamine-hordenine-octopamine]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 activation-lane routing.
+- Normalized their anecdote-ledger columns to the schema-style `Signal size / strength` format so subjective focus, energy, euphoria, and adverse body-load reports stay comparable with the stronger nootropic anecdote pages.
+- Added an adrenergic / preworkout amine row to [[safety-interaction-matrix-for-multi-modal-stacks]] so bitter-orange, synephrine, yohimbine/yohimbe, higenamine, hordenine, octopamine, rauwolscine, caffeine, DMAA/DMHA-style stimulants, fat burners, and preworkout blends are not collapsed into cognition.
+- Current read: this lane remains high-salience for "focus" anecdotes, but most of that signal is arousal, fasted/exercise context, cardiovascular activation, anxiety/panic vulnerability, label-quality risk, sports status, or blend attribution rather than objective nootropic evidence.
+
+## [2026-06-12] safety | Calm-focus botanical and amino-acid anecdotes routed
+
+- Updated [[polygala-bt11]], [[wild-green-oat-extract]], [[l-theanine]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 calm-focus / stress-state attribution routing.
+- Normalized the [[polygala-bt11]] anecdote-ledger `Signal size / strength` header and added direct stack-safety routing to the touched pages.
+- Added a calm-focus / stress-state supplement row to [[safety-interaction-matrix-for-multi-modal-stacks]] so Polygala/BT-11/PDC-1421, wild-green-oat/Neuravena/Cognitaven/oatstraw, L-theanine, tea/matcha, caffeine combinations, and nervine/sedating product claims remain separated.
+- Current read: this lane is useful for nootropic discovery because it has real calm-focus and stressor-state anecdotes, but anxiolysis, sedation, caffeine smoothing, product identity, acute-vs-chronic timing, route, sleep, GI/throat irritation, liver/potassium signals, and stressor-state mediation should be ruled out before any direct cognition upgrade.
+
+## [2026-06-12] safety | Choline and phospholipid nootropic stacks routed
+
+- Updated [[uridine]], [[phosphatidylserine]], [[citicoline]], [[alpha-gpc]], [[choline-donor-cognition-signal-map]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 choline/phospholipid stack-attribution routing.
+- Added a choline / phospholipid nootropic-stack row to [[safety-interaction-matrix-for-multi-modal-stacks]] so UMP/triacetyluridine, DHA, Alpha-GPC, citicoline, phosphatidylserine, phosphatidylcholine, free choline salts, lysolecithin, racetam co-use, nicotine/caffeine overlap, and Souvenaid/Fortasyn-style formula claims remain separated.
+- Current read: this lane has meaningful classic-nootropic community heat, especially around uridine stacks, PS stress/focus reports, and choline-racetam co-use, but product form, older-adult/MCI/mTBI phenotype, formula-level evidence, sleep timing, headaches, GI effects, TMAO/platelet-form concerns, and stack dechallenge should be resolved before any healthy-adult cognition upgrade.
+
+## [2026-06-12] safety | Retail stimulant-adjacent nootropic anecdotes routed
+
+- Updated [[paraxanthine]], [[theacrine]], [[methylliberine]], and [[magnesium-l-threonate]] with June 2026 safety-matrix routing.
+- Normalized the [[paraxanthine]] and [[methylliberine]] anecdote-ledger headers to the schema-style `Signal size / strength` format so caffeine-alternative, Dynamine, and stack-energy reports stay comparable with the other nootropic ledgers.
+- Current read: paraxanthine is the cleanest newer caffeine-adjacent formal signal but still product- and dose-bound; theacrine and methylliberine remain mostly caffeine-stack / subjective-energy candidates; Magtein remains product-specific and sleep-state mediated. All four should route through [[safety-interaction-matrix-for-multi-modal-stacks]] before subjective focus, smoother energy, gaming/tactical performance, calm focus, or sleep-mediated clarity reports are counted as direct cognition.
+
+## [2026-06-12] safety | Standardized botanical nootropic anecdotes routed
+
+- Updated [[centella-asiatica]], [[cistanche-tubulosa]], [[ashwagandha]], [[bacopa]], and [[safety-interaction-matrix-for-multi-modal-stacks]] with June 2026 botanical product-identity routing.
+- Normalized the [[centella-asiatica]] anecdote-ledger `Signal size / strength` header and added direct stack-safety routing to the touched botanical pages.
+- Added a standardized botanical nootropic-anecdote row to [[safety-interaction-matrix-for-multi-modal-stacks]] so Bacopa, ashwagandha/Sominone, Centella/gotu kola, Cistanche/Ginkgo, and related standardized botanical claims stay separated by extract marker profile, formula co-ingredients, phenotype, mood/sleep/stress mediation, liver/autonomic signals, and product sponsorship.
+- Current read: these botanicals matter because several have human cognition anchors and real community salience, but the wiki should not treat vitality, sleep, stress relief, calm focus, post-stroke recovery, MCI improvement, or Cistanche-plus-Ginkgo formula results as generic healthy-adult nootropic proof without product-matched evidence and safety attribution.
+
+## [2026-06-12] synthesis | Strong anecdotal nootropic signal ledger refreshed
+
+- Updated [[gray-zone-nootropic-community-signal-ledger]] and [[index]] so the comparison layer no longer only reflects the May supplement subset.
+- Added a June 2026 strong-signal addendum for [[bromantane]], [[semax]], [[selank]], [[cerebrolysin]], [[bpc-157]], and [[pinealon]], separating activation, stress-state, neurorecovery, recovery-pain, and sleep/circadian anecdote lanes.
+- Current read: the strongest anecdotal signals now surface at the comparison layer, but they remain prioritization and safety-monitoring signals rather than efficacy upgrades; stack interpretation routes through [[safety-interaction-matrix-for-multi-modal-stacks]] and peptide-specific scans.
+
+## [2026-06-12] synthesis | Most-promising hub aligned with peptide/nootropic anecdote ledgers
+
+- Updated [[most-promising-methods-for-cognition]] and [[index]] so the high-level ranking hub reflects the June 2026 nootropic/peptide signal cleanup.
+- Added routing from the hub to [[gray-zone-nootropic-community-signal-ledger]], [[nootropic-peptide-anecdote-frontier-2026-scan]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[peptide-stack-topology-ledger]] before any loud anecdote is treated as a ranked method.
+- Revised the anecdotal shortlist so [[bromantane]] appears as a moderate-strong state-bound activation signal, [[semax]]/[[selank]] stay high-salience but low-confidence, [[bpc-157]] remains recovery-bound, and [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] stay tracked but de-ranked below cleaner strong-signal nodes.
+
+## [2026-06-12] synthesis | Neurocognitive under-study hub peptide routing refreshed
+
+- Updated [[neurocognitive-interventions-under-study]] and [[index]] so the exploratory intervention hub no longer treats peptide neuroprotection as one undifferentiated bucket.
+- Split the peptide row into a strongest cluster ([[cerebrolysin]], [[semax]], [[selank]], [[bpc-157]]) and de-ranked frontier labels ([[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], older bioregulators, thymosin/MOTS-c/mitochondrial peptide nodes).
+- Added routing to [[nootropic-peptide-anecdote-frontier-2026-scan]], [[gray-zone-nootropic-community-signal-ledger]], [[peptide-stack-topology-ledger]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[peptide-regulatory-live-watch-board]], and [[peptide-safety-and-sourcing-risk-map]] so forum heat stays separate from formal cognition evidence.
+
+## [2026-06-12] synthesis | OUTCOME aligned with nootropic peptide signal split
+
+- Updated [[OUTCOME]] and [[index]] so the top-level synthesis reflects the June 2026 peptide/nootropic cleanup instead of leaving Dihexa in the strongest anecdotal route by default.
+- Added [[gray-zone-nootropic-community-signal-ledger]] and [[community-nootropic-rating-datasets-2026-scan]] to the OUTCOME source stack and stated the current split: [[cerebrolysin]], [[semax]], [[selank]], [[bpc-157]], and [[bromantane]] get stronger top-level anecdote tracking, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] remain de-ranked frontier or state-bound nodes.
+- Revised the anecdotal top-10 and bottom-line text so [[bromantane]] rises as a state-bound activation/fatigue-rescue signal while [[dihexa]] stays a high-upside but preclinical/source-confounded hypothesis.
+
+## [2026-06-12] synthesis | Community rating provenance aligned with peptide split
+
+- Updated [[community-nootropic-rating-datasets-2026-scan]] and [[index]] so the dataset provenance layer matches the newer [[gray-zone-nootropic-community-signal-ledger]] and [[nootropic-peptide-anecdote-frontier-2026-scan]] routing.
+- Added the June 2026 interpretation split: [[cerebrolysin]], [[semax]], [[selank]], [[bpc-157]], and [[bromantane]] are the strongest current nootropic/peptide anecdote-priority nodes, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] remain de-ranked frontier or state-bound hypotheses.
+- Clarified that Troof, SSC/ACX, Reddit, and modafinil survey provenance can prioritize search and safety monitoring, but cannot establish efficacy, dose, safety, or class-wide peptide effects without controlled evidence and stack/source attribution.
+
+## [2026-06-12] synthesis | High-priority anecdote wording normalized
+
+- Updated [[most-promising-methods-for-cognition]] and [[gray-zone-nootropic-community-signal-ledger]] to remove the lingering implication that [[pinealon]] belongs in the same high-priority anecdote tier as [[bromantane]], [[semax]], [[selank]], [[cerebrolysin]], and [[bpc-157]].
+- Renamed the gray-zone ledger's addendum from a strong-signal addendum to a peptide/stimulant addendum so weaker state-bound rows can remain useful without inflating their priority tier.
+- Current read: [[pinealon]], [[epithalon]], [[dihexa]], [[pe-22-28]], and [[adamax]] remain searchable frontier or state-bound nodes, but they should not inherit the stronger cluster's active-monitoring priority without cleaner human, source, route, and stack attribution.
+
+## [2026-06-12] synthesis | Cross-domain anecdote ledger adds BPC-157 routing
+
+- Updated [[anecdote-signal-ledger]] and [[index]] so the cross-domain anecdote layer reflects the current high-priority peptide/nootropic split.
+- Added [[bpc-157]] as a recovery-bound repair / pain / training-continuity signal beside the stronger Semax/Selank/Cerebrolysin peptide cluster, with Troof visibility, recovery-thread sources, tiny human exposure, and the registered hamstring-repair trial cited.
+- Current read: [[bpc-157]] deserves active monitoring because the anecdote signal is loud, but it remains low-confidence for direct cognition; injury state, natural healing, TB-500 or stack co-use, route, sourcing, safety, and regulatory/sports status stay in front of any enhancement interpretation.
+
+## [2026-06-15] synthesis | Master table peptide frontier split aligned
+
+- Updated [[cognition-intervention-master-table]], [[peptide-neuroprotection]], and [[index]] so the high-level comparison layer no longer flattens [[bpc-157]] into the same bucket as de-ranked frontier peptide lore.
+- Split the master-table peptide row into high-salience recovery/state-restoration monitoring nodes and lower-confidence frontier labels: [[bpc-157]] stays recovery-bound, [[semax]]/[[selank]] stay stress/recovery-state, [[cerebrolysin]] stays the formal-evidence exception, and [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] remain de-ranked until human exposure, identity, route, safety, and stack attribution improve.
+- Current read: peptide/nootropic heat is now routed consistently across top-level synthesis, anecdote ledgers, the umbrella peptide concept, and the intervention master table.
+
+## [2026-06-15] synthesis | Molecule atlas peptide/nootropic routing tightened
+
+- Updated [[cognitive-improvement-molecule-signal-atlas]], [[healthy-adult-cognition-signals]], and [[index]] so the molecule-first and healthy-adult layers match the newer peptide/nootropic monitoring split.
+- Moved [[bpc-157]] out of the broad de-ranked peptide bucket in the atlas and into the high-priority monitoring language as a recovery-bound repair / pain / training-continuity node beside [[cerebrolysin]], [[semax]], and [[selank]].
+- Clarified that even the strongest current anecdote-priority nodes, including [[bromantane]], do not enter the healthy, well-slept adult top-five list without cleaner objective rested-baseline cognition evidence; [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] remain de-ranked frontier or state-bound hypotheses.
+
+## [2026-06-15] synthesis | Translational peptide gap split tightened
+
+- Updated [[translational-gap-table]] and [[index]] so the translational-gap layer separates [[bpc-157]] recovery-trial movement from de-ranked nootropic-peptide lore.
+- Split [[dihexa]], [[pe-22-28]], and [[adamax]] into a very-large-gap hypothesis row while keeping [[semax]]/[[selank]] as state-restoration nodes with older human history and [[pinealon]]/[[kortagen]] as legacy/de-ranked identity nodes.
+- Current read: [[bpc-157]] has a narrower recovery-translation gap but still a large cognition gap; strong recovery anecdotes and trial movement should not upgrade healthy-adult cognition confidence without objective cognition endpoints and clean stack/source attribution.
+
+## [2026-06-15] synthesis | Dihexa and Pinealon entity tier wording normalized
+
+- Updated [[dihexa]], [[pinealon]], and [[index]] so entity-level summaries match the current strongest-signal split.
+- Reworded [[dihexa]] from a front-rank watch-position frame into a visible but de-ranked frontier hypothesis because missing human exposure, route uncertainty, FDA no-human-exposure visibility, and integrity caveats now dominate practical cognition confidence.
+- Reworded [[pinealon]] from a state-restoration frontier upgrade into a tracked but de-ranked recovery/sleep hypothesis, below [[semax]], [[selank]], [[cerebrolysin]], [[bpc-157]], and [[bromantane]] in current anecdote-priority routing.
+
+## [2026-06-15] synthesis | Semax/Selank scan maintenance wording refreshed
+
+- Updated [[semax-selank-2026-scan]] and [[index]] so the scan advertises the current June 2026 routing split: [[semax]]/[[selank]] are strong-salience, low-confidence state-restoration nodes, not proven healthy-adult nootropics.
+- Replaced stale action items with a maintenance-status note reflecting that [[semax]], [[selank]], [[peptide-neuroprotection]], [[peptide-regulatory-live-watch-board]], [[peptide-stack-topology-ledger]], [[neurocognitive-interventions-under-study]], [[gray-zone-nootropic-community-signal-ledger]], and [[cognitive-improvement-molecule-signal-atlas]] already route the branch.
+- Current read: [[semax]]/[[selank]] stay above [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] for monitoring priority, but anecdote priority remains separate from formal cognition proof.
+
+## [2026-06-15] synthesis | Mitochondrial peptide frontier routing tightened
+
+- Updated [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]] and [[index]] so the Humanin / SHLP / elamipretide branch is framed as serious mitochondrial-peptide biology and translation, not a top-tier nootropic anecdote lane.
+- Replaced stale action items with a maintenance-status section: [[mots-c]] stays metabolism-first, [[humanin]]/[[shlp2]] stay endogenous MDP nodes, SHLP6 stays family-level, and [[elamipretide]] stays the approved-drug / SHAPE-pilot translation branch.
+- Current read: SS-31/Humanin vendor or self-experiment reports should not inherit priority from [[semax]], [[selank]], [[cerebrolysin]], [[bpc-157]], or [[bromantane]] without direct human cognition evidence.
+
+## [2026-06-15] synthesis | Nootropic peptide frontier scan made current hub
+
+- Updated [[nootropic-peptide-anecdote-frontier-2026-scan]] and [[index]] so the central anecdote frontier scan reflects the current strongest-monitoring split rather than carrying stale action items.
+- Replaced the old action list with maintenance status: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and non-peptide comparator [[bromantane]] stay strongest for monitoring priority, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], FOXO4-DRI, mitochondrial peptides, [[mots-c]], and TB-500-style fragments stay tracked but de-ranked or state-bound.
+- Current read: future peptide anecdote updates should route through [[peptide-regulatory-live-watch-board]] and [[peptide-stack-topology-ledger]] before changing any molecule-level confidence.
+
+## [2026-06-15] synthesis | Medicine cognition summary peptide split refreshed
+
+- Updated [[medicine-cognition-summary]] and [[index]] so the top-level research summary no longer lists [[dihexa]] beside the stronger peptide nodes without the June 2026 split.
+- Added the current peptide read: [[cerebrolysin]], [[semax]], [[selank]], and recovery-bound [[bpc-157]] are strongest monitoring nodes, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[thymosin-beta-4]], [[mots-c]], and mitochondrial peptides remain de-ranked, recovery-bound, metabolism-first, or preclinical for cognition.
+- Routed readers from the summary into [[nootropic-peptide-anecdote-frontier-2026-scan]], [[peptide-stack-topology-ledger]], [[mots-c-2026-scan]], and [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]] for the current peptide evidence split.
+
+## [2026-06-15] query | Molecule triage worksheet peptide gates added
+
+- Updated [[molecule-triage-worksheet-for-online-scans]] and [[index]] so future online peptide/nootropic scans capture source/COA, route/formulation, stack order, washout/dechallenge, and de-rank reason before routing claims into ranking pages.
+- Added the June 2026 peptide split to the worksheet: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] stay high-priority monitoring nodes, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] require explicit de-rank/source/route handling.
+- Routed peptide and gray-market anecdote scans through [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], and [[nootropic-peptide-anecdote-frontier-2026-scan]] before any [[cognitive-improvement-molecule-signal-atlas]] update.
+
+## [2026-06-15] query | Molecule coverage audit aligned with peptide gates
+
+- Updated [[molecule-coverage-semantic-audit-2026-05-03]] and [[index]] so the coverage audit reflects the June 2026 peptide/nootropic split rather than only asking whether names are represented.
+- Added the current strongest monitoring cluster: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]], with [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] kept searchable but de-ranked or state-bound.
+- Reframed the remaining peptide/nootropic gap as attribution depth: source/COA, route/formulation, stack order, washout, recovery state, FDA/WADA status, adverse reports, and dechallenge/rechallenge must pass through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], and [[peptide-regulatory-live-watch-board]] before ranking language changes.
+
+## [2026-06-15] query | Exercise-creatine-metabolic peptide triad split from recovery peptides
+
+- Updated [[exercise-creatine-metabolic-peptide-triad]] and [[index]] so the metabolic-peptide slot no longer acts like a generic peptide booster.
+- Kept [[mots-c]] metabolism-first and safety-gated, added [[bpc-157]] only as a recovery/training-continuity comparator, and kept [[semax]], [[selank]], [[cerebrolysin]], and [[bromantane]] outside the triad unless a protocol explicitly tests state restoration.
+- Added routing for peptide-containing triad self-studies through [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before any cognition-ranking update.
+
+## [2026-06-15] concept | Intranasal insulin delivery gates tightened
+
+- Updated [[intranasal-insulin-and-cognition]], [[intranasal-insulin-2024-2025-scan]], [[intranasal-insulin-brain-stimulation-interaction]], and [[index]] so intranasal insulin is framed as a peptide-hormone delivery intervention rather than a general nootropic.
+- Added requirements for insulin type/analog, delivery device, dose per nostril and total dose, timing, meal/glucose state, metabolic phenotype, nasal status, APOE/sex/cognitive-status context, co-interventions, adverse events, and objective cognition or delirium endpoints before ranking changes.
+- Kept the interaction page conservative: insulin-plus-stimulation remains proxy logic until a direct factorial trial exists, and informal combo reports now route through delivery, device-parameter, stack-attribution, stop-rule, and safety gates.
+
+## [2026-06-15] entity | GH-axis peptide stack gates tightened
+
+- Updated [[cjc-1295]], [[ipamorelin]], [[tesamorelin]], [[growth-hormone-secretagogue-cognition-2026-scan]], and [[index]] so GH-axis peptide heat stays separated from direct cognition claims.
+- Kept [[cjc-1295]] and [[ipamorelin]] as strong sleep/recovery/body-composition anecdote nodes requiring exact identity, source/COA, lot, route/formulation, dose timing, stack order, washout, fasted/training phase, sleep data, glucose/edema/BP/HR and IGF-1 context where available, adverse events, and objective cognition endpoints before ranking changes.
+- Kept [[tesamorelin]] as the regulated formal-development anchor of the branch while requiring phenotype, medical-monitoring, product-identity, adverse-event, and objective-endpoint context before nootropic interpretation or comparison with stronger peptide/nootropic nodes.
+
+## [2026-06-15] entity | GnRH and kisspeptin endocrine peptide gates tightened
+
+- Updated [[gnrh]], [[kisspeptin]], [[neurosteroid-and-endocrine-state-cognition-2026-scan]], and [[index]] so endocrine-axis peptide signals stay separated from broad nootropic ranking.
+- Kept [[gnrh]] as a disease-specific Down syndrome / pulsatile-pump lead requiring exact analog/formulation, source or prescription status, delivery method, dose schedule, diagnosis, age/sex and reproductive-axis context, endocrine monitoring, olfaction/MRI/biomarker endpoints, adverse effects, washout, and objective cognition endpoints before ranking changes.
+- Kept [[kisspeptin]] as an upstream reproductive/endocrine routing node requiring exact form, source status, route/formulation, hormone baseline and response, sex/age and fertility context, libido or sexual/emotional endpoint separation, anxiety/autonomic measures, adverse effects, washout, and objective cognition endpoints before nootropic interpretation.
+
+## [2026-06-15] safety | Stop rules gain peptide/nootropic provenance gate
+
+- Updated [[self-experimentation-stop-rules]] and [[index]] so peptide and gray-market nootropic self-study stop rules now pause on adverse symptoms when source/COA, route/formulation, lot, fixed-blend status, stack order, washout, or recovery-state fields are missing.
+- Added explicit safety handling for [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], and de-ranked/state-bound [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] reports before any ranking update.
+## [2026-06-15] entity | Humanin and SHLP2 endogenous peptide gates clarified
+
+- Updated [[humanin]], [[shlp2]], [[mitochondrial-peptide-frontier-beyond-mots-c-2026-scan]], and [[index]] so mitochondrial-derived peptide biology stays separated from protocol-ready nootropic claims.
+- Kept [[humanin]] as an endogenous resilience / APOE4 / injury-recovery hypothesis requiring analog/variant identity, source/COA, route/formulation, stack order, washout, genotype or injury/aging phenotype, administered-vs-biomarker split, adverse events, and objective cognition endpoints before ranking changes.
+- Kept [[shlp2]] as metabolic / Parkinson's / retinal translational biology requiring SHLP2/K4R/SHLP-family identity, source/COA, route/formulation, stack order, washout, phenotype, administered-vs-endogenous exposure split, adverse events, and objective cognition or disease-state endpoints.
+
+- Linked stop events back into [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[peptide-stack-topology-ledger]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+
+## [2026-06-15] query | Self-study template aligned with peptide/nootropic provenance
+
+- Updated [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[index]] so self-study protocols for gray-market nootropics and peptides must capture source/COA, route/formulation, stack order, washout, recovery state, stimulant exposure, adverse-event linkage, and `de_rank_flag` before ranking pages use them.
+- Added explicit routing from the template to [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[peptide-stack-topology-ledger]].
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] in the high-salience monitoring lane while keeping [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] de-ranked or state-bound unless the workbook captures clean provenance and objective endpoints.
+
+## [2026-06-15] query | Stack attribution diary gets peptide/nootropic fields
+
+- Updated [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]] and [[index]] so self-study and N-of-1 reports now capture peptide/nootropic source, COA/lot, route/formulation, fixed-blend status, stack order, washout, recovery state, stimulant exposure, sleep state, adverse events, and dechallenge/rechallenge before ranking updates.
+- Added the June 2026 split: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] remain high-salience monitoring nodes, while [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] default to de-ranked or state-bound when source, route, washout, or monotherapy detail is missing.
+- Linked the diary more directly to [[peptide-stack-topology-ledger]], [[molecule-triage-worksheet-for-online-scans]], and [[delivery-validation-checklist-for-cognition-interventions]] so vivid self-reports do not bypass attribution controls.
+
+## [2026-06-15] query | Anti-tolerance page gains peptide cycle attribution gate
+
+- Updated [[anti-tolerance-periodization-in-cognitive-enhancement]] and [[index]] so peptide/nootropic cycling language is treated as attribution and safety logic rather than anti-tolerance proof.
+- Added the June 2026 rule that [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] cycle or washout reports need source/COA, route/formulation, stack order, washout length, recovery state, sleep, caffeine/wake-promoter exposure, adverse events, and dechallenge/rechallenge before interpretation.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] de-ranked or state-bound by routing their cycle reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[delivery-validation-checklist-for-cognition-interventions]], and [[peptide-stack-topology-ledger]].
+
+## [2026-06-15] safety | Cerebrolysin peptide-risk routing added
+
+- Updated [[cerebrolysin]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[index]] so the strongest formal-evidence peptide node now carries the same source/route/stack risk discipline as [[semax]], [[selank]], and recovery-bound [[bpc-157]].
+- Added June 2026 routing language requiring product source, route, dose/course length, injection setting, adverse-event screening, co-interventions, recovery phenotype, and washout before Cerebrolysin anecdotes are compared with [[semax]], [[selank]], [[bpc-157]], or [[bromantane]].
+- Closed the stale safety-matrix action item by reframing it as maintenance: strongest peptide/nootropic monitoring nodes should keep evidence strength separate from sourcing, route, stack, and adverse-event uncertainty.
+## [2026-06-15] query | Most-promising ranking gets peptide/nootropic protocol gate
+
+- Updated [[most-promising-methods-for-cognition]] and [[index]] so the anecdotal top-five is explicitly a watchlist rather than a protocol menu.
+- Routed [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and [[bromantane]] through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before any ranking upgrade.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] visible but de-ranked/state-bound unless source/COA, route/formulation, washout, recovery state, adverse events, and objective endpoints are clean.
+## [2026-06-15] comparison | Exploratory intervention hub gets peptide provenance gate
+
+- Updated [[neurocognitive-interventions-under-study]] and [[index]] so the peptide/nootropic branch routes the strongest anecdote nodes through provenance, delivery, stack, self-study, and stop-rule checks.
+- Kept [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and nearby [[bromantane]] as the strongest monitoring cluster while requiring source/COA, route/formulation, stack order, washout, adverse events, and phenotype attribution before ranking changes.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], mitochondrial peptides, [[mots-c]], and related peptide frontier labels searchable but de-ranked or state-bound unless cleaner human cognition and identity evidence appears.
+## [2026-06-15] synthesis | OUTCOME inherits peptide/nootropic provenance gates
+
+- Updated [[OUTCOME]] and [[index]] so the top-level synthesis treats [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and [[bromantane]] as watchlist signals that still need provenance and stop-rule handling.
+- Routed top-level peptide/nootropic ranking changes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before confidence upgrades.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] de-ranked or state-bound unless human cognition, source/COA, route/formulation, washout, adverse events, and objective endpoints improve.
+## [2026-06-15] entity | Bromantane gets nootropic attribution gate
+
+- Updated [[bromantane]] and [[index]] so its moderate-strong state-bound anecdote signal inherits the same source, route, stack, washout, sleep, stimulant-history, and objective-endpoint gates as the strongest peptide/nootropic cluster.
+- Routed future Bromantane self-study or forum reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before any ranking comparison with [[semax]], [[selank]], [[cerebrolysin]], or recovery-bound [[bpc-157]].
+- Kept the current read unchanged: [[bromantane]] is a high-salience activation/fatigue-rescue monitoring node, not broad healthy-adult cognition proof.
+## [2026-06-15] entity | Semax and Selank inherit attribution gates
+
+- Updated [[semax]], [[selank]], and [[index]] so the two strongest Semax/Selank anecdote nodes now carry explicit source/COA, route/formulation, stack order, washout, recovery-state, adverse-event, and objective-endpoint requirements.
+- Routed future [[semax]] and [[selank]] self-study or forum reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before comparison with [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+- Kept the current read unchanged: [[semax]] is a focus/strain-state monitoring node, [[selank]] is a calming/stress-state monitoring node, and neither is broad healthy-adult cognition proof.
+## [2026-06-15] entity | BPC-157 recovery signal gets attribution gate
+
+- Updated [[bpc-157]] and [[index]] so its high-salience recovery signal stays recovery-bound rather than drifting into direct cognition ranking.
+- Routed future BPC-157 / TB-500 reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before any ranking comparison with [[cerebrolysin]], [[semax]], [[selank]], or [[bromantane]].
+- Required source/COA, route/formulation, lot/fixed-blend status, stack order, washout, recovery phenotype, rehab/training changes, adverse events, and objective endpoints before interpreting pain, training continuity, mood, or clarity reports.
+## [2026-06-15] entity | PE-22-28 and Adamax de-rank gates clarified
+
+- Updated [[pe-22-28]], [[adamax]], and [[index]] so two noisy peptide-frontier labels remain searchable without inheriting priority from stronger nodes like [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+- Added PE-22-28 routing requirements for source/COA, formulation, route, dose timing, stack order, washout, mood/anhedonia baseline, sleep state, adverse events, and objective cognition or mood endpoints.
+- Added Adamax routing requirements for independent chemical identity, source/COA, lot, formulation, route, dose timing, stack order, washout, adverse events, and objective endpoints before any parent-Semax extrapolation.
+## [2026-06-15] entity | Epithalon and Pinealon state-bound gates clarified
+
+- Updated [[epithalon]], [[pinealon]], and [[index]] so sleep/circadian, brain-fog, TBI, and recovery anecdotes stay state-bound rather than inheriting priority from [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+- Added Epithalon requirements for identity normalization across Epithalon/Epitalon/Epithalamin/n-acetyl products, source/COA, route/formulation, dosing time, cycle length, stack order, washout, baseline insomnia or circadian phase, adverse events, and objective sleep or cognition endpoints.
+- Added Pinealon requirements for EDR identity, source/COA, route/formulation, dose timing, stack order, washout, TBI/hypoxia or insomnia phenotype, sleep/wearable endpoints where available, adverse events, and objective cognition endpoints.
+## [2026-06-15] entity | Cortexin and Kortagen recovery identity gates clarified
+
+- Updated [[cortexin]], [[kortagen]], and [[index]] so legacy peptide-bioregulator nodes do not borrow priority from [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], or [[bromantane]] without cleaner provenance.
+- Kept [[cortexin]] recovery-first, requiring product identity, source/COA where available, route, course length, injection setting, clinical phenotype, baseline impairment, co-rehabilitation or co-medications, adverse events, washout, and objective recovery or cognition endpoints before ranking changes.
+- Kept [[kortagen]] as a de-ranked identity/taxonomy node unless future reports capture identity, source/COA, route, stack order, washout, phenotype, adverse events, and objective endpoints.
+## [2026-06-15] entity | Thymosin beta-4 TB-500 identity gate tightened
+
+- Updated [[thymosin-beta-4]], [[thymosin-beta-4-2026-scan]], and [[index]] so full-length thymosin beta-4, topical RGN-259, recombinant IV thymosin beta-4, and TB-500/LKKTETQ are not treated as interchangeable exposures.
+- Routed future TB-500 / [[bpc-157]] recovery reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+- Required exact molecule or fragment identity, source/COA, formulation, route, dose timing, stack order, BPC-157 co-use, washout, recovery phenotype, rehab/training changes, adverse events, WADA/FDA status, and objective endpoints before recovery, mood, fatigue, or cognition interpretation.
+## [2026-06-15] entity | MOTS-c metabolism-first gate tightened
+
+- Updated [[mots-c]], [[mots-c-2026-scan]], and [[index]] so MOTS-c remains a metabolism/exercise translation node rather than a direct nootropic lead.
+- Routed future energy, fat-loss, workout, non-response, and allergic/adverse-event anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[peptide-stack-topology-ledger]] before any ranking comparison.
+- Required source/COA, formulation, route, dose timing, stack order, washout, metabolic phenotype, diet/exercise/GLP-1 or SS-31 co-use, adverse events, WADA/FDA status, and objective metabolic plus cognition endpoints.
+## [2026-06-15] entity | Incretin peptide cognition gates tightened
+
+- Updated [[semaglutide]], [[exenatide]], [[mazdutide]], [[retatrutide]], [[incretin-therapies-brain-health]], [[incretin-therapies-brain-health-2026-scan]], and [[index]] so GLP-1/GIP/glucagon peptide signals stay metabolic-state and disease-context gated rather than nootropic ranking shortcuts.
+- Required exact agent, prescription/trial/gray-market status, route/formulation, dose/titration, indication, metabolic phenotype, weight-loss and appetite state, hydration/electrolytes, sleep-apnea and mood context, co-interventions, adverse events, washout or stable-dose period, and objective cognition endpoints before ranking changes.
+- Routed future incretin anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparison with [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or [[bromantane]].
+## [2026-06-15] entity | Orexin wakefulness-state gates tightened
+
+- Updated [[oveporexton]], [[samelisant]], [[orexin-axis-molecule-watchlist]], [[orexin-hypocretin-axis-interventions-2026-scan]], and [[index]] so orexin/H3 wakefulness signals stay disease-context or state-restoration gated rather than drifting into broad nootropic ranking.
+- Required diagnosis or state challenge, baseline sleepiness, prior sleep and sleep debt, circadian timing, dose and administration time, trial/prescription/gray-market status, liver monitoring for orexin agonists, insomnia or next-day somnolence for H3/DORA branches, stimulant/sedative/caffeine/nicotine co-use, washout, and objective attention, memory, executive-function, driving, or work-output endpoints.
+- Routed future wakefulness anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparison with [[modafinil]], [[solriamfetol]], [[bromantane]], [[semax]], or [[selank]].
+## [2026-06-15] query | AMPAkine excitatory-ceiling gates tightened
+
+- Updated [[tak-653]], [[idra-21]], [[cx717]], [[high-impact-ampakine-research-chemical-watchlist]], [[ampakines-and-glutamatergic-plasticity-2026-scan]], and [[index]] so AMPAR-PAM / AMPAkine anecdotes stay source-, state-, stack-, and excitatory-ceiling gated.
+- Required exact molecule, low-impact versus high-impact class, product source/COA or trial status, dose and timing, acute versus repeated exposure, diagnosis or state challenge, baseline sleep/anxiety state, stimulant/caffeine/nicotine/racetam/glutamate-stack co-use, seizure/head-injury/migraine/psychiatric risk, washout, dechallenge/rechallenge, adverse events, and objective endpoint tier before ranking changes.
+- Routed future TAK-653, IDRA-21, CX717, CX614, and related reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparison with stronger peptide/nootropic monitoring nodes.
+## [2026-06-15] comparison | Racetam and Noopept attribution gates tightened
+
+- Updated [[phenylpiracetam]], [[noopept]], [[aniracetam]], [[racetam-comparison-2026-scan]], [[racetam-long-tail-watchlist]], and [[index]] so racetam-style nootropic heat stays product-, route-, choline-, tolerance-, stack-, and phenotype-gated.
+- Required exact molecule and label synonyms, source/COA or prescription/clinical status, route/formulation, dose/timing, acute versus repeated use, tolerance/cycling, fat or meal context, choline co-use, baseline disease/recovery/fatigue/sleep-loss/social-anxiety state, stimulant/caffeine/nicotine/wake-promoter/peptide/nootropic stack, WADA or hidden-ingredient status where relevant, adverse events, washout/dechallenge/rechallenge, and objective endpoint tier before ranking changes.
+- Routed future phenylpiracetam, aniracetam, Noopept, piracetam, oxiracetam, fasoracetam, coluracetam, and sunifiram reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before comparison with stronger peptide/nootropic monitoring nodes.
+## [2026-06-15] query | Cholinergic nootropic attribution gates tightened
+
+- Updated [[nicotine]], [[galantamine]], [[varenicline]], [[cholinergic-state-restoration-and-cognition]], [[cholinergic-and-nicotinic-agents-2026-scan]], [[choline-donor-cognition-signal-map]], and [[index]] so cholinergic/nicotinic/choline-donor signals stay withdrawal-, responder-, clinical-state-, product-form-, and safety-gated rather than generic nootropic claims.
+- Required route/formulation, dose/timing/titration, nicotine status or cholinergic baseline, withdrawal or sleep state, choline form and product matrix, clinical/recovery phenotype, HR/BP/bradycardia/GI/sleep/neuropsychiatric risks, co-use with caffeine/stimulants/wake-promoters/racetams/choline donors/AChE inhibitors/peptide-nootropic stacks, washout/dechallenge/rechallenge, and objective attention/memory/work-output endpoints.
+- Routed future reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[active-comparator-and-caffeine-scheduling-confound-audit]] before comparison with stronger peptide/nootropic monitoring nodes.
+## [2026-06-15] comparison | Anecdote mismatch maps inherit peptide split
+
+- Updated [[anecdote-to-trial-mismatch-bucketed-map]], [[anecdote-led-chemical-heat-map]], and [[index]] so community heat now reflects the June 2026 peptide/nootropic split instead of treating peptide labels as one flat hot-list.
+- Added a `high-priority monitoring` bucket for [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]], while keeping [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels de-ranked, metabolism-first, recovery-bound, or state-bound unless source/COA, route/formulation, washout, adverse-event, and objective-endpoint evidence improves.
+- Routed future anecdote-to-ranking changes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]].
+## [2026-06-15] query | Buyable and gray-zone nootropic boundaries clarified
+
+- Updated [[top-buyable-cognition-chemicals]], [[common-nootropic-gray-zone-molecule-watchlist]], and [[index]] so practical buyable-chemical and ordinary gray-zone watchlists do not absorb peptide/nootropic anecdote heat.
+- Kept [[creatine]], [[caffeine]], [[ketone-ester]], [[citicoline]], and [[l-theanine]] as the conservative buyable top-five while routing [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] to high-priority monitoring rather than protocol ranking.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels de-ranked, metabolism-first, recovery-bound, or state-bound unless source/COA, route/formulation, washout, adverse-event, and objective-endpoint evidence improves; removed the duplicate [[anecdote-led-chemical-heat-map]] index listing.
+## [2026-06-15] query | Plasticity and ISR nootropic gates tightened
+
+- Updated [[emerging-synaptic-plasticity-stack-chemicals-watchlist]], [[integrated-stress-response-cognition-2026-scan]], and [[index]] so TAK-653/ACD856/IDRA-21/NSI-189 and ISRIB-style research-chemical anecdotes inherit the same source, route, stack, washout, adverse-event, and objective-endpoint gates as the peptide/nootropic frontier.
+- Kept [[isrib]] and ISRIB-A15 below high-priority monitoring unless exact compound or analog identity, source/COA, route, solvent, dose timing, sleep/mood activation, adverse events, and washout are captured.
+- Routed future plasticity-stack comparisons with [[bromantane]], [[semax]], [[selank]], [[cerebrolysin]], and recovery-bound [[bpc-157]] through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] entity | Risk-first calm and opioid-like nootropic gates tightened
+
+- Updated [[kava-kavalactones]], [[kratom-mitragynine]], [[risk-first-legacy-gray-zone-nootropic-watchlist]], and [[index]] so calm-focus, pain-relief, withdrawal-relief, and sedative-downshift anecdotes stay risk-first rather than competing with high-priority peptide/nootropic monitoring nodes.
+- Required product identity, preparation or alkaloid status, dose/frequency, co-use, dependence or withdrawal context, liver/seizure/sedative risk, adverse events, washout/dechallenge, and objective endpoints before interpreting kava or kratom focus/creativity claims.
+- Routed future Kava/CBD/Kratom/Phenibut-style downshift comparisons through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] entity | Phenibut and tianeptine dependence gates tightened
+
+- Updated [[phenibut]], [[tianeptine]], [[anecdote-signal-ledger]], and [[index]] so strong anxiolytic/mood-lift anecdotes stay in the dependence, withdrawal, misbranding, and adulteration risk lane rather than competing with peptide/nootropic monitoring nodes.
+- Required product identity, form or hidden-ingredient suspicion, dose/frequency, redosing pattern, co-use, tolerance/rebound/withdrawal context, adverse events, dechallenge/washout, psychomotor or driving impairment where relevant, and objective endpoints before interpreting calm-focus, sociability, mood, motivation, clarity, or productivity claims.
+- Routed future reports through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] query | Cerebrolysin and bioregulator confidence-transfer gates tightened
+
+- Updated [[cerebrolysin-2026-scan]], [[pineal-peptide-bioregulator-comparison]], and [[index]] so the strongest formal peptide node remains medical/recovery-bound instead of becoming a casual nootropic-stack shortcut.
+- Required product source or medical-product context, lot/COA where available, route/formulation, dose/course, injection setting or supervision, phenotype, co-rehabilitation or co-medications, peptide/stimulant/nootropic co-use, washout or stable background, hypersensitivity/adverse-event screening, and objective endpoints before changing peptide rankings.
+- Added explicit routing through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[peptide-stack-topology-ledger]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] entity | GH-axis MK-677 and hexarelin routing tightened
+
+- Updated [[ibutamoren]], [[hexarelin]], and [[index]] so oral MK-677 sleep/recovery lore and hexarelin GH-release pharmacology do not inherit priority from stronger peptide/nootropic monitoring nodes or CJC-1295/ipamorelin stack anecdotes.
+- Required product identity, source/COA where relevant, route/formulation, dose/timing, duration, washout or stable background, sleep/recovery context, appetite/caloric intake for MK-677, glucose/insulin or diabetes risk, edema/fluid weight, BP/HR, IGF-1 context where medically available, co-use, adverse events, and objective endpoints before any ranking change.
+- Routed future MK-677 and hexarelin reports through [[growth-hormone-secretagogue-cognition-2026-scan]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[peptide-stack-topology-ledger]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] query | Peptide stack topology ledger synchronized with June gates
+
+- Updated [[peptide-stack-topology-ledger]] and [[index]] so the central stack-attribution page now reflects the latest Semax/Selank/Cerebrolysin/BPC-157/Bromantane split, de-ranked Dihexa/PE-22-28/Adamax lane, state-bound Epithalon/Pinealon lane, GH-axis stack lane, TB-500/thymosin-beta-4 identity lane, MOTS-c/mitochondrial metabolism lane, and social-peptide context lane.
+- Added required routing through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before any ranking change.
+- Added minimum capture fields for regulatory/sports/medical status, adverse-event stop rules, and phenotype/mediator path so sleep, pain, rehab continuity, body-composition, metabolic, social, libido, mood, and threat-processing reports do not masquerade as direct cognition.
+## [2026-06-15] query | Peptide regulatory live-watch status gate refreshed
+
+- Updated [[peptide-regulatory-live-watch-board]] and [[index]] after a fresh 2026-06-15 public-status check did not surface a newer official FDA or WADA disposition for the July 23-24, 2026 PCAC peptide items.
+- Added a status-change evidence gate distinguishing FDA PCAC documents, GLP-1 bulks-list actions, WADA updates, human cognition results, and sourcing/safety artifacts from media prediction, clinic commentary, vendor claims, and general market heat.
+- Clarified that [[bromantane]] stays an adjacent non-peptide activation comparator routed through [[regulatory-and-sports-visibility-map]] and [[safety-interaction-matrix-for-multi-modal-stacks]], not through peptide compounding status.
+## [2026-06-15] comparison | Peptide safety and sourcing map widened to new gates
+
+- Updated [[peptide-safety-and-sourcing-risk-map]] and [[index]] so the safety layer now reflects the strongest Semax/Selank/Cerebrolysin/BPC-157 monitoring nodes, de-ranked Dihexa/PE-22-28/Adamax/Epithalon/Pinealon lane, GH-axis physiology lane, TB-500/thymosin-beta-4 identity lane, MOTS-c/mitochondrial metabolism lane, and oxytocin/vasopressin/desmopressin social-peptide context lane.
+- Added explicit routing through [[peptide-regulatory-live-watch-board]], [[peptide-stack-topology-ledger]], [[delivery-validation-checklist-for-cognition-interventions]], [[molecule-triage-worksheet-for-online-scans]], and [[self-experimentation-stop-rules]] before safety or efficacy interpretation changes.
+- Added practical rules that missing molecule/fragment identity, source/COA, route/formulation, dose timing, washout, stack order, adverse events, and phenotype path make both safety and cognition interpretation incomplete.
+## [2026-06-15] query | Dihexa de-ranking and HGF/MET read-across tightened
+
+- Updated [[dihexa-2026-scan]] and [[index]] so Dihexa remains a high-salience but de-ranked peptide-frontier node rather than inheriting priority from [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or non-peptide comparator [[bromantane]].
+- Added the [[fosgonimeton]] / LIFT-AD HGF/MET comparator as a mechanism-to-human caution: the humanized HGF/MET lane missed its primary and key secondary cognition/function endpoints, blocking easy read-across from Dihexa mechanism lore to human cognition confidence.
+- Added explicit route/source/stack gates through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before any Dihexa ranking change.
+## [2026-06-15] entity | PE-22-28 mood-curiosity gate tightened
+
+- Updated [[pe-22-28]] and [[index]] so PE-22-28 stays a TREK-1 / mini-spadin mood-anhedonia curiosity rather than inheriting priority from [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], or [[dihexa]] rewiring lore.
+- Required exact identity, source/COA, route/formulation, dose timing, stack order, washout, mood/anhedonia baseline, sleep state, antidepressant/serotonergic/glutamatergic/stimulant co-use, adverse events, and objective mood or cognition endpoints before any ranking change.
+- Routed future reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] entity | Semax and Selank central gates synchronized
+
+- Updated [[semax]], [[selank]], and [[index]] so both high-salience state-restoration peptide entities now point directly to the central source, delivery, topology, regulatory, safety, diary, and stop-rule gates.
+- Required route/formulation, source/COA, dose timing, stack order, washout, sleep or recovery phenotype, stimulant/anxiolytic co-use where relevant, adverse events, and objective endpoints before Semax or Selank reports change ranking language.
+- Kept the strongest-current-cluster framing intact while blocking confidence transfer from [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], or de-ranked frontier labels such as [[dihexa]], [[pe-22-28]], and [[adamax]].
+## [2026-06-15] entity | Cerebrolysin anecdote ledger and medical-product gates added
+
+- Updated [[cerebrolysin]] and [[index]] so the strongest formal peptide node now has an explicit anecdote ledger separating Troof/Reddit salience from disease-context human evidence and healthy-adult nootropic claims.
+- Required product source or medical-product context, lot/COA where available, route/formulation, dose/course length, injection setting, hypersensitivity screening, adverse events, co-rehabilitation or co-medications, peptide/stimulant/nootropic co-use, recovery phenotype, washout or stable background, and objective endpoints before ranking changes.
+- Routed future Cerebrolysin reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] entity | Adamax identity-risk gate synchronized
+
+- Updated [[adamax]] and [[index]] so the vendor-defined Semax-family label now inherits the central peptide/nootropic source, delivery, topology, regulatory, safety, diary, and stop-rule gates.
+- Added a 2026-06-15 public-check note that no primary human cognition trial, human PK/safety packet, or peer-reviewed Adamax-specific efficacy source surfaced; visible public material remains secondary chemistry/regulatory-style summaries plus vendor/offshoot language.
+- Kept Adamax de-ranked unless future evidence separates independent chemical identity, source/COA, lot, formulation, route, dose timing, stack order, washout, adverse events, and objective endpoints from parent-[[semax]] extrapolation or vendor copy.
+## [2026-06-15] entity | Bromantane activation-comparator gates synchronized
+
+- Updated [[bromantane]] and [[index]] so the non-peptide activation comparator now carries the same source/COA, route/formulation, dose timing, stack order, washout, sleep, stimulant-history, exercise-load, WADA/sports, adverse-event, and objective-endpoint gates as the strongest peptide/nootropic monitoring cluster.
+- Routed future Bromantane reports through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] before comparison with [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or de-ranked labels like [[dihexa]], [[pe-22-28]], and [[adamax]].
+- Kept the current interpretation unchanged: [[bromantane]] is a moderate-strong state-bound activation/fatigue-rescue anecdote node, not broad healthy-adult cognition proof.
+## [2026-06-15] entity | BPC-157 recovery-bound attribution gates synchronized
+
+- Updated [[bpc-157]] and [[index]] so the recovery-focused peptide now routes directly through central source, delivery, topology, regulatory, safety, diary, and stop-rule gates before any cognition-ranking comparison.
+- Required source/COA, route/formulation, lot or fixed-blend status, TB-500 / [[thymosin-beta-4]] co-use, stack order, washout, recovery phenotype, injury natural history, rehab/training changes, sleep/pain/training-continuity mediators, adverse events, WADA/FDA status, and objective endpoints.
+- Kept the interpretation recovery-bound: pain relief, training return, mood, or clarity reports do not upgrade direct cognition confidence without cleaner mediator and endpoint attribution.
+## [2026-06-15] query | Most-promising methods peptide gate synchronized
+
+- Updated [[most-promising-methods-for-cognition]] and [[index]] so the high-salience peptide/nootropic shortlist now inherits the synchronized entity gates for [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]].
+- Kept the strongest cluster as monitoring priority rather than protocol ranking, while preserving de-ranked routing for [[dihexa]], [[pe-22-28]], and [[adamax]] unless human cognition, source/COA, route/formulation, washout, adverse-event, regulatory/sports, safety, and objective-endpoint evidence improves.
+- Routed future ranking changes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] query | Community nootropic dataset gates synchronized
+
+- Updated [[community-nootropic-rating-datasets-2026-scan]] and [[index]] so Troof, SSC, ACX, Reddit, and modafinil survey salience routes through the same source, delivery, stack, regulatory/sports, safety, adverse-event, and endpoint gates as the latest peptide/nootropic cluster.
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] as the strongest dataset-backed monitoring nodes while preserving de-ranked routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]].
+- Added explicit routing through [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[regulatory-and-sports-visibility-map]], and [[safety-interaction-matrix-for-multi-modal-stacks]] so community ratings remain provenance signals rather than delivered-exposure, safety, or protocol evidence.
+## [2026-06-15] query | Nootropic peptide frontier protocol language tightened
+
+- Updated [[nootropic-peptide-anecdote-frontier-2026-scan]] and [[index]] so reported peptide use parameters are framed as exposure and safety attribution fields, not dose or protocol guidance.
+- Added the full gate stack for future peptide/nootropic updates: [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-safety-and-sourcing-risk-map]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] as monitoring-priority nodes while preserving de-ranked or state-bound interpretation for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels.
+## [2026-06-15] query | Healthy-adult peptide exclusion gate tightened
+
+- Updated [[healthy-adult-cognition-signals]] and [[index]] so the healthy, well-slept adult ranking explicitly excludes peptide/nootropic anecdote heat unless source/COA, route/formulation, dose timing, stack order, washout, phenotype, safety, regulatory/sports, stop-rule, and objective-endpoint gates are met.
+- Kept [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and [[bromantane]] visible as monitoring-priority nodes while preventing confidence transfer into the healthy-rested-adult top five.
+- Preserved de-ranked, metabolism-first, recovery-bound, or state-bound routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] comparison | Molecule heat-map peptide gates tightened
+
+- Updated [[anecdote-led-chemical-heat-map]], [[cognitive-improvement-molecule-signal-atlas]], and [[index]] so the molecule-level heat maps now carry the full source, delivery, stack, washout, safety, adverse-event, regulatory/sports, and objective-endpoint gates for peptide/nootropic monitoring nodes.
+- Kept [[cerebrolysin]] framed as a medical/recovery-bound peptide exception rather than a casual nootropic shortcut, with [[semax]], [[selank]], recovery-bound [[bpc-157]], and [[bromantane]] treated as monitoring-priority signals rather than broad healthy-adult cognition proof.
+- Added direct routing through [[peptide-safety-and-sourcing-risk-map]], [[delivery-validation-checklist-for-cognition-interventions]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] from the heat-map layer.
+## [2026-06-15] comparison | Heat-map page-size warning cleared
+
+- Trimmed redundant related-page bullets from [[anecdote-led-chemical-heat-map]] while keeping the peptide/nootropic gate links in the branch note itself.
+- Left the source, delivery, stack, washout, safety, regulatory/sports, and objective-endpoint routing intact for [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], and de-ranked peptide frontier labels.
+## [2026-06-15] comparison | Molecule intake peptide routing synchronized
+
+- Updated [[molecule-intake-triage-table]] and [[index]] so the pre-ranking intake gate now carries the June 2026 peptide/nootropic monitoring split before candidates reach ranking pages.
+- Routed [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] through state-restoration, disease/recovery, recovery-bound, or comparator lanes rather than a generic anecdote bucket.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[mots-c]], and most TrkB/BDNF mimetics in preclinical-only, de-ranked frontier, or metabolism-first routing unless human cognition, source/COA, route/formulation, washout, safety, regulatory/sports, and objective-endpoint evidence improves.
+## [2026-06-15] query | Molecule triage worksheet peptide fields synchronized
+
+- Updated [[molecule-triage-worksheet-for-online-scans]] and [[index]] so online peptide/nootropic reports now capture exact identity, source/COA, route/formulation, dose timing, stack order, washout, phenotype, co-use risks, adverse events, stop rules, regulatory/sports status, and objective endpoints before ranking changes.
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] as monitoring-priority nodes while preserving de-ranked or state-bound routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], and TB-500-style labels.
+- Routed worksheet completion through [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[regulatory-and-sports-visibility-map]], [[30-day-self-study-template-for-nonprescription-interventions]], and [[30-day-self-study-workbook-schema]].
+## [2026-06-15] comparison | Delivery validation peptide/nootropic gate widened
+
+- Updated [[delivery-validation-checklist-for-cognition-interventions]] and [[index]] so the pre-efficacy exposure gate now covers exact molecule/fragment identity, source/COA, route/formulation, dose timing, stack order, washout, phenotype, adverse events, objective endpoints, and regulatory/sports status for peptide and gray-market nootropic reports.
+- Added [[bromantane]], recovery-bound [[bpc-157]], [[cerebrolysin]], [[mots-c]], and the Semax/Selank cluster to the delivery-confounded examples so activation, recovery, medical-product, metabolic, and intranasal reports are not treated as interchangeable delivered exposure.
+- Routed delivery validation through [[molecule-triage-worksheet-for-online-scans]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[oral-vs-subq-epithalon-pinealon-dihexa]] before cognition signal scoring.
+## [2026-06-15] query | Safety interaction matrix peptide/nootropic split synchronized
+
+- Updated [[safety-interaction-matrix-for-multi-modal-stacks]] and [[index]] so stack-risk handling now mirrors the current peptide/nootropic split: [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] remain monitoring-priority nodes but not safety-cleared stack ingredients.
+- Added BPC-157/TB-500-style recovery-stack mediation, [[bromantane]] sports-visible activation context, [[mots-c]] metabolic uncertainty, GH-axis fixed-blend risk, and de-ranked routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]].
+- Required exact identity, source/COA, route/formulation, dose timing, washout, dechallenge, adverse events, objective endpoints, and sports/regulatory status before inferring molecule-specific safety or benefit from any peptide or adjacent gray-market nootropic stack report.
+## [2026-06-15] query | Self-experimentation stop rules peptide gates synchronized
+
+- Updated [[self-experimentation-stop-rules]] and [[index]] so peptide/nootropic pause logic now includes exact identity, source/COA, route/formulation, dose timing, stack order, washout, recovery/sleep state, adverse-event history, sports/regulatory status, objective endpoints, and dechallenge fields.
+- Added mediator-drift stop flags for recovery-bound [[bpc-157]], TB-500-style stacks, [[mots-c]], GH-axis peptides, and [[bromantane]] so pain relief, training continuity, sleep, body-composition, metabolic state, exercise load, or stimulant timing do not masquerade as direct cognition.
+- Routed stop events through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] before molecule ranking changes.
+## [2026-06-15] query | Stack attribution diary peptide/nootropic fields synchronized
+
+- Updated [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]] and [[index]] so event-level diary entries now capture exact identity, fragment/family label, source/COA, route/formulation, dose timing, stack order, washout, recovery/sleep state, adverse events, regulatory/sports status, objective endpoints, mediator path, and dechallenge/rechallenge.
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] as monitoring-priority nodes while preserving low-attribution defaults for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis peptides, and TB-500-style labels when mediator or endpoint fields are missing.
+- Added routing through [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], and [[regulatory-and-sports-visibility-map]] so diary evidence remains aligned with the central safety, delivery, stop-rule, and sports/regulatory gates.
+## [2026-06-15] query | Self-study workbook peptide/nootropic fields synchronized
+
+- Updated [[30-day-self-study-workbook-schema]] and [[index]] so reusable self-study sheets now capture peptide/nootropic exact identity, source/COA, route/formulation, dose timing, stack order, mediator path, regulatory/sports status, adverse-event linkage, objective endpoint evidence, and attribution debt.
+- Added BPC-157 pilot and hamstring-trial provenance to the workbook context while keeping [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], [[bromantane]], [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis peptides, and TB-500-style labels gated before ranking changes.
+- Trimmed low-priority derived analysis rows so the workbook schema stays below the wiki page-size threshold while aligning with [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[delivery-validation-checklist-for-cognition-interventions]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] query | Molecule coverage audit attribution bottleneck tightened
+
+- Updated [[molecule-coverage-semantic-audit-2026-05-03]] and [[index]] so the molecule-coverage checkpoint now says the peptide/nootropic graph is name-complete enough that attribution, not discovery, is the bottleneck.
+- Routed future Semax/Selank/Cerebrolysin/BPC-157/Bromantane and de-ranked frontier upgrades through [[gray-zone-nootropic-community-signal-ledger]], [[community-nootropic-rating-datasets-2026-scan]], [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] before ranking changes.
+- Added mediator path, adverse-event, sports/regulatory, objective-endpoint, dose-timing, source/COA, route/formulation, washout, and dechallenge/rechallenge as explicit audit criteria for [[mots-c]], GH-axis peptides, TB-500-style labels, [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]].
+
+## [2026-06-15] comparison | Common gray-zone nootropic boundary tightened
+
+- Updated [[common-nootropic-gray-zone-molecule-watchlist]] and [[index]] so ordinary gray-zone candidates now route through [[gray-zone-nootropic-community-signal-ledger]] and [[community-nootropic-rating-datasets-2026-scan]] without absorbing the louder Semax/Selank/Cerebrolysin/BPC-157/Bromantane frontier cluster.
+- Added ranking hygiene language preventing ordinary nootropics from being downgraded merely because peptide/frontier anecdotes are louder, and preventing peptide/nootropic frontier nodes from being upgraded merely because reports feel more dramatic.
+- Required exact identity, source/COA or medical-product status, route/formulation, dose timing, stack order, washout, phenotype/mediator path, adverse events, sports/regulatory status, and objective endpoints through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]] before comparing peptide/frontier reports with ordinary gray-zone molecules.
+
+## [2026-06-15] summary | Medicine cognition summary nootropic comparator added
+
+- Updated [[medicine-cognition-summary]] and [[index]] so the top-level medicine/cognition overview now names adjacent non-peptide [[bromantane]] beside [[semax]], [[selank]], [[cerebrolysin]], and recovery-bound [[bpc-157]] as the strongest current anecdote-priority monitoring cluster.
+- Routed the summary's peptide/nootropic slice through [[gray-zone-nootropic-community-signal-ledger]], [[community-nootropic-rating-datasets-2026-scan]], [[nootropic-peptide-anecdote-frontier-2026-scan]], [[peptide-stack-topology-ledger]], and [[regulatory-and-sports-visibility-map]] instead of leaving community nootropic evidence implicit.
+- Added a practical ranking rule requiring exact identity, source/COA or medical-product status, route/formulation, dose timing, stack order, washout, phenotype/mediator path, adverse events, sports/regulatory status, and objective endpoints before Semax/Selank/Cerebrolysin/BPC-157/Bromantane or de-ranked peptide frontier reports change synthesis pages.
+
+## [2026-06-15] comparison | Gray-zone community signal ledger synchronized
+
+- Updated [[gray-zone-nootropic-community-signal-ledger]] and [[index]] so the direct community-source layer now explicitly answers the Bromantane/Semax/Selank question: yes, the wiki has a strong anecdote-priority cluster, but it remains monitoring and triage evidence rather than healthy-adult cognition proof.
+- Added a current strongest-signal section separating [[semax]] focus-under-strain, [[selank]] stress-state restoration, [[bromantane]] fatigue/work-capacity activation, [[cerebrolysin]] medical-neurorecovery, and recovery-bound [[bpc-157]] from de-ranked or state-bound [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis peptides, and TB-500-style labels.
+- Synchronized ranking-change requirements with the June peptide/nootropic gates: exact identity, source/COA, route/formulation, dose timing, stack order, washout, phenotype/mediator path, adverse events, objective endpoints, and sports/regulatory status routed through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+
+## [2026-06-15] query | Self-study template peptide/nootropic gates synchronized
+
+- Updated [[30-day-self-study-template-for-nonprescription-interventions]] and [[index]] so the 30-day protocol narrative now matches the workbook fields for exact identity, source/COA, route/formulation, dose timing, washout, mediator path, adverse events, objective endpoints, and sports/regulatory status.
+- Kept [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] as hypothesis-monitoring nodes while preserving `de_rank_flag` routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], [[pinealon]], [[mots-c]], GH-axis peptides, and TB-500-style labels.
+- Routed peptide/nootropic self-study interpretation through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[30-day-self-study-workbook-schema]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], and [[regulatory-and-sports-visibility-map]] before ranking updates.
+## [2026-06-15] comparison | Anecdote signal ledger Bromantane cluster synchronized
+
+- Updated [[anecdote-signal-ledger]] and [[index]] so the central cross-domain anecdote routing layer now groups [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and adjacent [[bromantane]] as the strongest current anecdote-priority monitoring cluster.
+- Added Bromantane formal/source anchors to the ledger context while preserving the interpretation that this cluster is triage evidence, not broad healthy-adult cognition proof.
+- Routed future cluster ranking changes through exact identity, source/COA or medical-product status, route/formulation, dose timing, stack order, washout, mediator path, adverse events, objective endpoints, and sports/regulatory gates across [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[regulatory-and-sports-visibility-map]].
+## [2026-06-15] concept | Peptide neuroprotection Bromantane comparator gate added
+
+- Updated [[peptide-neuroprotection]] and [[index]] so the peptide-neuroprotection hub now matches the current monitoring split: [[cerebrolysin]], [[semax]], [[selank]], recovery-bound [[bpc-157]], and adjacent [[bromantane]] are high-priority monitoring nodes, but Bromantane remains a non-peptide fatigue/activation comparator rather than a peptide mechanism.
+- Added source, route, stack, washout, adverse-event, sports/regulatory, mediator, and objective-endpoint gates before anecdote reports can move the concept-level synthesis.
+- Preserved de-ranked routing for [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] while linking the hub back to [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
+## [2026-06-15] comparison | Neurocognitive intervention peptide/nootropic table synchronized
+
+- Updated [[neurocognitive-interventions-under-study]] and [[index]] so the cross-modality comparison table now names the strongest monitoring cluster as [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and adjacent non-peptide [[bromantane]] rather than peptide nodes alone.
+- Added explicit regulatory/sports, objective-endpoint, source/COA or medical-product, route/formulation, stack, washout, adverse-event, and phenotype attribution language to the table row and routing paragraph.
+- Kept [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] in the de-ranked frontier lane while routing future ranking changes through [[peptide-regulatory-live-watch-board]], [[self-experimentation-stop-rules]], and [[regulatory-and-sports-visibility-map]] as well as the existing source, stack, and delivery gates.
+## [2026-06-15] comparison | Molecule signal atlas Bromantane row synchronized
+
+- Updated [[cognitive-improvement-molecule-signal-atlas]] and [[index]] so the atlas Anecdote Ledger row now includes adjacent non-peptide [[bromantane]] beside [[semax]], [[selank]], [[cerebrolysin]], and recovery-bound [[bpc-157]] in the strongest nootropic peptide/recovery/activation monitoring cluster.
+- Added Bromantane source anchors to the atlas frontmatter and made the row distinguish activation/fatigue/work-capacity reports from peptide neuroprotection or recovery claims.
+- Tightened the row's ranking gates around exact identity, source/COA or medical-product status, route/formulation, dose timing, stack order, washout, adverse events, sports/regulatory status, objective endpoints, stimulant/sleep-debt context, injury/recovery state, TB-500 co-use, and clinical-state boundaries.
+## [2026-06-15] comparison | Peptide safety map Bromantane comparator gate synchronized
+
+- Updated [[peptide-safety-and-sourcing-risk-map]] and [[index]] so the safety/source layer now treats [[bromantane]] as an adjacent non-peptide activation comparator inside the strongest monitoring cluster with [[semax]], [[selank]], [[cerebrolysin]], and recovery-bound [[bpc-157]].
+- Added Bromantane source anchors and clarified that activation, fatigue-rescue, stimulant history, sleep debt, exercise load, and WADA visibility can mask peptide-specific adverse or cognitive signals.
+- Added [[regulatory-and-sports-visibility-map]] and [[bromantane]] to the related routing nodes so future safety interpretation passes through sports/regulatory and activation-comparator gates.
+## [2026-06-15] query | Peptide frontier and topology wording synchronized
+
+- Updated [[nootropic-peptide-anecdote-frontier-2026-scan]], [[peptide-stack-topology-ledger]], [[translational-gap-table]], and [[index]] so the flagship peptide/nootropic synthesis pages now use the same strongest-cluster language for [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and adjacent non-peptide [[bromantane]].
+- Tightened the frontier and topology read so the cluster is explicitly triage or monitoring evidence rather than healthy-adult cognition proof, with exact identity, source/COA, route/formulation, washout, phenotype, adverse-event, objective-endpoint, and sports/regulatory gates carried through the prose.
+- Added Bromantane's activation-comparator role to the translational-gap framing so the legacy peptide row is read beside [[cerebrolysin]], [[bpc-157]], and [[bromantane]] rather than as a clean peptide-enhancer class.
+
+## [2026-07-21] entity | P021 (P21) added
+
+- Created [[p021-p21]] as a low-confidence, preclinical-only CNTF/BDNF neurotrophic-peptide node, explicitly disambiguated from CDKN1A/p21 and from label-only gray-market `P21` products.
+- Captured primary evidence in `raw/articles/pubmed-24702821-p021-cognitive-aging-rats.md`, `raw/articles/pubmed-25046994-p021-3xtg-ad-chronic-oral.md`, `raw/articles/pubmed-26401692-p021-aged-rat-csf-tau.md`, `raw/articles/pubmed-28655344-p021-synaptic-compensation.md`, `raw/articles/pubmed-34057082-p021-postnatal-3xtg-ad.md`, `raw/articles/pubmed-39592934-p021-cdkl5-model.md`, `raw/articles/pubmed-41740658-p021-diffusion-mri.md`, and `raw/articles/pubmed-41945082-p021-mri-corrigendum.md`.
+- Captured the independent 2025 ADDF review, the NIA-hosted Phanes/PB021 development profile, and a dated exact ClinicalTrials.gov intervention search in `raw/articles/addf-2025-p021-cognitive-vitality.md`, `raw/articles/nia-2025-phanes-biotech-pb021.md`, and `raw/articles/clinicaltrials-p021-intervention-search-2026-07-21.md`.
+- Updated `concepts/peptide-neuroprotection.md` with an inbound related-node link, updated `index.md` to 570 pages, and appended this `log.md` record. The live registry result is recorded narrowly: no matching P021 intervention record was found, while company Phase 1 timing remains a projection rather than proven human dosing.
+
+## [2026-07-21] lint | 1 issue found
+
+- Full structural lint completed with 0 errors, 1 warning, and 823 informational confidence/contestation notices.
+- The only warning is the pre-existing `log.md` rotation threshold; rotation was not attempted because it is outside this single-entity addition.
+- [[p021-p21]] passed frontmatter, taxonomy, index, outbound-link, inbound-link, page-size, source-hash, and broken-link checks. Its BBB-evidence tension and development-plan versus live-registry boundary are preserved explicitly rather than silently resolved.

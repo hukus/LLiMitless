@@ -1,22 +1,27 @@
 ---
 title: Dihexa 2026 Scan
 created: 2026-04-27
-updated: 2026-05-24
+updated: 2026-06-15
 type: query
-tags: [cognition, peptides, mechanism, preclinical, controversy, safety]
-sources: [raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md, raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md, raw/articles/pubmed-25649658-hgf-cmet-dihexa-alzheimers.md, raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md, raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/reddit-2026-04-29-dihexa-thread.md, raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md]
+tags: [cognition, peptides, mechanism, preclinical, controversy, safety, anecdote]
+sources: [raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md, raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md, raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md, raw/articles/pubmed-25649658-hgf-cmet-dihexa-alzheimers.md, raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md, raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/reddit-2026-04-29-dihexa-thread.md, raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md, raw/articles/pmc-12701236-fosgonimeton-lift-ad.md, raw/articles/clinicaltrials-nct04488419-fosgonimeton-lift-ad.md]
 confidence: low
 ---
 
 # Dihexa 2026 Scan
 
-Dihexa remains best described as a preclinical AngIV-analog candidate with rodent procognitive and recovery-adjacent signals plus unusually persistent gray-market nootropic salience. I rechecked the branch on 2026-05-24 and still did not surface a published human cognition trial or a visible ClinicalTrials.gov Dihexa program. That means the translational status is still preclinical-only even though the community keeps treating it like an "upcoming" cognition peptide. The branch now also needs an explicit integrity caveat: the foundational 2013 oral/intraperitoneal rodent paper has a Notice of Concern, and the 2014 HGF/c-Met mechanism paper has been retracted.^[raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md]^[raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md]
+Dihexa remains best described as a preclinical AngIV-analog candidate with rodent procognitive and recovery-adjacent signals plus unusually persistent gray-market nootropic salience. Current checks have not surfaced a published human cognition trial or a visible ClinicalTrials.gov Dihexa program, and a fresh 2026-06-15 public search did not change that status. That means the translational status is still preclinical-only even though the community keeps treating it like an "upcoming" cognition peptide. The branch also needs an explicit integrity caveat: the foundational 2013 oral/intraperitoneal rodent paper has a Notice of Concern, and the 2014 HGF/c-Met mechanism paper has been retracted.^[raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md]^[raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md]
+
+June 2026 read: Dihexa should be routed as `moderate high-upside rewiring salience, low-to-very-low human confidence`. The right interpretation is not "missing" or "promising clinical peptide"; it is a highly salient preclinical hypothesis whose practical use case is blocked by absent human exposure data, route/protocol improvisation, sourcing uncertainty, and evidence-integrity caveats. It should not inherit priority from [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], or nearby non-peptide comparator [[bromantane]].
+
+June 15 attribution gate: Dihexa reports should remain de-ranked unless they capture exact product identity, source/COA, formulation, route and vehicle, dose timing, cycle length, stack order, washout, sleep and stimulant state, mood activation, adverse events, and objective cognition endpoints. Route future claims through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before comparing them with the stronger peptide/nootropic monitoring cluster.
 
 ## What Changed Since 2024
 
 - The main update is not a new human dataset but a cleaner separation between `frontier importance` and `evidence ceiling`. Dihexa still has no formal human cognition evidence, but it remains one of the louder speculative peptides in community use because the "rewiring" story persists and the mechanism is unusually specific.
 - The foundational AngIV-analog paper established oral, BBB-permeant procognitive activity in rodent models, the 2021 APP/PS1 mouse paper added a clearer AD-like memory rescue and PI3K/AKT readout, and the 2021 sciatic-nerve paper extended Dihexa into recovery biology. None of those papers crosses into human cognition evidence, and the foundational oral paper should now be read with its Notice-of-Concern caveat.^[raw/articles/pubmed-23055539-dihexa-procognitive-antidementia.md]^[raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md]^[raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]^[raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md]
 - The anecdote layer is now easier to interpret: public discussion treats Semax as the safer, better-understood comparator and Dihexa as the higher-theoretical-upside, higher-theoretical-risk option.^[raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md]^[raw/articles/reddit-2026-04-29-dihexa-thread.md]
+- The HGF/MET read-across lane is now weaker as an upgrade argument than it looks at first glance. [[fosgonimeton]] / ATH-1017 is the practical human comparator for HGF/MET synaptic-rescue claims, and LIFT-AD missed its primary Global Statistical Test plus key ADAS-Cog11 and ADCS-ADL23 secondary endpoints. That does not falsify Dihexa's rodent findings, but it does block easy transfer from HGF/MET mechanism to human cognition benefit.^[raw/articles/pmc-12701236-fosgonimeton-lift-ad.md]^[raw/articles/clinicaltrials-nct04488419-fosgonimeton-lift-ad.md]
 
 ## Top Sources
 
@@ -29,6 +34,7 @@ Dihexa remains best described as a preclinical AngIV-analog candidate with roden
 - `raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md` - current FDA read on Dihexa acetate as a low-data peptide with no identified human exposure data.
 - `raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md` - practical community framing of Dihexa versus Semax.
 - `raw/articles/reddit-2026-04-29-dihexa-thread.md` - route and delivery speculation showing how unsettled real-world Dihexa use still is.
+- `raw/articles/pmc-12701236-fosgonimeton-lift-ad.md` and `raw/articles/clinicaltrials-nct04488419-fosgonimeton-lift-ad.md` - human HGF/MET comparator record showing negative primary and key secondary cognition/function endpoints for fosgonimeton.
 
 ## Evidence Tiering
 
@@ -37,7 +43,7 @@ Dihexa remains best described as a preclinical AngIV-analog candidate with roden
 | Human | No published human cognition trial surfaced in the current check. |
 | Registry | No visible ClinicalTrials.gov Dihexa program surfaced in the current check. |
 | Animal | Rodent procognitive and recovery-adjacent effects are the only real signal. |
-| Mechanistic | HGF/c-Met is now integrity-caveated by the 2014 paper retraction; PI3K/AKT, synaptogenesis, and anti-inflammatory readouts remain animal/mechanism leads. |
+| Mechanistic | HGF/c-Met is now integrity-caveated by the 2014 paper retraction; fosgonimeton gives a negative human HGF/MET comparator; PI3K/AKT, synaptogenesis, and anti-inflammatory readouts remain animal/mechanism leads. |
 | Anecdote | Persistent but thin; serious enough for frontier tracking, still too small and too confounded for efficacy confidence. |
 
 ## Effect Size Snapshot
@@ -49,6 +55,8 @@ There is no human effect size to report. The rodent literature is directionally 
 No human safety dataset was found. That is the key safety issue: Dihexa is still a research compound with no published human PK, tolerability, or adverse-event series in the cognition space. FDA's current bulk page reinforces that by stating that it has not identified human exposure data on drug products containing Dihexa acetate.^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 The animal literature uses nontrivial mg/kg dosing and experimental formulations, including oral dosing in mice and hydrogel / intraperitoneal / muscle delivery in rats.^[raw/articles/pubmed-34827486-dihexa-app-ps1-memory.md]^[raw/articles/pubmed-34703584-dihexa-sciatic-nerve-repair.md]
+
+Practical safety interpretation now routes through [[peptide-safety-and-sourcing-risk-map]] and [[safety-interaction-matrix-for-multi-modal-stacks]]. Missing route, vehicle, source/COA, dose, washout, adverse-event, or co-use fields should be treated as safety debt, not as neutral absence of risk.
 
 ## Responder Phenotypes
 
@@ -68,14 +76,17 @@ No human responder phenotype is established.
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| Dihexa is the higher-upside but higher-risk alternative to Semax | anecdote | `raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md`; Reddit comparison thread | 1 long post plus comments; moderate | Semax comparison, source quality, cycle length | low | Thread is heavy on theory and protocol lore rather than denominator-backed outcomes |
-| Dihexa use is dominated by route optimization talk and subtle-effect uncertainty | anecdote | `raw/articles/reddit-2026-04-29-dihexa-thread.md`; Reddit thread | 1 thread; weak | Oral nonresponse, nasal/DMSO/transdermal speculation | low | More evidence of unsettled use than of consistent benefit |
+| Dihexa is the higher-upside but higher-risk alternative to Semax | `forum anecdote` / vendor-linked discussion | `raw/articles/reddit-2026-04-29-dihexa-vs-semax-ultimate-peptide-nootropic-showdown.md`; Reddit comparison thread | one long post plus comments; `moderate` | Semax comparison, source quality, cycle length, theoretical rewiring | low | Thread is heavy on theory and protocol lore rather than denominator-backed outcomes. |
+| Dihexa use is dominated by route optimization talk and subtle-effect uncertainty | `forum anecdote` | `raw/articles/reddit-2026-04-29-dihexa-thread.md`; Reddit thread | one thread; `weak` | Oral nonresponse, nasal/DMSO/transdermal, sublingual, and subcutaneous speculation | low | More evidence of unsettled use than of consistent benefit; no human route is validated. |
+| Dihexa has long-form memory / procedural-learning self-experiment lore | `forum anecdote` | `[[nootropic-peptide-anecdote-frontier-2026-scan]]`; Reddit long-term experience summarized in peptide frontier scan | one long-form report; `moderate` salience but `weak` evidentiary strength | Memory, logic, academic performance, procedural memory, long-cycle self-experiment | low | Single subject, no control, old report, product identity and expectancy unresolved. |
+| Dihexa is protocol-ready for human cognition enhancement | `anecdote-to-formal mismatch` | `raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md`, `raw/articles/pubmed-34551989-dihexa-2013-notice-of-concern.md`, and `raw/articles/pubmed-40312093-dihexa-hgf-cmet-retraction.md`; regulator / integrity sources | `weak` for human efficacy despite `moderate` frontier salience | Nootropic peptide stacks, route debates, synaptogenic/HGF-MET framing | low | FDA no-human-exposure visibility, no human cognition trial, no human PK/safety series, and integrity caveats keep the ceiling very low. |
+| HGF/MET mechanism makes Dihexa human-ready | `mechanism-to-human mismatch` | `raw/articles/pmc-12701236-fosgonimeton-lift-ad.md` and `raw/articles/clinicaltrials-nct04488419-fosgonimeton-lift-ad.md`; human comparator trial / registry | one large human comparator program; negative primary and key secondary endpoints | HGF/MET synaptic-rescue analogy | low | Fosgonimeton is not Dihexa, but its negative LIFT-AD readout prevents simple mechanism transfer into human cognition confidence. |
 
 ## Upcoming Status
 
-Dihexa currently looks `upcoming as a frontier idea`, not `upcoming as a formal program`. That is the right way to place it beside [[semax]], [[selank]], [[pinealon]], [[mots-c]], and [[pe-22-28]]. It is important because it keeps surviving as a serious candidate in community ranking and mechanism discussions, not because it has crossed any formal evidence threshold.
+Dihexa currently looks `upcoming as a frontier idea`, not `upcoming as a formal program`. That is the right way to place it below [[semax]], [[selank]], [[cerebrolysin]], recovery-bound [[bpc-157]], and [[bromantane]] in the anecdote-priority stack, and beside [[pinealon]], [[mots-c]], [[pe-22-28]], and [[adamax]] as a tracked but de-ranked frontier node. It is important because it keeps surviving as a serious candidate in community ranking and mechanism discussions, not because it has crossed any formal evidence threshold.
 
 ## Open Contradictions
 
@@ -88,5 +99,5 @@ Dihexa currently looks `upcoming as a frontier idea`, not `upcoming as a formal 
 
 - Keep [[dihexa]] marked as low-confidence and preclinical.
 - Route oral-versus-subq questions through [[oral-vs-subq-epithalon-pinealon-dihexa]].
-- Keep linking [[dihexa]] from [[peptide-neuroprotection]], [[nootropic-peptide-anecdote-frontier-2026-scan]], and [[neurocognitive-interventions-under-study]] as a high-salience speculative leaf, not a validated enhancer.
+- Keep linking [[dihexa]] from [[peptide-neuroprotection]], [[nootropic-peptide-anecdote-frontier-2026-scan]], [[peptide-stack-topology-ledger]], [[peptide-regulatory-live-watch-board]], [[peptide-safety-and-sourcing-risk-map]], [[synaptic-rescue-small-molecule-2026-scan]], and [[neurocognitive-interventions-under-study]] as a high-salience speculative leaf, not a validated enhancer.
 - Use this scan as the current answer whenever Dihexa is mentioned in the cognition backlog or in "upcoming peptide" sweeps.

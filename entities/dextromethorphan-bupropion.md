@@ -1,7 +1,7 @@
 ---
 title: Dextromethorphan / Bupropion
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, safety, dosage, clinical-trial, anecdote, mechanism, recovery, controversy]
 sources: [raw/articles/dailymed-2026-auvelity-dextromethorphan-bupropion-label.md, raw/articles/jcp-2022-axs05-gemini-phase3-mdd.md, raw/articles/reddit-2024-2026-ketamine-auvelity-cognition-brainfog-threads.md]
@@ -31,7 +31,7 @@ Safety signal: `high-priority`. AUVELITY combines bupropion's seizure, BP, activ
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | AUVELITY rapidly improves mental clarity, energy, mood, or memory | forum anecdote | raw/articles/reddit-2024-2026-ketamine-auvelity-cognition-brainfog-threads.md; Reddit /r/AuvelityMed and related forums | multiple visible 2024-2026 threads; `weak-moderate` | MDD, anhedonia, ADHD comorbidity, antidepressant switching | low | Mood relief, bupropion component, placebo/novelty, stimulant co-use, caffeine/alcohol, and depression trajectory confound |
 | AUVELITY worsens brain fog, dissociation, concentration, memory, or feeling drugged | forum adverse/counterreport | same raw note | multiple visible threads; `moderate` | early treatment, dose increase, twice-daily spacing, serotonergic co-meds, alcohol, ADHD meds | low | Adverse-report selection bias is high, but the pattern matches label dizziness/somnolence and dextromethorphan-like dissociation concerns |
@@ -42,6 +42,7 @@ Safety signal: `high-priority`. AUVELITY combines bupropion's seizure, BP, activ
 - Treat serotonergic stacks as a hard gate: SSRIs/SNRIs/TCAs, MAOIs, linezolid, IV [[methylene-blue]], serotonergic supplements, and cough-medicine duplication can change the risk picture.^[raw/articles/dailymed-2026-auvelity-dextromethorphan-bupropion-label.md]
 - Do not treat "diet ketamine" or "oral ketamine substitute" marketing language as evidence. The combination has its own pharmacology and label constraints.
 - Do not combine the [[bupropion]] entity's narrow attention-lapse signal with GEMINI's depression signal to manufacture a direct cognitive-efficacy claim for AUVELITY.
+- Route all mental-clarity or brain-fog anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when caffeine, ADHD stimulants, serotonergic antidepressants, MAO-B inhibitors, [[methylene-blue]], alcohol, cough medicines, sleep loss, seizure-threshold variables, or blood-pressure changes are present.
 
 ## Current Route
 

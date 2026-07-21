@@ -1,7 +1,7 @@
 ---
 title: Dasatinib + Quercetin
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, longevity, inflammation, metabolism, clinical-trial, preclinical, safety, dosage, anecdote, comparison, controversy]
 sources: [raw/articles/pubmed-40010154-senolytics-cognition-mobility-at-risk.md, raw/articles/pubmed-40274471-dasatinib-quercetin-phase1-mild-alzheimer-biomarkers.md, raw/articles/pubmed-35042834-dasatinib-quercetin-aged-rats-cognition.md, raw/articles/pubmed-37261678-dasatinib-quercetin-nonhuman-primates-aging-inflammation.md, raw/articles/dailymed-dasatinib-tablet-label.md, raw/articles/clinicaltrials-nct04785300-alsenlite-senolytics-alzheimers.md, raw/articles/clinicaltrials-nct05838560-dasatinib-quercetin-accelerated-aging-mental-disorders.md]
@@ -25,6 +25,7 @@ Preclinical signal: `supportive but not sufficient`. Aged male rats improved on 
 - Dasatinib label warnings include myelosuppression, bleeding, fluid retention, cardiovascular toxicity, pulmonary arterial hypertension, QT prolongation, severe dermatologic reactions, tumor lysis syndrome, and hepatotoxicity.^[raw/articles/dailymed-dasatinib-tablet-label.md]
 - Quercetin-alone cognition belongs on [[quercetin]]; D+Q senolytic interpretation should not be collapsed into ordinary dietary flavonol use.
 - Live clinical branches include tau-PET-positive MCI/AD and accelerated-aging mental-disorder protocols, but neither currently proves cognitive efficacy.^[raw/articles/clinicaltrials-nct04785300-alsenlite-senolytics-alzheimers.md]^[raw/articles/clinicaltrials-nct05838560-dasatinib-quercetin-accelerated-aging-mental-disorders.md]
+- Route D+Q reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating mood, mobility, inflammation, MoCA, or "anti-aging clarity" changes as cognition. Oncology-drug warnings, intermittent high-dose scheduling, infection/bleeding/QT/liver gates, interacting drugs, sex/hormone status, MCI/AD or accelerated-aging phenotype, biomarker direction, and practice effects are all first-order confounds.
 
 ## Anecdote Ledger
 
@@ -32,4 +33,4 @@ Preclinical signal: `supportive but not sufficient`. Aged male rats improved on 
 |---|---|---|---|---|---|---|
 | D+Q cognitive enhancement | anecdote | no structured cognition-specific self-experiment source captured | `absent-to-weak` | senolytic / longevity community framing | low | Longevity and supplement-stack enthusiasm should not be counted as objective cognition evidence |
 
-Related pages: [[senolytic-cognition-2026-scan]], [[quercetin]], [[fisetin]], [[rapamycin-sirolimus]], [[neuroinflammation-and-cognition]], [[clinical-recovery-vs-healthy-enhancement-translation-map]], and [[molecule-intake-triage-table]].
+Related pages: [[senolytic-cognition-2026-scan]], [[quercetin]], [[fisetin]], [[rapamycin-sirolimus]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[neuroinflammation-and-cognition]], [[clinical-recovery-vs-healthy-enhancement-translation-map]], and [[molecule-intake-triage-table]].

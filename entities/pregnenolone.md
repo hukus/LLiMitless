@@ -1,7 +1,7 @@
 ---
 title: Pregnenolone
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-24496044-pregnenolone-schizophrenia-cognition.md]
@@ -30,13 +30,15 @@ No pregnenolone-specific cognition anecdote raw note is currently indexed. Suppl
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Pregnenolone improves clarity, memory, or mood-linked cognition | anecdote | No dedicated cognition anecdote raw note located in the current wiki corpus | unknown; weak | neurosteroid / hormone precursor supplement discourse | low | Controlled cognition composite was neutral in the captured clinical-state trial |
 
 ## Safety And Status
 
 Pregnenolone should be interpreted through endocrine-state, psychiatric-state, and product-identity gates. Functional-capacity movement in schizophrenia does not justify generalized self-experiment cognition claims.
+
+Route pregnenolone anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] when mood, sleep, stress, libido, antipsychotic co-treatment, schizophrenia function, or hormone-balance narratives are being used as cognition proxies.
 
 ## Signal Judgment
 
@@ -51,5 +53,5 @@ Practical route: clinical-state research comparator; require direct cognition re
 - [[neurosteroid-and-endocrine-state-cognition-2026-scan]]
 - [[allopregnanolone]]
 - [[dhea]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[testosterone-trt]]
-

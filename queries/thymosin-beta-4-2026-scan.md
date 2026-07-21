@@ -1,7 +1,7 @@
 ---
 title: Thymosin Beta 4 2026 Scan
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
 tags: [cognition, performance, protocol, biomarker, safety, comparison, clinical-trial, preclinical, anecdote, controversy]
 sources: [raw/articles/pubmed-40816274-thymosin-beta4-ad-candidate.md, raw/articles/pubmed-34183019-thymosin-beta4-glial-polarization-cognitive-impairment.md, raw/articles/pubmed-36878045-thymosin-beta4-plaque-load-app-ps1-mice.md, raw/articles/pubmed-37175330-thymosin-beta4-hippocampal-neuronal-cells.md, raw/articles/pubmed-22324420-thymosin-beta4-tbi-rats.md, raw/articles/clinicaltrials-nct04555850-thymosin-beta4-healthy-volunteers.md, raw/articles/pubmed-41229390-thymosin-beta4-acute-mi-reperfusion.md, raw/articles/pmc-4445951-thymosin-beta4-dry-eye-phase2.md, raw/articles/pmc-9820614-rgn259-neurotrophic-keratopathy-phase3.md, raw/articles/fda-2026-pcac-tb500-bpc157-kpv-motsc-bulk-substances.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/wada-2026-prohibited-list-peptide-gh-axis-expanded.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md, raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md, raw/articles/reddit-2026-01-12-bpc157-tb500-three-months-mixed-thread.md]
@@ -80,11 +80,11 @@ For cognition, the strongest formal signal is still the 2025 AD organoid / 5xFAD
 
 ## Anecdote Ledger
 
-| Claim | Evidence layer | Source and source type | Signal size/strength | Confidence | Caveat |
-|---|---|---|---|---|---|
-| TB-500/BPC-157 speeds injury recovery | `anecdote` | Reddit torn-meniscus self-report with follow-up MRI screenshots | `strong` salience for recovery self-experimentation | low | stack-confounded, non-blinded, natural-history/rehab confounding, and not a cognition endpoint |
-| TB-500/BPC-157 recovery response is mixed | `anecdote` | Reddit three-month thread with positive, no-effect, placebo, and source-quality comments | `moderate-strong` mixed salience | low | identity confusion between TB-500 fragment, full thymosin beta-4, and mislabeled vendor products blocks molecule attribution |
-| TB-500 improves cognition | `anecdote` | Current captured threads | `absent-to-weak` | low | recovery, pain relief, fatigue, and training capacity may indirectly affect cognition, but objective cognitive claims were not the thread focus |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
+|---|---|---|---|---|---|---|
+| TB-500/BPC-157 speeds injury recovery | `anecdote` | Reddit torn-meniscus self-report with follow-up MRI screenshots | `strong` salience for recovery self-experimentation | injury-recovery stack with BPC-157 and self-tracked MRI follow-up | low | stack-confounded, non-blinded, natural-history/rehab confounding, and not a cognition endpoint |
+| TB-500/BPC-157 recovery response is mixed | `anecdote` | Reddit three-month thread with positive, no-effect, placebo, and source-quality comments | `moderate-strong` mixed salience | multi-month recovery self-experimentation and source-quality discussion | low | identity confusion between TB-500 fragment, full thymosin beta-4, and mislabeled vendor products blocks molecule attribution |
+| TB-500 improves cognition | `anecdote` | Current captured threads | `absent-to-weak` | recovery, pain, fatigue, and training-capacity context | low | recovery, pain relief, fatigue, and training capacity may indirectly affect cognition, but objective cognitive claims were not the thread focus |
 
 ## Open Contradictions
 
@@ -97,5 +97,5 @@ For cognition, the strongest formal signal is still the 2025 AD organoid / 5xFAD
 
 - Keep [[thymosin-beta-4]] as a low-confidence recovery/neurodegeneration entity rather than a cognitive enhancer.
 - Keep full-length thymosin beta-4, topical RGN-259, recombinant IV NL005, and TB-500/LKKTETQ fragment evidence separate.
-- Route TB-500/BPC-157 anecdotes through [[peptide-stack-topology-ledger]] and [[peptide-safety-and-sourcing-risk-map]] before using them for hypothesis generation.
+- Route TB-500/BPC-157 anecdotes through [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], [[peptide-stack-topology-ledger]], [[peptide-safety-and-sourcing-risk-map]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before using them for hypothesis generation.
 - Watch the July 23, 2026 FDA PCAC materials, votes, transcript, and final 503A status for TB-500.

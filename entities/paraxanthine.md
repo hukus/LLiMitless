@@ -1,7 +1,7 @@
 ---
 title: Paraxanthine
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, performance, clinical-trial, safety, dosage, anecdote, mechanism, controversy]
 sources: [raw/articles/pmc-8708375-paraxanthine-dose-response-cognition-rct.md, raw/articles/pmc-12777857-paraxanthine-postprandial-cognition-rct.md, raw/articles/pubmed-38725238-paraxanthine-exercise-cognition-caffeine-rct.md, raw/articles/frontiers-2023-paraxanthine-safety-caffeine-comparison.md, raw/articles/nutraingredients-2021-enfinity-paraxanthine-self-affirmed-gras.md, raw/articles/enfinity-2026-paraxanthine-product-visibility.md, raw/articles/rarebird-2026-paraxanthine-coffee-product-identity.md, raw/articles/reddit-2023-paraxanthine-experience-thread.md, raw/articles/reddit-2026-paraxanthine-supplements-experience-thread.md]
@@ -37,10 +37,10 @@ Anecdote signal: `weak-moderate for smoother caffeine-like energy, mixed for dos
 
 ## Anecdote Ledger
 
-| Claim | Anecdote type | Source | Reported effect | Direction | Confidence | Why it does or does not matter |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
-| 300 mg paraxanthine felt like caffeine-like wakefulness without the same jittery edge | caffeine-alternative self-report | raw/articles/reddit-2023-paraxanthine-experience-thread.md; Reddit /r/Nootropics | long-shift wakefulness, less jittery/strung-out than caffeine | positive | low | Sleep-deprivation, energy-drink formulation, and expectation confound |
-| 200 mg did little, while about 300 mg felt closer to caffeine with gentler crash | dose-finding self-report | raw/articles/reddit-2026-paraxanthine-supplements-experience-thread.md; Reddit /r/Supplements | no effect at 200 mg for one user; another needed about 300 mg for coffee-like effect | mixed | low | Recent and useful for dose/product gate, but no objective cognition and possible vendor participation |
+| Paraxanthine feels like caffeine-like wakefulness without the same jittery edge | `anecdote` | raw/articles/reddit-2023-paraxanthine-experience-thread.md; Reddit /r/Nootropics | one thread; `weak-moderate` | 300 mg, long-shift wakefulness, less jittery/strung-out than caffeine | low | Sleep-deprivation, energy-drink formulation, and expectation confound |
+| Paraxanthine dose response is mixed | `anecdote` | raw/articles/reddit-2026-paraxanthine-supplements-experience-thread.md; Reddit /r/Supplements | small thread; `weak-moderate` | no effect at 200 mg for one user; another needed about 300 mg for coffee-like effect | low | Recent and useful for dose/product gate, but no objective cognition and possible vendor participation |
 
 ## Identity Gates
 
@@ -54,7 +54,9 @@ Anecdote signal: `weak-moderate for smoother caffeine-like energy, mixed for dos
 
 Paraxanthine is the strongest candidate in the stimulant-adjacent watchlist for standalone tracking because it has direct human cognition trials rather than only lore. It still stays below [[caffeine]], [[modafinil]], [[methylphenidate]], and established state-restoration comparators because the evidence is small, short, product-linked, and not yet independently replicated at scale. The current route is `caffeine-adjacent comparator / short-term focus-energy candidate`, with safety and product identity carried beside the signal.
 
-Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[regulatory-and-sports-visibility-map]], [[caffeine]], [[theobromine]], [[theacrine]], [[methylliberine]], and [[biohacker-anecdote-methodology]].
+Route paraxanthine anecdotes and product claims through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating smoother energy, postprandial focus, exercise-fatigue recovery, or caffeine-replacement reports as direct cognition. The first gates are ENFINITY versus Rarebird versus generic label, total paraxanthine/caffeine dose, sleep debt, habitual caffeine state, BP/HR/anxiety response, CYP1A2/medication context, pregnancy/breastfeeding, and multi-stimulant co-use.
+
+Related pages: [[stimulant-adjacent-dopamine-precursor-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[pharmacology-comparator-map]], [[regulatory-and-sports-visibility-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[caffeine]], [[theobromine]], [[theacrine]], [[methylliberine]], and [[biohacker-anecdote-methodology]].
 
 ## Source Notes
 

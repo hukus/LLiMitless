@@ -1,7 +1,7 @@
 ---
 title: Sunifiram
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, preclinical, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pmc-6741768-sunifiram-unifiram-pharmacological-characterization.md, raw/articles/troof-nootropic-ratings-2022.md]
@@ -30,13 +30,13 @@ Sunifiram has potency lore in nootropic markets, but no dedicated current raw an
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Sunifiram is a potent cognitive enhancer | anecdote / market lore | No dedicated sunifiram anecdote raw note located in the current wiki corpus | unknown; moderate salience | high-potency nootropic self-experimentation | low | No human safety package, no clinical efficacy, product identity uncertainty, and dose-risk uncertainty |
 
 ## Safety And Status
 
-Sunifiram should be routed risk-first. Potency claims without human toxicology or clinical cognition evidence make it a poor candidate for practical ranking even if the preclinical signal is interesting.
+Sunifiram should be routed risk-first. Potency claims without human toxicology or clinical cognition evidence make it a poor candidate for practical ranking even if the preclinical signal is interesting. Route any sunifiram self-experiment report through [[safety-interaction-matrix-for-multi-modal-stacks]] and [[target-specificity-gate-for-plasticity-molecules]] before treating potency lore as a cognition signal.
 
 ## Signal Judgment
 
@@ -52,3 +52,4 @@ Practical route: preclinical AMPA-linked caution node.
 - [[racetam-comparison-2026-scan]]
 - [[ampakines-and-glutamatergic-plasticity-2026-scan]]
 - [[target-specificity-gate-for-plasticity-molecules]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

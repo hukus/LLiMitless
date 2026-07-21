@@ -1,7 +1,7 @@
 ---
 title: Samelisant
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-15
 type: entity
 tags: [domain-medicine, cognition, sleep, performance, clinical-trial, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-39504585-samelisant-results-narcolepsy.md, raw/articles/pubmed-41725284-samelisant-phase2-review.md, raw/articles/clinicaltrials-nct04072380-samelisant-narcolepsy.md]
@@ -32,13 +32,15 @@ No samelisant-specific cognition anecdote raw note is indexed. Anecdote signal i
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Samelisant improves cognition | anecdote | No dedicated anecdote raw note located in the current wiki corpus | unknown; absent-to-weak | investigational H3 wakefulness drug | low | Wakefulness improvement can masquerade as cognition unless endpoints separate arousal, memory, and executive function |
 
 ## Safety And Status
 
-Samelisant should stay in the investigational wakefulness lane. Its adverse-event pattern is activation/sleep-adjacent rather than cognition-specific, and insomnia or abnormal dreams can themselves affect next-day performance.
+Samelisant should stay in the investigational wakefulness lane. Its adverse-event pattern is activation/sleep-adjacent rather than cognition-specific, and insomnia or abnormal dreams can themselves affect next-day performance. Route H3 inverse-agonist anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating wakefulness or daytime-function gains as direct cognition.
+
+June 2026 wakefulness-state attribution gate: samelisant reports should not be upgraded into cognition evidence unless they separate narcolepsy or hypersomnia symptom relief from attention, memory, and executive-function endpoints. Capture diagnosis, baseline ESS/MWT or sleepiness severity, prior sleep, circadian timing, dose, treatment day, insomnia or abnormal-dream burden, HR/BP where available, co-use of orexin agonists, modafinil-class drugs, solriamfetol, pitolisant, stimulants, caffeine, nicotine, sedatives, or antidepressants, washout from other wake-promoters, and objective task results. Route any self-study or forum claim through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], and [[self-experimentation-stop-rules]] before comparing samelisant with [[oveporexton]], [[pitolisant]], [[modafinil]], [[solriamfetol]], or stimulant-adjacent nootropics.
 
 ## Signal Judgment
 
@@ -55,3 +57,6 @@ Practical route: H3 state-restoration comparator, not a healthy-adult enhancer.
 - [[pitolisant]]
 - [[oveporexton]]
 - [[cognitive-improvement-molecule-signal-atlas]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]

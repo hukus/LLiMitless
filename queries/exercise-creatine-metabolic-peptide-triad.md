@@ -1,10 +1,10 @@
 ---
 title: Exercise, Creatine, and Metabolic Peptide Triad
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [cognition, metabolism, performance, mechanism, clinical-trial, comparison, protocol, controversy, biomarker]
-sources: [raw/articles/pubmed-24098469-creatine-strength-training-older-women.md, raw/articles/pubmed-35713933-aerobic-exercise-cognition-older-adults.md, raw/articles/pubmed-41562376-agueda-resistance-exercise-cognition.md, raw/articles/pubmed-36841762-exercise-glp1-ra-metabolic-syndrome.md, raw/articles/pubmed-34351816-mdp-exercise-humans.md, raw/articles/pubmed-39569437-creatine-gaa-brain-oxygenation.md, raw/articles/pubmed-39070254-creatine-cognition-adults-meta-analysis.md, raw/articles/pubmed-38418482-creatine-sleep-deprivation-cognition.md, raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/pubmed-41503279-resistance-exercise-cognitive-function-older-adults-meta.md, raw/articles/pubmed-41062952-creatine-exercise-older-adults-meta.md, raw/articles/pubmed-41520850-mots-c-muscle-bioenergetics.md, raw/articles/pmc-12411631-mots-c-pancreatic-islet-senescence-diabetes.md, raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md]
+tags: [cognition, peptides, metabolism, performance, mechanism, clinical-trial, comparison, protocol, controversy, biomarker, safety, anecdote]
+sources: [raw/articles/pubmed-24098469-creatine-strength-training-older-women.md, raw/articles/pubmed-35713933-aerobic-exercise-cognition-older-adults.md, raw/articles/pubmed-41562376-agueda-resistance-exercise-cognition.md, raw/articles/pubmed-36841762-exercise-glp1-ra-metabolic-syndrome.md, raw/articles/pubmed-34351816-mdp-exercise-humans.md, raw/articles/pubmed-39569437-creatine-gaa-brain-oxygenation.md, raw/articles/pubmed-39070254-creatine-cognition-adults-meta-analysis.md, raw/articles/pubmed-38418482-creatine-sleep-deprivation-cognition.md, raw/articles/pubmed-41104525-glp1-ra-cognitive-function-t2dm-meta-analysis.md, raw/articles/pubmed-41218611-semaglutide-mdd-cognitive-dysfunction-rct.md, raw/articles/pubmed-38565814-exenatide-mci-proof-of-concept-negative.md, raw/articles/pubmed-41503279-resistance-exercise-cognitive-function-older-adults-meta.md, raw/articles/pubmed-41062952-creatine-exercise-older-adults-meta.md, raw/articles/pubmed-40854087-creatine-menopause-cognition-rct.md, raw/articles/pubmed-41520850-mots-c-muscle-bioenergetics.md, raw/articles/pmc-12411631-mots-c-pancreatic-islet-senescence-diabetes.md, raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md, raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md, raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md, raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md, raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md, raw/articles/reddit-2025-12-13-have-anyone-tried-mots-c-thread.md]
 confidence: low
 ---
 
@@ -13,6 +13,8 @@ confidence: low
 ## Summary
 
 I did not find a direct human cognition trial that combined exercise, creatine, and a metabolic peptide in one protocol. The current evidence is therefore triangulated from component parts: exercise alone now has a clearer selective cognition signal in older adults, creatine has context-sensitive memory and processing-speed effects plus a newer menopause RCT, and metabolic-peptide combinations with exercise currently improve physiology or biomarker readouts more clearly than cognition. The triad remains a plausible energy-plus-state hypothesis, but not an evidence-backed stack.^[raw/articles/pubmed-35713933-aerobic-exercise-cognition-older-adults.md]^[raw/articles/pubmed-41562376-agueda-resistance-exercise-cognition.md]^[raw/articles/pubmed-41503279-resistance-exercise-cognitive-function-older-adults-meta.md]^[raw/articles/pubmed-39070254-creatine-cognition-adults-meta-analysis.md]^[raw/articles/pubmed-38418482-creatine-sleep-deprivation-cognition.md]^[raw/articles/pubmed-40854087-creatine-menopause-cognition-rct.md]^[raw/articles/pubmed-41062952-creatine-exercise-older-adults-meta.md]^[raw/articles/pubmed-36841762-exercise-glp1-ra-metabolic-syndrome.md]^[raw/articles/pubmed-34351816-mdp-exercise-humans.md]^[raw/articles/pubmed-41520850-mots-c-muscle-bioenergetics.md]
+
+June 2026 peptide/nootropic update: the "metabolic peptide" slot should not be treated as a generic peptide booster. [[mots-c]] remains metabolism-first, exercise-responsive, and safety-gated rather than a direct nootropic. Recovery-bound [[bpc-157]] can belong near this page only when the hypothesis is injury repair, pain reduction, or training continuity; it should not be merged with creatine/exercise as a cognition enhancer. [[semax]], [[selank]], [[cerebrolysin]], and [[bromantane]] are stronger anecdote-priority monitoring nodes elsewhere, but they are not metabolic-triad components unless the protocol explicitly tests state restoration and uses the source/route/stack gates in [[30-day-self-study-template-for-nonprescription-interventions]]. De-ranked nodes such as [[dihexa]], [[pe-22-28]], [[adamax]], [[epithalon]], and [[pinealon]] should not be added to this triad without clean source/COA, route/formulation, washout, monotherapy, recovery-state, and objective endpoint logging.^[raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md]^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]^[raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md]^[raw/articles/reddit-2025-12-13-have-anyone-tried-mots-c-thread.md]
 
 ## What Changed Since 2024
 
@@ -24,6 +26,7 @@ I did not find a direct human cognition trial that combined exercise, creatine, 
 - Human exercise biology now includes a direct signal that acute endurance exercise increases circulating mitochondrial-derived peptides, including a trend for MOTS-c, which makes the mechanism more concrete even though cognition data are still absent.^[raw/articles/pubmed-34351816-mdp-exercise-humans.md]
 - MOTS-c itself picked up a 2026 muscle bioenergetics paper showing direct CK2 binding and AMPK-linked metabolic effects, which strengthens the exercise-metabolism bridge but still does not supply a human cognition endpoint.^[raw/articles/pubmed-41520850-mots-c-muscle-bioenergetics.md]
 - MOTS-c also now has a 2025 pancreatic-islet senescence / type 2 diabetes bridge and a recruiting 2026 Phase 2a metabolic trial, but those still test insulin sensitivity and safety, not cognition. A 2026 peptide-sports-medicine review keeps unapproved peptides in a scarce-human-safety gray-market lane.^[raw/articles/pmc-12411631-mots-c-pancreatic-islet-senescence-diabetes.md]^[raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md]^[raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md]
+- BPC-157 now deserves a separate recovery/training-continuity note near this triad because a registered hamstring-repair RCT and strong BPC-157/TB-500 injury anecdotes make it relevant to maintaining exercise exposure. That does not make it a direct cognition or metabolic-peptide component; route, source, rehab, natural healing, and co-peptide attribution remain dominant.^[raw/articles/clinicaltrials-nct07437547-bpc157-hamstring-repair-record-2026-05-06.md]^[raw/articles/reddit-2026-04-25-bpc157-tb500-meniscus-mri-thread.md]^[raw/articles/fda-bulk-drug-substances-peptide-risk-2026.md]
 
 ## Top Sources
 
@@ -48,6 +51,7 @@ I did not find a direct human cognition trial that combined exercise, creatine, 
 - Creatine alone has the stronger cognition story, including the menopause RCT and the broader adult meta-analysis, so any triad should not be modeled as "exercise does all the work."^[raw/articles/pubmed-40854087-creatine-menopause-cognition-rct.md]^[raw/articles/pubmed-39070254-creatine-cognition-adults-meta-analysis.md]
 - Exercise + GLP-1 RA: direct human combination trial exists, but the readout is metabolic/inflammatory rather than cognitive.
 - Exercise + MDP/MOTS-c: human biomarker response exists; newer MOTS-c metabolic/senescence and muscle-bioenergetics papers add stronger mechanism bridges, and the Phase 2a registry adds a human metabolic-trial foothold, but cognitive efficacy does not.
+- BPC-157 + exercise continuity: recovery-trial and anecdote layer only; use for injury-state hypothesis generation, not as a cognitive stack component.
 - Creatine + GAA: brain oxygenation proxy only.
 
 ## Effect Size Snapshot
@@ -67,12 +71,14 @@ I did not find a direct human cognition trial that combined exercise, creatine, 
 - Exercise is the lowest-risk component in the triad if programmed sensibly, but it can still confound cognition via sleep, fatigue, and adherence effects.
 - GLP-1 receptor agonists bring the usual GI and tolerability considerations; the combination trial’s main message was cardiometabolic benefit, not a new safety signal.
 - MDP/MOTS-c is not yet a human cognition therapy; the active trial monitors safety, but published administered-human safety outcomes are still absent and gray-market peptide safety remains a separate unresolved question.^[raw/articles/clinicaltrials-nct07505745-mots-c-prediabetes-record-2026-04-01.md]^[raw/articles/pubmed-41966639-peptide-therapies-sports-medicine-review.md]
+- Any peptide-containing version of this triad needs the provenance gates from [[molecule-triage-worksheet-for-online-scans]], [[delivery-validation-checklist-for-cognition-interventions]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]] before interpretation.
 
 ## Responder Phenotypes
 
 - Older adults with lower baseline reserve are the most plausible exercise responders.
 - Creatine appears most useful when demand is high, sleep is compressed, menopause symptoms are present, or baseline reserve is lower.
 - Insulin resistance or obesity may be the most plausible phenotype for exercise plus metabolic-peptide combinations, but that is still inferred from metabolic outcomes rather than proven cognition effects.
+- Injury, pain, or training interruption is the only plausible BPC-157-adjacent phenotype for this page, and even there the endpoint should be exercise continuity, sleep, pain, or rehabilitation throughput before cognition.
 - If a triad ever works, it probably works best as a state-management stack rather than a universal enhancer.
 
 ## Protocol Parameters
@@ -86,6 +92,7 @@ I did not find a direct human cognition trial that combined exercise, creatine, 
 - Exercise + liraglutide: 8-week weight-loss run-in, then 1 year of liraglutide 3.0 mg/day, exercise, or both.
 - Acute endurance exercise / MDP study: 45 min cycling at 70% estimated VO2max; resistance comparator used 4 sets × 7RM leg press and knee extension.
 - MOTS-c 2026: mechanistic muscle bioenergetics paper, not a human cognition protocol.
+- BPC-157 recovery-trial watch: hamstring strain RCT with return-to-sport and MRI lesion-volume endpoints, not cognition.
 - Creatine + GAA: 2 g creatine + 2 g GAA daily for 7 days.
 
 ## Open Contradictions
@@ -94,12 +101,15 @@ I did not find a direct human cognition trial that combined exercise, creatine, 
 - Creatine can improve domain-level outcomes without improving overall cognition, and adding strength training did not rescue cognition in older women.
 - GLP-1 combination evidence is metabolic, not cognitive, so the peptide piece is still an inferential bridge.
 - MOTS-c is now exercise-responsive in humans and mechanistically tighter in 2026, but cognition remains untested.
+- BPC-157 can plausibly protect exercise exposure in injury states, but that is still a recovery endpoint and should not be counted as direct cognitive enhancement.
 - The triad is biologically coherent, yet the current human evidence does not justify treating it as a validated cognitive stack.
 
 ## Actionable Wiki Updates
 
 - Keep [[creatine-cognitive-support]] linked to this page so the exercise-combination null stays visible.
 - Keep [[incretin-therapies-brain-health]] linked to this page so exercise-plus-peptide evidence stays separated from cognition claims.
-- Keep [[mots-c]] linked here because exercise-response biology is the cleanest MOTS-c bridge we have.
+- Keep [[mots-c]] linked here because exercise-response biology is the cleanest MOTS-c bridge we have, but route MOTS-c community reports through [[mots-c-2026-scan]], [[peptide-safety-and-sourcing-risk-map]], and [[peptide-regulatory-live-watch-board]].
+- Keep [[bpc-157]] linked as a recovery/training-continuity comparator, not as a direct metabolic nootropic.
+- Route any peptide-containing self-study version through [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], and [[self-experimentation-stop-rules]].
 - Update [[adjunctive-interventions-for-cognition]] if you want the combined metabolic stack to surface in the main comparison hub.
 - If a direct human triad trial appears, capture it in raw/ first and then replace this hypothesis page with the actual protocol and endpoint results.

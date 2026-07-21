@@ -1,9 +1,9 @@
 ---
 title: Integrated-Stress-Response Cognition 2026 Scan
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-06-15
 type: query
-tags: [cognition, neuroscience, mechanism, preclinical, clinical-trial, biomarker, safety, comparison, controversy, domain-medicine]
+tags: [cognition, neuroscience, mechanism, preclinical, clinical-trial, biomarker, safety, comparison, anecdote, controversy, domain-medicine]
 sources: [raw/articles/pubmed-41926581-dp71l-integrated-stress-response-cognition.md, raw/articles/nature-communications-2025-dnl343-eif2b-als.md, raw/articles/massgeneral-2025-dnl343-healey-als-topline.md, raw/articles/als-eu-2025-fosigotifator-healey-als-topline.md, raw/articles/nature-2025-plasticity-mammalian-integrated-stress-response.md, raw/articles/molecular-neurodegeneration-2025-integrated-stress-response-neurodegenerative-diseases.md, raw/articles/pubmed-41380823-isrib-vascular-cognitive-impairment-rat.md, raw/articles/reddit-2020-isrib-memory-enhancer-thread.md, raw/articles/reddit-2025-isrib-a15-limitless-thread.md]
 confidence: low
 contested: true
@@ -21,6 +21,8 @@ The integrated-stress-response branch is now a real cognition frontier, but not 
 [[fosigotifator-abbv-cls-7262]] adds a second clinical eIF2B-activation comparator. Its HEALEY Regimen F primary-dose analysis missed ALSFRS-R / survival and key secondary endpoints, though an exploratory high-dose arm showed nominal muscle-strength signals. This is still not cognition evidence.^[raw/articles/als-eu-2025-fosigotifator-healey-als-topline.md]
 
 The mechanism layer is also more complicated than the hype version. A 2025 Nature paper describes a split ISR caused by low eIF2B activity without canonical eIF2alpha phosphorylation, and a 2025 neurodegeneration review emphasizes that acute ISR can be protective while prolonged ISR can become harmful. That means "inhibit ISR" is not a simple pro-cognition rule.^[raw/articles/nature-2025-plasticity-mammalian-integrated-stress-response.md]^[raw/articles/molecular-neurodegeneration-2025-integrated-stress-response-neurodegenerative-diseases.md]
+
+June 2026 nootropic boundary: [[isrib]] and ISRIB-A15 anecdotes belong in the same attribution lane as other high-variance research-chemical nootropics, not in the peptide top-signal lane. Before comparing them with [[bromantane]], [[semax]], [[selank]], [[cerebrolysin]], or de-ranked peptide-frontier labels, require exact compound or analog identity, source/COA, route, solvent or vehicle, dose timing, stack order, washout, sleep disruption, mood activation, adverse events, and objective cognitive endpoints. Missing source, route, or washout fields keep the report below high-priority monitoring status.
 
 ## What Changed Since 2024
 
@@ -43,7 +45,7 @@ The mechanism layer is also more complicated than the hype version. A 2025 Natur
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | [[isrib]] / ISR inhibition as a cognition enhancer | anecdote | raw/articles/reddit-2020-isrib-memory-enhancer-thread.md; Reddit thread | high-salience mixed self-experiment reports; `moderate` | research-chemical ISRIB discussion | low | Route, DMSO/injection, product identity, sleep disruption, hypomania-like mood, and polypharmacy confounds dominate |
 | ISRIB-A15 analog claims | anecdote | raw/articles/reddit-2025-isrib-a15-limitless-thread.md; Reddit thread | single strong positive report; `weak-moderate` | analog use after brain-fog / apathy context | low | Analog identity, product quality, and expectancy prevent transport to ISRIB or DNL343 |
@@ -55,12 +57,13 @@ The mechanism layer is also more complicated than the hype version. A 2025 Natur
 - [[dnl343]] has human safety and pharmacodynamic data, but in ALS and healthy-participant pharmacology contexts, not in cognition trials; the HEALEY ALS functional readout was negative at 24 weeks.
 - [[fosigotifator-abbv-cls-7262]] adds another eIF2B clinical comparator, but its primary-dose HEALEY ALS endpoint was also negative.
 - [[isrib]] community use has high route and sourcing uncertainty, including analog confusion and reports of sleep and mood activation.
+- Route ISR self-experiment and pipeline extrapolation through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting any learning, motivation, or brain-fog report; the practical gates are route, solvent, analog identity, source/COA, sleep disruption, mood activation, disease state, stress timing, washout, adverse events, and whether target engagement transfers to behavior.
 - ISR inhibition is not uniformly good. The review layer stresses an acute protective versus prolonged harmful split, so timing and disease state likely determine direction.
 - PERK, PKR, GCN2, HRI, eIF2B, PPP1R15B, GADD34, and ATF4 sit close to core stress-adaptation and proteostasis biology. That raises the safety bar higher than for ordinary symptomatic nootropics.
 
 ## Current Verdict
 
-This is a high-priority frontier branch for disease-rescue and cognitive-aging research, but a low-confidence branch for practical cognitive enhancement. The wiki should rank it as `preclinical-only` for direct cognition until a human cognition endpoint is positive. [[dnl343]] can be treated as a human target-engagement anchor, but not as cognition-positive, and its ALS functional miss lowers confidence in easy biomarker-to-benefit translation. [[isrib]] has meaningful anecdotal salience, but those reports are safety- and sourcing-heavy and do not upgrade medicinal confidence.
+This is a high-priority frontier branch for disease-rescue and cognitive-aging research, but a low-confidence branch for practical cognitive enhancement. The wiki should rank it as `preclinical-only` for direct cognition until a human cognition endpoint is positive. [[dnl343]] can be treated as a human target-engagement anchor, but not as cognition-positive, and its ALS functional miss lowers confidence in easy biomarker-to-benefit translation. [[isrib]] has meaningful anecdotal salience, but those reports are safety-, route-, washout-, and sourcing-heavy and do not upgrade medicinal confidence or outrank the stronger peptide/nootropic monitoring nodes.
 
 ## Open Questions
 
@@ -70,4 +73,4 @@ This is a high-priority frontier branch for disease-rescue and cognitive-aging r
 - Can ISR biomarkers predict responders before cognitive endpoints are tested?
 - Will human trials measure cognition directly, or only motor, biomarker, or global disease endpoints?
 
-Related pages: [[isrib]], [[dp71l]], [[dnl343]], [[fosigotifator-abbv-cls-7262]], [[plasticity-budgeting-for-cognitive-enhancement]], [[failed-mechanism-atlas-for-cognition-interventions]], [[translational-gap-table]], [[target-specificity-gate-for-plasticity-molecules]], [[small-molecule-biomarker-behavior-failure-library]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[cognitive-improvement-molecule-signal-atlas]].
+Related pages: [[isrib]], [[dp71l]], [[dnl343]], [[fosigotifator-abbv-cls-7262]], [[plasticity-budgeting-for-cognitive-enhancement]], [[failed-mechanism-atlas-for-cognition-interventions]], [[translational-gap-table]], [[target-specificity-gate-for-plasticity-molecules]], [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[small-molecule-biomarker-behavior-failure-library]], [[negative-evidence-watchlist-for-cognition-interventions]], and [[cognitive-improvement-molecule-signal-atlas]].

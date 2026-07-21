@@ -1,9 +1,9 @@
 ---
 title: Racetam Comparison 2026 Scan
 created: 2026-04-30
-updated: 2026-05-03
+updated: 2026-06-15
 type: comparison
-tags: [comparison, cognition, clinical-trial, dosage, safety, controversy, timeline, mechanism, performance]
+tags: [comparison, cognition, clinical-trial, dosage, safety, controversy, timeline, mechanism, performance, anecdote]
 sources: [raw/articles/pubmed-3103163-aniracetam-senile-dementia-alzheimer-type.md, raw/articles/pubmed-2188276-aniracetam-chronic-psychosyndrome-organic-solvents.md, raw/articles/pubmed-1767242-aniracetam-vascular-mental-deterioration.md, raw/articles/karger-1991-aniracetam-multicentre-piracetam-study.md, raw/articles/pubmed-1822317-aniracetam-sdat-placebo-controlled-multicentre.md, raw/articles/pubmed-22070796-aniracetam-comparative-open-cognitive-impairment.md, raw/articles/pubmed-9062694-aniracetam-pharmacokinetics-elderly-cvd.md, raw/articles/pubmed-12596521-noopept-original-novel-nootropic-agent.md, raw/articles/pubmed-18697252-noopept-comparative-mild-moderate-cognitive-impairment.md, raw/articles/pubmed-19008801-noopept-mci-vascular.md, raw/articles/pubmed-19145351-noopept-rat-memory-blockade.md, raw/articles/pubmed-40047835-fonturacetam-asthenia-meta-analysis.md, raw/articles/pharmateca-624929-actitropil-reactive-asthenia-young-patients.md, raw/articles/rusmedreview-2023-actitropil-chronic-cerebral-ischemia.md, raw/articles/pubmed-10998997-bromantane-human-volunteers.md, raw/articles/pubmed-21322821-ladasten-asthenic-disorders-multicenter.md, raw/articles/pubmed-22834121-ladasten-neurasthenia-alpha-rhythm.md, raw/articles/pubmed-418433-prl-8-53-human-trial.md, raw/articles/pubchem-prl-8-53-identity.md, raw/articles/prl-8-53-braintropic-review.md, https://www.wada-ama.org/en/resources/2026-prohibited-list]
 confidence: medium
 contested: true
@@ -63,6 +63,8 @@ For [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]], and [[sunif
 - Bromantane: the healthy-volunteer paper did not show a dramatic subjective change in untired men, but the branch still needs sleep / tolerance caution because actoprotective arousal can be misread as cognition.
 - Noopept: human safety data are sparse; the biggest practical issue is product identity, salt/form, and route variability.
 - PRL-8-53: safety interpretation remains limited by the single-study evidence base and identity ambiguity.
+- For any racetam-adjacent anecdote involving stacks, route changes, stimulants, sleep loss, mood shifts, or repeated dosing, use [[safety-interaction-matrix-for-multi-modal-stacks]] before upgrading the report into molecule-specific cognition evidence.
+- June 2026 class attribution gate: racetam / Noopept / phenylpiracetam reports need exact molecule and label synonyms, source and COA or prescription/clinical status, route and formulation, dose/timing, acute versus repeated use, tolerance/cycling, fat or meal context where relevant, choline donor co-use, baseline disease/recovery/fatigue/sleep-loss/social-anxiety state, stimulant/caffeine/nicotine/wake-promoter/peptide/nootropic stack, WADA or hidden-ingredient status where relevant, adverse events, washout/dechallenge/rechallenge, and objective endpoint tier before they can change rankings. Route informal claims through [[molecule-triage-worksheet-for-online-scans]], [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]], [[30-day-self-study-template-for-nonprescription-interventions]], [[30-day-self-study-workbook-schema]], [[self-experimentation-stop-rules]], and [[safety-interaction-matrix-for-multi-modal-stacks]].
 
 ## Responder Phenotypes
 
@@ -93,7 +95,9 @@ For [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]], and [[sunif
 - Keep [[aniracetam]], [[phenylpiracetam]], [[bromantane]], and [[noopept]] split by phenotype instead of collapsing them into one racetam bucket.
 - Route [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]], and [[sunifiram]] through [[racetam-long-tail-watchlist]] even though standalone pages now exist; none of the five should be upgraded without modern human cognition, safety, or structured community evidence.
 - Route phenylpiracetam / fonturacetam and bromantane through the sports-visibility layer before any nootropic ranking.
+- Route Noopept, PRL-8-53, and racetam-adjacent self-experiments through [[safety-interaction-matrix-for-multi-modal-stacks]] when source identity, route, sleep, stimulant co-use, or tolerance variables are active.
 - Use [[molecule-intake-triage-table]] and [[regulatory-and-sports-visibility-map]] as the intake gate for future class-level updates.
+- Keep phenylpiracetam, aniracetam, and Noopept anecdotes in the attribution-gated monitoring lane unless product identity, stack order, washout, adverse-event, and objective-endpoint fields are unusually clean.
 - Keep PRL-8-53 as a formal control / curiosity node unless replication appears.
 - Use this page as the canonical class-level comparator until a genuinely new human trial changes the balance.
 
@@ -107,3 +111,5 @@ For [[piracetam]], [[oxiracetam]], [[fasoracetam]], [[coluracetam]], and [[sunif
 - [[molecule-intake-triage-table]]
 - [[anecdote-led-chemical-heat-map]]
 - [[regulatory-and-sports-visibility-map]]
+- [[molecule-triage-worksheet-for-online-scans]]
+- [[stack-attribution-diary-for-self-study-and-n-of-1-protocols]]

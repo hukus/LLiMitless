@@ -1,7 +1,7 @@
 ---
 title: Cistanche Tubulosa
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, traditional-medicine, herbal-medicine, ethnomedicine, clinical-trial, safety, dosage, mechanism, anecdote, comparison]
 sources: [raw/articles/frontiers-2026-cistanche-ginkgo-memory-rct.md, raw/articles/reddit-2022-cistanche-anecdotes-thread.md, raw/articles/reddit-2025-cistanche-brainfog-adverse-thread.md]
@@ -39,8 +39,10 @@ The practical interpretation is product-specific: do not generalize to generic C
 
 The formal RCT supports short-term tolerability for the tested Cistanche/Ginkgo product, not broad safety for all Cistanche products. Practical gates include product identity, adulteration/contamination testing, blood-pressure/autonomic symptoms, sleep effects, hormone-adjacent claims, and interaction with Ginkgo if using combination products.
 
+Route Cistanche / Rou Cong Rong reports through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating vitality, libido, sleep, blood-pressure/autonomic, brain-fog, or memory reports as direct cognition. The first gates are isolated Cistanche versus Cistanche-plus-Ginkgo product, echinacoside/acteoside marker profile, dose, sponsor/product identity, Ginkgo interaction layer, Tongkat Ali or hormone-stack co-use, sleep timing, and adverse dechallenge.
+
 ## Signal Judgment
 
 Cistanche is worth standalone coverage because it now has a healthy-adult memory trial and real community salience. It should be ranked below cleaner standardized single-extract candidates until isolated Cistanche products replicate the effect and adverse-autonomic anecdotes are better characterized.
 
-Related pages: [[standardized-herbal-extracts-for-cognition]], [[traditional-medicine-cognition-2026-scan]], [[plant-active-substance-product-watchlist]], [[ginkgo]], [[ginseng]], [[polygala-bt11]], [[shilajit]], and [[botanical-standardization-gate]].
+Related pages: [[standardized-herbal-extracts-for-cognition]], [[traditional-medicine-cognition-2026-scan]], [[plant-active-substance-product-watchlist]], [[ginkgo]], [[ginseng]], [[polygala-bt11]], [[shilajit]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[botanical-standardization-gate]].

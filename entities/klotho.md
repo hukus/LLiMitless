@@ -1,7 +1,7 @@
 ---
 title: Klotho
 created: 2026-04-27
-updated: 2026-05-04
+updated: 2026-06-12
 type: entity
 tags: [longevity, cognition, biomarker, mechanism, performance, safety, clinical-trial, anecdote, controversy]
 sources: [raw/articles/pmc-4176932-klotho-cognition-enhancement.md, raw/articles/pubmed-28539162-klotho-dementia-older-men.md, raw/articles/pubmed-29768278-klotho-vascular-dementia-memory-clinic.md, raw/articles/pmc-9932504-klotho-cognitive-performance-us-adults.md, raw/articles/nature-s41398-023-02632-x-klotho-cognition-dementia-mr.md, raw/articles/pubmed-40048920-klotho-cognition-meta-analysis.md, raw/articles/pubmed-41983942-klotho-neuroprotective-roles-review.md, raw/articles/pubmed-37400721-klotho-nonhuman-primates-cognition.md, raw/articles/pubmed-41163083-klotho-vs-cognitive-performance-ad.md, raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy.md, raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md, raw/articles/minicircle-2026-klotho-gene-therapy-marketing-page.md, raw/articles/reddit-2025-03-07-klotho-follistatin-gene-therapy-interest-thread.md]
@@ -40,10 +40,10 @@ The current pattern looks more like a state or resilience marker than a standalo
 
 ## Intervention Status
 
-There is no established human Klotho cognition trial with published outcomes. The 2026 Klotho + follistatin plasmid study is the clearest active intervention lead, but it is exploratory, open-label, small, non-placebo-controlled, and not evidence of efficacy.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy.md]^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md]
+There is no established human Klotho cognition trial with published outcomes. The 2026 Klotho + follistatin plasmid study is the clearest active intervention lead, but it is exploratory, open-label, small, non-placebo-controlled, and not evidence of efficacy.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy.md]^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md] Route any outcome claim through [[safety-interaction-matrix-for-multi-modal-stacks]] before treating it as cognition-specific.
 
 The registry's cognitive readouts are specific enough to matter later: pattern-comparison processing speed, picture sequence memory, flanker inhibitory control and attention, dimensional change card sort, picture vocabulary, and quality-of-life measures are listed, which makes this more than a vague wellness claim even though it is still uncontrolled.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md]
-The registry's primary outcomes are serum alpha-Klotho, serum follistatin, and treatment-emergent adverse events. The intervention combines Klotho and follistatin and the registry states that treatment occurs outside the United States at a site not under FDA jurisdiction, so this branch needs a safety/regulatory frame before any efficacy interpretation.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md]
+The registry's primary outcomes are serum alpha-Klotho, serum follistatin, and treatment-emergent adverse events. The intervention combines Klotho and follistatin and the registry states that treatment occurs outside the United States at a site not under FDA jurisdiction, so this branch needs a safety/regulatory frame before any efficacy interpretation.^[raw/articles/clinicaltrials-nct07285629-klotho-follistatin-gene-therapy-record-2026-05-04.md] Main gates are vector/delivery durability, immune response, off-target or durable expression, renal/mineral metabolism, FGF23/phosphate/calcium biology, assay/isoform specificity, private-clinic/vendor claims, and combination attribution.
 The newer AD/aMCI paper does not change that intervention status, but it does suggest that genotype may be a better hypothesis handle than circulating protein when Klotho is used as a cognitive-resilience marker.^[raw/articles/pubmed-41163083-klotho-vs-cognitive-performance-ad.md]
 
 ## Anecdote And Market Signal
@@ -57,5 +57,6 @@ For the atlas, score Klotho anecdotes as `weak prospective salience` and direct 
 - [[biomarker-enriched-enrollment-and-cognition-effect-sizes]]
 - [[healthy-adult-cognition-signals]]
 - [[negative-evidence-watchlist-for-cognition-interventions]]
+- [[safety-interaction-matrix-for-multi-modal-stacks]]
 - [[incretin-therapies-brain-health]]
 - [[cognitive-improvement-molecule-signal-atlas]]

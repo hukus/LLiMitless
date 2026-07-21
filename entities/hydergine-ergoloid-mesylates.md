@@ -1,7 +1,7 @@
 ---
 title: Hydergine / Ergoloid Mesylates
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, clinical-trial, safety, dosage, mechanism, anecdote, controversy]
 sources: [raw/articles/pubchem-2026-ergoloid-mesylates-identity.md, raw/articles/dailymed-2014-ergoloid-mesylates-label.md, raw/articles/medlineplus-2026-ergoloid-mesylates-discontinued.md, raw/articles/pubmed-11405961-hydergine-dementia-cochrane.md, raw/articles/pubmed-2680286-hydergine-multi-infarct-dementia-rct.md, raw/articles/reddit-2019-hydergine-nicergoline-thread.md, raw/articles/reddit-2025-ergoloid-mesylates-methylphenidate-crash-thread.md]
@@ -38,7 +38,7 @@ DailyMed contraindicates ergoloid mesylates in hypersensitivity and acute or chr
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Hydergine and nicergoline remain historically interesting smart drugs | `anecdote` | raw/articles/reddit-2019-hydergine-nicergoline-thread.md; Reddit /r/Nootropics | one sparse thread; `weak-moderate` | ergot/vasoactive smart-drug history | low | Mostly sourcing and historical interest |
 | Ergoloid mesylates may smooth methylphenidate crash | `anecdote` | raw/articles/reddit-2025-ergoloid-mesylates-methylphenidate-crash-thread.md; Reddit /r/Nootropics | one detailed self-report; `moderate` salience | ADHD medication crash, methylphenidate stack | low | Single-user, stack-confounded, and reported dose exceeds label dose |
@@ -47,4 +47,6 @@ DailyMed contraindicates ergoloid mesylates in hypersensitivity and acute or chr
 
 Hydergine deserves a standalone page because it is a historically important nootropic and dementia-drug name with a real Cochrane-era evidence packet. It does not deserve a recommendation upgrade: the formal evidence is old clinical-state work, the label itself is cautious about mechanism and predictors, and modern anecdotes are sparse or stack-bound.
 
-Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], nicergoline, [[racetam-long-tail-watchlist]], [[citicoline]], [[huperzine-a]], and [[pharmacology-comparator-map]].
+Use [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting Hydergine anecdotes, especially when methylphenidate crash, ergot pharmacology, psychosis contraindication, discontinued-U.S. status, dose drift, or old smart-drug nostalgia shapes the report.
+
+Related pages: [[legacy-vasoactive-racetam-nootropic-watchlist]], [[cognitive-improvement-molecule-signal-atlas]], [[nicergoline]], [[racetam-long-tail-watchlist]], [[safety-interaction-matrix-for-multi-modal-stacks]], [[citicoline]], [[huperzine-a]], and [[pharmacology-comparator-map]].

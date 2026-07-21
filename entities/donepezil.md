@@ -1,7 +1,7 @@
 ---
 title: Donepezil
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, neuroscience, clinical-trial, biomarker, mechanism, safety, anecdote, controversy]
 sources: [raw/articles/pubmed-12105320-donepezil-flight-simulator.md, raw/articles/pubmed-19725251-donepezil-sleep-deprivation-vulnerable.md, raw/articles/pubmed-22161694-donepezil-sleep-deprivation-null.md, raw/articles/pubmed-21262858-donepezil-healthy-young-executive.md, raw/articles/pmc-3169575-donepezil-healthy-older-memory-impairment.md, raw/articles/pubmed-18818443-donepezil-cognitive-training-older-adults-null.md, raw/articles/pubmed-15326237-donepezil-mci-24week-primary-null.md, raw/articles/pubmed-19176895-donepezil-mci-48week-primary-null.md, raw/articles/pubmed-31264943-donepezil-fragile-x-biomarker-null.md, raw/articles/dailymed-2026-donepezil-label.md, raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md]
@@ -32,7 +32,7 @@ Community signal is `weak`. Reddit threads show occasional memory-recall enthusi
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | Donepezil improves memory recall | anecdote | raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md; Reddit /r/Nootropics | several small threads; `weak` | 2.5-5 mg donepezil / Aricept, huperzine comparison, studying / memory | low | Sparse reports, prescription access, expectation, sleep effects, and cholinergic stacking confound attribution |
 | Donepezil causes insomnia or no obvious memory benefit | adverse anecdote | raw/articles/reddit-2021-2026-donepezil-memory-nootropic-threads.md; Reddit /r/Nootropics | small mixed thread; `weak` | 5 mg donepezil | low | Single-user reports, short follow-up, and no objective testing |
@@ -40,6 +40,8 @@ Community signal is `weak`. Reddit threads show occasional memory-recall enthusi
 ## Safety And Status
 
 DailyMed frames donepezil as a prescription dementia drug. Key off-label gates include bradycardia / heart block, syncope, nausea, diarrhea, vomiting, GI bleeding / ulcer monitoring, weight loss at higher dose, bladder-outflow concerns, seizure potential, pulmonary caution, insomnia, fatigue, muscle cramps, anesthesia interaction, and conflicts with anticholinergic or other cholinergic drugs.^[raw/articles/dailymed-2026-donepezil-label.md]
+
+Route donepezil anecdotes through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting memory or study claims. The key gates are sleep/vivid dreams, bradycardia/syncope, GI burden, choline donor or huperzine co-use, anticholinergics, nicotine, practice effects, sleep-deprivation vulnerability, and prescription indication context.
 
 ## Signal Judgment
 
@@ -58,4 +60,4 @@ Practical route: prescription-only cholinergic comparator. Treat as state / phen
 - [[rivastigmine]]
 - [[huperzine-a]]
 - [[parameterized-null-evidence-library]]
-
+- [[safety-interaction-matrix-for-multi-modal-stacks]]

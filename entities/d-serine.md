@@ -1,7 +1,7 @@
 ---
 title: D-Serine
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-12
 type: entity
 tags: [domain-medicine, cognition, mechanism, clinical-trial, safety, dosage, anecdote, comparison, controversy]
 sources: [raw/articles/pubmed-22795211-d-serine-schizophrenia-rct.md]
@@ -32,8 +32,10 @@ D-serine belongs in [[nmda-coagonist-glyt1-daao-cognition-2026-scan]] as a negat
 
 ## Anecdote Ledger
 
-| Claim or candidate | Evidence layer | Source and source type | Signal size/strength | Context | Confidence | Caveat |
+| Claim or candidate | Evidence layer | Source and source type | Signal size / strength | Context | Confidence | Caveat |
 |---|---|---|---|---|---|---|
 | D-serine cognitive enhancement | `anecdote` | no structured anecdotal source captured | `absent` | nootropic / self-experimenter evidence | low | Mechanistic plausibility is not anecdotal evidence |
 
-Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[sarcosine]], [[sodium-benzoate]], [[luvadaxistat]], [[iclepertin]], [[pharmacology-comparator-map]], and [[negative-evidence-watchlist-for-cognition-interventions]].
+Safety route: if d-serine appears in a nootropic stack, send it through [[safety-interaction-matrix-for-multi-modal-stacks]] before interpreting any learning, verbal, or mood report. The main confounds are NMDA co-agonist stacking with [[sarcosine]], [[glycine]], or [[sodium-benzoate]], psychiatric baseline, dose, sleep, stimulant co-use, product identity, and the lack of a captured structured anecdote packet.
+
+Related pages: [[nmda-coagonist-glyt1-daao-cognition-2026-scan]], [[sarcosine]], [[sodium-benzoate]], [[luvadaxistat]], [[iclepertin]], [[pharmacology-comparator-map]], [[safety-interaction-matrix-for-multi-modal-stacks]], and [[negative-evidence-watchlist-for-cognition-interventions]].
