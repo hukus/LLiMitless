@@ -290,7 +290,7 @@ Useful entry points: [[OUTCOME]], [[medicine-cognition-summary]], [[cognition-in
 - [[schisandra-chinensis]] — wu wei zi / Schisandra adaptogen branch with ADAPT-232 formula-limited cognition signal, weak brain-fog anecdotes, and CYP/P-gp interaction gates.
 - [[pf-04447943]] — Pfizer PDE9A inhibitor with a negative AD phase II result and tolerability caveats.
 - [[pe-22-28]] — shortened spadin / mini-spadin TREK-1 peptide with real preclinical mood/anhedonia logic, rising peptide-frontier curiosity, no human validation, and strict identity/source/route/endpoint gates.
-- [[p021-p21]] — CNTF-derived neurotrophic peptide mimetic with repeated but concentrated rodent cognition/AD-model signals, a 2024 in-vivo counter-signal, a 2026 mouse MRI extension, and no verified human trial or safety packet.
+- [[p021-p21]] — CNTF-derived neurotrophic peptide mimetic with concentrated rodent cognition/AD-model signals and mixed weak-to-moderate gray-market anecdotes (clarity/calm versus null, fatigue, tingling, and burning), but no identity-verified human exposure, trial, or safety packet.
 - [[pentoxifylline]] — vascular methylxanthine/PDE drug with RECLAIM long-COVID relevance, rationale-level anti-inflammatory evidence, and weak stack-confounded brain-fog anecdote.
 - [[pemoline]] — withdrawn oxazolidine CNS stimulant / CYLERT comparator where liver-failure warnings and approval withdrawal dominate any attention-use analogy.
 - [[peppermint-essential-oil]] — acute encapsulated Mentha piperita essential-oil branch with small cognitive-demand/fatigue evidence and strict route/safety gates.

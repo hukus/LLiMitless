@@ -3874,3 +3874,17 @@
 - Full structural lint completed with 0 errors, 1 warning, and 823 informational confidence/contestation notices.
 - The only warning is the pre-existing `log.md` rotation threshold; rotation was not attempted because it is outside this single-entity addition.
 - [[p021-p21]] passed frontmatter, taxonomy, index, outbound-link, inbound-link, page-size, source-hash, and broken-link checks. Its BBB-evidence tension and development-plan versus live-registry boundary are preserved explicitly rather than silently resolved.
+
+## [2026-07-21] entity | P021 (P21) human-use anecdote layer added
+
+- Updated `entities/p021-p21.md` and `index.md` with a structured Anecdote Ledger and a mixed `weak-to-moderate salience / very low attribution` synthesis; the new material does not upgrade P021's low-confidence, preclinical evidence rank.
+- Captured direct Reddit reports in `raw/articles/reddit-2024-p21-nasal-clarity-recall-calm.md`, `raw/articles/reddit-2021-p21-semax-fatigue-cannabis-response.md`, `raw/articles/reddit-2023-p21-mixed-effects-sourcing.md`, `raw/articles/reddit-2024-p21-psychiatric-recovery-stack.md`, and `raw/articles/reddit-2023-p21-route-mood-tolerance.md`.
+- Captured the multi-user LongeCity thread in `raw/articles/longecity-2013-2017-p21-human-use-thread.md` and retained the explicitly promotional, combination-confounded thread separately in `raw/articles/longecity-2017-p21-combination-promotional-thread.md` so it cannot be mistaken for clean P21 evidence.
+- The recurring desired-effect cluster is clarity, calm, focus, recall, mood, and sleep; counter-signals include null or waning effects, fatigue or sleepiness, tingling, an intensely burning injection, and an interaction-like cannabis report. Every source remains identity-unverified and lacks an objective endpoint or denominator.
+- Updated files in this operation: `entities/p021-p21.md`, `index.md`, `log.md`, and the seven new raw captures listed above.
+
+## [2026-07-21] lint | P021 anecdote update verified
+
+- Full structural lint completed with 0 errors, 1 warning, and 823 informational confidence/contestation notices after the P021 anecdote update.
+- All seven new raw-source body hashes passed, and [[p021-p21]] passed frontmatter, taxonomy, index, links, page-size, and source checks.
+- The only warning is the pre-existing `log.md` rotation threshold; rotation remains outside this focused update.
